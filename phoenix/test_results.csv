@@ -1,0 +1,5 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJewgZWvFxK4cRtC35LR5HsEo,Tavern on the Creek,33.6284063,-112.0301538,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,497
+ChIJfyLRE2psK4cRVfvbOAcNb3c,Barnes & Noble,33.580631,-112.121527,Social Business,bookstore,book_store; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,2168
+ChIJgTOM-odxK4cRw41Eo8a84Qs,Country Boys Restaurant,33.6269278,-112.0117667,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,1031
+ChIJgTOM-odxK4cRxLZphsu38i8,McDonald's,33.6268434,-112.0127767,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,1240

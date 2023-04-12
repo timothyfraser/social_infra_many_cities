@@ -1,0 +1,12 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ__mlV3qz2IcR6yn37ku2aGw,Lafayette Square Bath and Tennis Club,38.6184005,-90.21700279999999,Park,square,point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ8XYSBn6z2IcRyO6B35lpA68,Eads Square Apartments,38.6157533,-90.22327109999999,Park,square,point_of_interest; establishment,OPERATIONAL,4.2,40,NA
+ChIJcaMrwkqz2IcRFEja2iZK2aQ,Unity Community Center,38.651872,-90.2071137,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJE-QAkn612IcRxlvc2WQ3q7M,New Square parking lot,38.6346188,-90.24672149999999,Park,square,parking; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJfRhcC-K12IcR0nplsoumoMU,Arber Cafe,38.5690164,-90.2866232,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,45,NA
+ChIJMW2kzDez2IcRNCQxJWi7WfM,Carr central neighborhood center,38.6388132,-90.20023809999999,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,3.7,7,NA
+ChIJMys-lQa22IcR_ACW0KbV-uM,McDonald's,38.5656645,-90.29255789999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3,1341,NA
+ChIJS2AZmRiz2IcRQQeTX0ZAAH0,Hack4Hope,38.6314202,-90.19299149999999,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJuXKWa1qz2IcRXomk-2ADbhg,Gamble Center soccer,38.6414423,-90.2179075,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.2,25,TRUE
+ChIJV6DBiXS12IcRAfrod3hQmbA,Steelcote Square,38.6268198,-90.23285779999999,Park,square,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJzSViw32z2IcR-bz_SGAZ8qo,Eads Square Park,38.6168206,-90.2230069,Park,square,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,11,NA

@@ -1,0 +1,984 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ_____9ptAHwRdfX9G_eUY2M,Fountains-The Living Water,21.3136151,-157.8480364,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_____9ptAHwRW4LIf4u9EAA,Mauka-Makai Ministries,21.3175493,-157.8152491,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJ____EJxuAHwRzpKk7hHnL-E,Light Of The World Worship Center,21.3432433,-157.8957317,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJ____z3sTAHwRTTnCUQNa30Y,Joyful Community Church,21.3281831,-157.6950925,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ___Pz55tAHwRQqbn1YE82RQ,The East-West Center,21.2969831,-157.8146437,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ__2MivVtAHwRKe66DQJ_4ow,Waikiki Beach Church,21.2811875,-157.8374375,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,24,NA
+ChIJ__8_ap9tAHwRLaKZB-Is5pM,East-West Center Japanese Garden,21.2994338,-157.8137916,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,148,NA
+ChIJ__87c3ttAHwRtmscK66I6ZE,Kaimuki Cafe,21.2829398,-157.7998569,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,37,NA
+ChIJ_2bzIuttAHwRhKJdAc1l0Jo,Kapiolani Medical Center Library,21.2999876,-157.8335849,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ_83SYu1uAHwRMZ_H7JJfgB0,Fern Community Park,21.339631,-157.8808929,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,32,NA
+ChIJ_azrAZhtAHwR_0e73H6wUcc,International Baptist Centre,21.3011298,-157.821249,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_bxInwpuAHwR1PcOWpFKtKs,Mayor's Complaint Office,21.3051851,-157.8571192,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_bxInwpuAHwRbgWtw9MiiHM,Honolulu Corporation Counsel,21.3051851,-157.8571192,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_bxInwpuAHwRG7uBiq93iqA,Honolulu Budget & Fiscal Services,21.3051855,-157.8571196,Community Space,city hall,accounting; local_government_office; finance; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJ_bxInwpuAHwRVES6xmQeCH4,Honolulu City Council,21.3051851,-157.8571192,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJ_dNb6xJtAHwRoH_9m4jrA1A,Pālolo Valley District Park,21.2996698,-157.7955025,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,177,NA
+ChIJ_STtnkYTAHwRL0TOzyRF8dI,"Olomana Gardens in Waimanalo, Hawaii",21.3410178,-157.7455391,Park,garden,general_contractor; park; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJ_TC1iYoSAHwR8lyjFnOw9b8,Hawaiʻi Kai Dog Park,21.2840333,-157.7147951,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,121,NA
+ChIJ_wTjj3RuAHwRcz6ZUWAps7s,Honolulu City Hall,21.305114,-157.8572734,Community Space,city hall,city_hall; tourist_attraction; local_government_office; point_of_interest; establishment,OPERATIONAL,4.5,115,NA
+ChIJ_zEdyWhuAHwRUvI1KG_s9v4,Eagle Cafe,21.3195003,-157.8761362,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.9,366,NA
+ChIJ_zEdyWhuAHwRZHocmadmPfc,Siam Garden Cafe,21.3188889,-157.8758333,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,358,NA
+ChIJ_zUaqnVuAHwR2bvGwxrXpWw,Pauline Books & Media,21.309618,-157.8596149,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,53,NA
+ChIJ_zUHbdwTAHwRW-l0DaHcewQ,Kaupō Beach Park,21.3216789,-157.6734878,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,86,NA
+ChIJ---w6nRuAHwRna69rRvWHZ4,Bishop Square,21.3086935,-157.8605886,Park,square,point_of_interest; establishment,OPERATIONAL,4.3,160,NA
+ChIJ-3QX9F1tAHwRK0E4C8HcWCs,Tropic Gardens,21.2813579,-157.7850914,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-3SDtH1yAHwRvvdjU2edvks,Hawaii Church For the Deaf,21.2729504,-157.814577,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-5Ku0odtAHwRj4Q1upEtIxM,Date Street Mini Park,21.2879926,-157.8237751,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.3,6,NA
+ChIJ-73dwOBtAHwRHO0FnAfRimQ,Olena Cafe,21.2913799,-157.8391123,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,90,NA
+ChIJ-961AKhtAHwRwYuy3pFtTnM,Mari’s Urban Garden,21.3009458,-157.8552087,Park,garden,point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJ-c-GjbBvAHwRPjIS5wIFz9A,Milky Way Shave Ice,21.3340216,-157.8794626,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJ-TREpAltAHwRdiOa1ZfmejA,Daily Whisk Matcha,21.2822359,-157.8008243,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJ-y9SL2BuAHwRUsT1hlBbZE0,Pentecostal Missionary Church Of Christ (4th Watch),21.3315804,-157.8784951,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ0_GV_YVuAHwR_42KS9LelV8,Infinitea Cafe,21.3355358,-157.8681654,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,43,NA
+ChIJ0_uBivBtAHwRKHt3aXXlJc0,Island Brew Coffeehouse,21.2917685,-157.8458799,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,294,NA
+ChIJ0_uBivBtAHwRKHt3aXXlJc0,Island Brew Coffeehouse,21.2917685,-157.8458799,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,294,NA
+ChIJ00-IzeltAHwRixFev3uUang,Piʻikoi Mini Park,21.3035883,-157.8418328,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ01iajk5tAHwRIa_SJhMIaws,Mission Memorial Building,21.304512,-157.8564116,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ03f0A9pvAHwRLo2atUhwq0o,Kuhio Park Playground,21.3378449,-157.8770439,Park,park,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ0a78sQwTAHwRBMhDlVBt2L8,Cocolani Gardens,21.3322392,-157.7206378,Park,garden,florist; point_of_interest; store; establishment,OPERATIONAL,5,31,NA
+ChIJ0ejbWXZyAHwRm719cMspLnA,Rock Island Cafe,21.2865775,-157.8337385,Social Business,cafe,store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,462,NA
+ChIJ0eP0OoNtAHwRvoI93Xh8UN0,Island Gourmet Coffee,21.2821594,-157.8298494,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.1,9,NA
+ChIJ0Wk9vNJtAHwRHJ-KbiRtT0s,Community Church of Honolulu,21.3265953,-157.8463361,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,13,NA
+ChIJ0XEPAGptAHwRz0xIOZCQrkw,Hale Ho'onani Fellowship,21.3035585,-157.788324,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0yCpQQ9sAHwRTLcBNEBKsQ4,Central Samoan Assembly God,21.365377,-157.8442084,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJ0YOLDKltAHwRhLnahzNQLgE,oahu christian fellowship,21.315817,-157.8127818,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0YOLDKltAHwRJRN4VpOC_GA,ワイオリ教会,21.315635,-157.8127217,Place of Worship,place of worship,place_of_worship; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,16,NA
+ChIJ0YotHOdtAHwRVgIzAveq_Cs,Thomas Square,21.3026278,-157.8491371,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,266,NA
+ChIJ0YotHOdtAHwRVgIzAveq_Cs,Thomas Square,21.3026278,-157.8491371,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,3.9,266,NA
+ChIJ0YotHOdtAHwRVgIzAveq_Cs,Thomas Square,21.3026278,-157.8491371,Park,square,park; point_of_interest; establishment,OPERATIONAL,3.9,266,NA
+ChIJ0Z1nDCxsAHwRMGN0ioFCsmk,Jael Presbyterian Church,21.3326064,-157.8504205,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0zFPvlxvAHwR8UxAzrK_LEA,Radford Terrace Dog Park,21.3410469,-157.9024464,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,7,NA
+ChIJ1_kopsVvAHwRpwpdGxXSSXw,Conversations Café Liliha,21.3235121,-157.8573389,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,36,NA
+ChIJ1_kopsVvAHwRpwpdGxXSSXw,Conversations Café Liliha,21.3235121,-157.8573389,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.8,36,NA
+ChIJ15zQvhFuAHwR6kRtL_n4Dvs,Sand Island SRA Park,21.3009066,-157.8706099,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,110,NA
+ChIJ169Y-W9yAHwR0hctkStyPSg,Barefoot Beach Cafe @ Queen's Surf Beach,21.2679099,-157.82247,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,2248,NA
+ChIJ17B2kQ4FAHwRnHQmawY5t1k,Coca-Cola Vending,21.3430485,-157.8986268,Park,fountain,point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ18KBROBtAHwRWZq4jEEASQY,Frank F. Fasi Civic Grounds,21.3043263,-157.8549006,Community Space,city hall,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,72,NA
+ChIJ18KBROBtAHwRWZq4jEEASQY,Frank F. Fasi Civic Grounds,21.3043263,-157.8549006,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,72,NA
+ChIJ1dqkCl5vAHwRDYei27iYP9o,C. B. Lansing Memorial Garden,21.3325234,-157.9239964,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ1QWVnJBtAHwRBMqD9K9Yd94,Church of the Crossroads,21.2938441,-157.8215018,Place of Worship,place of worship,tourist_attraction; church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,36,NA
+ChIJ1RX0FShvAHwRvGogblLeaVM,Hana Tea,21.321319,-157.873331,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,281,NA
+ChIJ1SZoVeBtAHwRNwX81WIiZNA,Kakaako Christian Fellowship,21.3029142,-157.854262,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJ1T1Hud9tAHwRdbN9JlYrd9s,"The Queen's Medical Center, Hawaii Medical Library",21.308176,-157.8535687,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ1wduhvVzAHwRDK_3LUbnKxA,Diamond Head Community Garden,21.2669766,-157.8158777,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ1XMYf-ptAHwRv__17cTai5A,Honolulu City Parks Maintenance,21.3037534,-157.8368861,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ1Zu5YAduAHwR55ckOqe_eUk,Kewalo Basin Park,21.2909938,-157.8572951,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,74,NA
+ChIJ21IZeo9vAHwRE-umJLg68ag,Bella Banh Mi Cafe,21.3222936,-157.8593771,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.9,38,NA
+ChIJ21PraEltAHwRO6jzycjXwTE,Coco Bloom Kitchen,21.2868798,-157.8076717,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,13,NA
+ChIJ2acMQ_JtAHwRz7ILsra4v4c,Hawaiiana,21.2906891,-157.8370214,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2bUpOphtAHwRZgBkxUU9agQ,UH Mānoa Bookstore,21.298681,-157.8190702,Social Business,bookstore,book_store; university; store; point_of_interest; establishment,OPERATIONAL,4.3,286,NA
+ChIJ2cvv1OBtAHwRD3ptcOP4TB8,Straub Arnold Library,21.3025808,-157.8505419,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2d0Hd2VuAHwR9NK7EY-3sso,Safe Harbor Ministries,21.3205743,-157.8717643,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2d0Hd2VuAHwRNcSgBm5_ivo,harbor of grace deliverance ministries,21.3205743,-157.8717643,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2eqyDehtAHwR3Yq-_nNLiWg,First Baptist Church of Honolulu,21.3033657,-157.8443055,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,44,NA
+ChIJ2fORsDBtAHwRAMFvXk1-TC0,"Garden Of Faith, NMP Ltd.",21.3242018,-157.8472559,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2WICTm9uAHwR2rFPvTV0KfU,Lowe's Home Improvement,21.3156891,-157.8727909,Park,fountain,hardware_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,3.5,1638,NA
+ChIJ2XtQVPxtAHwRXWl1M0s9rQs,Ala Moana Regional Park,21.2899686,-157.847657,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,5492,NA
+ChIJ2xUwPHhtAHwR7Jdyn8RswQc,Teapresso Bar,21.2873245,-157.8075675,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,97,NA
+ChIJ3_mrhFZuAHwRDS-Xa_gkESY,Keʻehi Lagoon Beach Park,21.3319238,-157.8970574,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,690,NA
+ChIJ34Tv53dtAHwR7RvA5kpxKHY,Silversword Cafe,21.2897961,-157.8085918,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,4.2,6,NA
+ChIJ37FtpadtAHwRF4kx3oeqBLw,Church of Ke'auhou,21.3090992,-157.8118717,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3agDroluAHwRgisshApzdIg,Kalihi-Pālama Public Library,21.3332052,-157.872463,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,17,NA
+ChIJ3dBSXX5uAHwR_i441IhqQ7A,Lanakila District Park,21.3265681,-157.8621198,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,134,NA
+ChIJ3fianadtAHwRUXk-uKogtpY,The Coffee Bean & Tea Leaf Manoa,21.3091485,-157.8103735,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,152,NA
+ChIJ3fianadtAHwRUXk-uKogtpY,The Coffee Bean & Tea Leaf Manoa,21.3091485,-157.8103735,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,152,NA
+ChIJ3Q6qsQ9zAHwRi7SiUzWS-t0,Thukkie Beach Lookout,21.2653575,-157.779911,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,9,NA
+ChIJ3T7PoawSAHwRVfVMi0IcNHM,Wailupe Beach Park,21.2763073,-157.7602943,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,203,NA
+ChIJ3UgQYRRtAHwRLN7KO_eg6lg,Bahá'í Faith - Honolulu Bahá'í Center,21.3003516,-157.7905966,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJ3Vn4ufZtAHwR-7ZIeQZF9yQ,Honolulu Coffee at Prince Waikiki,21.286268,-157.8402195,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,54,NA
+ChIJ3WpRWXRuAHwRnkGow6MjpC4,Far Corners Community Musical Theatre,21.3100931,-157.8610482,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3xAEDK8SAHwRBHu9bW5eMeo,Grace Chapel of Honolulu,21.2773095,-157.7514218,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ3xaX5KVvAHwRxbWR535zUHo,Starbucks,21.335038,-157.923829,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.4,114,NA
+ChIJ3xaX5KVvAHwRxbWR535zUHo,Starbucks,21.335038,-157.923829,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,3.4,114,NA
+ChIJ3xTzLMNuAHwRMb6gfjHfZ-o,Tripler AMC Medical Library,21.3597645,-157.8900314,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ3yOR4_JtAHwRlE5zzCxUK2E,Honolulu Coffee Experience Center,21.2900408,-157.8350953,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,315,NA
+ChIJ3zHZelxuAHwRz7THjfwkt-Y,Ohana Greenhouse & Garden Supply,21.3751718,-157.9119825,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.6,64,NA
+ChIJ3ZiiagtuAHwR7Sh1qHPAXFs,OEC Cafe,21.3056342,-157.8613346,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,31,NA
+ChIJ3zjAomJvAHwRV2Oov2U2j7A,Twin dragon. Cafe and bkery,21.3326808,-157.8788996,Social Business,cafe,food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ40-XpHtvAHwRujMHQl3X12g,McDonald's,21.3497371,-157.9450236,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.9,619,NA
+ChIJ4232IdptAHwR-dyU_unmmTk,Trinity Samoan Assembly of God Church,21.2992476,-157.8554579,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ45pn4nESAHwRpToUZQOrud4,Honolulu City Office,21.2735017,-157.6971153,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ45vsEJRuAHwRFEnGPLAVvB8,1st Lt. Jonathan Brostrom Community Center,21.347735,-157.879149,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,11,NA
+ChIJ47WBQ3NuAHwRVbgW-FJsN_0,"Walker Alexander Walker, Sr. Fountain",21.3082923,-157.8638262,Park,fountain,point_of_interest; establishment,CLOSED_TEMPORARILY,4.8,4,TRUE
+ChIJ4bufyAVuAHwRk2v8Qi1NTR8,Kakaʻako Waterfront Park,21.2937639,-157.8642444,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,859,NA
+ChIJ4fM66QZvAHwROJd9pVJ90Zs,First Southern Baptist Church,21.3407846,-157.9138682,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.9,14,NA
+ChIJ4UvDBHJvAHwREy4qRjaLdR0,Prime Roast Cafe,21.3072986,-157.8612201,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJ4whTcDVvAHwRpEhDUxZnXus,하와이크리스챤교회 Hawaii Christian Church,21.3505636,-157.8611982,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJ4XF-7W5uAHwRjzod6h4eTGU,Lowe's Garden Center,21.3149738,-157.8729768,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.4,12,NA
+ChIJ4YH-iiETAHwRJoMrRBOeXXI,City Park,21.2913197,-157.6701275,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ4YPClXdtAHwRADZqTPJK3bk,Courtyard Cafe,21.2896475,-157.8075297,Social Business,cafe,cafe; convenience_store; store; food; point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJ52CJZ3ttAHwRCSak7stiAxE,Koko Head Cafe,21.2816303,-157.7996241,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,1354,NA
+ChIJ5f6sUB5tAHwRdBAYmOMgnK0,Cafe Moana,21.2961619,-157.8550224,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5V-z-2xtAHwRPlgJzmh1mmw,Cafe Villamor,21.2985948,-157.8563731,Social Business,cafe,bakery; cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,5,26,NA
+ChIJ5V-z-2xtAHwRPlgJzmh1mmw,Cafe Villamor,21.2985948,-157.8563731,Social Business,cafe,cafe; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,5,26,NA
+ChIJ5VOSA9xvAHwREwf4hSLpYq4,Kelly’s sanctuary,21.3458307,-157.8888435,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5xUB_oFtAHwRyu8ES7xbqw0,Hawaii Primarrie Church,21.2825574,-157.8093118,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJ5YIcEUsSAHwRd8o1GgcbZzc,Hawaii Kai Nursery,21.30481,-157.6948218,Park,garden,point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJ5YLFuG8TAHwRgXJWtD3nPmM,Once Again Hawaii,21.3429868,-157.7328801,Park,garden,point_of_interest; establishment,OPERATIONAL,5,15,NA
+ChIJ5ZTsUnRuAHwRPr6H-Jafelw,1132 Cafe & Catering,21.3100705,-157.8603867,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.6,16,NA
+ChIJ60Nzli5vAHwRMxjVA1j80bo,Halawa Citadel Of Faith Church Of God In Christ,21.3750042,-157.9121557,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJ64D_pphtAHwRrC-31AKvzqI,Thomas Hale Hamilton Library,21.3012199,-157.8160441,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,22,NA
+ChIJ68TcQnttAHwRVJE-JOIg1ts,Coffee Talk,21.2824544,-157.7988425,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,441,NA
+ChIJ6aiyW8JzAHwRfSlk5riaINw,Picnic Area 5 Makia,21.2682174,-157.8221657,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6blgFNgRAHwRi_JbAFpg71M,Makapu’u Beach Park,21.3131133,-157.6606973,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,67,NA
+ChIJ6QMPTtluAHwRrx2-KCVJ7_g,Paradise Isle Espresso,21.3629575,-157.8997863,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,27,NA
+ChIJ6Sd3Qu9uAHwRRs4DvBN-vso,Moanalua Elementary School Library,21.3492946,-157.8916046,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6UfLDKltAHwRCAnn13rRbFA,Waioli Kitchen & Bake shop,21.3145505,-157.813168,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,268,NA
+ChIJ6UN-eo5uAHwR3NLqGKhYGzM,Roots Café,21.3404633,-157.8743317,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,17,NA
+ChIJ6UqQ_OZtAHwRRTwAyYJQ8V8,Spill The Tea Cafe,21.2955948,-157.8523445,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6xAkRoxvAHwRh7djOtdjsno,Iglesia Ni Cristo - Lokal ng Pearl Harbor (Venue),21.3662154,-157.9179279,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ6y5YNawSAHwRmimC7PAwFN0,ʻĀina Haina Community Park,21.2783611,-157.7573138,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,32,NA
+ChIJ6ZJvET4SAHwROJR-9Cjqj98,Koko Crater Botanical Garden,21.2917361,-157.6779216,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,1622,NA
+ChIJ6zwHR25uAHwR6VF4bmRX1pA,Voyager Church Hawaii,21.3185194,-157.8436646,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ6ZWSMl5tAHwRqXSF2BNXsJ8,Waiokeola Congregational Church,21.2764846,-157.7844341,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJ70HiNX5tAHwRXFktPMoMSsQ,Harbor Church Honolulu,21.2949698,-157.8510855,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,41,NA
+ChIJ71IX_pJtAHwReY_5ZeBEZbM,Hope Chapel Honolulu,21.2964725,-157.8340705,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ796eRX9yAHwRcVlvWKKFRi0,St. Mark's Episcopal Church,21.2773951,-157.8140657,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,14,NA
+ChIJ7cAmlGUSAHwRXyJAG7gKmVE,Hawaiʻi Kai Church,21.2778155,-157.7026906,Place of Worship,place of worship,church; place_of_worship; school; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJ7cAmlGUSAHwRXyJAG7gKmVE,Hawaiʻi Kai Church,21.2778155,-157.7026906,Place of Worship,place of worship,church; school; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJ7dOuNHhuAHwRiLjm8NmkE-k,Kauluwela Community Park,21.319154,-157.859926,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4,13,NA
+ChIJ7dy5K8BtAHwRJhjzuHuAeSo,Makiki District Park,21.3037912,-157.8358876,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,516,NA
+ChIJ7TN5ZpkTAHwRsZLBRy-NItE,Hahaione Elementary School Literacy Center,21.2962741,-157.7100408,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ7wnRm3ESAHwRhcP__44qcqs,Hanauma Bay,21.2711413,-157.6968774,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,1756,NA
+ChIJ7xlRLG1vAHwReTr1zgzcSdI,Teapresso Bar - Salt Lake,21.3543713,-157.9291621,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,17,NA
+ChIJ7xNaapNuAHwRanM5ejDxlpU,Ft Shafter Community Center,21.3477425,-157.8791971,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.6,13,TRUE
+ChIJ7xrp3ORuAHwRa-Fje5KAFX8,Diem 99 Cafe,21.3472447,-157.8958535,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,17,NA
+ChIJ7xrp3ORuAHwRqGKB4nJw3_U,Mini Garden Express,21.3471908,-157.895837,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,54,NA
+ChIJ7xrp3ORuAHwRUnQwl6zWN7M,Cafe Ivy,21.3471908,-157.895837,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJ7xXfRoNtAHwRqzK0Ar7YcE0,The Coffee Bean & Tea Leaf Market City,21.2881963,-157.8140602,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,159,NA
+ChIJ7xXfRoNtAHwRqzK0Ar7YcE0,The Coffee Bean & Tea Leaf Market City,21.2881963,-157.8140602,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,159,NA
+ChIJ7zazYnxtAHwRV2QWPPNs7XM,da Shop: books + curiosities,21.2812348,-157.8003181,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.9,49,NA
+ChIJ85PAQG5lAHwRyF4sb902drk,Aloha Aina Patriotism Park,21.3340178,-157.968315,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.9,24,NA
+ChIJ89rZC3BtAHwRbvyHe3QKruA,Unified...,21.2874471,-157.7985633,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,3.3,6,TRUE
+ChIJ8bAzqwVvAHwRptwTZK9zpBo,McDonald's,21.3458376,-157.9133428,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.9,599,NA
+ChIJ8dRJW-BtAHwR2BzPp4Y1hYE,Honolulu City & County Office,21.3041126,-157.8546356,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8Yr5S_1tAHwR9jxyjpMuG3o,Other Realms Ltd,21.3186422,-157.8747529,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,558,NA
+ChIJ93_bYW9vAHwRCoL0moIkxiQ,Taco Bell,21.3494996,-157.9301224,Park,fountain,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4,41,NA
+ChIJ98WYvettAHwRiIadxmS5IPU,Corp-The Presiding Bishopric,21.2997241,-157.8368609,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ98WYvettAHwRkEz_QEOTKlU,The Church of Jesus Christ of Latter-day Saints,21.2995824,-157.8357517,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,44,NA
+ChIJ99PF6n1yAHwRUcsTnlxdRkg,Kapahulu Bible Church,21.2705845,-157.8106696,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,14,NA
+ChIJ99tQ55FtAHwRVpZvgnRos64,Mō'ili'ili Community Garden,21.2911879,-157.825709,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJ9bs8ruptAHwRwDjYZrfKPsE,First Church Of Christ Scientist,21.3023397,-157.8334677,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJ9RF-kvBtAHwRbwQ3xt6alsM,Barnes & Noble,21.2909676,-157.8424954,Social Business,bookstore,book_store; cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.5,1406,NA
+ChIJ9RF-kvBtAHwRbwQ3xt6alsM,Barnes & Noble,21.2909676,-157.8424954,Social Business,bookstore,book_store; cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,1406,NA
+ChIJ9RGi3XVyAHwRj9kLmAZv3a8,Hawaiian Aroma Caffe At Beachcomber Waikiki,21.2783876,-157.8275686,Social Business,cafe,cafe; bar; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,502,NA
+ChIJ9T1TD1ltAHwRLGQ6sw0eKhA,Farmhouse Cafe,21.2968215,-157.842514,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,59,NA
+ChIJ9UXY6advAHwRms-0Fiv194Y,Starbucks,21.3359335,-157.9158083,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.2,451,NA
+ChIJ9UXY6advAHwRms-0Fiv194Y,Starbucks,21.3359335,-157.9158083,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,451,NA
+ChIJ9VzfaYRyAHwRJau3F7GD1p4,Kapiʻolani Community College,21.2709554,-157.7994188,Social Business,bookstore,university; point_of_interest; establishment,OPERATIONAL,4.5,86,NA
+ChIJ9xUfNLhtAHwRpkYpFdk97eQ,Makiki Valley State Recreation Area,21.3132137,-157.8304318,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,36,NA
+ChIJ9Y4RgsJtAHwRr4jCPReztyQ,Kamāmalu Neighborhood Park,21.312661,-157.854766,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJ9Y4RgsJtAHwRr4jCPReztyQ,Kamāmalu Neighborhood Park,21.312661,-157.854766,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJa-qTjmBtAHwR_42gQyCySik,IL Gelato Cafe Kahala,21.2770925,-157.7863744,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,89,NA
+ChIJA6r4cXBvAHwRPNgbFcy_W7o,TOB Center Of Hawaii,21.3417593,-157.9361081,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA7_vgXtyAHwRfi_jR9Hn16M,Queen Kapiʻolani Garden,21.2697192,-157.8155686,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.2,121,NA
+ChIJa7umgvNtAHwR3P6ApzmQjpQ,Eaton Square,21.287035500000002,-157.8361427,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.1,253,NA
+ChIJA7yKZZBuAHwRFci-AI0U-nc,Akira Sakima Recreation Center,21.3441292,-157.8699215,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,3,TRUE
+ChIJa92LkOFtAHwRWqwMqHe642o,Café Grace,21.3006817,-157.8556783,Social Business,cafe,cafe; meal_takeaway; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,78,NA
+ChIJaaFr3l9tAHwRQb2y0xilJTA,McDonald's,21.2754638,-157.7857478,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4,440,NA
+ChIJabxsR4ptAHwRnszzd93RVJg,Ala Wai Community Park,21.28741,-157.8301584,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,581,NA
+ChIJabxsR4ptAHwRnszzd93RVJg,Ala Wai Community Park,21.28741,-157.8301584,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,581,NA
+ChIJae9wu3plAHwRCczvqDrFnr0,Vickers Park,21.3333026,-157.9633858,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,61,NA
+ChIJAQ3hUfRtAHwRTrWtSbAh1E0,Goofy Cafe & Dine,21.2843706,-157.8369053,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,2127,NA
+ChIJAQ3hUfRtAHwRTrWtSbAh1E0,Goofy Cafe & Dine,21.2843706,-157.8369053,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,2127,NA
+ChIJAQAUjvNtAHwRrD-ETB0l8jw,Hawaiiana Gardens,21.2873796,-157.8371616,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAQBAtJxtAHwREevL9xlu_7Q,pueo library,21.2895361,-157.813965,Social Business,bookstore,book_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJARj4J3RuAHwRth_ajdVgn-0,Smith-Beretania Park,21.3123115,-157.8611289,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.7,6,NA
+ChIJAT9lTXZyAHwRoz74GIHWK64,Hawaiian Crown Cafe,21.2739422,-157.8234076,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,CLOSED_TEMPORARILY,4.6,310,TRUE
+ChIJAUfX_UxvAHwRn5Q2t8feKGo,Au's Garden Chinese Restaurant,21.3273693,-157.8716314,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJaVx6W-9tAHwRGvN9FkSP6YI,Sheridan Community Park,21.2979452,-157.8444701,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.6,124,NA
+ChIJAwHcTnRuAHwRWagp2X8oqVk,Hangs French Coffee & Smoothie,21.3106055,-157.8603692,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.9,56,NA
+ChIJAwIwiCsSAHwRB1UBKeNPJFs,Kalama Valley Community Park,21.2996125,-157.6721918,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,52,NA
+ChIJaX7lBXRuAHwRwz0iPCPsEc8,Writers' Batey,21.3120503,-157.862201,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJAXaTU5tvAHwRzCMfHr2Ov9k,Makai Recreation Center,21.3343384,-157.9401719,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,42,NA
+ChIJaxWEPeBuAHwRULk-2sJX5Eg,City Gate Christian Church,21.3564916,-157.9036901,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAxyLVXNuAHwR27kl9IlQPd8,Honolulu Cafe,21.3073982,-157.8628553,Social Business,cafe,restaurant; cafe; food; point_of_interest; establishment,OPERATIONAL,3.8,73,NA
+ChIJAY-zZS5sAHwR27W_Qk1Db0M,Puʻunui Community Park,21.3342318,-157.8473844,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,79,NA
+ChIJAY-zZS5sAHwR27W_Qk1Db0M,Puʻunui Community Park,21.3342318,-157.8473844,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.3,79,NA
+ChIJAy4tpndyAHwRg-y40psWVsc,Kailua Square,21.2766208,-157.8234534,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAYKE16dvAHwRS82FVSrjQtw,Cafe Panini,21.3347529,-157.9170522,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,23,NA
+ChIJAzHiXoNtAHwRk-Itj0-K9PA,Dragon Tea,21.3318013,-157.8662124,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,131,NA
+ChIJAZIHJ_JtAHwRRdqu3_cmO08,Café Melody 2,21.2910652,-157.838623,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4,10,TRUE
+ChIJaZX9LlJtAHwRrBfguE7pQ8o,Village Books & Music at Ward,21.2922601,-157.8518561,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJaZX9LlJtAHwRrBfguE7pQ8o,Village Books & Music at Ward,21.2922601,-157.8518561,Community Space,library,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJb_1m9-ltAHwRiuJb-S-dFNU,Fountains At Makiki,21.30344,-157.8395714,Park,fountain,point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJB-H-6xVzAHwRXuThYsY45AQ,Café Glacé Hawaii,21.2721598,-157.8228779,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,125,NA
+ChIJB-H-6xVzAHwRXuThYsY45AQ,Café Glacé Hawaii,21.2721598,-157.8228779,Social Business,cafe,cafe; bakery; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.3,125,NA
+ChIJB0GQq3RvAHwR_65w8tXnq8o,GameStop,21.3449538,-157.9289448,Social Business,bookstore,electronics_store; store; point_of_interest; establishment,OPERATIONAL,4.4,98,NA
+ChIJb10UDOBuAHwR3n_NG2UsW4g,Ala Puʻumalu Community Park,21.3564926,-157.9037573,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,150,NA
+ChIJB1LpPj1vAHwRsyInBylA6Tg,AMR Chapel,21.3621918,-157.9099194,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,12,NA
+ChIJB2nvwHduAHwRAaiNSGtRkr4,Foster Garden Gift Shop,21.316208,-157.8583329,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJB2nvwHduAHwRAaiNSGtRkr4,Foster Garden Gift Shop,21.316208,-157.8583329,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.7,6,NA
+ChIJB2nvwHduAHwRape2OHZ-iOU,Foster Botanical Garden,21.3168139,-157.8590314,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,1306,NA
+ChIJb6AQceNtAHwRQorVe-b-XEs,Aloha Bakehouse & Cafe,21.2967267,-157.8519104,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,80,NA
+ChIJb6Rv55NtAHwRsZ23jfONZa0,True Jesus Church,21.2953503,-157.8276459,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJb9aORYttAHwRAFkT2t8nLco,Christian Science Reading Room,21.285061,-157.832375,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJBafL1xZtAHwR1PtolnZHG-o,WFM Coffee & Juice Bar,21.2773696,-157.7864675,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJbakTym5uAHwROh-CqN6QFl0,La Tour Cafe,21.3160124,-157.8743556,Social Business,cafe,cafe; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,630,NA
+ChIJbdoPwr8TAHwRxSWxsqDaF6E,Hawaiʻi Kai Community Garden,21.2966152,-157.6867196,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJBSiJ_IVuAHwRjuBOAaZq7Tk,Starbucks,21.3357935,-157.8680044,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,273,NA
+ChIJBSiJ_IVuAHwRjuBOAaZq7Tk,Starbucks,21.3357935,-157.8680044,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,273,NA
+ChIJbSLkbOVtAHwRH6pRE4vQeA4,Stage Café,21.295292,-157.846316,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.9,7,NA
+ChIJbV3Ns3huAHwRsFUX33D84cY,Jane's Fountain,21.3230106,-157.8578727,Park,fountain,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,91,NA
+ChIJBVo_Mb5tAHwR4W0fz4R56Bo,Cooke Library (Punahou School),21.303631,-157.8297192,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.3,24,NA
+ChIJBVRO-6dyAHwRv2ndQ4EYGTM,Plumeria Beach House,21.271847,-157.773651,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,524,NA
+ChIJbVu7oT9vAHwREGoItEwRrcQ,'A'ala Bark Park,21.3153718,-157.8636883,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,12,NA
+ChIJbVu7oT9vAHwREGoItEwRrcQ,'A'ala Bark Park,21.3153718,-157.8636883,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4,12,NA
+ChIJbW7N8XtyAHwRUAsdF6hTMVQ,Paki Playground,21.27164,-157.815808,Park,park,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,137,NA
+ChIJBWLFL-VtAHwRD_lO1RiUTIo,Amagi Baptist Assembly,21.3299111,-157.8475495,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJbwSm4whuAHwRpEedIGb_vGE,9Bar HNL,21.2983277,-157.8610505,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,164,NA
+ChIJbwSm4whuAHwRpEedIGb_vGE,9Bar HNL,21.2983277,-157.8610505,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,164,NA
+ChIJbXCzQ-dtAHwR3WV1APioEuc,First Chinese Church of Christ,21.3012676,-157.8467845,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,18,NA
+ChIJBXPhXBMSAHwR5kcexhRrMio,Koko Head District Park,21.2774105,-157.6942131,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,6239,NA
+ChIJbz4KonttAHwRw2K3VgPCek0,Kaimukī Community Park,21.2831201,-157.8008446,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,150,NA
+ChIJbz4KonttAHwRw2K3VgPCek0,Kaimukī Community Park,21.2831201,-157.8008446,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,150,NA
+ChIJC-rLOWNuAHwRfTtnNt1TOn0,First Community Church,21.3266596,-157.869728,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJC0s3y2USAHwRg8w86jVoO9g,Moena Cafe,21.27864,-157.7047788,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,518,NA
+ChIJc3iB1sxvAHwR1_CSxyJ7OKA,Sun Yat-sen Park,21.3107979,-157.8615722,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJC4jT-X9vAHwRuqxQyha-nK8,Starbucks,21.3421603,-157.9515564,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.9,80,NA
+ChIJC4jT-X9vAHwRuqxQyha-nK8,Starbucks,21.3421603,-157.9515564,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,3.9,80,NA
+ChIJc6R_oONvAHwRNgTSAxlvzH0,Makalapa Dog Park,21.3537464,-157.9346426,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJC8PffTFsAHwRKbwetNcvnrc,SGI-USA Hawaii Culture Center,21.3325691,-157.8416956,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJC9kIYo5tAHwRMYPV9MQWTPE,St. Alban’s Chapel,21.2849801,-157.8231274,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJcc-o0nxtAHwRwdpn1kIBwZc,ʻĀuwaiolimu Neighborhood Park,21.3182071,-157.8498544,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJCev4uHZuAHwRTvcxEZTkJnk,Divine Dharma Meditation (Hawaii),21.313982,-157.862002,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCRS5LXFuAHwREfQIVC5S7ag,ʻAʻala Park,21.3151153,-157.8635957,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.3,350,NA
+ChIJcSklBQlzAHwRosX63gXqB0I,Taste Tea,21.2763298,-157.8255309,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,3.7,10,TRUE
+ChIJcU-U5WASAHwRQ7c6DsmgcVE,Koa Pancake House,21.28305,-157.711987,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,307,NA
+ChIJcWKjRfBtAHwR2iMhNeyx4Cs,Montblanc Boutique Honolulu,21.2906531,-157.8430504,Park,fountain,jewelry_store; point_of_interest; store; establishment,OPERATIONAL,4,27,NA
+ChIJcWKjRfBtAHwRF7T_f7MFXFo,Häagen-Dazs®,21.2906868,-157.8442803,Park,fountain,restaurant; point_of_interest; store; food; establishment,OPERATIONAL,4,35,NA
+ChIJcWKjRfBtAHwRGnUoy1doc90,Ala Moana Satellite City Hall,21.2902214,-157.8423318,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.4,80,NA
+ChIJcWKjRfBtAHwRqI90RSGwRas,Honolulu Coffee at Moana Surfrider,21.2768367,-157.8266711,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,423,NA
+ChIJcwtuyDdzAHwRdWucl_EhVxA,Waikiki Bird Tree,21.2749058,-157.8249444,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJcWZSYd9tAHwRty0qiwcE4DU,The Cathedral of St. Andrew,21.3099469,-157.8569714,Park,fountain,tourist_attraction; church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,231,NA
+ChIJCxvMTmQSAHwRfWtiJZpSrdA,Pāʻina Cafe Koko Marina Center,21.2778649,-157.7054565,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.4,106,TRUE
+ChIJCyvYQowSAHwReAcFGdnxYjQ,Kuliʻouʻou Beach Park,21.2845109,-157.7206191,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,262,NA
+ChIJcyyM37kTAHwRFekE5BWP9y0,King’s Oahu Español,21.2828435,-157.7356117,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJcZqRG6FlAHwRAqtVh0zXICc,James' Shake Shack,21.3317601,-157.9504843,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.4,5,NA
+ChIJD_sD53huAHwRRAmFeDNI6GU,Jay's Cafe & Bakery,21.3221287,-157.8753862,Social Business,cafe,bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,42,NA
+ChIJD-JvYHdyAHwRCndOCXRepTE,Banyan Breeze,21.274698,-157.821387,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,72,NA
+ChIJD-JvYHdyAHwRCndOCXRepTE,Banyan Breeze,21.274698,-157.821387,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,72,NA
+ChIJd1U2phRvAHwRfhMKwmhi1pc,Geobunga,21.2957118,-157.8661535,Park,fountain,store; point_of_interest; general_contractor; establishment,OPERATIONAL,4.6,37,NA
+ChIJd1U2phRvAHwRfhMKwmhi1pc,Geobunga,21.2957118,-157.8661535,Park,fountain,general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.6,37,NA
+ChIJd2NidMFvAHwRKFy9lZkXaFM,Square One Legal,21.3081985,-157.8608441,Park,square,lawyer; finance; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJd2NidMFvAHwRKFy9lZkXaFM,Square One Legal,21.3081985,-157.8608441,Park,square,finance; lawyer; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJd3pMiHRuAHwRY0iK4bDyFxU,Walmart,21.3098257,-157.8621016,Park,fountain,department_store; hardware_store; grocery_or_supermarket; furniture_store; clothing_store; electronics_store; home_goods_store; point_of_interest; store; food; establishment,OPERATIONAL,3.8,2669,NA
+ChIJd3pMiHRuAHwRY0iK4bDyFxU,Walmart,21.3098257,-157.8621016,Park,fountain,department_store; hardware_store; grocery_or_supermarket; clothing_store; electronics_store; furniture_store; home_goods_store; store; food; point_of_interest; establishment,OPERATIONAL,3.8,2669,NA
+ChIJd43JU5ESAHwRGBgOqq34r-8,Kilohana United Methodist Church,21.2829121,-157.7335226,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJD4lgJtQTAHwRm5U8H7VqWF4,Hope Chapel East Oahu,21.2770368,-157.6955502,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJd53fhiFvAHwRjB0Ubb0YMyw,Aliamanu Community Center,21.3612639,-157.9104419,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJD631x3pyAHwR4CaPouCW35Q,Kapiʻolani Regional Park,21.2667349,-157.8187536,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,3997,NA
+ChIJD631x3pyAHwR4CaPouCW35Q,Kapiʻolani Regional Park,21.2667349,-157.8187536,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,3997,NA
+ChIJd6ZgHwluAHwRiAkmlA4YEoM,Insomnia,21.2986326,-157.8612866,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,72,NA
+ChIJD9my34xtAHwREyn4aA0_BmY,McCully Bridge at Ala Wai Community Park,21.2886448,-157.8317717,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJdb8MtYtvAHwR7B_-p5Jh5sc,Mokauea Mini Park,21.3312078,-157.8784666,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJDbEHBgluAHwRRT3Eiq8EGl0,One Love Ministries,21.2986075,-157.8605256,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,72,NA
+ChIJDbEHBgluAHwRWpc5u2DSVRI,Grace Honolulu Service Location,21.2907553,-157.8242609,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJDcERFJZvAHwRsskoYOGQ4TI,Aloha Mens Shed,21.3240693,-157.8770025,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDemAOZhtAHwRE2MBnD4uwno,Starbucks,21.2985522,-157.8189351,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,71,NA
+ChIJDfg48hRvAHwRpBYZQ5uta5g,Connie chun Neighborhood Park,21.3570763,-157.925849,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,56,NA
+ChIJdWnmML9tAHwRn3aXD_VA4ro,Archie Baker Park,21.3079027,-157.8311587,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,62,NA
+ChIJDY75260SAHwRge7t_7iVSuA,New Hope Community Church,21.2778337,-157.752253,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,16,NA
+ChIJDyh55phtAHwRW7Ip9rWTI5s,School-Ocean & Earth Tech Library,21.2985153,-157.8165012,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJdyMvJ59tAHwRdUqcxYfnYPY,Hale Hālāwai,21.2978151,-157.8142081,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJDZcc8cJuAHwRzV1_Bsc3sJ0,Starbucks,21.3592455,-157.889497,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.9,26,NA
+ChIJDZcc8cJuAHwRzV1_Bsc3sJ0,Starbucks,21.3592455,-157.889497,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.9,26,NA
+ChIJdZwFxeNtAHwRWSU6rKAYqqM,Ghenioland,21.3017402,-157.8485448,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJe_2I4UttAHwRjdRtV4vcoSw,Laukahi Park,21.2892167,-157.7683046,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,8,NA
+ChIJE_t4lN9tAHwRUYT01VIZZCE,Marriage License Agent,21.3076348,-157.8558304,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.2,24,NA
+ChIJE_XOMHtvAHwRL6dvYrArMGA,Downtown Satellite City Hall,21.3106904,-157.8623175,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4,88,NA
+ChIJE-U1L3xuAHwRkITu-0ZK4FQ,Samoan Congregational Christian Church,21.3264104,-157.8634204,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJe1EBsIRtAHwRI9uck9WzNa4,Kilohana Square,21.2866997,-157.8135114,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.2,39,NA
+ChIJe1WDGX5zAHwRyFFgtg4Mq8k,Kai Coffee,21.2741371,-157.8238823,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.4,251,NA
+ChIJe2oeVnltAHwRNCbBT98LCWQ,Honolulu First Church of the Nazarene,21.325317,-157.852271,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJE3CRK-ZtAHwRrYmjsUuaUAs,Raintree Bakery Coffeehouse,21.3016686,-157.8453601,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,166,NA
+ChIJe3wbePxtAHwR05lcT8GPmrg,McCoy Pavilion,21.2907932,-157.8513722,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4,43,NA
+ChIJe73DZoltAHwRaVjdR2mHsv8,Duke Paoa Kahanamoku Beach Park,21.2812687,-157.8363322,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJE7U7o5ptAHwR747dRwUy_3k,Glazer's Coffee,21.291299,-157.8204958,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,250,NA
+ChIJE7U7o5ptAHwR747dRwUy_3k,Glazer's Coffee,21.291299,-157.8204958,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,250,NA
+ChIJE91b0sNtAHwRvz0VRD5Wu9w,FRIEND CAFE EXPRESS,21.2962037,-157.8552395,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJEbERC1lvAHwRC9QRPv-AqUM,Samoan Methodist Church Hawaii Synod,21.3474832,-157.9140789,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJebGG9K1tAHwRCoJ7GMd2YUk,First Assembly of God Metro,21.3121443,-157.8604176,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJEbpmfnoTAHwRQIkbk_LzTnc,Cafe Asia,21.2824047,-157.7360085,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,69,NA
+ChIJedC6sYxtAHwR_mqmoAMu-YY,Maleko Coffee and Pastries,21.286896,-157.8327259,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,120,NA
+ChIJedC6sYxtAHwR_mqmoAMu-YY,Maleko Coffee and Pastries,21.286896,-157.8327259,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,120,NA
+ChIJEdyIqYRtAHwRc3sHyP_v3hs,Harding Square,21.2813681,-157.8001382,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJef9aznlyAHwRhHXUBZIAYHI,Waikīkī Community Center,21.2752466,-157.8202315,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,99,NA
+ChIJef9aznlyAHwRm63SHZjgrMY,Hope Chapel Waikiki,21.2753327,-157.8201459,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,12,NA
+ChIJeQxEf29yAHwRaflEW3kcH5k,Waikiki Marine Life Conservation District,21.265212,-157.821583,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,1493,NA
+ChIJER3IjXtuAHwRJJuYLDLjiC4,Hawaii First Samoan Assembly and 예수그리스도 선교교회,21.3238336,-157.8646657,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,12,NA
+ChIJeSCRxn4SAHwRwZxdbEXQatw,Koko Kai Beach Mini Park,21.2615009,-157.711209,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,290,NA
+ChIJEWCrMiZvAHwRa3amTjkRac0,Red Hill Community Center,21.368495,-157.9034894,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,16,NA
+ChIJewePk2xvAHwRFQIgvhg-Etk,Faith Christian Fellowship,21.3168875,-157.8708336,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJewePk2xvAHwRY2KElB87Kmk,Community Lutheran Church Wels,21.3545661,-157.9302981,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJewlwbkITAHwRbVWPjyFEgXM,Quality Turfgrass,21.342569,-157.738638,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,18,NA
+ChIJEyF5nSQTAHwRfbexorrsUE4,Joe Lukela Beach Park,21.2816564,-157.7136296,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,14,NA
+ChIJeYJyKHFyAHwRBCh1073FqPE,Kūhiō Beach,21.2727724,-157.8238124,Park,fountain,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,1025,NA
+ChIJEyKob-RtAHwR1pvbQmnrsus,Pukele Mini Park,21.2890758,-157.8027847,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJeyps4y1vAHwReVcaPOZEskI,Faith Bible Baptist Church,21.354461,-157.9303829,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJEzql_35yAHwR-66SrppSTHY,Kapahulu Center,21.2745163,-157.8122172,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,24,NA
+ChIJF_adfqUSAHwR5dQ3cfhgsO0,Calvary by the Sea Lutheran Church,21.278185,-157.749212,Place of Worship,place of worship,tourist_attraction; church; place_of_worship; school; point_of_interest; establishment,OPERATIONAL,4.9,36,NA
+ChIJF_EIhnxtAHwRsKknr9IlSqc,Eckankar Hawaii Satsang Society,21.2809715,-157.7999316,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJf1bKBAhtAHwRcreM7bUnMy8,Morning Glass Coffee,21.3102955,-157.8088761,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,529,NA
+ChIJf1bKBAhtAHwRcreM7bUnMy8,Morning Glass Coffee,21.3102955,-157.8088761,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,529,NA
+ChIJf2shnlYSAHwRs57zlX9Yz6E,Hahaʻione Valley Neighborhood Park,21.3029777,-157.7095949,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,73,NA
+ChIJF3Z-FmFtAHwRvvJgpehJD2g,Wai'alae-Kahala Chapel,21.2784014,-157.7895913,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJF4NbWgtuAHwRBFqip88-cVk,Harbor Square: Harbor Tower,21.3065627,-157.8622052,Park,square,point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJf5wqxKJtAHwRGEnBMrTPqiU,Honolulu Christian Church,21.3030736,-157.8202494,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,21,NA
+ChIJf6PUSJYSAHwR_uQNnffllNg,Jack in the Box,21.2819707,-157.7360658,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.5,419,NA
+ChIJF6r9W2VyAHwRwkFdFzKzpOk,Kapiʻolani Regional Park Tennis Courts,21.2665084,-157.820782,Park,fountain,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,107,NA
+ChIJf7MN4AhuAHwR5TSjWiAAEKk,Arvo Cafe,21.297996,-157.8611351,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.5,422,NA
+ChIJf7MN4AhuAHwR5TSjWiAAEKk,Arvo Cafe,21.297996,-157.8611351,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.5,422,NA
+ChIJF9Otiw5tAHwR4BlPj9CM0yI,Waʻahila Ridge State Recreation Area,21.30539,-157.800691,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,311,NA
+ChIJf9WdlIFlAHwRs9MmtRKX2is,Hickam Communities Ka Makani Community Center,21.3442535,-157.9571935,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,45,NA
+ChIJFd8uh3dvAHwRZdRFFTEadGE,Iglesia Ni Cristo - Locale of Kalihi,21.3313268,-157.88369,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJffkkS3JvAHwRUGBMYtBFgYw,Navy Exchange Mall,21.3488963,-157.9306394,Social Business,bookstore,shopping_mall; department_store; store; point_of_interest; establishment,OPERATIONAL,4.6,2968,NA
+ChIJfQLqFnByAHwRdOAeM7L_8Dg,Sans Souci State Recreational Park,21.2683338,-157.82254,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,1508,NA
+ChIJfQLqFnByAHwRdOAeM7L_8Dg,Sans Souci State Recreational Park,21.2683338,-157.82254,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,1508,NA
+ChIJFRewRfBtAHwRvZN99WhQVqc,Hawaiian Aroma Caffe - The Ilikai,21.2842853,-157.838767,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.9,83,NA
+ChIJFULEcGtzAHwRbZOfKpvEtUU,The Sunrise Shack Waikiki,21.277151,-157.8272124,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,275,NA
+ChIJfW90P-NtAHwRsoEibzPYgcY,Logos Bookstore of Hawaii,21.2927179,-157.8520883,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,212,NA
+ChIJfwkjgXluAHwROcabCaf3TFM,Moon Garden Restaurant,21.3209444,-157.8626437,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,121,NA
+ChIJfx2j9YluAHwRjhqb9eNBL5k,The Church of Jesus Christ of Latter-day Saints,21.332594,-157.874758,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,32,NA
+ChIJFxIwB3RuAHwRiRM2g-olWLc,BESTS | Information,21.312437,-157.862805,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJfXKGs2ByAHwRKN03gg5ym18,Lē'ahi Beach Park,21.2565363,-157.8150228,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,235,NA
+ChIJFXq0LJJtAHwR4nZM8dkvMiQ,McCully–Mōʻiliʻili Public Library,21.2935855,-157.8276691,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,4,31,TRUE
+ChIJfZ-QOQpuAHwRBZzF7TmqhUU,Hawaii Philadelphia Mission Ch,21.3019242,-157.8585976,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJfZjVWt9tAHwRb4qiE5shUh4,Walmart Patio & Garden Services,21.294726,-157.842947,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJFZXYouJvAHwRfruKEwp8gdY,Starbucks,21.33002,-157.9235,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJG_nnyHdvAHwRHP7ht4NIJxM,Hickam Splash Park,21.3413679,-157.9380688,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,88,NA
+ChIJg-5hwlkSAHwRORaUwQgYLII,Hawaii Kai Recreation Center,21.2963092,-157.7088805,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,25,NA
+ChIJg-5hwlkSAHwRORaUwQgYLII,Hawaii Kai Recreation Center,21.2963092,-157.7088805,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,25,NA
+ChIJg0sd25FtAHwRYC4sBzf0rbE,St Louis Alumni Association,21.2923051,-157.8253657,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,49,NA
+ChIJG24pTK4SAHwRi8UdYzDl3Z4,Starbucks,21.2789392,-157.7530084,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,118,NA
+ChIJG24pTK4SAHwRi8UdYzDl3Z4,Starbucks,21.2789392,-157.7530084,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,118,NA
+ChIJG2slGYBuAHwRhVngdRlLL08,ʻĀlewa Neighborhood Park,21.3302008,-157.857403,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,56,NA
+ChIJg2tKiLZvAHwRcuFxKkmCNNU,Bluetree Cafe Kakaako,21.2987916,-157.8618317,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.6,5,TRUE
+ChIJg2tKiLZvAHwRcuFxKkmCNNU,Bluetree Cafe Kakaako,21.2987916,-157.8618317,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,CLOSED_TEMPORARILY,4.6,5,TRUE
+ChIJG3bSyllvAHwRi2IbN56fXRM,Mother waldron dog park,21.2992579,-157.859166,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,8,NA
+ChIJG4al8aJtAHwRIJk2N8_beUI,Kamanele Park,21.3030612,-157.8187886,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,60,NA
+ChIJG8lAm3NuAHwRSeMA4RhlZLI,Local Joe,21.310802,-157.863803,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,298,NA
+ChIJG9jOyWhuAHwReTlZgrc-8Jo,"Honolulu Worship Center, CLGI",21.3186201,-157.8747697,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJGaLkrgluAHwRYxGA2o0bcPA,Anchor International Church,21.2992327,-157.859684,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJGcPu-H5uAHwRU_5GbuQxlR4,Grace Bible Church Central,21.3620716,-157.8493941,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJGdt63itvAHwRdBeRErhPPMg,Airport Chinese Garden,21.331297,-157.920218,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJge69-HxyAHwRPsOk059bzU8,ARS Cafe and Gelato,21.2692156,-157.8127426,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.5,235,NA
+ChIJge69-HxyAHwRPsOk059bzU8,ARS Cafe and Gelato,21.2692156,-157.8127426,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,235,NA
+ChIJgejbMahvAHwRqhFjmwpzGGM,McDonald's,21.3363425,-157.914105,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.8,1368,NA
+ChIJgfCHxmcTAHwRQ_B2BkDc01c,Nalo Nursery,21.347095,-157.735707,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJgfSQgGwSAHwRH05On188g3w,Goeas Baseball Field,21.2778913,-157.6929983,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJGfwPF2FuAHwRE5YglaC2mLs,Kalakaua District Park,21.3273623,-157.8767592,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,151,NA
+ChIJgQmOntJzAHwRQnhGygHnZv8,Lei’s Cafe,21.2761584,-157.8241377,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.1,7,NA
+ChIJgRpETTxvAHwRKZNl1jRk7Jw,Drive Thru Joe,21.3568792,-157.9397184,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJGRPNeXduAHwRde8VFjA7BBc,The Salvation Army Corps Community Center,21.3176544,-157.8597822,Community Space,community center,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,28,NA
+ChIJgT7nWa4SAHwRR2BajVk6U9Y,ʻĀina Haina Public Library,21.2786102,-157.7531985,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.7,13,NA
+ChIJgVbRBZFtAHwRLbc8dIC-vi0,Mōʻiliʻili Neighborhood Park,21.293664,-157.8247499,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,96,NA
+ChIJGW_O-S5vAHwRa6mcFpPTMqA,Wellspring Covenant Church,21.3740107,-157.9133758,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJgw5gLPVuAHwR4OIruteSXBY,True Light Church of Hawaii,21.3343482,-157.8809325,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJgw6ZA4VyAHwRIu8Dreh7w2c,Lēʻahi Millennium Peace Garden,21.2672178,-157.79982,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJgWe0IaBvAHwRzV0VJOxCeWc,Tameka Earl Book store,21.3104109,-157.8596332,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJGXm5g39uAHwR7aTFYrHpyHY,Kunawai Neighborhood Park,21.3264258,-157.8574657,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,32,NA
+ChIJGYGbE9huAHwRY5HgOuELo3c,Red Hill Community Center Park,21.3680038,-157.9036118,Community Space,community center,park; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJGYGbE9huAHwRY5HgOuELo3c,Red Hill Community Center Park,21.3680038,-157.9036118,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJGyWJjcFtAHwR5QZ2c85wgtI,Sure Shot Cafe Hawaii,21.3054996,-157.8381756,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,228,NA
+ChIJH0t3UtZtAHwRtzIaUVFvDEo,Liliʻuokalani Botanical Garden,21.3190977,-157.8558829,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4,388,NA
+ChIJH1gdNJptAHwRZcUaNtYpg5w,Warrior Recreation Center,21.2989309,-157.8188131,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,88,NA
+ChIJH1v87nNuAHwRxyp-HKkIFeg,Hawaii Chinese History Center,21.3120706,-157.8639281,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJH3leYRNvAHwRehn0uIGxFJU,Fountains of the Living Water,21.3415057,-157.8799363,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJH3leYRNvAHwRehn0uIGxFJU,Fountains of the Living Water,21.3415057,-157.8799363,Park,fountain,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJh4mdFn1tAHwRjzKodSCWjEE,Pu'u O Kaimukī Park,21.2776172,-157.7991045,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,76,NA
+ChIJh5PSxi4SAHwRQ--liK3XTn0,Grace Church Kalama Valley,21.296487,-157.6725076,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJh5Z2zp5yAHwRkPjyqGPZwjI,Hunakai Park,21.266845,-157.7860977,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,43,NA
+ChIJh8qS--JtAHwRt6pZHIdyE_A,The Coffee Bean & Tea Leaf Kahala,21.279158,-157.7869798,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJh8wFugBtAHwRINuiF1mRkW4,Mānoa Community Garden,21.314949,-157.8070771,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJHaLSDtNtAHwRx434CQoXtDo,Tenri Cultural Center,21.3256707,-157.8491768,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJHcqYMWRuAHwRU92McT8rRnY,Full Gospel Glory Siloam Church,21.3230884,-157.873783,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJhcsajSBtAHwRbyuSPBGjhgw,Hoku Cafe,21.2978538,-157.840282,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,13,NA
+ChIJhdM3Ji5sAHwRoKCcguirihM,Nuʻuanu Congregational Church,21.3316353,-157.8423005,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJHe4AggpuAHwRBpZwglgSVAI,Hawaiian Historical Society,21.3037547,-157.8570892,Community Space,library,library; museum; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJhfAiOVBtAHwRrx0_G-6im-M,Hawaii DMV Now Kiosk,21.3016161,-157.8421682,Community Space,city hall,store; local_government_office; point_of_interest; establishment,OPERATIONAL,3.8,18,NA
+ChIJhQnvJnZyAHwR2_om5h-KlXE,Coffee Shop 831,21.2793652,-157.82519,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,187,NA
+ChIJHRKDvHxtAHwRhagv158avTU,Kaimuki Christian Church,21.2808021,-157.7982502,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,23,NA
+ChIJHRSP5pATAHwRdSE5NwpRjuo,Koko Head Elementary School Cafeteria,21.2748581,-157.7047726,Social Business,cafe,point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJhSVMMmRuAHwRhUVwEsV8_sg,Honolulu Community College Library,21.3220936,-157.8707198,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJhT9SlqdtAHwRW_zbXL8N_88,Encounter Church (Formerly New Hope Town),21.2770925,-157.7863744,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJhUDRVmNuAHwR8FNuIuxURyo,Jesse's Coffee Shop & Restaurant,21.3253411,-157.8695628,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4,99,NA
+ChIJhVtweZNtAHwROb3fnp9ySdY,Koolau Farmers,21.2966166,-157.8304496,Park,garden,point_of_interest; establishment,OPERATIONAL,4.4,82,NA
+ChIJhya0rB5vAHwRU3pX2myqeyY,Salt Lake District Park,21.3532359,-157.9104843,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,206,NA
+ChIJhya0rB5vAHwRU3pX2myqeyY,Salt Lake District Park,21.3532359,-157.9104843,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,206,NA
+ChIJHYoKVHRuAHwRl-fX6OSFjPE,Hawaiʻi Pacific University Bookstore,21.3069567,-157.8650344,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.2,106,NA
+ChIJhypzVWtvAHwRKC8E2Bkabek,Starbucks,21.3553179,-157.929448,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4,141,NA
+ChIJhypzVWtvAHwRKC8E2Bkabek,Starbucks,21.3553179,-157.929448,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,141,NA
+ChIJHyzP0sBtAHwRgBiaEA1l_bo,"MDP, Library Building",21.3039426,-157.8368427,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJhzKbiz9vAHwR5y0xMaG1irc,McDonald's,21.367039,-157.930089,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,584,NA
+ChIJHzuzfYdyAHwRH-sqi2FYPp4,Paradise Green Hawaii,21.2692487,-157.8090634,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,2,1,NA
+ChIJi_xilWwTAHwRnbS79TMmE_Q,Contemporary Landscaping LLC,21.3357731,-157.7302778,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJi0OH-3xyAHwR-Zhj4tligcg,Unity Church of Hawaii,21.2687977,-157.8125318,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,22,NA
+ChIJI2Z9bqltAHwRLT9WjA64XKw,Queen Emma Square,21.3102456,-157.8568575,Park,square,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJi3YY0aVvAHwRQz1vg9VW1O4,Pages & Pages,21.331331,-157.919114,Social Business,bookstore,convenience_store; book_store; pharmacy; health; store; point_of_interest; food; establishment,OPERATIONAL,3,7,NA
+ChIJi3YY0aVvAHwRQz1vg9VW1O4,Pages & Pages,21.331331,-157.919114,Social Business,bookstore,pharmacy; book_store; convenience_store; store; health; food; point_of_interest; establishment,OPERATIONAL,3,7,NA
+ChIJI6MWckRvAHwRyMabphBI9GM,Makalapa Neighborhood Park,21.3679394,-157.9329523,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,31,NA
+ChIJi6wj74hyAHwRvDEkl8At044,Diamond Head Crater Hike,21.2629444,-157.8041957,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.7,6167,NA
+ChIJI7ByhGBtAHwRrk-8krpvSLs,C4 Christ Centered Community Church,21.277651,-157.785699,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJi8C_a3tuAHwRdT_xUD8vOdk,Kānoa Street Mini Park,21.323555,-157.8671371,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,11,NA
+ChIJI9HUETdvAHwREb-BfX1JIho,Submarine Memorial Park,21.3555194,-157.9403148,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJIaHRl7QTAHwRn6neY0rbTNA,Nii R & S Nursery Inc,21.3063429,-157.696098,Park,garden,point_of_interest; establishment,OPERATIONAL,4.8,8,NA
+ChIJIcX5T5YSAHwRbagAxI4_mNY,King's Chapel East Oahu,21.2825208,-157.7355567,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,44,NA
+ChIJIfTJNqRvAHwRmaqkkmxpkA0,Daniel K. Inouye International Airport Cultural Gardens,21.3309069,-157.9200443,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.1,579,NA
+ChIJiTlbPYttAHwRlrEwsvUxTWQ,King David Kalākaua Statue,21.2839332,-157.831693,Park,fountain,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,26,NA
+ChIJiU6lxK0SAHwRYNU5nCoE5tA,ʻĀina Haina Elementary School Library,21.2794463,-157.7564968,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJIUl5lGVvAHwRfUXccNfjbm8,Silver Dolphin Bistro,21.355303,-157.9416096,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,126,NA
+ChIJiVNy8Q5vAHwR_aaDC1kek0Y,Forest City Dog Park,21.3456743,-157.9206119,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,80,NA
+ChIJiVNy8Q5vAHwR_aaDC1kek0Y,Forest City Dog Park,21.3456743,-157.9206119,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.3,80,NA
+ChIJiX5_6pJtAHwRiuq6bHF-Gmg,McCully District Park & Pool,21.2933913,-157.8317183,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,84,NA
+ChIJJ_0aqe1uAHwRliOK5y6MK1s,Fort Shafter Library,21.3460177,-157.883843,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.3,15,NA
+ChIJJ-i1jBltAHwRPq3D3iBBycc,Queens parking stall,21.3047447,-157.84969,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJj4UulckSAHwRsI_sJMnbXgQ,Wailupe Valley Neighborhood Park,21.2938012,-157.7543332,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,14,NA
+ChIJJ674k3luAHwRXxjL4kFMU84,Liliha Square,21.3196709,-157.8612528,Park,square,point_of_interest; establishment,OPERATIONAL,4.1,382,NA
+ChIJj6h52FZzAHwRV864YY0Y1Vw,Island Vintage Coffee Waikiki,21.2784002,-157.8286301,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,1788,NA
+ChIJj6h52FZzAHwRV864YY0Y1Vw,Island Vintage Coffee Waikiki,21.2784002,-157.8286301,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,1788,NA
+ChIJj7Z4A8JtAHwRs6OsGcqYFdE,First Christian Church of Honolulu,21.3045429,-157.8395123,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJj9lppd9vAHwRC1If974gYDE,Drive Thru Joe,21.3370737,-157.9399932,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJj9lppd9vAHwRC1If974gYDE,Drive Thru Joe,21.3370737,-157.9399932,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJJaeXAJhtAHwRVryYQSmrH08,The Church of Jesus Christ of Latter-day Saints,21.3014308,-157.8210627,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJJbmvjfxsAHwR1eOqFm-Rzug,Nakago's Garden Services,21.3263541,-157.7999848,Park,garden,general_contractor; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJjddxQUVvAHwRTXE1nn1DgkA,Wheelys Cafe Hawaii,21.3091301,-157.8626891,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJdUxP-BtAHwRtX-iSGj5Xfc,Sky Gate,21.3044727,-157.8556273,Park,fountain,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,21,NA
+ChIJjeCGCZBuAHwRX_kIi0JRRKs,Kalihi Valley District Park,21.3435563,-157.8693068,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,70,NA
+ChIJJeJLZ4RtAHwR270lRde7YW0,ʻŌlelo Community Media Kaimukī Media Center,21.2863605,-157.8166653,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJjek64G5uAHwRNprbr8mLJDU,Garden Center at The Home Depot,21.3177672,-157.8733474,Park,garden,furniture_store; home_goods_store; general_contractor; store; point_of_interest; establishment,OPERATIONAL,3.8,48,NA
+ChIJjek64G5uAHwRNprbr8mLJDU,Garden Center at The Home Depot,21.3177672,-157.8733474,Park,garden,furniture_store; general_contractor; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,3.8,48,NA
+ChIJJfuAOQRvAHwRiZTc4WUAFWY,Salt Lake-Moanalua Public Library,21.343128,-157.9125706,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJJfuAOQRvAHwRqgx-wI-WKts,Human Resources Office,21.3431278,-157.9125864,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJQHrFmdyAHwRQf6fAkxQhnM,Mākālei Beach Park,21.257632,-157.817006,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,266,NA
+ChIJjSgT-YBlAHwRqL_WDKarXmw,Jagger's Cafe Pearl Harbor,21.3455089,-157.9548761,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,285,NA
+ChIJJTYv8ettAHwRVSm1CZMLg9s,Pāwaʻa In-Ha Park,21.2982177,-157.838297,Park,park,park; point_of_interest; establishment,OPERATIONAL,2,3,NA
+ChIJjVmzBqJtAHwRTRwPIW3fuxc,Honolulu Gourmet Foods Cafe at Paradise Palms,21.300974,-157.815625,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,0,0,NA
+ChIJjVmzBqJtAHwRTRwPIW3fuxc,Honolulu Gourmet Foods Cafe at Paradise Palms,21.300974,-157.815625,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjw8EnfNtAHwRWvCGYc00j3o,Villa On Eaton Square,21.2871856,-157.8361704,Park,square,point_of_interest; establishment,OPERATIONAL,4.3,14,NA
+ChIJJWEev5ZvAHwRNObcEZtk_Z4,Likini Street Mini Park,21.3458969,-157.9033201,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.2,5,NA
+ChIJjxa3t7hlAHwRl4lx5fUtaRE,Aloha Memorial Park Bike Path,21.3382132,-157.9678242,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJJxzdSWVtAHwR7FkkUr3O21Q,Big ho square,21.3089117,-157.856729,Park,square,night_club; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJyEPn19uAHwRo-wEVxBFiHg,Jesus is Lord Church Hawaii Chapter,21.3313251,-157.8835908,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJk-79vvdvAHwR1j8G3pumuZU,Irwin Memorial Park,21.3076662,-157.8644009,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJk-hxlxkTAHwRqfDJw4472IU,Da Best Yard Cleaning Services,21.34608,-157.7260525,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJK15RTJBuAHwRuM4GNCHyZrQ,Ka Hale Hoano Hou O Ke Akua Church,21.3442467,-157.871579,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJk1bbDjcSAHwR_iapMJmU9fY,Kamilo'iki Community Park,21.295741,-157.6866225,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,110,NA
+ChIJk1vPVpBuAHwRs9K2BRvRqTE,Kalihi Baptist Church,21.3417189,-157.8686652,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJk2norGJuAHwRFx-AMlbBILg,Gospel of Salvation,21.3300126,-157.8693828,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJk5J06XRuAHwRAefXrozupJk,Tamarind Park,21.3085444,-157.8609923,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJk5J06XRuAHwRAefXrozupJk,Tamarind Park,21.3085444,-157.8609923,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJK5jSDQ1vAHwRpa0EComt4QI,Forest City,21.3480214,-157.9260969,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.1,52,NA
+ChIJK5jSDQ1vAHwRpa0EComt4QI,Forest City,21.3480214,-157.9260969,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3.1,52,NA
+ChIJK6v1W2cSAHwR93FpI589XCk,Ba-Le Sandwich Shop,21.2848894,-157.7084481,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,97,NA
+ChIJK6v1W2cSAHwRWCMCaaEleH4,McDonald's,21.285241,-157.7080782,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.8,419,NA
+ChIJK6v1W2cSAHwRWCMCaaEleH4,McDonald's,21.285241,-157.7080782,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.8,419,NA
+ChIJK83_U15tAHwRn0GQxPOg3X4,Paris Cafe & Banh Mi,21.2992519,-157.8402489,Social Business,cafe,meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,5,4,NA
+ChIJK93OZIptAHwR4nVrDS1g7pk,Velvet Video,21.2807741,-157.8296424,Social Business,bookstore,electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,3.8,28,NA
+ChIJK964XJFvAHwR6Dhqf0I4Lxg,Heeretea Hawaii,21.331523,-157.8761288,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,67,NA
+ChIJKaIJR3duAHwRXERxul7jUMU,Beretania Community Park,21.317076,-157.862066,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.7,130,NA
+ChIJKajF5nxtAHwRKz-rpQF40B0,Honolulu Assembly of God,21.2790976,-157.7989538,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,14,NA
+ChIJKbgOy1dzAHwRLMNfv00mpJw,Princess Kaʻiulani Triangle,21.2774872,-157.8245624,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJKbHKyettAHwRF4I3aJ97eX4,Ala Wai Neighborhood Park,21.2860885,-157.8281612,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,42,NA
+ChIJKcHLjfRtAHwRkQOrEjCzuuo,Hiking Hawaii Cafe,21.2856936,-157.834158,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.5,370,NA
+ChIJKcMsboxuAHwRCsVi46PemPU,Solid Rock Fellowship Assembly,21.3376197,-157.8767501,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJkdVujwtuAHwR-iEeSOKYmgk,Ninth Circuit Library,21.3042563,-157.8622775,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJKekt0XhlAHwRr3s9R7eaofk,Nelles Chapel,21.3404671,-157.9588873,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,8,NA
+ChIJkeqmvVZtAHwR8MGS4023Slo,Brew & Foam Coffee House,21.2876268,-157.832938,Social Business,cafe,bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,328,NA
+ChIJkeqmvVZtAHwR8MGS4023Slo,Brew & Foam Coffee House,21.2876268,-157.832938,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,328,NA
+ChIJKfVqh19uAHwRiqefROekE70,Kamakua Mau Loa Church of the Living God,21.3325,-157.8833333,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJkSpbpoRtAHwR1gzsucXKEb8,Café Kaila,21.288149400000002,-157.8150633,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.6,1116,NA
+ChIJkSpbpoRtAHwR1gzsucXKEb8,Café Kaila,21.288149400000002,-157.8150633,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,1116,NA
+ChIJkSpbpoRtAHwRU__92iK2Hnc,Anytime Cafe,21.28821,-157.8152156,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,115,NA
+ChIJkSpbpoRtAHwRU__92iK2Hnc,Anytime Cafe,21.28821,-157.8152156,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,115,NA
+ChIJkVgJe0dsAHwR0bci6b1hfzI,Bahá'í Faith - National Bahá'í Center of the Hawaiian Islands,21.3403567,-157.8329292,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,18,NA
+ChIJkVK0o2USAHwRgWM4elngHP0,Hawaiʻi Kai Public Library,21.2773876,-157.7035605,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,23,NA
+ChIJkwSF8OZtAHwRWyGiz_X_6XQ,Coral Cafe,21.301669,-157.848558,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJkwSF8OZtAHwRWyGiz_X_6XQ,Coral Cafe,21.301669,-157.848558,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,11,NA
+ChIJkXMM1fptAHwRVMYDg0SrXDY,Huikala Baptist Church,21.2937103,-157.8479268,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,55,NA
+ChIJKYFpl-dtAHwRtan8og5mGcU,Door of Faith Church & Bible Sch,21.3008154,-157.8443807,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,9,NA
+ChIJKz6POY1uAHwR7EuCrQL53Mw,Samoan Kalihi Full Gospel,21.3415069,-157.8799375,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJKZpLsNZtAHwRR5IDQKbng4c,LIFE Christian Church Hawaii,21.3214998,-157.854417,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJL__zaHZyAHwRbJJnQqp4xuc,KaiFresh,21.2768725,-157.8261224,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.3,119,NA
+ChIJl0izdgFvAHwRU6NMw2dK2sE,Catlin Park Community Center,21.339379,-157.9180244,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,33,NA
+ChIJl3WqjHpuAHwRpcBTYQa7bo4,Su Gran Alabanza,21.3203666,-157.8663219,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJl4oUDvBtAHwR4IfliE9tS0I,Pan Am Espresso Bar,21.292015,-157.8394111,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJl4S8zxVjAHwRqsNWTDH6KXE,Palehua Community Association,21.3070175,-157.8625193,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,1,3,TRUE
+ChIJL7xVf3RtAHwRtuuriTHzdG8,Honolulu Bible Church,21.29666,-157.7987931,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJL9i5QnZvAHwRdgBlVTSlx-E,Church of Christ at Pearl Harbor,21.3406441,-157.9366904,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,27,NA
+ChIJl9vdJQRvAHwRXJ7UkXSp0xM,AJ Smoothie Cafe,21.3126286,-157.8641837,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJlbon2OVuAHwRgCFDl57orDw,Moanalua Dog Park,21.3509782,-157.8949744,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.2,98,NA
+ChIJlbon2OVuAHwRgCFDl57orDw,Moanalua Dog Park,21.3509782,-157.8949744,Park,fountain,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.2,98,NA
+ChIJlcZwe3NuAHwRxU6qJaMcwZg,Department of Community Services,21.3200112,-157.8706456,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJLei7VgpvAHwRAr-DjTcWvck,Kakaʻako Ocean Friendly Garden,21.2964587,-157.8628757,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJlS5beXZyAHwRXtOldATHvkk,Häagen-Dazs,21.2772961,-157.8266925,Park,fountain,restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,409,NA
+ChIJLUYsJIttAHwRNN3JzmJWEMw,Fish Hook Cafe,21.2837636,-157.8320616,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,127,NA
+ChIJLUYsJIttAHwRNN3JzmJWEMw,Fish Hook Cafe,21.2837636,-157.8320616,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.6,127,NA
+ChIJlW_LFAxtAHwRpdN4gBDmPqo,Plant Plant,21.3062599,-157.8194639,Park,garden,park; general_contractor; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJlW_LFAxtAHwRpdN4gBDmPqo,Plant Plant,21.3062599,-157.8194639,Park,garden,general_contractor; park; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLW00lkESAHwRFq19Vj298lo,Kaiser High School Library,21.2859044,-157.6944904,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,2,1,NA
+ChIJLxFk4TcSAHwRZo0wtVJNdyo,Mariner's Cove Bay Club,21.2955355,-157.690106,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,11,NA
+ChIJlxgf5KZyAHwR9z1PAhTPcYQ,Waiʻalae Beach Park,21.2696691,-157.7776375,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,1008,NA
+ChIJLXps8eFtAHwRk-lj7fhoNLg,American Job Center Hawaii (Oahu),21.316775,-157.8703696,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJLXps8eFtAHwRRYeLQu4KFXo,Honolulu Liquor Commission,21.3013666,-157.8559454,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.7,12,NA
+ChIJLXwffVVtAHwRAS56jjd7b3U,Leslie's Coffee and Gift,21.3294374,-157.8526178,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJlZ3wS3RuAHwRTqAPc4jiQ_I,Jojo Coffee And Espresso,21.3108339,-157.8602001,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJLz5JCF9uAHwRc1C9tzIgS_E,Episcopal Church of the Holy Cross,21.3306908,-157.8839158,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLzWwNKRzAHwR6SCbCHzqp_4,Kuilei Cliffs Beach Park,21.2554654,-157.805224,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,24,NA
+ChIJm_JNC4NtAHwRfQA4P8KcNR0,Sweet E's Café,21.286155,-157.8135931,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,1890,NA
+ChIJm_JNC4NtAHwRfQA4P8KcNR0,Sweet E's Café,21.286155,-157.8135931,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,1890,NA
+ChIJm-7si3VuAHwRGJ7p7JYOGgs,Emalani Garden,21.310389,-157.8572887,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJM0lsN2cSAHwROpIQYO0gs6Y,Island Brew Coffeehouse,21.2841139,-157.7071389,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,695,NA
+ChIJM0lsN2cSAHwROpIQYO0gs6Y,Island Brew Coffeehouse,21.2841139,-157.7071389,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,695,NA
+ChIJM0oy7kBvAHwRIZ6D96Cxs5M,Starbucks,21.366412,-157.930075,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,217,NA
+ChIJm3NEXnRuAHwRACxy_LV_2DM,Burger King,21.3424165,-157.9491535,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,205,NA
+ChIJm4n0xq9zAHwRGFlLzMd3b9g,Operation Red Wings Medal Of Honor Park,21.2591653,-157.797632,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,37,NA
+ChIJM7pEwCYSAHwR7Z9WrqcLyA4,Wawamalu Beach Park,21.287237,-157.669829,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,452,NA
+ChIJM9pPH6xzAHwR2oxFKqgh2wk,Kapiolani fitness park,21.2671538,-157.8211214,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMaPFMeptAHwRmj7hhpv0HY8,Cartwright Neighborhood Park,21.3015045,-157.8381629,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.4,124,NA
+ChIJmbYMzu5tAHwRuRa_pPjmfNw,Back Alley Cafe,21.2980837,-157.8412699,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,113,NA
+ChIJMcMe4V9tAHwRwEH0C0kq7xo,Olive Tree Cafe (Cash Only),21.2750652,-157.7853815,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,405,NA
+ChIJMdT9mnptAHwRxkbru5caAuU,Le Cafe Phin,21.2893487,-157.8112168,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJMdT9mnptAHwRxkbru5caAuU,Le Cafe Phin,21.2893487,-157.8112168,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,5,1,NA
+ChIJMeEVPGNuAHwRbe_zw1Xplx8,Pyung Kang Christian Rfrm Church,21.3269631,-157.8699189,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJmfhivXdtAHwRWIL0FHqBkLY,Sullivan Family Library,21.29042,-157.8072792,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJmQkhcmduAHwREL4wl1_HOFA,Lion Coffee / Lion Cafe and General Store,21.3242843,-157.8797618,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,159,NA
+ChIJmQkhcmduAHwREL4wl1_HOFA,Lion Coffee / Lion Cafe and General Store,21.3242843,-157.8797618,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,159,NA
+ChIJMQpDPOltAHwR2k5z0cCvaiI,Spero Spera,21.2999069,-157.8407943,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,110,NA
+ChIJMQpDPOltAHwR2k5z0cCvaiI,Spero Spera,21.2999069,-157.8407943,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,110,NA
+ChIJmSAXAYlyAHwRUuIwMlELnkI,Diamond Head State Monument,21.2637984,-157.8040943,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,12670,NA
+ChIJmSAXAYlyAHwRUuIwMlELnkI,Diamond Head State Monument,21.2637984,-157.8040943,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,12670,NA
+ChIJmTqp-nZyAHwR7YrrUbvbyh4,Kai Coffee Hawaii,21.2761632,-157.8250809,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,774,NA
+ChIJMUa27SFvAHwRlOdXlsvHZnI,AMR Skatepark,21.3599277,-157.9097322,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,74,NA
+ChIJMw4ekPpuAHwRBWLdgMRyY28,Big Rock Fabricators,21.3431892,-157.8938446,Park,fountain,general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.4,16,NA
+ChIJMw4ekPpuAHwRBWLdgMRyY28,Big Rock Fabricators,21.3431892,-157.8938446,Park,fountain,general_contractor; store; point_of_interest; establishment,OPERATIONAL,4.4,16,NA
+ChIJMw4ekPpuAHwRBWLdgMRyY28,Big Rock Fabricators,21.3431892,-157.8938446,Park,garden,general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.4,16,NA
+ChIJMw4ekPpuAHwRBWLdgMRyY28,Big Rock Fabricators,21.3431892,-157.8938446,Park,garden,general_contractor; store; point_of_interest; establishment,OPERATIONAL,4.4,16,NA
+ChIJMwqiXYRtAHwRq4AcznGRy-8,Inspire Church Honolulu,21.2995324,-157.8259335,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,16,NA
+ChIJmwSiFOMTAHwR6KLkvZjF6bo,Hahaione Elementary School Cafeteria,21.296355,-157.7103214,Social Business,cafe,point_of_interest; establishment,CLOSED_TEMPORARILY,5,3,TRUE
+ChIJmXYY8oxvAHwRzbdZNj98mn4,Starbucks,21.33314,-157.924055,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,2.6,8,NA
+ChIJmXYY8oxvAHwRzbdZNj98mn4,Starbucks,21.33314,-157.924055,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,2.6,8,NA
+ChIJmy293HhuAHwRsE0BjnE0fpo,CONVERGE,21.3225242,-157.8592982,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMz3Hm_NvAHwRrBRhyMunZMA,Dunkin',21.3321599,-157.9202847,Social Business,cafe,meal_takeaway; cafe; bakery; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJMZBcIUMTAHwR9BSG7F3OAUU,Olomana Tropicals,21.345615,-157.741069,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJN_jrj65tAHwROV8UKbJZlO4,"Cafe Ya , LunchYa_Best",21.2832827,-157.83198960000001,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,5,2,NA
+ChIJn_q98KltAHwRlfuz9gFWIWY,Manoa Rd + Manoa Rec Center,21.316398,-157.810107,Community Space,community center,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn-ghZm5tAHwREV0b2odhZow,Dole Community Garden,21.3093005,-157.8503116,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJN-HSXwZvAHwRdMQweXbT3Tg,Honolulu Bible Fellowship,21.3409353,-157.9138376,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn1e_UpVtAHwRDbZJ2rKJLRU,Punahou Square Park,21.3027093,-157.8328407,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.7,10,NA
+ChIJn1e_UpVtAHwRDbZJ2rKJLRU,Punahou Square Park,21.3027093,-157.8328407,Park,square,park; point_of_interest; establishment,OPERATIONAL,3.7,10,NA
+ChIJN1iEuXVuAHwRawF-DQkuvSs,Century Square Professional Alliance,21.3106848,-157.8594525,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn1sVvBVvAHwRCDnqYeGWHEw,Church of the Nazarene,21.3591346,-157.9244396,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJn2CHfHNuAHwRpD3XlvtKXGw,Hawaii State Public Library System,21.3095488,-157.8632065,Community Space,library,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJN2Vf3-5uAHwRvFsIOIRUxTo,Moanalua Gardens Missionary Church,21.34958,-157.8897704,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJN3I1-YluAHwRek64MZ0524c,Community of Christ,21.3402646,-157.8790562,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJN5CzdOdtAHwRvGVvvUiXp1M,Pavilion Cafe,21.3038804,-157.8484616,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,6,NA
+ChIJn5q7gvRuAHwRmTG_tFNQDSE,Apostolic Faith Church,21.3382301,-157.8827804,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJN5rOrK9vAHwRzYJAXYDBy24,Starbucks,21.3331473,-157.9240603,Social Business,cafe,cafe; store; food; point_of_interest; establishment,CLOSED_TEMPORARILY,3,3,TRUE
+ChIJN5rOrK9vAHwRzYJAXYDBy24,Starbucks,21.3331473,-157.9240603,Social Business,cafe,cafe; food; store; point_of_interest; establishment,CLOSED_TEMPORARILY,3,3,TRUE
+ChIJn6bHmI1tAHwRlUFYzGaF6CI,Gods Remnant,21.2900282,-157.829639,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn7KGg-NtAHwRA57TIUoJCoQ,Bluetree Cafe Kapiolani,21.2967132,-157.851479,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,122,NA
+ChIJnaVDqaRtAHwRnv1xlUARHGw,The Café at DaDa,21.2901551,-157.8395601,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJnR3zRMJvAHwRhHNQRESZrZg,Moanalua Valley Neighborhood Park,21.3739479,-157.8803413,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.6,9,NA
+ChIJNRZDgJFtAHwR043C_ZdwCfY,Peace Cafe,21.2936463,-157.8271105,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,477,NA
+ChIJnSkKr2VrAHwRH8BwIGKDzOI,First Presbyterian Church of Honolulu at Ko‘olau,21.374277,-157.7938941,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,27,NA
+ChIJNSsIrq8SAHwRqGkgVIgjM2o,Holy Nativity Church,21.2787462,-157.7519253,Place of Worship,place of worship,church; place_of_worship; point_of_interest; store; establishment,OPERATIONAL,4.9,9,NA
+ChIJNSsIrq8SAHwRqGkgVIgjM2o,Holy Nativity Church,21.2787462,-157.7519253,Place of Worship,place of worship,church; place_of_worship; store; point_of_interest; establishment,OPERATIONAL,4.9,9,NA
+ChIJnUDztr9tAHwRUa-pod_Y0q4,Punahou School Garden,21.304369,-157.830623,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJnVdTnPNtAHwRfFCUCUCFVMM,Eaton Square Customer Parking,21.2874224,-157.8366146,Park,square,parking; point_of_interest; establishment,OPERATIONAL,4,11,NA
+ChIJNVjlcAxtAHwRSVNeA0y__yM,Thomas Square Public Toilets,21.3023978,-157.8486148,Park,square,point_of_interest; establishment,OPERATIONAL,2,2,NA
+ChIJnXgdbz9vAHwRi70cjjK5t0c,Jack in the Box,21.3657309,-157.9274266,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,328,NA
+ChIJnXofenZtAHwR5cxahTRTkik,Antioch,21.2768972,-157.7868408,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNYbM5idsAHwR1az1xVbr_fY,Midkiff Learning Center,21.340562,-157.8558158,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,7,NA
+ChIJNYWN3wxuAHwRBEMPfNcZrGk,Metro Christian Church,21.321839,-157.877916,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJnzjNjl9vAHwRnkRa-Nd6ntA,Native Books at Arts & Letters,21.3117772,-157.8609955,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJNzQRq4sSAHwRyyBWm5fQ_2M,Maunalua Bay Beach Park,21.2837497,-157.7172941,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,656,NA
+ChIJo0_g9OFtAHwRjQz4s0e7nIE,Marketplace Cafe,21.3007417,-157.8555905,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJO017PxZvAHwRox56bQCpqWc,PK's Place,21.3353965,-157.938181,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJo2rgWz5zAHwReZkFB3KjRr8,Cafe Morey’s,21.2692018,-157.8129672,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.6,79,NA
+ChIJo2rgWz5zAHwReZkFB3KjRr8,Cafe Morey’s,21.2692018,-157.8129672,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,79,NA
+ChIJo3cafjFsAHwRrqR1PBU6XKY,創価学会,21.3327089,-157.8416136,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJO3hHnmVuAHwRMbJMvk1VW4E,Kalihi Community Center,21.320964,-157.872126,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJO4cRlF1tAHwRIvS-223_mdE,Wilson Community Park,21.2812136,-157.7843252,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,63,NA
+ChIJo6YUY4VtAHwRKNnVZ8MqPdU,Savant Books and Publications,21.288137,-157.820935,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJo8gaZ0UTAHwRZSmWxS2ZmwY,Koko crater botanical garden parking,21.2937057,-157.6770352,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJO9egTq4SAHwRFWsizL1ogiA,La Tour Cafe,21.2788998,-157.7532631,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,126,NA
+ChIJO9egTq4SAHwRFWsizL1ogiA,La Tour Cafe,21.2788998,-157.7532631,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,126,NA
+ChIJOa0-tqQSAHwRDcIHlyI7fVE,Kawaikui Beach Park,21.2792639,-157.7447889,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,674,NA
+ChIJobHwXOJtAHwRt9d3-jEh1U0,Egghead Cafe,21.3233339,-157.8742748,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.5,469,NA
+ChIJOeVX0AxuAHwR1CeK95qoPt4,"Learning Commons, HPU",21.3065483,-157.8658124,Community Space,library,library; atm; finance; point_of_interest; establishment,OPERATIONAL,2.3,4,NA
+ChIJOSED0j5zAHwRWrtfyxkIh9Q,ALOHA CAFE PINEAPPLE,21.269786,-157.810967,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,5,40,NA
+ChIJOSED0j5zAHwRWrtfyxkIh9Q,ALOHA CAFE PINEAPPLE,21.269786,-157.810967,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,40,NA
+ChIJoT6LgBRtAHwRPVbjpb9UYeE,Palolo Garden A O A O,21.3002622,-157.7912472,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJOTg0SndtAHwRAitWn36HwtI,Apostolic Faith Church,21.2889985,-157.8035525,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJoV7awlpuAHwRe-c4yDM-GNY,Thắng's French Coffee & Bubble Tea (SAND ISLAND),21.3235592,-157.8905791,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,7,NA
+ChIJoV7awlpuAHwRe-c4yDM-GNY,Thắng's French Coffee & Bubble Tea (SAND ISLAND),21.3235592,-157.8905791,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,7,NA
+ChIJoWSSr5htAHwR7NqJQc4eIrk,UH Paradise Palms Café & Food Court,21.3009667,-157.8156031,Social Business,cafe,food; point_of_interest; establishment,OPERATIONAL,3.9,41,NA
+ChIJOwvAtnFuAHwRkYzdkv81Kh4,Honolulu Medical Examiner Office,21.315895,-157.8673658,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJOWVM-IFyAHwRQfVD9rPexx8,Kapāolono Community Park,21.2759346,-157.8035129,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,196,NA
+ChIJox8V-k8TAHwRkOtHiPLDqAg,First Assembly of God East Honolulu,21.2777853,-157.7522369,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJoXXIk2Ab_hMRSWbe2nVpkPE,Hawaii State Public Library,21.3059842,-157.857775,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.1,77,NA
+ChIJOYQ9FNhuAHwR_8tHLefedog,Splash Park,21.368079,-157.9034575,Park,park,point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJOZ8MCXttAHwRX7Ifa0NYh2U,Bean About Town,21.2836395,-157.8002994,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,84,NA
+ChIJozGgw1ltAHwRlUV73Ltb6og,"State of HI, Department of Agriculture's Tree Park",21.2992401,-157.839748,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJozrCReBtAHwR0eZnDQR8X7A,Department of Planning & Permitting,21.3041125,-157.8546356,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.2,13,NA
+ChIJozrCReBtAHwR5GvYWHuEUME,Honolulu Emergency Management,21.3040708,-157.854693,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJozrCReBtAHwRVnJbBoT_0Xw,Dept Information & Technology,21.3042128,-157.8547884,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJozrCReBtAHwRyE9nmeKKTo8,Honolulu City Road Maintenance Division,21.3040817,-157.85474,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp_3XRpoXl3wRm6b0eL24Blk,Quinn’s Reef,26.0500112,-173.9608847,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp0ovs3luAHwRqRXH3dMGpzA,Art of Color Store,21.2852346,-157.8035594,Social Business,bookstore,book_store; clothing_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJp10Y7fBtAHwRSHzRdsZlG_0,Target,21.2923527,-157.8421734,Park,fountain,department_store; furniture_store; clothing_store; electronics_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.3,529,NA
+ChIJp1LbAyFzAHwRqq9-V7SvhFI,Hawaiian Aroma Caffe Ohana East,21.277722,-157.8247846,Social Business,cafe,cafe; bar; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,160,NA
+ChIJp1LbAyFzAHwRqq9-V7SvhFI,Hawaiian Aroma Caffe Ohana East,21.277722,-157.8247846,Social Business,cafe,cafe; bar; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.5,160,NA
+ChIJp1sJ5MlvAHwRY-NKgJ3nUaM,Kamaliʻi Mini Park,21.3113951,-157.8586046,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJP4zJv2NtAHwRSjjt96iOySk,Waialae Baptist Church,21.2762119,-157.7904542,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,10,NA
+ChIJP65WihNtAHwRgtFCZyr9CmY,Plantoem,21.284068,-157.8018763,Park,garden,point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJp6Q8MDdsAHwRxi5zcq1N4wI,Nuʻuanu Valley Park,21.335604,-157.838463,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,153,NA
+ChIJP6UD73ZuAHwRGsNbuPd60pE,Canaan Community Gospel Center,21.3142258,-157.8615349,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJP6UD73ZuAHwRz7zv4DipTqQ,Phuc Hing Gift & Book Store,21.3142258,-157.8615349,Social Business,bookstore,store; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJpbhCGGRuAHwRCd8pZy3FAH4,Light of the World Missions,21.3244588,-157.8741047,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPd_p5RlzAHwRvbTYdZuVC28,Kapiolani Park Special Bench,21.2653937,-157.8205618,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJpdNSbOFtAHwRsKBZCIKskHs,Sharetea,21.2756667,-157.786054,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.8,47,NA
+ChIJpdrSZShvAHwRTgruKe2R7LU,Fountain Of St. Andrew's Cathedral,21.3095781,-157.8576732,Park,fountain,point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJpebuGIxuAHwReJ-6yZYWiS4,Susannah Wesley Community Center,21.3385879,-157.8755132,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJpQaLaqdtAHwR-RCAR-9uW1k,Manoa Public Library,21.3071488,-157.8108279,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,28,NA
+ChIJPRuakxdvAHwRiMJR9UYHaBo,Chinatown Municipal Parking entrance,21.3103212,-157.8618139,Community Space,city hall,parking; point_of_interest; establishment,OPERATIONAL,2.7,3,NA
+ChIJpTZD1mVuAHwRHhEEeRw7ECk,City Square Shopping Center,21.3223031,-157.8756352,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.2,481,NA
+ChIJPWWwU-BtAHwRHXoeBKIo2c0,Na Pueo Mini Park,21.3391639,-157.8485721,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,5,NA
+ChIJpXbkP8NvAHwR_nyGxE7d9kM,Lil' Orbits Cafe,21.3101479,-157.8601222,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJPxztWdBtAHwRAc2alSu_5mU,The Church of Jesus Christ of Latter-day Saints,21.3284287,-157.8549632,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,8,NA
+ChIJPxztWdBtAHwRb5WGuwS6Mgg,The Church of Jesus Christ of Latter-day Saints,21.3184256,-157.8477216,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJPYCEFIptAHwRa74GtuHgR4E,Mont Blanc,21.2809783,-157.8285107,Park,fountain,jewelry_store; point_of_interest; store; establishment,CLOSED_TEMPORARILY,3,6,TRUE
+ChIJpZOQyA1mAHwRUC7mAwBMtSs,Board of Water Supply,21.306015,-157.853811,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,2.8,24,NA
+ChIJQ-bHWWVuAHwRuxmD9z7JuYs,Kapalama Driver Licensing Center,21.3196277,-157.8709125,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.9,217,NA
+ChIJQ0mMp3ttAHwR8SKPJOnw4nw,The Curb Kaimuki,21.2851204,-157.8032102,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,271,NA
+ChIJq0QODYptAHwR1bol9d5Vi8U,Cafe,21.2801893,-157.8286891,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJq0QODYptAHwR1bol9d5Vi8U,Cafe,21.2801893,-157.8286891,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJq4Ive5BtAHwR_x4xx7en1Iw,Smokey's Pipe and Coffee,21.292564,-157.8218622,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,179,NA
+ChIJq5hQJZhtAHwR2YNcns5hnH8,Gregg M Sinclair Building (Former Library),21.298409500000002,-157.8205118,Community Space,library,point_of_interest; establishment,OPERATIONAL,3.8,13,NA
+ChIJQ5VTxFttAHwRNKDBQDKv2GY,Sussy Wittle Baka Churchussy onion church,21.3032644,-157.8443517,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ5w5KVJtAHwRaRTys0efARE,Kāmole Mini Park,21.280369,-157.767244,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,18,NA
+ChIJq6lPe45uAHwRe22D5vB8q5s,Autumn Cafe,21.3401933,-157.8741424,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6pGHnByAHwRqKtQu8z-dcI,Waikiki Beach Gathering - Church on da Beach,21.267057,-157.821968,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJq6q6MeJtAHwRm1MGt7B2Avs,Pueo Library,21.299643,-157.8544608,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6q6MeJtAHwRm1MGt7B2Avs,Pueo Library,21.299643,-157.8544608,Social Business,bookstore,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6qqquVtAHwRccLx2Q2mhhE,City Church Honolulu,21.3258895,-157.8469576,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJq6qqquVtAHwRQm6srUn4qUQ,Blaisdell Concert Hall,21.3014275,-157.8497123,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.4,513,NA
+ChIJq6ra7HRuAHwRfbNCtcFtAYU,Library Creative,21.3088058,-157.861346,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6rGl1xuAHwRWEgLfJMwf0E,Living Words Christian Center,21.32313,-157.8859241,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6rqvJhtAHwRhpSsLxNwqk4,Esp-Library External Services,21.3008756,-157.8161899,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,2.5,2,NA
+ChIJq7ilI0ZtAHwR51ng5vmG_Ng,Manoa Square,21.3104247,-157.8084728,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJQ7Jz1YBtAHwR9_h8RTFRVuI,Lukepane Community Garden,21.2822531,-157.8172284,Park,garden,park; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJq8DE_ZdtAHwR3bgHTgE1_08,Pāwaʻa Community Church,21.3014483,-157.8214538,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJQ8E-ynttAHwRHJ1Fky3wBG4,Kaimuki Superette,21.2844858,-157.8019492,Social Business,cafe,store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,146,NA
+ChIJQaWOFc9tAHwR9OoHwfQ51gI,Papakōlea Community Park,21.3169179,-157.8406779,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,113,NA
+ChIJqazweHluAHwRytoO8lbOq-0,Cedar Assembly of God,21.321545,-157.862321,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,12,NA
+ChIJQeTbMZ1vAHwR33p6jg8AYFk,Earhart Community Center,21.3381499,-157.9400124,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.8,4,NA
+ChIJQf310d9tAHwRXGcCVlphhis,Sunshine Espresso Coffee,21.3066159,-157.8544936,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJQf310d9tAHwRXGcCVlphhis,Sunshine Espresso Coffee,21.3066159,-157.8544936,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJqTt_H4VyAHwRstbFd257luo,Diamond Head Bark Park,21.2672137,-157.7990419,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,152,NA
+ChIJQUfAfn1uAHwRMr5sLB30K3E,Loʻi Kalo Mini Park,21.3300284,-157.8661069,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,33,NA
+ChIJqW1zdWsSAHwRzTO8ewqjWAg,Koko Head Trailhead Parking Lot,21.2777909,-157.6925001,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,158,NA
+ChIJqwnmqj1tAHwRWQuZLJXL71Y,Maryknoll Community Center,21.3008498,-157.830902,Community Space,community center,gym; school; health; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQyGBKWRvAHwRzE1TdA9o-to,Dunkin',21.3347593,-157.9146818,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; store; point_of_interest; establishment,CLOSED_TEMPORARILY,3.4,12,TRUE
+ChIJqYnWFrBtAHwR7BS20YFCFrA,Puʻu ʻUalakaʻa State Wayside,21.3125434,-157.8249362,Park,fountain,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,203,NA
+ChIJQZ-aPXVyAHwRQAbmaNW0bN4,Siam Square,21.2816989,-157.8284479,Park,square,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,666,NA
+ChIJQZ-aPXVyAHwRQAbmaNW0bN4,Siam Square,21.2816989,-157.8284479,Park,square,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,666,NA
+ChIJqzNlhFttAHwRQXC0rDmyW38,'Āina Koa Park,21.2811325,-157.7789615,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,24,NA
+ChIJQZuuPuxtAHwRT_Vr0fxwP8Q,Potluck Café & Coffee,21.2990343,-157.8413134,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJR_EjhXduAHwRbb-5fa9oWJU,Community Assistance Center,21.3173278,-157.8594702,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJr_IgqnZuAHwRjIdLapVQwI8,Mickey Cafe,21.31288,-157.8627694,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.9,20,NA
+ChIJr_W8FQITAHwRJKwBTcddmJI,Picnic area,21.3114629,-157.7211173,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,15,NA
+ChIJR062TeJtAHwR0bsX_F_mVP0,Cafe Duck Butt,21.2983929,-157.854248,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,271,NA
+ChIJR30Hft5uAHwRG7EQZUWOmXU,Moanalua Community Park,21.3508252,-157.8947427,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,81,NA
+ChIJR5TNKrwSAHwRM0WHE3YpO_s,Niu Valley Neighborhood Park,21.2845472,-157.7409208,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,42,NA
+ChIJR7clWHBvAHwROjELOKneqGY,Imagine (meet at Entrepreneurs Sandbox),21.2988281,-157.8613968,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrc54rGNuAHwRmdRb4hIIXl8,Faith Hope & Love Christian,21.3280075,-157.872324,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJrdrP4nRuAHwRB29LAQe04i8,Square Barrels,21.3089225,-157.8601094,Park,square,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,507,NA
+ChIJrdrP4nRuAHwRB29LAQe04i8,Square Barrels,21.3089225,-157.8601094,Park,square,restaurant; food; bar; point_of_interest; establishment,OPERATIONAL,4.4,507,NA
+ChIJrdrP4nRuAHwRkOLLGqCzYeQ,Honolulu Coffee at Bishop,21.3083414,-157.8609072,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,72,NA
+ChIJrdrP4nRuAHwRkOLLGqCzYeQ,Honolulu Coffee at Bishop,21.3083414,-157.8609072,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,72,NA
+ChIJRe1ZsC5vAHwRkFCJvA6PTMY,Hālawa Xeriscape Garden,21.381479,-157.905484,Park,garden,tourist_attraction; park; point_of_interest; establishment,CLOSED_TEMPORARILY,4.4,47,TRUE
+ChIJrf5FS3JvAHwR2e-Q9Nt0Kv8,McDonald's,21.3491586,-157.9302639,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.7,16,NA
+ChIJrf5FS3JvAHwR2e-Q9Nt0Kv8,McDonald's,21.3491586,-157.9302639,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.7,16,NA
+ChIJrf5FS3JvAHwRsMk1rgDhDZw,I Love Country Cafe,21.3488967,-157.9299128,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3,17,NA
+ChIJrf5FS3JvAHwRWM1H2ajOs_s,McDonald's,21.3440972,-157.9281521,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.7,381,NA
+ChIJRQewc-dtAHwR18Pzo87W18k,Robert C Allerton Library,21.304104,-157.8485574,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJRQewc-dtAHwRzlsPd8gv6zk,Honolulu Museum of Art Cafe,21.3037982,-157.8487021,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,51,NA
+ChIJrQhY1n1tAHwRE3u4s6mMuqM,1801 Cafe & Bar,21.2901716,-157.8369998,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrQhY1n1tAHwRE3u4s6mMuqM,1801 Cafe & Bar,21.2901716,-157.8369998,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,0,0,NA
+ChIJRRaoXKhvAHwRytEXFyU0Etc,Dunkin',21.3347612,-157.9146864,Social Business,cafe,meal_takeaway; cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,1232,NA
+ChIJRRaoXKhvAHwRytEXFyU0Etc,Dunkin',21.3347612,-157.9146864,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.9,1232,NA
+ChIJrShNcnVyAHwRVCKmLw00-HE,Café Glacé - Lewers Street,21.2791974,-157.8308253,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,475,NA
+ChIJrShNcnVyAHwRVCKmLw00-HE,Café Glacé - Lewers Street,21.2791974,-157.8308253,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,475,NA
+ChIJrSXDcmttAHwRxDt2E-YAs5Y,Maunalani Community Park,21.2957327,-157.7904112,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,86,NA
+ChIJRTELn3ltAHwRyFPrPMGFZ6Y,Epiphany Episcopal Church,21.2819459,-157.801943,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,10,NA
+ChIJrVBr511tAHwRbJMi_7iKQDQ,The Church of Jesus Christ of Latter-day Saints,21.2798747,-157.7840433,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJRVxM3gpuAHwR3_f8hTskzFs,Supreme Court Law Library,21.3055424,-157.8600905,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJrVYDZE1vAHwRdihs1no4xV8,First Church Hawaii,21.3438311,-157.9295844,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJrwAjlyFvAHwR-QqRQUwMyWk,AMR Recreation center,21.3607068,-157.9094338,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,33,NA
+ChIJRWCEaSkSAHwR2j0-x-6gveo,Prince of Peace Lutheran Church,21.2870027,-157.8358728,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJrx8N7ANvAHwRwxUj5liUuFY,Perefoti Island Fixx,21.3554693,-157.9281638,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrziRLRMTAHwRJGEDJ-Hh7wk,Fantastic Gardens HawaII,21.333626,-157.729492,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrzSDAC5vAHwRD9DywJdYGVQ,Hālawa District Park,21.3736522,-157.9159355,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,253,NA
+ChIJRZutDXBtAHwRHD0mBsh3MQQ,Mirage Art & Coffee,21.2876387,-157.7988018,Social Business,cafe,art_gallery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,85,NA
+ChIJs0QisnlyAHwRBO0OUJ8W09I,Liliʻuokalani Gardens at Waikīkī King Tower,21.2751049,-157.8193828,Park,garden,point_of_interest; establishment,OPERATIONAL,4.1,36,NA
+ChIJS0x9nwdtAHwRu5PeahJk96Q,Mānoa Valley District Park,21.3145454,-157.8083048,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,458,NA
+ChIJs14suS9tAHwRggA7KQI9-GU,Centennial Park Waikiki,21.2811441,-157.8268172,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJS2QJlwtuAHwR7NrnQBn65OA,Prince Kuhio Cafe,21.303465,-157.8622807,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,3.6,8,NA
+ChIJS2WYrXZuAHwR-r6RVZHx_6E,Pauahi Community Center,21.313487,-157.862789,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.5,2,TRUE
+ChIJS4zEicNtAHwRw6ggjINoG8s,Stevenson Recreation Center,21.3112885,-157.8410328,Community Space,community center,point_of_interest; establishment,OPERATIONAL,2,1,NA
+ChIJs5k2ZsFtAHwR-otDdIKbgSY,Waller Memorial Chapel,21.3078386,-157.8383947,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJs5ra1fpuAHwRMHcpyd62H9U,Grainger Industrial Supply,21.3451634,-157.8960074,Park,fountain,point_of_interest; store; establishment,OPERATIONAL,4,24,NA
+ChIJs5ra1fpuAHwRMHcpyd62H9U,Grainger Industrial Supply,21.3451634,-157.8960074,Park,fountain,store; point_of_interest; establishment,OPERATIONAL,4,24,NA
+ChIJS6j-nl9uAHwRj_rgW3coIZ4,Hawaii China Mission Church 華夏使命教會,21.3314,-157.8835958,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJS7PZP2ZuAHwRT2nuP_o8bK8,Thắng's French Coffee & Bubble Tea,21.321745,-157.875885,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,137,NA
+ChIJs8jSKHBuAHwRotHWbssBmVE,IL Gelato Hawaii,21.317277700000002,-157.8687119,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,31,NA
+ChIJs8TrsWxtAHwRsUuvi3-0ShM,"Sanctuary, CUC",21.2990341,-157.8336541,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJs9auRHNuAHwR2uoKH4vT3CA,Bin's Convenience Store,21.3078674,-157.8633959,Park,fountain,convenience_store; point_of_interest; store; food; establishment,OPERATIONAL,0,0,NA
+ChIJs9auRHNuAHwR2uoKH4vT3CA,Bin's Convenience Store,21.3078674,-157.8633959,Park,fountain,convenience_store; store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJSaa24u1tAHwR506L1Efl7ZE,BOOKOFF Kaka’ako Store,21.3007096,-157.8563731,Social Business,bookstore,movie_rental; book_store; electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.3,138,NA
+ChIJSbFK4EpvAHwRKoo6-KX4DQQ,FBC,21.3419479,-157.8780265,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJSdATTWFtAHwRIQ6sQnQEfyY,Taro's Garden,21.2801767,-157.7905721,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJSdDtm-lvAHwRGw12EGipddA,Starbucks,21.3491799,-157.9305154,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,3.8,29,NA
+ChIJSdDtm-lvAHwRGw12EGipddA,Starbucks,21.3491799,-157.9305154,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.8,29,NA
+ChIJsdq8qfZtAHwRGv1LmL0d4B0,Da HI Brew,21.2852626,-157.8381675,Social Business,cafe,meal_takeaway; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,195,NA
+ChIJse7TMixsAHwRFgPdEQHMhHA,First Unitarian Church,21.330173,-157.8452504,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJsfRvqBxsAHwRA4xAarsDxmk,モアナルア・コミュニティー教会,21.3438371,-157.9295811,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4,5,NA
+ChIJsSFXbStvAHwRUvSKxql35Yc,Friends of the Library of Hawaii,21.3169081,-157.868866,Community Space,library,point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJsSFXbStvAHwRUvSKxql35Yc,Friends of the Library of Hawaii,21.3169081,-157.868866,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJsTP7M41tAHwRsSl9YUUsvM4,Clay Cafe,21.2901538,-157.8330163,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.6,35,NA
+ChIJSVnZRRJtAHwRkW253w4gFkU,Pacific Islanders United Methodist Church,21.3016998,-157.7952153,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,6,NA
+ChIJswak5O1tAHwRi_Kd9PwjmH8,Cafe KYRA,21.2931609,-157.8386643,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,18,NA
+ChIJSwXJgeJtAHwRQDDdf_kFEhA,Makiki Community Garden,21.3031804,-157.8360349,Park,garden,park; point_of_interest; establishment,OPERATIONAL,2.9,8,NA
+ChIJSZnnPWZuAHwRhz7358TtCPY,City Square Accounting Services,21.3212526,-157.8766276,Park,square,accounting; finance; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJSZnnPWZuAHwRvXTJTuZ7irA,City Square Management Inc,21.3214336,-157.8767921,Park,square,point_of_interest; establishment,OPERATIONAL,3.9,91,NA
+ChIJt0qB21tuAHwRmVobCe_QEoA,New Hope Cafe,21.327225,-157.888585,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.7,13,NA
+ChIJt0qB21tuAHwRmVobCe_QEoA,New Hope Cafe,21.327225,-157.888585,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,13,NA
+ChIJT1UHkWltAHwR57YnRxuqcgA,Kawānanakoa Neighborhood Park,21.3196353,-157.8524014,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJT45HtotuAHwRQZ2kiyRVEBw,Hawaiian Pentecostal Full,21.3349023,-157.8764302,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJt4DtyAluAHwR6W1spIICOlY,Mother Waldron Neighborhood Park,21.2992279,-157.8584759,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.8,108,NA
+ChIJt4DtyAluAHwR6W1spIICOlY,Mother Waldron Neighborhood Park,21.2992279,-157.8584759,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.8,108,NA
+ChIJt4foTvxvAHwRUjGi5F9IeKk,State identification card services,21.3154337,-157.8706457,Community Space,city hall,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJT4ZsqyETAHwRddj7v4tu3XQ,Peace and Sustainability Garden,21.2848597,-157.6958851,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJTcU5rFttAHwRjEJBmCUqZx0,Toys Express,21.29104,-157.84317,Social Business,bookstore,clothing_store; jewelry_store; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJTcU5rFttAHwRjEJBmCUqZx0,Toys Express,21.29104,-157.84317,Social Business,bookstore,jewelry_store; clothing_store; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJteNPdINyAHwRWpeY1dYHEeI,Lama Library,21.2715307,-157.8001318,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJTetM94ttAHwRkJmuyu-S0XQ,Ala Wai Community Garden,21.284923,-157.8278084,Park,garden,park; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJtf2oMXluAHwRFqtL_kXwEUs,Samoan Congregational Christian Church Ierusalema Fou,21.323323,-157.8608573,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJtRDnfY1tAHwRt3-kbR_yA7U,Lamb of God Church,21.2882934,-157.827703,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJtRkFOntuAHwRc3qTTPwl2mg,Jesus Faith Deliverance Church,21.3231627,-157.868143,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJTSjnAwluAHwROrF-Qa2uy6I,Idea's Music and Books,21.2986487,-157.8605852,Social Business,bookstore,movie_rental; book_store; home_goods_store; electronics_store; point_of_interest; store; establishment,OPERATIONAL,4.5,162,NA
+ChIJTSjnAwluAHwROrF-Qa2uy6I,Idea's Music and Books,21.2986487,-157.8605852,Social Business,bookstore,movie_rental; book_store; electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.5,162,NA
+ChIJtSvsZcFtAHwRjQicdUDbe7g,Community of Christ,21.3080956,-157.8381742,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,9,NA
+ChIJTVr2AWlvAHwRMdqG_z1DSrc,Kalihi Uka Community Park,21.344941,-157.862468,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,7,NA
+ChIJTw5FNRNtAHwRC0gZ7LoxNtI,Java Café,21.2817695,-157.8345023,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.2,5,NA
+ChIJtXxR7m0SAHwRxmCwjALwdxI,Hanauma Bay,21.2735849,-157.6950714,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,482,NA
+ChIJtYyceP5uAHwRXuZAa0NIgtg,Radford Terrace Community Center,21.3407613,-157.9022958,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.9,63,NA
+ChIJtyYdnUwSAHwRKfMGHSsT2F4,Charles Nii Nursery Inc,21.3049491,-157.695455,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.9,23,NA
+ChIJtz2E2_FtAHwRhTZdKrD4R5k,Honolulu Church of Light,21.3578448,-157.8541021,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJtZLG1fRuAHwRVjinz-CHO_4,Kalihi Union Church,21.33566,-157.880345,Place of Worship,place of worship,church; tourist_attraction; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,114,NA
+ChIJu13Z5ndtAHwRc0G9YoKVpSI,Chaminade University Bookstore,21.289726,-157.8088661,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.4,15,NA
+ChIJU1fPI3ZyAHwRafmm3mxxWDM,Holoholo Cafe & Market,21.2790932,-157.8254729,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.2,86,NA
+ChIJu1kXfaRtAHwRRU_prRo-FtE,Religious Society of Friends,21.3072699,-157.8180932,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJu1WEGLRvAHwRH-FhmSKnYIw,Walmart Patio & Garden Services,21.30976,-157.862004,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJu2tnQXdvAHwRWx-f26GmUuo,Thatcher Ct Playground,21.3447655,-157.9392919,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,24,NA
+ChIJU3CptZ5tAHwRb9U3SPhtaoU,Kānewai Community Park,21.2929291,-157.8119349,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,106,NA
+ChIJu5lpm8wTAHwRWw9BRTzAsCM,Kamilo'iki Neighborhood Park,21.306975,-157.683668,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,12,NA
+ChIJU8Ch6nxtAHwR3-Gln3qwO8M,Kaimukī Public Library,21.2800041,-157.7986113,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,60,NA
+ChIJU9A82wduAHwRkWrTQpCnSPY,Disability and Communication Access Board,21.3072918,-157.8602367,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJu9NekopuAHwR6D3mIh-WSu4,Elevate Church HI,21.2927105,-157.8210726,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,17,NA
+ChIJua8SXnVuAHwRSEUB8QRMTxY,Legislative Reference Bureau Library,21.3071951,-157.8573977,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,1.5,2,NA
+ChIJUact_gduAHwRudec_x93zqM,Na Mea Hawaii,21.2925148,-157.8527298,Social Business,bookstore,store; point_of_interest; establishment,OPERATIONAL,4.7,49,NA
+ChIJuatim4NtAHwRBkVbu1mtrnM,Crane Community Park,21.2857917,-157.8138175,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.2,65,NA
+ChIJudgbMH9lAHwRywoT56_RYPs,JBPHH Library,21.3408282,-157.9576596,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,23,NA
+ChIJUdrJjvNtAHwRWtj_sISq7vM,Hobron Park,21.2871195,-157.8371363,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJuemAJMgTAHwR5_X5S89_9uE,Moena Sweets,21.2785706,-157.7048404,Social Business,cafe,store; food; point_of_interest; establishment,OPERATIONAL,4.5,32,NA
+ChIJUf6gTvttAHwRi4AmgKEUacM,Kolowalu Park,21.2937828,-157.84998,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,89,NA
+ChIJUfCv5pFyAHwRGpjM-G8Dfek,Fort Ruger Park,21.2595061,-157.7968065,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,156,NA
+ChIJufgV7pNtAHwRki4y-6ahNGM,Mini Garden Orient Cuisine,21.2959988,-157.8282696,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,144,NA
+ChIJUQ1pWKduAHwRG4hhYVGb-LM,Iglesia Ni Cristo - Locale of Honolulu,21.3580214,-157.8570547,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,34,NA
+ChIJuQIVX3FuAHwRDwAnuFeHn8E,99 Cafe,21.3130096,-157.8641246,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJUU-2AIVyAHwRJmSJEOPol8s,Fort Ruger Pathway,21.2693927,-157.8054567,Park,fountain,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJuUMweyFvAHwRWuy__1sGyOw,Aliamanu Chapel Center,21.3622769,-157.9101935,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJUUzFj11vAHwRO-66seshQi4,Xpresso Cafe and Mini Mart,21.333346,-157.8787425,Social Business,cafe,cafe; convenience_store; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJUUzFj11vAHwRO-66seshQi4,Xpresso Cafe and Mini Mart,21.333346,-157.8787425,Social Business,cafe,cafe; convenience_store; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJUV91PKByAHwRkt83E0wPJJA,Kāhala Community Park,21.2720532,-157.7843252,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,153,NA
+ChIJUV91PKByAHwRkt83E0wPJJA,Kāhala Community Park,21.2720532,-157.7843252,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,153,NA
+ChIJuWm9lDFvAHwRPAEei6Nbygk,The Church of Jesus Christ of Latter-day Saints,21.3757753,-157.9180437,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,22,NA
+ChIJuwYCHYVyAHwR_tV8O33gFUU,Bryan Clay Exercise Park,21.2676563,-157.8004571,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJuXHzHAhtAHwR22GprHTy7fg,Harbor Church Nuuanu,21.3287471,-157.8476546,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJUXkRH2JtAHwR9Apbv-aHV6Q,Petrie Community Park,21.2761258,-157.7916485,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,147,NA
+ChIJUXXn_N1tAHwRahFLvi_1pqU,Honolulu Traffic Management Center,21.3063235,-157.8507904,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJUy27EIluAHwRIeHNEnY6g2A,Kamehameha Community Park,21.3347194,-157.8726381,Park,park,tourist_attraction; park; point_of_interest; establishment,CLOSED_TEMPORARILY,3.9,92,TRUE
+ChIJuY7juwRvAHwRG43x-0O1O58,Hoa Aloha Neighborhood Park,21.3464053,-157.911414,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,25,NA
+ChIJuY7juwRvAHwRG43x-0O1O58,Hoa Aloha Neighborhood Park,21.3464053,-157.911414,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,25,NA
+ChIJuZAXZvlqAHwR8amvCqsAb9g,Mountain View Community Church,21.3741199,-157.9011763,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJUzCrHm9uAHwRIXIL_GiIqvE,The Home Depot,21.3170376,-157.8732401,Park,fountain,hardware_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.2,1716,NA
+ChIJUzCrHm9uAHwRIXIL_GiIqvE,The Home Depot,21.3170376,-157.8732401,Park,fountain,hardware_store; furniture_store; point_of_interest; home_goods_store; store; establishment,OPERATIONAL,4.2,1716,NA
+ChIJUZh4mXZuAHwRHy3sFY8NYWY,Heavenly City Christian Church,21.3130833,-157.8611229,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJv_ZwQoltAHwRPApiY1apyhw,Ala Wai Dog Park,21.283341,-157.8261136,Park,park,tourist_attraction; zoo; point_of_interest; establishment,OPERATIONAL,4.2,56,NA
+ChIJv-B2OmdtAHwRdSLGnezfyA0,Wesley United Methodist Church,21.2807738,-157.7874916,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJv10QA2NtAHwR2dXBZZDi4dE,Evangelical Christian Church,21.2750941,-157.7923555,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJv3gmAP1sAHwRWbophORcNrA,하와이중앙장로교회 Hawaii Central Presbyterian Church,21.3242395,-157.8002672,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,11,NA
+ChIJV5DiQ4NtAHwRCDBH8_fWxZE,Popoki + Tea Cat Cafe,21.2849216,-157.8028846,Social Business,cafe,night_club; bar; store; point_of_interest; establishment,OPERATIONAL,4.8,72,NA
+ChIJV5nIZUFtAHwRvB_7rKAPqQM,Old Stadium Park,21.2929287,-157.8261225,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,47,NA
+ChIJv5UHC2VvAHwRjJCAa4zgSBE,Foster Community Garden,21.3174333,-157.8583294,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJV7dgQW9vAHwRAlmF0Db_5k4,Kunawai Springs Urban Park,21.3259258,-157.8577396,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,19,NA
+ChIJV874YINtAHwRQYrKbFm4wok,VIVE CHURCH Honolulu,21.2977532,-157.8521815,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJV8AQ_oFtAHwR3CFLy45DIrM,Primerrie,21.2826139,-157.8093408,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJV8aZU24TAHwR3fm4dJ4I3Nw,Geobunga Windward,21.3421939,-157.728245,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.8,43,NA
+ChIJv8Y-mettAHwRDrYMu-ixVGo,Living Waters Korea,21.2990602,-157.8365709,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJva3DyftsAHwRIjBaj7MBnL4,Thomas Square Development Inc,21.3308571,-157.8014845,Park,square,accounting; finance; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJvcvouGRyAHwRmLZcYsoYjfs,Paki Hale,21.266045,-157.8166066,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,5,3,TRUE
+ChIJvfYD2DlsAHwRvFoTRLhXLEk,International Church of Oahu,21.3375714,-157.8370469,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,14,NA
+ChIJvRupqmESAHwRCz15GQeeCY0,Starbucks,21.2832105,-157.7106695,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,133,NA
+ChIJvRupqmESAHwRCz15GQeeCY0,Starbucks,21.2832105,-157.7106695,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,133,NA
+ChIJVT4SGGkTAHwRqj3QN33DEXY,Lanikai Juice,21.2833196,-157.7107376,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,27,NA
+ChIJVTqywQpvAHwRFxaeK1g9VPM,Auld Lane Mini Park,21.3244604,-157.8670603,Park,park,park; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJVTXO_J1vAHwR_HR2R8Y9qcs,Pearl Harbor Memorial Fountain,21.3494459,-157.9434003,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVVUFSmRuAHwR-rqmYnweZIo,World Fellowship Christian Outreach,21.3230994,-157.8733874,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVVWVSZhtAHwRy8DlMlpyI1U,Manoa Garden,21.2990429,-157.8196279,Park,garden,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJVVXR6e9tAHwRldHVHdlrOs8,Open Door Christian Ministries,21.2907683,-157.8477024,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJvw7UvH1yAHwRm521fHlc5cA,The Coffee Bean & Tea Leaf Diamond Head,21.2698327,-157.8111953,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,215,NA
+ChIJvWrVnO9uAHwRWObBhgaFKOQ,Moanalua Gardens Koi Pond,21.3476905,-157.891996,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,21,NA
+ChIJvX-ocHZyAHwRqi3lYt8pNdA,Kona Coffee Purveyors | b patisserie,21.278831,-157.825621,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,1774,NA
+ChIJVXz3mXpvAHwRmdeJE9em60I,JBPHH Vehicle Registration Office,21.3409673,-157.9444291,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3,109,NA
+ChIJvY_pDlkSAHwRrXnh0ARmMsk,Hawaii Kai United Church of Christ Office,21.2940697,-157.7099307,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJvZ-0_O9uAHwR7J3q-glBNbc,Moanalua Gardens,21.3475307,-157.8936195,Park,garden,park; tourist_attraction; point_of_interest; establishment,CLOSED_TEMPORARILY,4.2,1946,TRUE
+ChIJvZ-0_O9uAHwR7J3q-glBNbc,Moanalua Gardens,21.3475307,-157.8936195,Park,park,park; tourist_attraction; point_of_interest; establishment,CLOSED_TEMPORARILY,4.2,1946,TRUE
+ChIJVZEgCVptAHwRcFQ1EquTLY8,Hope Chapel Lifespring,21.2946969,-157.8280523,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw-Etzp5tAHwRzVRhmgoQTQc,Research Information Services Center,21.296982,-157.814662,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJw-k640ptAHwRmKZyzsfP1Vg,Domo Cafe,21.2787425,-157.7841207,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,37,NA
+ChIJw0GLdadtAHwRFRCtQKst3h8,Le Crêpe Café,21.3083775,-157.8105418,Social Business,cafe,meal_takeaway; cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.6,198,NA
+ChIJw0GLdadtAHwRFRCtQKst3h8,Le Crêpe Café,21.3083775,-157.8105418,Social Business,cafe,meal_takeaway; cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.6,198,NA
+ChIJW1StBgZuAHwRiHnbEgAmgoI,"Health Sciences Library, John A. Burns School of Medicine",21.2956466,-157.8626357,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJW3hSiAVvAHwRfa2KTPOqO60,Island Family Christian Church,21.3445588,-157.9163291,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,18,NA
+ChIJW3qJ2ehvAHwRM8jBIXYYWzA,Nemo Dog Park -NavFac,21.3534238,-157.9348954,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJW3qJ2ehvAHwRM8jBIXYYWzA,Nemo Dog Park -NavFac,21.3534238,-157.9348954,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJw46n29htAHwRBAjFjgXF4pM,Kamamalu Playground,21.3125753,-157.8545567,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.1,28,NA
+ChIJw5L_HOJtAHwRT6NfAIWlSFk,Kawaiahaʻo Mini Park,21.3004391,-157.8560505,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.3,3,NA
+ChIJW6Ht9OltAHwRuLCUvq6YFz4,Pomaika'i Gifts,21.2990115,-157.8568388,Social Business,bookstore,point_of_interest; clothing_store; store; establishment,OPERATIONAL,5,1,NA
+ChIJW6Ht9OltAHwRuLCUvq6YFz4,Pomaika'i Gifts,21.2990115,-157.8568388,Social Business,bookstore,clothing_store; store; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJW6ZZqXluAHwRR8ofFLgIyDg,Liliha Public Library,21.3206539,-157.8603461,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.1,21,NA
+ChIJW74bgixvAHwRrHQUojDOLXs,Tea Café,21.343027,-157.9515015,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJW7nFlopuAHwR8_f4ZIXo3Ho,Ray's Cafe,21.3328879,-157.8789948,Social Business,cafe,cafe; bar; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.6,610,NA
+ChIJW7nFlopuAHwR8_f4ZIXo3Ho,Ray's Cafe,21.3328879,-157.8789948,Social Business,cafe,cafe; bar; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,610,NA
+ChIJw8HUtVZtAHwRztbAWgVJsDE,Waiʻalae Iki Neighborhood Park,21.2769377,-157.7686771,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,179,NA
+ChIJWaiHaYttAHwRA0U3ZiugXGY,Waikiki Baptist Church,21.2849288,-157.8315001,Place of Worship,place of worship,tourist_attraction; church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,83,NA
+ChIJWb52C2ZyAHwRLLDgPvKEywA,Louise Dillingham Memorial Fountain,21.2615161,-157.8198882,Park,fountain,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,122,NA
+ChIJWbgk-_tvAHwRQi-bh7D7kOc,Guieb Cafe,21.3273675,-157.8710598,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,136,NA
+ChIJWdT0AdFtAHwR_spP2VecI3E,K D Cafe Hawaii,21.3194472,-157.8484775,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJWdT0AdFtAHwR_spP2VecI3E,K D Cafe Hawaii,21.3194472,-157.8484775,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.8,6,NA
+ChIJWeXjQgpuAHwRx9UdBaAgr-0,Word Of Life Christian Center,21.3033718,-157.8587483,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,137,NA
+ChIJwQNOO4NtAHwRN59xnABecKo,"Kapahulu Business License, Bicycle and Moped Services Office",21.2877398,-157.8132288,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4.1,23,NA
+ChIJwSCr8JhtAHwRPDd8iiIN70c,The Free Garden,21.2988549,-157.8178339,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJWWceac5tAHwRRsjMb99IHQ0,Booth District Park,21.3201759,-157.8430304,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,230,NA
+ChIJWWceac5tAHwRRsjMb99IHQ0,Booth District Park,21.3201759,-157.8430304,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,230,NA
+ChIJWx_PfvNtAHwRwBWQIFd3Tas,Food Pantry - Eaton Square,21.2869303,-157.835858,Park,square,grocery_or_supermarket; supermarket; food; store; point_of_interest; establishment,OPERATIONAL,4.2,543,NA
+ChIJWx_PfvNtAHwRwBWQIFd3Tas,Food Pantry - Eaton Square,21.2869303,-157.835858,Park,square,grocery_or_supermarket; supermarket; store; food; point_of_interest; establishment,OPERATIONAL,4.2,543,NA
+ChIJwxx92axvAHwRPLngwgqhUlQ,Vosler Park,21.3365268,-157.9407265,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWxxMAoVuAHwRuWz_s0EmMRk,Bishop Memorial Church,21.3396842,-157.8661535,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWyxsPYpuAHwR28Bfo94yFc4,Susannah Wesley Community Center,21.3326673,-157.875378,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,29,NA
+ChIJWz9VRJBtAHwRao6zoRTlyL4,Mōʻiliʻili Community Center,21.2920526,-157.8227742,Community Space,community center,store; point_of_interest; establishment,OPERATIONAL,3.8,9,NA
+ChIJWzUtAXZuAHwRemMajzxnRjY,People's Cafe,21.3123956,-157.8575606,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,162,NA
+ChIJx0EG3ZFtAHwR6rELReH8bVI,Honolulu Church of God,21.2913054,-157.8254937,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJX0i802BzAHwRmDH64BGX0zk,Knots Coffee Roasters. at Queen Kapiolani Hotel | Waikiki / Honolulu | Café,21.2720019,-157.8211201,Social Business,cafe,cafe; meal_takeaway; bar; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.1,180,NA
+ChIJX0i802BzAHwRmDH64BGX0zk,Knots Coffee Roasters. at Queen Kapiolani Hotel | Waikiki / Honolulu | Café,21.2720019,-157.8211201,Social Business,cafe,meal_takeaway; cafe; bar; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.1,180,NA
+ChIJx12rG4VuAHwRPzkG20AiP7M,Kamehameha School Resource Center Oahu,21.339593,-157.8664519,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJx2MsYOltAHwRyLajtzsUb2s,Juicy Brew,21.2997714,-157.8393235,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,30,NA
+ChIJx3E2bZltAHwRL8CzP9IcoEE,Hale Aloha Café,21.2943153,-157.812973,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,3.9,53,NA
+ChIJX5RRe3FvAHwR01o3I95rgJE,Hokulani Community Center,21.3475295,-157.9349506,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,51,NA
+ChIJX5uLuWxvAHwR8UHnMhs0858,Target,21.3553179,-157.929448,Park,fountain,department_store; furniture_store; grocery_or_supermarket; home_goods_store; food; electronics_store; point_of_interest; clothing_store; store; establishment,OPERATIONAL,4.3,1151,NA
+ChIJX5uLuWxvAHwR8UHnMhs0858,Target,21.3553179,-157.929448,Park,fountain,department_store; clothing_store; furniture_store; grocery_or_supermarket; electronics_store; home_goods_store; food; point_of_interest; store; establishment,OPERATIONAL,4.3,1151,NA
+ChIJx77OQHlyAHwRgcNR7dBUGEI,Waikiki-Kapahulu Public Library,21.2743755,-157.8166807,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.6,47,NA
+ChIJx78hufESAHwRln3bTUUEYSc,Kuliʻouʻou Neighborhood Park,21.2956097,-157.7241554,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,45,NA
+ChIJx8WlnvBsAHwRa65fSL86AWo,Lyon Arboretum,21.332971,-157.801539,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,631,NA
+ChIJX8Z2pIVtAHwRFZb_RYnSEjE,Gateway Café,21.2959647,-157.8146343,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,25,NA
+ChIJX8Z2pIVtAHwRFZb_RYnSEjE,Gateway Café,21.2959647,-157.8146343,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,25,NA
+ChIJx9JmnXRvAHwRhjD8ZSgTYCc,7-Eleven,21.3448349,-157.9306116,Park,fountain,convenience_store; gas_station; atm; food; point_of_interest; store; finance; establishment,OPERATIONAL,3.8,17,NA
+ChIJXa30ZxxsAHwRYSm26dGX-Ow,Kalihi Valley,21.3587269,-157.852487,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXbb5c5ltAHwRMbiaXYGVNrQ,William S Richardson Law Library,21.296504,-157.8174522,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJXbNCAa8SAHwR8yy3BDPy87U,Angel Garden Estate,21.277546,-157.752373,Park,garden,point_of_interest; establishment,CLOSED_TEMPORARILY,3.3,3,TRUE
+ChIJxbvO6adtAHwRl6ylDPkuowI,Mānoa Valley Church,21.3103664,-157.8106528,Place of Worship,place of worship,church; school; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJxbvO6adtAHwRl6ylDPkuowI,Mānoa Valley Church,21.3103664,-157.8106528,Place of Worship,place of worship,church; place_of_worship; school; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJxc8lLNxtAHwRAabsdcF91b8,Dole Community Park,21.3087782,-157.8508034,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,109,NA
+ChIJxcruEEJvAHwRBxb6UwSIYu4,Hawaii Literacy - Family Literacy Library,21.3203394,-157.8640378,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXdbF9I1uAHwR2inI8zo2Cb0,Full Gospel Temple,21.3426686,-157.8762921,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJxdBy93tyAHwRdtAf5-5N-RI,Paki Community Park,21.2714145,-157.8158496,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,136,NA
+ChIJXdkd6XtuAHwRLqa8ANrahqU,Bluewater Mission,21.2961964,-157.7546736,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJxezpgWdtAHwRwNWz2OLiaVo,Simply Garden,21.2767268,-157.7863322,Park,garden,point_of_interest; store; establishment,OPERATIONAL,5,1,NA
+ChIJxfzwpqptAHwRrvp73EUc2FQ,Waialae Avenue Parklet,21.2835603,-157.8004198,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXQ3Aw3RvAHwRflBIoJb9XWk,Starbucks,21.344734,-157.928794,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4,406,NA
+ChIJXQ3Aw3RvAHwRflBIoJb9XWk,Starbucks,21.344734,-157.928794,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4,406,NA
+ChIJXT9-l3RuAHwR2XByqYSRUxw,Cafe Blue,21.308835,-157.862165,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,4.2,10,NA
+ChIJXUIO4whuAHwRFFef_o3GpoY,Morning Brew,21.2981349,-157.8607645,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,286,NA
+ChIJxUxeRMITAHwRP_d-FbsFLJI,Kaiona Beach Park,21.3259486,-157.6828251,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,723,NA
+ChIJxZYtY-ttAHwRGA-Jko0kwMk,True Jesus Mission,21.2980117,-157.8354318,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJy08dJ2xvAHwRBsOZHn8TmqI,Subway,21.3491899,-157.9303485,Park,fountain,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJy0dQReBtAHwRuqZNFTHn-Ms,Frank F. Fasi Municipal Building,21.3040626,-157.8546585,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJy0hFnZ1tAHwRBV2KFTwxuJQ,Unification Church,21.291506,-157.8100305,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJY1-TuXVuAHwR5vQZa6a-mCY,Aoao Century Square,21.3105731,-157.859051,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4.2,27,NA
+ChIJY1-TuXVuAHwRDbzkHJBXpZI,Century Square Garage,21.3107455,-157.8590568,Park,square,parking; point_of_interest; establishment,OPERATIONAL,3.9,23,NA
+ChIJy1LC-dRtAHwRMLb_c1gr0ws,United Church of Christ,21.3258585,-157.8533722,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJY3NMZjtvAHwRLQzqkZDS6c8,East Foster Village Community Association,21.3662409,-157.917933,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.1,16,NA
+ChIJy6Ac6HBuAHwR1ke4qZ0CTjs,Sinamar Cafe,21.3170989,-157.8639297,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJy9aWcuhtAHwRNOtblsHFMPY,True Jesus Church Oahu,21.3033657,-157.8443055,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYaEHlnByAHwReP1pH8n6I2A,Tucker & Bevvy Picnic Food,21.2717673,-157.8223953,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.9,153,NA
+ChIJYay9AywSAHwRlk44aQi_Ajg,Hokupa'a Homes,21.2980519,-157.6726827,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJybBpuPJtAHwRGWBY733pGec,Norwegian & Swedish society,21.290697,-157.8339694,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJYbQllZFtAHwRbga7MxSRhvI,Maple Garden,21.2921662,-157.8257806,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,251,NA
+ChIJybUN8NhuAHwRrmQODoY7r90,First Assembly of God,21.3653923,-157.9023864,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,84,NA
+ChIJYcexPnVyAHwRKfDVnWEBZHU,Beachwalk Cafe,21.2788505,-157.8318069,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.3,158,NA
+ChIJYcexPnVyAHwRKfDVnWEBZHU,Beachwalk Cafe,21.2788505,-157.8318069,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,158,NA
+ChIJydK6VXRtAHwRXG2gbHe5l5k,Kalaepohaku Park,21.2964256,-157.8060742,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,16,NA
+ChIJYdyYar4SAHwRdsMCVnfbIgg,Niu Valley Middle School Library,21.2854853,-157.7392884,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYer9o79vAHwR-xDjIuwevMI,Nuuanu Square,21.3138804,-157.8577936,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYSh2CV5tAHwRQXhik32w2Cg,Kaimuki-Waialae YMCA,21.279354,-157.7841676,Community Space,community center,gym; health; school; point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJySLg-1wSAHwRTax_A7mrkmk,Kai Point Baptist Church,21.2778567,-157.7057143,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,6,NA
+ChIJyVrv2ZhtAHwR0DXeA8FpJzM,Victoria Ward Park,21.2955779,-157.854296,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,31,NA
+ChIJywb2v4NtAHwRa4q0Ub63ED4,Lau Lau Woodworks,21.3212225,-157.8783093,Park,fountain,general_contractor; store; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJywb2v4NtAHwRa4q0Ub63ED4,Lau Lau Woodworks,21.3212225,-157.8783093,Park,fountain,general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.5,2,NA
+ChIJyxUNZQFvAHwRPYHSKvP4cCA,Halsey Terrace Community Center,21.34131,-157.9086802,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.2,56,NA
+ChIJyxUNZQFvAHwRPYHSKvP4cCA,Halsey Terrace Community Center,21.34131,-157.9086802,Community Space,community center,gym; point_of_interest; health; establishment,OPERATIONAL,4.2,56,NA
+ChIJYytfXYhuAHwRJXOSELDnWCw,Bishop Museum Café by Highway Inn,21.3328162,-157.8704978,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,102,NA
+ChIJYZ4srGUSAHwR-ojJzQVb1TQ,Zippy's Koko Marina,21.2790095,-157.7044899,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,508,NA
+ChIJYZ4srGUSAHwRdo0nwvZIGBM,Starbucks,21.2772215,-157.7053978,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,238,NA
+ChIJYZ4srGUSAHwRfeBGXKy91_4,New Hope Hawaii Kai,21.278427,-157.7050089,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJYZ4srGUSAHwRVRERhJ_y7IA,Loco Moco Drive Inn,21.2769354,-157.7053323,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,169,NA
+ChIJyz56owpyAHwRSXdRyQxdB2M,Fort DeRussy Beach Park,21.2796438,-157.8342508,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,3996,NA
+ChIJYzBrqOttAHwRehycKMzGF3E,Family History Center,21.2994889,-157.8362556,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJyZjvXq4SAHwRfEaBuC6yIG4,McDonald's,21.2783154,-157.7541601,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.8,365,NA
+ChIJyZjvXq4SAHwRfEaBuC6yIG4,McDonald's,21.2783154,-157.7541601,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,365,NA
+ChIJyZoc51ldAHwRBM2ALeGf2XU,Hawaii Kai Satellite City Hall,21.2834649,-157.7142911,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.2,76,NA
+ChIJYzSPwb9tAHwRKEFG_Syx6Ok,Lutheran Church of Honolulu,21.3040818,-157.831543,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,14,NA
+ChIJz-uT_2VuAHwRJFHJiueAh6s,Honolulu Community College,21.320666,-157.8697388,Social Business,bookstore,university; point_of_interest; establishment,OPERATIONAL,4.1,50,NA
+ChIJZ30k2nFlAHwRjlpyBw8QtKQ,Wright Brothers Cafe,21.3333039,-157.9683092,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,436,NA
+ChIJz6CJfHFtAHwRNaOQ8DjunR4,아가페선교침례교회,21.2928579,-157.8009676,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,35,NA
+ChIJz81sfvxuAHwRVzrUeViMefw,Masa's Cafeteria,21.3431727,-157.8989096,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,189,NA
+ChIJz8i4snMTAHwRJkf1dqt_RqU,Koba's Nursery Inc,21.3365267,-157.7227043,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.6,27,NA
+ChIJz8pBbXsTAHwRSSaqa8UzQKQ,Bay Rock Cafe,21.2734733,-157.6949117,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.3,4,NA
+ChIJz8QpRYNyAHwR2DJED6H7N38,Kīlauea District Park,21.2695173,-157.7949114,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,206,NA
+ChIJZ9KlBb5vAHwRVWk8eNYyA3Y,Starbucks,21.3322106,-157.9198183,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,1,8,NA
+ChIJZ9KlBb5vAHwRVWk8eNYyA3Y,Starbucks,21.3322106,-157.9198183,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,1,8,NA
+ChIJZdsb0FZvAHwRdkycyYnmnmY,Bās Bookshop,21.3116306,-157.8612004,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,12,NA
+ChIJzeFPfXZvAHwR9aFFD_42oM0,Cafe Daisy,21.310117,-157.8604241,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,14,NA
+ChIJZekecmZuAHwR6n2-DOHnPyI,Kapalama Satellite City Hall,21.3200511,-157.8705596,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2.6,157,NA
+ChIJzeUbnTBtAHwRoISI7CVKS_s,Central Pacific Square,21.297611,-157.8539858,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJZQs2IgITAHwR0GpMB6SPkuA,Teapresso Bar,21.2768295,-157.7051806,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,2.7,23,NA
+ChIJzR9x3FtuAHwRkbjoMGpNfto,Cafe Fusion,21.3271447,-157.8884747,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.2,16,NA
+ChIJzRpHbaxtAHwRwQmYncpxPak,Old Stadium Square,21.2936711,-157.8263454,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJZSN5lmhtAHwRtxURyEmA4HA,Mau'umae Nature Park,21.2868667,-157.7895412,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,37,NA
+ChIJZU7ZEWUSAHwRHqSeX7A7eQk,The Church of Jesus Christ of Latter-day Saints,21.2760857,-157.7041027,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,14,NA
+ChIJZUIxhXVvAHwRPdTyKijAXgs,Trinity Missionary Baptist Church,21.3394726,-157.9334041,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,32,NA
+ChIJzUQKVbttAHwRkrvrRP3l3E8,University Avenue Baptist Church,21.3039505,-157.8186522,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJzVGu-KFuAHwRxR9MNwS2mPY,Church of Christ of the Lord,21.352791,-157.8628813,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZXjeaptuAHwRyw6u4Va51xg,DeCorte Neighborhood Park,21.3428059,-157.8643465,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.7,12,NA
+ChIJZy_GQnZvAHwRIwlI97sP2UM,Honolulu Community Action,21.3419023,-157.9360761,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,3.3,3,TRUE
+ChIJZYz-zHVuAHwRwJRwfxEKfC0,Ali'i Coffee Co.,21.3115535,-157.8596998,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,213,NA
+ChIJZYz-zHVuAHwRwJRwfxEKfC0,Ali'i Coffee Co.,21.3115535,-157.8596998,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,213,NA
+ChIJZZciZkgTAHwRnAsI9ElJRo0,Island Grower Supplies LLC,21.3393185,-157.7468286,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJZZf38yPiBnwR36fo46_3PPA,HYDRATE HAWAII LLC,21.2842821,-157.8384768,Park,fountain,store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZZx5qgVvAHwRZX9XXoHJx9w,Shaka Shaka Tea Express,21.3451791,-157.9137781,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,67,NA

@@ -1,0 +1,486 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ____U28G5IkR0EeklS2pVoU,145 Front at City Square,42.2616646,-71.7973774,Park,square,point_of_interest; establishment,OPERATIONAL,2.8,36,NA
+ChIJ__m25fcG5IkRmYv719k9mDE,American Antiquarian Society,42.2772953,-71.8100524,Community Space,library,library; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJ_cMs6sYF5IkR1BrZgDtDPug,Brigada Misionera Global,42.2309452,-71.7937065,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_dh4OhgE5IkREJ88Z7t_Dfg,Bethany Christian Parish Church,42.2448477,-71.83561499999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_f-_xdsH5IkRcegl1mnR6DE,Emmaus City Church,42.2936515,-71.7699279,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_QYBcGEG5IkRp97V8UIv-XI,Assembleia De Deus Central,42.2636233,-71.8059413,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ_XIHVmYG5IkRPq_4zjgw1Gs,Edward M Kennedy Community Health Center,42.3022981,-71.76610149999999,Community Space,community center,pharmacy; hospital; health; point_of_interest; store; establishment,OPERATIONAL,3.1,59,NA
+ChIJ-_Ip7SwE5IkRKvnKWoKJ-Uw,Church of God of Prophecy,42.2437045,-71.8117379,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ--uvQs0F5IkRTsBGG8U_T9k,Frank Vellaccio Fountain,42.2389483,-71.8082463,Park,fountain,,NA,NA,NA,NA
+ChIJ-00DiQ8F5IkRHT3bsmHLio4,Webster Square Apartments,42.24592,-71.83182,Park,square,point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ-284lR4H5IkRImstuTFn7x0,Assumption College Official Bookstore,42.2941774,-71.82891219999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.4,21,NA
+ChIJ-5ENQ08P5IkRCQ_mdS6inHA,East Millbury Park,42.230032,-71.7456747,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,24,NA
+ChIJ-7Ey09oG5IkRd6R2aSK-lXk,Farber Field,42.2830851,-71.8426798,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,25,NA
+ChIJ-9FBbk4H5IkRxUPgoY1wIAo,Blackstone Bistro,42.2885374,-71.799802,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ-9OfY-UH5IkRzVAwObFahRs,Washington Square,42.2619326,-71.7945034,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-fvapyYE5IkRdqHs0Dy3aGw,Dippin Donuts,42.2475,-71.82666669999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,253,NA
+ChIJ0-jvL2QG5IkR-YL_4eEplHE,Franklin St + City Hall,42.26177999999999,-71.80149,Community Space,city hall,transit_station; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ08__kGYG5IkR4Yp0Rc_ZUpA,Front St + City Hall,42.263178,-71.80176,Community Space,city hall,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0ce9eiMB5IkR_WipPYJeh-I,Cascades West Conservation Area,42.2900758,-71.8764032,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,21,NA
+ChIJ0ewxryIE5IkRbIeGtfvnw88,WEBSTER SQUARE STATION,42.2438503,-71.8328791,Park,square,fire_station; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ0XyFdV0G5IkRYde6b_7p258,The Worcester Law Library,42.2680711,-71.8007889,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ1ax4fmQG5IkR_W6sPIhVyOQ,Luk,42.2603922,-71.8033657,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.9,21,NA
+ChIJ1beuSMUH5IkRAvmF0OfW6qY,Starbucks,42.292324,-71.775125,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.2,33,NA
+ChIJ1br5XYkG5IkR1GRBEKR2XII,Mount Zion Christian Church,42.2641148,-71.8138518,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ1cDVenAG5IkRz2SJkM9iyr0,Kelley Square Liquors Inc,42.2549656,-71.79717310000001,Park,square,liquor_store; food; point_of_interest; store; establishment,OPERATIONAL,4.1,152,NA
+ChIJ1fOy8hIG5IkRPXEX40xAi_s,Church of God the Last Reserve,42.2557532,-71.78351889999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ1x78E0cE5IkRzmnkiP65dqY,Seven Hills Foundation & Affiliates,42.231472,-71.825447,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,4.4,71,NA
+ChIJ1xLtBlkF5IkRpfeqKkZO4qw,Chaos Gardens,42.2331608,-71.8471534,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ1zc9kagF5IkRxcOaCiXopLE,McDonald's,42.2113067,-71.7958481,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,1365,NA
+ChIJ2_Iv35IG5IkR1SJkx21Ivt0,Highland St + Newton Square,42.26992,-71.824375,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ22WxG5MG5IkR7Ut-4YTfm9E,Pleasant St + Newton Square,42.26937,-71.82504999999999,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ26KnYc0F5IkR2BJv4ucMVxc,Music Library,42.2391887,-71.8079324,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ26WcPcgD5IkR6dGpywbZQzg,Saint Josephs Church,42.2448495,-71.8943288,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJ28wLzVgF5IkRu9EHywnJ6N4,Blackstone River Bikeway Parking,42.2189315,-71.78385349999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJ2c58CREG5IkRlsL1SS4XdlA,Grafton Square True Value Hardware,42.2564948,-71.77821089999999,Park,square,hardware_store; locksmith; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.7,53,NA
+ChIJ2UJNGGcG5IkRAkiLKJeLeF4,South Bay Community Services,42.3113622,-71.77454329999999,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,2.7,12,NA
+ChIJ2UJNGGcG5IkRmYpRFxDd96w,Coffee Time Cafe,42.2627622,-71.8018178,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJ2zUnSusG5IkRqvWidAhbJ8Y,Newton Square,42.2698622,-71.8253738,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJ30stYF4H5IkRCFd5cVYzBn8,Deeper Life Bible Church,42.265309,-71.802101,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ33Riq7QH5IkRiE1oVqx-4P0,Adams Square Baptist Church,42.2846295,-71.7918877,Park,square,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,40,NA
+ChIJ39Ge29sH5IkRt4QdwAwPDMo,Living Word Church of Worcester,42.2935858,-71.7686872,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,27,NA
+ChIJ3awFL4wH5IkRGjdVXZIsP2s,Lulu’s Bakery and Café,42.273157,-71.83130659999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJ3bijFBwE5IkROCm5dQ1Mwvg,Coes Pond Beach,42.251258,-71.84202189999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,193,NA
+ChIJ3WLRQ6L444kRHTzDBuc12ME,Dunkin',42.3361068,-71.8354777,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,144,NA
+ChIJ3WOzhh7544kRu2m-Kk1kJ3g,Amoy Barrett Book store,42.3412696,-71.7877726,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ3XROyLAF5IkRYwgAACHTf1c,New England Synod ELCA,42.2238031,-71.7975969,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJ3ZY1NIkG5IkR4oyKf2HtznQ,Pleasant and Winslow Park,42.2631852,-71.8153464,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.8,37,NA
+ChIJ4_88ymoG5IkRlCwTLCVnLyw,D.P.W Customer Service Center,42.2632731,-71.7864432,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ4_PVld8H5IkRMhIHbnqnrNA,Edward M. Kennedy Community Health Center,42.2976584,-71.7653308,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ48F4zoMG5IkRr0LzAnBJ95o,Center For Community Revitalization,42.2530546,-71.8165764,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ48JRfIEI5IkRPRZcSS6izxE,Quinsigamond State Park,42.2773644,-71.7577847,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.5,477,NA
+ChIJ49FPvNoH5IkRJtq_nA8bW2s,"Root and Press, LLC",42.2762853,-71.85212539999999,Social Business,bookstore,cafe; book_store; food; point_of_interest; store; establishment,OPERATIONAL,4.9,172,NA
+ChIJ49FPvNoH5IkRJtq_nA8bW2s,"Root and Press, LLC",42.2762853,-71.85212539999999,Social Business,cafe,cafe; book_store; food; point_of_interest; store; establishment,OPERATIONAL,4.9,172,NA
+ChIJ4dplgI4G5IkR20T8yBmjJWY,Parkview Cafe Llc,42.2649492,-71.8185051,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJ4e8FnkQH5IkRQDNXqoiL0_g,Fairmount park,42.284876,-71.8021459,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,10,NA
+ChIJ4eLMzC4P5IkRTbnPDf82hts,Pub 122,42.2284431,-71.7205886,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,157,NA
+ChIJ4RDLJgwG5IkRRtT0pl3GtuA,Wholly Cannoli,42.2506882,-71.78016389999999,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,721,NA
+ChIJ4X-kbi4E5IkRf1j6TsMRM6s,South Worcester Neighborhood Center,42.24247,-71.8166671,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJ4Yik72MG5IkRCrTmMxbLTes,Office For Worship,42.261625,-71.80415099999999,Place of Worship,place of worship,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ4Z0zV4gI5IkRd_k7jnrAY1Q,Starbucks,42.2754468,-71.74817159999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,380,NA
+ChIJ4zKO4ZsI5IkR97DbApzzqQM,Boucher's Good Books,42.2644944,-71.7549028,Social Business,bookstore,point_of_interest; store; establishment,OPERATIONAL,5,48,NA
+ChIJ5bQ4foYG5IkRoqusY9rOCw0,Stone Soup,42.2556406,-71.8135175,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJ5X2BjsYH5IkR1USegTtfg_A,Lincoln Square,42.2716676,-71.7994272,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5X2BjsYH5IkR1USegTtfg_A,Lincoln Square,42.2716676,-71.7994272,Park,square,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5XHNCB8H5IkRkrV61krB9BI,Chapel of the Holy Spirit at Assumption College,42.2937365,-71.8313379,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,6,NA
+ChIJ5Xlvcnz444kRdC509Nd8h2E,Calvary Worship Center,42.33148389999999,-71.8040848,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,14,NA
+ChIJ6_0X_G0G5IkRgx0IzBSIv7M,Revival Church Fountain-Life,42.256269,-71.79151949999999,Park,fountain,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,4.7,3,TRUE
+ChIJ6dWU730G5IkRpmjo0oJ6lvc,Christian Community Church,42.25465699999999,-71.808859,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJ6WnNSEf444kRC9bVjFIGfCc,"A Shower of Roses Religious Books, Gifts, & Church Goods",42.3391704,-71.7897943,Social Business,bookstore,point_of_interest; store; establishment,OPERATIONAL,4.2,17,NA
+ChIJ6WnNSEf444kRzHrEg9nshww,Dunkin',42.3461455,-71.7872831,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,157,NA
+ChIJ7_KXA2EF5IkR98H6GENhNAc,Pakachoag Center,42.216632,-71.8187354,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ78hfEOEH5IkR2JthAD37sAA,Edward M Kennedy Community Health Center,42.3024916,-71.766177,Community Space,community center,hospital; health; point_of_interest; establishment,OPERATIONAL,2.7,23,NA
+ChIJ78hfEOEH5IkRmA2lOyXiK3I,Kennedy Community Health Center,42.3155888,-71.7689893,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ7a_bUDEG5IkRhfVVsWij17I,The Journey Community Church,42.2719001,-71.79630949999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,42,NA
+ChIJ7aZp7y0E5IkRSXe-GKguaLQ,Acoustic Java Roastery & Tasting Room,42.2415987,-71.81530339999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,4.7,154,TRUE
+ChIJ7eyoegcH5IkRlMZ02LADBVc,Indian Lake Community Church,42.2942439,-71.8104218,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJ7fxpSukI5IkR_e6-jJ-tT3o,Lake Street Park,42.26015140000001,-71.7311995,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,17,NA
+ChIJ7R2AEGgE5IkRtIsOXBp5UOc,Franklin Field Playground,42.2254817,-71.8343411,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,24,NA
+ChIJ7VJetD4G5IkR3Tqyd31qFTE,Flying Rhino Cafe,42.26840350000001,-71.7812632,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,980,NA
+ChIJ7wiUl4wG5IkR8S_bI1_36Q0,Elm Park,42.2688109,-71.8157555,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,1993,NA
+ChIJ7XGIK3ME5IkRcA28jBrQ59k,Sisters Breakfast & Lunch,42.23637249999999,-71.8486678,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,296,NA
+ChIJ8_G7P4YI5IkRt_5yhFC-n4Y,Panera Bread,42.27312,-71.753175,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,486,NA
+ChIJ84DjoyAE5IkRRwAJDO419jg,iKrave Cafe,42.2520821,-71.82846909999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,197,NA
+ChIJ8ThO6QsH5IkRgn-l34a6XBk,Shore Park,42.3035266,-71.81451249999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,159,NA
+ChIJ8XOXPv4F5IkR147r4LZJ3iI,First Church Of The Full Gospel,42.2321582,-71.84977289999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8Y5q0IgH5IkRJcaD6YPfIfc,McDonald's,42.3190525,-71.7952828,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.2,837,NA
+ChIJ8ZdhQAwG5IkRL1HGmxbxg_Q,Rice Square Alterations,42.245947,-71.7599369,Park,square,point_of_interest; establishment,OPERATIONAL,4.1,31,NA
+ChIJ8zqqbxEE5IkRGhHXa1M0BBQ,Shaw's,42.2418177,-71.84190319999999,Park,square,grocery_or_supermarket; food; point_of_interest; store; establishment,OPERATIONAL,4.1,579,NA
+ChIJ9-gkE7UH5IkRrubghtWcuU4,Brittan Square Neighborhood,42.28551299999999,-71.787516,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ90zmc3L444kRFB8akDthwVQ,Lou Roc's Diner,42.3316667,-71.78999999999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,1259,NA
+ChIJ97fJVcoG5IkR7D1ym_Fipy4,Dunkin',42.27777649999999,-71.85405530000001,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,204,NA
+ChIJ97Hun3EJ5IkR7wTwk08Mfjw,Dunkin',42.2777097,-71.7614644,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2,4,NA
+ChIJ9f66rmcG5IkRY2fVB5tOfkU,The Vegan Nest Café,42.2658999,-71.8001864,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,229,NA
+ChIJ9UZzoWYG5IkR4ymY7r4JYvo,Worcester Community Connections Coalition,42.2623544,-71.80307309999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,5,NA
+ChIJa_HYKt8F5IkRSZsbbr9AW2M,Vernon Hill Dog Park,42.2442467,-71.7919508,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,161,NA
+ChIJa0G5zjsG5IkRP_sRZ_PaoTU,The Redeemed Christian Church Of God,42.2702242,-71.7789939,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJA6gPn2YG5IkR_fDtKmyP0n0,Worcester Human Resources Department,42.26274129999999,-71.80145089999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA6gPn2YG5IkR3cTl8de7Zbk,Worcester Retirement System,42.2625307,-71.80179059999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA6gPn2YG5IkR8xfwnFRlMWI,Dog Licensing,42.2625307,-71.80179059999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJA6gPn2YG5IkRDqPsFtawt_E,Worcester Treasurer,42.2625307,-71.80179059999999,Community Space,city hall,accounting; finance; local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA6gPn2YG5IkREYHkrEBtHOo,Benefits Office,42.2625307,-71.80179059999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJA6gPn2YG5IkRIgeRfKb2C-4,Worcester City Hall,42.26252119999999,-71.8017868,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,4.5,96,NA
+ChIJA6gPn2YG5IkRjKuQ52by6wY,Worcester Parking Adm,42.2618099,-71.8018912,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1,2,NA
+ChIJA6gPn2YG5IkRYdpp9Wkz9-s,City Council Records,42.2625307,-71.80179059999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJA6R5_GgG5IkRjqdrqLaLxS0,Mission Chapel,42.263278,-71.7952229,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJAa3RiWMG5IkRWFS0R3XsKOY,Tower Square Securities,42.2611629,-71.80384649999999,Park,square,insurance_agency; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJacjcjBIG5IkRoyV_WS8-ohw,Iglesia De Dios La Ultima Reserva,42.2557532,-71.78351889999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAQrKMrgF5IkRLA5sm_EhmVY,Spray park Forsberg St Worcester Ma,42.2258103,-71.7969993,Park,park,point_of_interest; establishment,OPERATIONAL,4.4,138,NA
+ChIJARBJqrUH5IkRNp6O08ozEzs,Brittan Square,42.2865231,-71.7889374,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJASBMYEf444kRqF927fxT6uo,Jake's Cafe,42.3472303,-71.7859945,Social Business,cafe,restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,166,NA
+ChIJaWJExIgH5IkRlulXObQqGyk,Dunkin',42.3194039,-71.7959944,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,276,NA
+ChIJaWXCh6kH5IkRCOJ4dpSljVE,Financial Square,42.2724461,-71.8139939,Park,square,finance; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJB_CxYxcF5IkR916pK0_k2yE,Life Garden Cafe,42.2461533,-71.8307514,Park,garden,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,38,NA
+ChIJB_CxYxcF5IkR916pK0_k2yE,Life Garden Cafe,42.2461533,-71.8307514,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,38,NA
+ChIJb_KbGwwH5IkRf-aUhmEhYf0,Meraki Coffee Dessert Bar,42.2682004,-71.78149379999999,Social Business,cafe,night_club; cafe; bar; food; point_of_interest; store; establishment,OPERATIONAL,4.8,10,NA
+ChIJB-ghmKwI5IkR7mscbG7KbhE,Echobrook Nursery,42.2415352,-71.7547304,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.5,76,NA
+ChIJB25QZ9sH5IkRu2cl5pbDWtM,Dunkin',42.2953278,-71.7712937,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,399,NA
+ChIJb2ZmC20G5IkRt8lKcz114tM,Dunkin',42.2565631,-71.7887137,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,332,NA
+ChIJb3oLfnAG5IkRqqZntce9go4,Kelley Square Pizza,42.2546015,-71.797428,Park,square,meal_delivery; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,461,NA
+ChIJb3sjxnsG5IkRcGZKEnxQFN8,Worcester Code Enforcement,42.2538276,-71.80167879999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJb3sjxnsG5IkRY0klzU2zgns,Worcester Zoning Department,42.2537957,-71.80181379999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJb6MG5WYG5IkR5zWVipgPn5U,Z Cafe & Catering,42.264205,-71.801689,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,61,NA
+ChIJB87BoJgI5IkRgijpUmFuOcc,LAKE PARK COMMUNITY HOUSE,42.2595945,-71.7551151,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJb8bA33EF5IkR0sFt87avdps,City Line Diner,42.2405468,-71.8549791,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,446,NA
+ChIJB9G6yBwH5IkRE5GX3FM_-No,Worcester Public Library Foundation,42.2603989,-71.80030169999999,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJBbtJcxr444kRnlJPdbtrC34,Angel Brook Conservation Restriction,42.333202,-71.7737396,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.4,8,NA
+ChIJBdwuua4H5IkR4wv_vov9fz0,The Home Depot,42.29158270000001,-71.8007805,Park,fountain,hardware_store; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4,1137,NA
+ChIJbeaKfQUH5IkRr0-7cL5qS_M,City Square,42.2624223,-71.7982535,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJbeaKfQUH5IkRr0-7cL5qS_M,City Square,42.2624223,-71.7982535,Park,square,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJBy-XTaD444kR8EmHG0qzYqI,Superworld Comics,42.331884,-71.83479299999999,Social Business,bookstore,book_store; finance; point_of_interest; store; establishment,OPERATIONAL,5,8,NA
+ChIJbZciQ94H5IkRbCCq7Q38idU,Church of Pentacost International,42.29756030000001,-71.76657329999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,5,NA
+ChIJC_-uExgE5IkRYCaZlAW7I9I,Main St + Webster Square,42.24486,-71.834375,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJc_GLvloG5IkREi-e3jE8JBo,The Gateway Café at WPI,42.275308,-71.7991095,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,2,1,NA
+ChIJC_KPS54G5IkRtmJMrtFbx1o,Church of Christ,42.2557255,-71.8282933,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,10,NA
+ChIJC-10YREE5IkRoQKDwjy6cyU,House of Restoration Ministry,42.2406427,-71.8413629,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJc0jVsS8G5IkRlCM8O5nAivI,Community Healthlink,42.274845,-71.7746554,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJc4Q6pZMF5IkR1VCW2dNhw7M,Oakland Heights,42.2221171,-71.77794639999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJc5i2oVEF5IkRrbUqhUMMP0o,Coes Square,42.2499654,-71.8316598,Park,square,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJc61nVAoE5IkRB83jpsqG61Q,Christ the Rock Fellowship C&MA Church,42.24018,-71.85439099999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJC9ZLxh4E5IkRdi15a8qnExM,Coes Park,42.2495729,-71.83710649999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,428,NA
+ChIJCcKnDPYF5IkROo5HOaFlINk,Satan's Temple of Massachusetts,42.2454677,-71.8359857,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJccLdIgAH5IkRG6BbqvOo2k0,Village Autumn,42.2889588,-71.81095479999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJce5ErusH5IkRsii3_s6jyQ4,STOP Cafe Pizza&Grille,42.26482,-71.81871029999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,214,NA
+ChIJCfFlxBcB5IkRAQRm4Fj7er0,Boynton Park,42.2873858,-71.8793385,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,128,NA
+ChIJCS2ZBqIG5IkRZlWME7wWf1g,Hadwen Arboretum at Clark University,42.2579318,-71.8315511,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.1,64,NA
+ChIJCUe6YyYE5IkRGEMt6hEBfCY,Worcester Public Library Goddard Branch,42.2477655,-71.82428,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJcyhnPzMG5IkR6Dam4ydnaa0,Green Hill Park,42.2810885,-71.77688239999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,1735,NA
+ChIJD0WvFQwG5IkRilrrU4XlSQw,Palma's Bakery,42.2503924,-71.781423,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,207,NA
+ChIJD1qpVSEE5IkRxNa1G2xE5u0,Webster Square Package Store,42.2476131,-71.8277671,Park,square,liquor_store; point_of_interest; store; establishment,OPERATIONAL,4.3,133,NA
+ChIJd6HrFZMG5IkREGgyBf3NAdI,Newton Square Pizza,42.2698044,-71.825726,Park,square,meal_delivery; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,217,NA
+ChIJD6XgLPAH5IkRcHTLdVaMnkY,Indian Hill Park,42.3133792,-71.81541589999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,16,NA
+ChIJdamJd_D344kRB94SBWXT_aY,Boylston Town Clerk,42.3295035,-71.755415,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDeqpf9oJ5IkRIPrBvadC1BU,Dunkin',42.27436489999999,-71.7498299,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2.6,63,NA
+ChIJdfE4yqsI5IkRpsrtfd5PJEg,McDonald's,42.2447396,-71.7589717,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,825,NA
+ChIJDQKbAZgH5IkRMX814akKjXc,Luthern Community Services of SNE,42.3048715,-71.7980673,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJdUTqYNsH5IkRdt53rBXgwXs,McDonald's,42.295748,-71.772667,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.3,1271,NA
+ChIJDV10enEE5IkR9AJhEoqIMD0,Ty Cobb Park,42.2625688,-71.8019606,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,3,NA
+ChIJdWZaw4YG5IkR92W71OW5N1o,Diggers Landscaping Co-Op,42.25566730000001,-71.8134513,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDX1Ev9oH5IkR-yoyzOvOfnc,Lowe's Garden Center,42.2927855,-71.772351,Park,garden,point_of_interest; store; establishment,OPERATIONAL,3,2,NA
+ChIJDx7AUTEG5IkR_NbD6Mfri8s,Worcester Vocational Library,42.2770634,-71.7780811,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJdYeMaokH5IkRlNxu7Ry_2NE,Unique Cafe,42.252747,-71.79878699999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,49,NA
+ChIJdz_6YbQH5IkRk3Y5saLjcLs,Bean Counter Bakery Cafe,42.2814064,-71.8051986,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,144,NA
+ChIJe_nyho0G5IkRZbGmRTcxRm8,Newton Hill,42.2672854,-71.8208133,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,98,NA
+ChIJe3Jgz2sE5IkRe7qLMlFIdKg,Hadwen Park Congregational Church,42.2309355,-71.8368127,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJE4C_4ScH5IkR_r5_bKoleHM,Newton Square,42.2697947,-71.82527759999999,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJe6DovmQG5IkRQqz6o9s03Tc,Hydroponics & Garden Supplies,42.2587143,-71.8025129,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJe6xWnHkH5IkRsGKsTNBBiQg,Institute Park Gazebo,42.2767315,-71.8072358,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJe7jS7oAI5IkRr2YPjPFw-8Q,Regatta Point Park,42.2776044,-71.7581704,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,303,NA
+ChIJeb5erzUG5IkRSiag1acEjkU,Massachusetts Vietnam Veterans Memorial,42.2811111,-71.7836111,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,460,NA
+ChIJEcasTeAH5IkRrnaoB5cfCt4,Bovenzi Conservation Park Trailhead,42.3236414,-71.80709999999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJEcOjHWQG5IkRG7xY4SEOo58,Denholm Coffee Shop,42.2623977,-71.80287349999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,3.8,4,TRUE
+ChIJEQiPr4EG5IkRMpIntBwk1FM,New Jerusalem of Worcester,42.2519302,-71.8134231,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,4.5,4,TRUE
+ChIJeQuzVDkG5IkRTiSHZ-2ajCk,Dunkin',42.2683745,-71.7802093,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,272,NA
+ChIJESADMc0F5IkRZ29EEXDs1XI,Dinand Library,42.2381225,-71.8091845,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJESMxklgG5IkRJeN43d2c6Wo,WPI Bookstore,42.2748616,-71.8082543,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.1,116,NA
+ChIJEUSznWYG5IkRfFVO2Ap_aDY,Worcester Veterans Services Department,42.2625688,-71.8019606,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJEVwlarQH5IkRUuI_Urw_2Go,Worcester Fire Station 8,42.2877164,-71.7905574,Community Space,city hall,fire_station; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJeW1pkC8G5IkRu_nGkFAXjLc,McDonald's,42.272665,-71.7710058,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,1431,NA
+ChIJex9CZQUF5IkR1ynv7ajS45s,"Iglesia Pentecostal Remanente Fiel, Inc.",42.2325604,-71.8502771,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJf-eawsgH5IkRsyvVlsN6Jks,Lowe's Home Improvement,42.292292,-71.7729672,Park,fountain,hardware_store; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,3.9,1193,NA
+ChIJf1LYt2QG5IkRIfGFOr_dwhs,Joe's Cafe,42.2582679,-71.8019071,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJf1LYt2QG5IkRRWL_J6PmrxU,Church of God Ministry of Jesus Christ Intl.– Iglesia de Dios Ministerial- IDMJI,42.2582668,-71.80192029999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJF3NUBnAG5IkRIYiUDydXNRU,BirchTree Bread Company,42.2562472,-71.79779719999999,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.7,1076,NA
+ChIJF4X2xJoH5IkRb8Ll94rWueQ,Christian Life Center of Worcester,42.313746,-71.799886,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJF69Ex6sI5IkRmZZw2V3cqCg,Dunkin',42.2444361,-71.7583604,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.7,235,NA
+ChIJfaQ3OZsG5IkR4y4nRIEb1OY,Yoway Cafe & Frozen Yogurt,42.25761,-71.822419,Social Business,cafe,meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,429,NA
+ChIJfc3sofcH5IkRxIdiYIshZ_w,Salem Covenant Church,42.3179833,-71.7749443,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,28,NA
+ChIJfTa-2JwI5IkRbslC-xDawUA,FIRST BAPTIST CHURCH OF WORCESTER,42.2689758,-71.7593914,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,4,1,TRUE
+ChIJfTdky4sG5IkR3jPnoDtP9Gc,Sever Square Apartments,42.2650975,-71.81232179999999,Park,square,point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJFVWa-14G5IkRlJOHn04wJjQ,Honey Dew Donuts,42.2707107,-71.8062698,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,11,NA
+ChIJFW371wgG5IkR23gi_In5oX4,Rice Square Elementary School,42.2480279,-71.7771123,Park,square,primary_school; school; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJFwi6PyEG5IkRB7ix-tTkBdI,Eric's La Patisserie Cafe,42.2633192,-71.8034784,Social Business,cafe,food; point_of_interest; establishment,OPERATIONAL,4,20,NA
+ChIJFZwrUiUG5IkRKiAhZHZEqZg,Cafe Reyes,42.2716865,-71.7737121,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,649,NA
+ChIJg_05sx4H5IkRm9-Mrea2fI8,Plourde Recreation Center,42.2953394,-71.8284828,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJg_5dLScH5IkRsWOE3k_T1Co,Worcester JCC,42.294996,-71.8386189,Community Space,community center,school; gym; health; point_of_interest; establishment,OPERATIONAL,4.7,23,NA
+ChIJg-z-a3YG5IkRRYwAB45G1tM,QCC at Worcester Senior Center,42.248111,-71.7930315,Community Space,community center,university; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJG0XYc34G5IkRLZnnWZi-Wmw,Armenian Church of the Martyrs,42.2697964,-71.8079726,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJg5bGcI8G5IkR2ORwSp6IOhA,Dunkin',42.2612343,-71.81795249999999,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,378,NA
+ChIJG61fscsG5IkRUiTFrxaeD1M,Pleasant St + Tatnuck Square,42.27824,-71.85314,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJg6bqI5MG5IkRw5di5NcXsjo,Newton Square Counseling Center,42.2701449,-71.8250112,Park,square,doctor; health; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJG7y4WCAE5IkRqLHqCaMYlx8,South Bay Community Services,42.2510418,-71.8303598,Community Space,community center,school; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJG8nThigJ5IkRCdOJIR_OSqY,North Grafton Public Library,42.241712,-71.71129599999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJgcHc3cYF5IkRTd66PaOPbis,The Journey Community Church,42.2303828,-71.7936366,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,24,NA
+ChIJGcsH2bsG5IkRETojAeKrfLo,Worcester State University Library,42.2667699,-71.84328909999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.6,8,NA
+ChIJGcsH2bsG5IkRVV-LeFPusUA,Worcester State University Bookstore,42.267581,-71.84397,Social Business,bookstore,book_store; point_of_interest; clothing_store; store; establishment,OPERATIONAL,3.9,41,NA
+ChIJGSipkrkF5IkRyhycWl9VVDw,Worcester Christadelphian Chapel,42.2239089,-71.79623440000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJGU8QdqsI5IkRhZL1Gr_WRl8,Worcester Public Library Roosevelt Branch,42.243133,-71.7570583,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,5,3,TRUE
+ChIJGVhAc2QG5IkRhqJ6RjrHhRw,Theatre Cafe,42.2616344,-71.802951,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,143,NA
+ChIJgw-zfUf444kRp5LwSAP8ucE,Gourmet Donuts,42.3475434,-71.7858912,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,211,NA
+ChIJGy39WTn544kRpymW6-YUz1Q,dlc80895,42.3438624,-71.7899722,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJgyMg04QG5IkRrdxJsEOQrGc,Mt. Zion Sanctuary Assembly Massachusetts,42.258109,-71.8216952,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJh2dqAxQH5IkRqMnJ5cfRMdI,The Church of Jesus Christ of Latter-day Saints,42.3047672,-71.8284664,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,29,NA
+ChIJH7FPImQG5IkRfqzhyJa2aW0,Worcester Tlgrm & Gztt Library,42.26120909999999,-71.8015715,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJH8DpJ9QG5IkRwdHLpodI7AA,Cook's Brook,42.290976,-71.850833,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJh8EJE0EG5IkRrk3PxwWIv58,Betty Price Playground,42.2684488,-71.7902391,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,45,NA
+ChIJh8o3oyYE5IkRBR1QBk1Yw5E,McDonald's,42.2477159,-71.82612139999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.4,1587,NA
+ChIJh9D_iGYG5IkRuRfub7q6wNs,The WOO Card,42.2632071,-71.8008912,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJhaOdXr0G5IkRBlWvwCqSniY,Donut Cafe II,42.263805,-71.833833,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,4.2,63,TRUE
+ChIJheG25WEH5IkRDxCiHxc5wz8,JCC Fitness Center,42.2948032,-71.8387939,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJHQVY7MoG5IkROnZk_pC64a4,ReNew Tatnuck Square,42.2766718,-71.8554655,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4.7,101,NA
+ChIJHSPcFnEE5IkRh_1JqulwotA,Dunkin',42.2303187,-71.8495611,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,133,NA
+ChIJHUurHVEE5IkRLLVKWv8AmcY,Pakachoag Church,42.2167625,-71.8186596,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJHwh-F6P444kRl800A0taS9U,Donut Kitchen,42.338342,-71.837124,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,77,NA
+ChIJHwqcfXUG5IkRd3Eh0MuLPIQ,Rice Square,42.2459268,-71.7884042,Park,square,colloquial_area; political,NA,NA,NA,NA
+ChIJHY3r76oH5IkR2FADGwwBotc,Starbucks,42.2823503,-71.808267,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,498,NA
+ChIJHzPtjMQH5IkRYaRy06o1mcY,Dunkin',42.2944939,-71.7774907,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,118,NA
+ChIJHZtXX5IF5IkRvV46df7Vb7U,Camp Park,42.2430005,-71.8158406,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,23,NA
+ChIJI-bjmy8E5IkR053du_yoKXQ,ATM (Webster Square Mobil),42.2548539,-71.8465599,Park,square,atm; finance; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJI-bjmy8E5IkRqnJktLveqqk,ATM,42.24303520000001,-71.8104244,Park,square,atm; finance; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJI32dmxEE5IkRFs2jkV1mlFo,Webster Square Plaza,42.2414224,-71.84286019999999,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.1,1424,NA
+ChIJi3j-0xcE5IkRnI77r2c04J0,Christ Vision Ministries-Massachusetts,42.2416806,-71.8334149,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJI8cNNqP444kRT3tD65EEvTU,McDonald's,42.3395318,-71.8376643,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,440,NA
+ChIJI9EzAigE5IkRZ5Ct9eZNuW4,Annie's Clark Brunch/Cash Only,42.2510371,-71.8210969,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,180,NA
+ChIJiaI9dhsH5IkR21YISDYmkUA,UMass Memorial Medical Group Chadwick Square Internal Medicine,42.2887794,-71.8078658,Park,square,doctor; health; point_of_interest; establishment,OPERATIONAL,3,4,NA
+ChIJibvoUPUH5IkR6LR-zgewqv4,Livermore Square,42.2659633,-71.82958219999999,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJiSdWKRAJ5IkR2HahOHddpfk,Gauch Park,42.2975824,-71.75401649999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJiUxoq8sG5IkRK0OZ2jA3h3Y,Chandler St + Tatnuck Square,42.27813,-71.853855,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJIWFJ7W0I5IkRAG4snivAJoE,India Society,42.2927,-71.7490444,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,88,NA
+ChIJIX9kjYsG5IkR_bZqQ0hoXpY,Grace Christian Center,42.26582500000001,-71.81490699999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJIxnx0YUG5IkRqOJ2PwmdHwU,Henry Lee Willis,42.257922,-71.816306,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJj-k_gYkG5IkReRHgWMBA0O4,Dos Tacos Cafe,42.263843,-71.8123229,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,59,NA
+ChIJj0kLfmQG5IkRtXYAd_YIXE0,Federal Square,42.26099199999999,-71.8035321,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJj0kLfmQG5IkRtXYAd_YIXE0,Federal Square,42.26099199999999,-71.8035321,Park,square,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJJ3pmNGQG5IkRD6RmJxK--Mc,Brew on the Grid,42.2614109,-71.80106099999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,339,NA
+ChIJJ3UpoGYG5IkREHI0ogCTQkw,New Start Brain Injury Community Center,42.2606598,-71.8006626,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,15,NA
+ChIJj5n3qdUH5IkRQMjvZzPKYFc,Biotech Park Lake,42.282614,-71.7648338,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJ9nIImQG5IkRfSKWCr3vLSI,QCC Center for Workforce Development and Continuing Education,42.2611526,-71.80227459999999,Community Space,community center,university; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJJaIYksMF5IkRMgf2ahpOEuA,Walmart Garden Center,42.2341083,-71.7917753,Park,garden,furniture_store; home_goods_store; general_contractor; point_of_interest; store; establishment,OPERATIONAL,3.9,9,NA
+ChIJJVMG5OoG5IkRwEzTIz5mOUs,Espress Yourself Coffee,42.2733873,-71.8309476,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,76,NA
+ChIJJWbPxi0H5IkRPeEhFWJO1N0,Worcester Bioshelter,42.2595995,-71.8097763,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjwQAevjC5IkRCSFSmqzV0kE,DCU Center,42.2644498,-71.7986634,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,2175,NA
+ChIJJX5oTsoF5IkRkDuE5Eh7kqc,Esmirna Hispanic Seventh-day Adventist Church,42.2322864,-71.794733,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjYnsVyAE5IkRwzOWsPuVpFs,Igreja Universal,42.2509335,-71.8305061,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,9,NA
+ChIJk_G_ne4F5IkRC9B8P1OaEKk,Harvey Ball Conservation Area,42.2301764,-71.7781878,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,7,NA
+ChIJK0rThqIH5IkRjzmYgU4puR0,International Central Gospel Church,42.3048237,-71.800585,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJk16m-CIE5IkR6fSCgiiBCZA,Webster Square Barbers,42.24543999999999,-71.832269,Park,square,hair_care; health; point_of_interest; establishment,OPERATIONAL,4.1,33,NA
+ChIJk1iEhvUH5IkRRpHO-T--Z50,Hope Restoration Ministry,42.26711479999999,-71.8181725,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJk3Vu1I0G5IkR1v0iTL-71tM,That's Entertainment,42.265524,-71.819087,Social Business,bookstore,book_store; electronics_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.7,1621,NA
+ChIJK8MrIIAI5IkROqidkOShWI8,Lamar Soutter Library,42.27841110000001,-71.76196940000001,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJKb6g4CIE5IkRIeZ0GfXu7Lw,Breens Cafe,42.2445909,-71.8309592,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,203,NA
+ChIJkSn7G0IG5IkR_Tvrt24qIvE,Rhema Gospel Church,42.266474,-71.792318,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJKT5NH4YG5IkR3860hGE4cw8,Family Health Community Health Center,42.25933149999999,-71.814606,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJKxsYJEQG5IkRTQ9W1U1VIRE,Dunkin',42.2718731,-71.7926149,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,194,NA
+ChIJL-FdOfH344kRtCWnU3Z27hM,Boylston Town Hall,42.3296003,-71.7552925,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJl0-SDLf544kRFE4WmJZ1JG8,Woodland Park,42.3438624,-71.7899722,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJL7PqbuAH5IkRQM0Iyt6eWRU,Kelly Square,42.2550251,-71.7977832,Park,square,point_of_interest; establishment,OPERATIONAL,4.1,43,NA
+ChIJL9jrt2UG5IkRgu4Q_1jiMac,Worcester Talking Book Library,42.2603989,-71.80030169999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJL9jrt2UG5IkROpwPWbRMd4w,Worcester Public Library,42.2607657,-71.79997639999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,184,NA
+ChIJL9T582QG5IkR-kLnmaGdMyw,Printers Building Trust,42.2597966,-71.801824,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJlb_w3ewG5IkR4SBPxcxdYWU,Wetherell Park,42.2724256,-71.8248902,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,31,NA
+ChIJlQ24DU8F5IkRc_wNuDTiGjE,The Green,42.251015,-71.82231519999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJlWoGwcQH5IkRjogzGJBi2t4,Bean Counter Bakery Cafe,42.2708738,-71.8070674,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,507,NA
+ChIJLWr8xo8G5IkRA2gqDm8jdPg,The Center for Global Community and World Law,42.2838629,-71.840262,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJlXlrztcF5IkR3v-Nxw6VWk0,Dunkin',42.2471422,-71.8004946,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,146,NA
+ChIJlyoq0mAH5IkRHS7BV5MIiZs,Jazzman's,42.2518912,-71.823041,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJlYPRYJgI5IkRIsHkiJNB1w0,Quinsigamond State Park - Lake Park,42.26023600000001,-71.7530055,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,296,NA
+ChIJLZo8pq4H5IkRTtNkWDmVzqM,Panera Bread,42.2919984,-71.80254359999999,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,692,NA
+ChIJM06yAMYH5IkRoSC5UxOddW4,Gourmet Donuts,42.29239949999999,-71.7799809,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,23,NA
+ChIJM1XLlkQG5IkRkyAKoTcz4qg,Belmont St + Fountain St,42.27178,-71.79598,Park,fountain,transit_station; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJm4uU-sYF5IkR-0ws9tICy2k,Quinsigamond United Methodist Church,42.2305336,-71.7942657,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJM6XSit8H5IkRkkpgo2fjLGc,Dunkin',42.2977096,-71.7625719,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,544,NA
+ChIJm88ndfQH5IkRP0V-caWEFVs,Downtown Dog Park,42.2600139,-71.7978121,Park,park,park; point_of_interest; establishment,OPERATIONAL,2.6,8,NA
+ChIJm8ZQ7CcE5IkRaX7pQaD-lL8,red square,42.2516001,-71.823404,Park,square,school; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJmaaNgFAP5IkRkwVyuTzdj4c,Dunkin',42.2306976,-71.7534446,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,112,NA
+ChIJMbL-glsG5IkR97IoZkc5n-Q,United Congregational Church,42.2723808,-71.80072779999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,8,NA
+ChIJMeHN7wEJ5IkRQfV2LHyISP8,Bullet Club Park,42.252297,-71.724074,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJMRNXKvEG5IkRT7MsIkZezrc,Bancroft Tower,42.2764938,-71.8158251,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,112,NA
+ChIJMTULfmQG5IkR5kzXXiRBO6U,Federal Square Properties,42.2603922,-71.8033657,Park,square,park; point_of_interest; establishment,OPERATIONAL,3.1,7,NA
+ChIJmUpAc2QG5IkROzLA6aV0iVs,Federal Square Condominium,42.2615946,-71.80294359999999,Park,square,point_of_interest; establishment,OPERATIONAL,3.2,9,NA
+ChIJmVihzjsG5IkRJN2ZVH3LSXE,R.C.C.G. - Power Miracle Center,42.27026679999999,-71.7790026,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMwvkJREE5IkRVglssbUnsYc,Webster Square Dental Care,42.2421559,-71.840187,Park,square,dentist; health; point_of_interest; establishment,OPERATIONAL,3.1,32,NA
+ChIJMYGIwZMF5IkRFqKNYU5CbQk,His Ministry Oneness Church,42.2309053,-71.79394740000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJn-_XMGEG5IkRdwUDlEDNsSs,Chestnuts Cafe,42.2645795,-71.8040255,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,18,NA
+ChIJN-8GfN8I5IkRtEOtJx3UC0A,Dunkin',42.24975180000001,-71.7152316,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,110,NA
+ChIJn06h4jQF5IkRTCtlUZIOB3o,Philadelphia Pentecostal church of all nation,42.2633127,-71.8013082,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJN0GFwLQG5IkRzzErpiv-57c,Logan Field,42.2727358,-71.8560213,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,60,NA
+ChIJN1_8zJ0H5IkRr1jueqI1W4Y,Massachusetts League of Community Health Centers - James W. Hunt Jr. Training & Learning Center,42.3100046,-71.7996747,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJN7_hrJ4H5IkR9pGZKJTa8K4,Jakubowitz-Chaifetz Garden,42.25219,-71.8215206,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJN8lCnScE5IkRZ633rBh-WNg,The Fishman Library,42.2511067,-71.8244675,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNcOcwuMH5IkRggrv8WY01as,Great Brook Valley Park,42.3057688,-71.76632579999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,42,NA
+ChIJneG7ccoG5IkR82KPo6cm8Ao,McDonald's,42.2758719,-71.8536343,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.4,811,NA
+ChIJnR1xxHT544kR-Xyc-Sbp9Lo,Bojangles,42.3361477,-71.8227823,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNSVkdMkG5IkRHULaYUgR6K0,First Congregational Church,42.2777216,-71.8499621,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,18,NA
+ChIJnWJlDp0I5IkRGMkwOhgLKjw,Upper Room Family International Church,42.26800859999999,-71.7603401,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,14,NA
+ChIJnzY1oYgG5IkRvsH9iumS5LU,Community Healthlink - Motivating Youth Recovery,42.25933149999999,-71.814606,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,3.3,10,NA
+ChIJo_VloxgE5IkRtU673spgR_k,Webster Square Tire & Auto Services,42.2474885,-71.8339525,Park,square,car_repair; point_of_interest; store; establishment,OPERATIONAL,4.7,119,NA
+ChIJo--LY0IG5IkRFZI5RietdDc,Starbucks,42.2668,-71.794511,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,715,NA
+ChIJO-QrNVgG5IkRnUNuM_vPpLA,Institute Park,42.2764529,-71.8067502,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,80,NA
+ChIJo1KzNhAE5IkRqSQqUhZI1RM,Bennett Field,42.2432935,-71.8447181,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,63,NA
+ChIJO1TEsWUG5IkRacNf8OOYwd0,parking,42.2603989,-71.80030169999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJO2ap4DYH5IkRnHoXR95eD6o,Morris Square,42.267726,-71.80346039999999,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJo36tTqD444kR3XapQ_zehNo,"Jed's Hardware, Garden, & Rental Center",42.331879,-71.8348958,Park,garden,hardware_store; home_goods_store; food; point_of_interest; clothing_store; store; establishment,OPERATIONAL,4.8,208,NA
+ChIJo4PPc3oG5IkRVlyhI2tFRT8,Italian Books Records Perfumes,42.253671,-71.79821799999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJo7EbyCoP5IkR1ytcZd7DM4U,Pearl Cafe Grafton,42.2302398,-71.7174682,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,39,NA
+ChIJOeY7AHQH5IkRRAwyYOtP_vM,Cafe Agrizzi,42.26310609999999,-71.8004474,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,38,NA
+ChIJOQBfxXcI5IkRmlxlFif9o4o,Coal Mine Brook,42.2901371,-71.76187740000002,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,52,NA
+ChIJOSnpvIkG5IkRjwA_6cmM-eE,Bethsaida Church,42.2626269,-71.8118259,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,12,NA
+ChIJoTh1qcsG5IkRQnaCjif7WSA,Tatnuck Square,42.278439,-71.8539773,Park,square,park; point_of_interest; establishment,OPERATIONAL,4.1,38,NA
+ChIJoTxNZZoG5IkRXzjYz13LNkE,Beaver Brook Park,42.2610909,-71.8248902,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,291,NA
+ChIJoV7iAr0H5IkRw9y0C87dQmw,Oread Castle Park Playground,42.2573868,-71.81337309999999,Park,park,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJoWlifa4H5IkRulVEbH_XPJs,Garden Center at The Home Depot,42.2920831,-71.800235,Park,garden,furniture_store; home_goods_store; general_contractor; point_of_interest; store; establishment,OPERATIONAL,3,8,NA
+ChIJoXdnOdYF5IkRmtS1ZD2jPPE,Pentecostal Movement Church,42.2483719,-71.8011361,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJoYkMwC4E5IkROGPxavE6TW0,Nguyen Congregational,42.2447356,-71.8170488,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJP_mxb8wF5IkRTYZz368M26w,Hart Center Arena,42.2350991,-71.806029,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.7,24,NA
+ChIJp0ESc38H5IkRRfSPrhoTXpQ,Route 12 Cafe,42.3111811,-71.79758749999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,62,NA
+ChIJp0I-EfYG5IkRarl10ZY2PU0,WPI Sports & Recreation Center,42.2743694,-71.8103392,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,232,NA
+ChIJP2iHL1YH5IkR75y9i6ljKZM,Hawk's Nest,42.2690259,-71.81191199999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJp2TzUIIG5IkR2D9KvK78s5M,UAD of New Life Christian Center,42.2526299,-71.8179918,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJp7h2UokG5IkRHAjFAhD50zI,Epoca,42.2556672,-71.8134513,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,21,NA
+ChIJp9m3McEF5IkRy-fdURYc974,City of Worcester Technical Services Department,42.2770634,-71.7780811,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJpakq5KgF5IkRX08_qm5Rl6A,Uncle Mark's,42.21270880000001,-71.80039409999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.6,83,TRUE
+ChIJPbKDcBIE5IkR7M18MbckdSg,Webster Square Vision Center,42.2391957,-71.8447671,Park,square,health; point_of_interest; store; establishment,OPERATIONAL,4.6,27,NA
+ChIJpQKyxXgG5IkR_jOidFoQhec,Crompton Park,42.2500152,-71.8028211,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,506,NA
+ChIJpS4X0SsP5IkR91EgwQKj5A0,Donut Star,42.2300402,-71.7180971,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,198,NA
+ChIJpTJRCUcG5IkR5Z0lgCcVR_s,Belmont Street Community Church,42.27182029999999,-71.78791799999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJPUYMfdsF5IkRWpNzpQoIHsA,Dunkin',42.23779589999999,-71.7928426,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,542,NA
+ChIJPUZ0j2MG5IkRBt65kfcrQzg,Federal Plaza Garage,42.2609131,-71.8039545,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2.2,6,NA
+ChIJPWQWxXME5IkRGc0m2hUUTsU,Annie's Book Stop of Worcester,42.2330115,-71.84936929999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,164,NA
+ChIJPymYEqEF5IkR5N3xuOKSRhM,Worcester Pagoda,42.20886489999999,-71.7928541,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJQ-tYxYMG5IkRB8HqbBMvkis,African Community & Cultural Center Home Of The Africans,42.2534479,-71.81642819999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJQ0bMnIMG5IkRPQl2TSxsAq0,Kasperson Library,42.25492939999999,-71.8183347,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq1szGicG5IkRaGWABrwRPkg,NEW BETHSAIDA,42.2673911,-71.764654,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJq6oaXwwH5IkRjYieO8VKYiM,Unitarian Universalist Church of Worcester,42.3053672,-71.8173386,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,22,NA
+ChIJQ6pZ1QcH5IkRPO376fhudbk,New Tradition Co,42.2567821,-71.8086328,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.9,62,NA
+ChIJq6qWu3gH5IkRRipdQMZcMU8,House of Zion,42.3202423,-71.8106902,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJQdpagocG5IkRXwcgwu7osZI,Central Community Branch YMCA,42.2574458,-71.8095061,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,3.9,44,NA
+ChIJqQ7BUwoE5IkRd8u4iJubHzw,Vietnamese Christian Church C&MA,42.2401854,-71.8543904,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,CLOSED_PERMANENTLY,0,0,TRUE
+ChIJqRKau8UF5IkRO01Bcwwtho4,Pentecost International Worship Center,42.2346079,-71.79582409999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJqS8O6dMG5IkRfFGR7_XurAk,Cook's Brook II,42.2888324,-71.8523154,Park,park,park; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJQU0a_5cH5IkRIZsPt9vhQcg,"Zion Lutheran Church: Worcester Campus of Grace Ministries, ELCA",42.3047779,-71.7976542,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,11,NA
+ChIJQU0a_5cH5IkRvCjpFpdFRcY,The Church on Seven Hills,42.3189372,-71.7912099,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJqVBrqxEE5IkRj4Bdi7St3oE,Main St + Webster Square Plaza,42.242705,-71.84259,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqw3hLIYI5IkRLRAEQA5WJsM,Gerardo's Cupcakes Galore,42.2755016,-71.7497795,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,165,NA
+ChIJqWafQokH5IkRTSKmUl15K1o,MissionE4 center for community development,42.2978152,-71.767461,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqWtHlGYG5IkRvUtDvgjOTyI,Dunkin',42.263429,-71.8019631,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,219,NA
+ChIJQyhrUyIE5IkRxFT40Wo7pxY,"Webster Square Day Care Center, Inc.",42.2576882,-71.8140493,Park,square,point_of_interest; establishment,OPERATIONAL,3.8,10,NA
+ChIJQYJa2JIG5IkR5aCgDW-wTmM,Newton Square Family Dental,42.2701097,-71.8243,Park,square,dentist; health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqZ2oKagI5IkR2wQohct_c_U,Honey Dew Donuts,42.249139,-71.762113,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,104,NA
+ChIJqZDhtRT444kRlHNfn4xsx-M,Taproot Treasures,42.3393062,-71.78843979999999,Social Business,bookstore,point_of_interest; store; establishment,OPERATIONAL,4.8,209,NA
+ChIJQZFGaO0F5IkRMfD8Zph-emE,The Den,42.2501348,-71.8220137,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJr2IYBecH5IkRNrwrTJcMuBg,Glazy Susan,42.2645554,-71.79939940000001,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,71,NA
+ChIJr2ZxvhYF5IkRpCAiGT3x6OI,Lakeview Ghanaian Seventh-day Adventist Church,42.2523309,-71.8448272,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJr71s_9UG5IkRWUGEffBqz1c,Brigham Road,42.294016,-71.8502771,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJR7AuomYG5IkRaVBzyRQ2D8E,Main St + City Hall,42.262813,-71.802437,Community Space,city hall,transit_station; point_of_interest; establishment,OPERATIONAL,2.3,3,NA
+ChIJR7pHmvkH5IkRwZl3_oqYh5M,Dunkin',42.2728089,-71.8135398,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.4,19,NA
+ChIJRdMXcQQE5IkRQm_w6Ete_ik,Webster Square,42.2513645,-71.85120359999999,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJRficmmcF5IkRZhNUjH0Y54o,Vernon Hill Park,42.2435655,-71.7927268,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,103,NA
+ChIJRRLX_hAE5IkRZeiff9KKHLw,Webster Square Laundry,42.243029,-71.842101,Park,square,laundry; point_of_interest; establishment,OPERATIONAL,4.6,81,NA
+ChIJRXVaO_gH5IkRRxgY0ugyvqA,Salem Community Corporation,42.3165168,-71.7722702,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,5,NA
+ChIJRYKIWiMH5IkRhsXzmHf-Br8,"Tidepool Bookshop, Llc",42.2625714,-71.83005109999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,34,NA
+ChIJRZ78G6IH5IkRS94pZv4bv_Y,Channing st parkkng,42.274285,-71.7915934,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJs10Ygj0E5IkR_Mbi-i9b4j4,Iglesia El Semrador,42.2416535,-71.8338083,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJs2osCKwH5IkRIGsBOpWfv18,Honey Dew Donuts,42.290601,-71.80370599999999,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,120,NA
+ChIJS8J3ii4E5IkRU8C9tlmCkyI,House Of Worship,42.2433737,-71.8168917,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJs9fhLuwJ5IkR1rOfC5NoFfU,Jordan Pond Trail,42.2691763,-71.7474661,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,65,NA
+ChIJsbVhDjgH5IkRmIriIM-XfOY,Aaron Krock Memorial Park,42.312563,-71.77059679999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJSeBQiTwG5IkRpWj32kY0ZAU,Brown Square Civic Club,42.2672872,-71.77571739999999,Park,square,point_of_interest; establishment,OPERATIONAL,4.7,12,NA
+ChIJsfX1WY8G5IkRQKkZOrXpC60,jesus power assembly,42.2603895,-71.81644,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJsfX1WY8G5IkRWhlb0-nnhxE,Iglesia Pentecostal Y Misionera El Sembradr,42.260306,-71.81644,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.3,3,NA
+ChIJsQQxpmwG5IkRazyqLrC-vCk,Cicero's Cafe,42.2597783,-71.78679720000001,Social Business,cafe,bar; point_of_interest; establishment,OPERATIONAL,4.7,64,NA
+ChIJSQZnK1kE5IkR2-Rceun42zY,Bells Lawn & Garden Center,42.216581,-71.82706390000001,Park,garden,furniture_store; home_goods_store; general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.5,45,NA
+ChIJsyXHfQ4E5IkR_vu7xNS9KMo,Revival Church,42.2416771,-71.84811950000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJszNYbOQH5IkRaXrrFlmorvc,Great Brook Valley Branch Library,42.3054132,-71.7692156,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJt0lbtCgE5IkRjATqbyW-4n0,Belmont A.M.E. Zion Church,42.246174,-71.820229,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,17,NA
+ChIJt3368ggI5IkR_sHLvfq32jU,Dinky's Blue Belle Diner,42.306529,-71.758505,Social Business,cafe,restaurant; bar; food; point_of_interest; establishment,OPERATIONAL,4.2,477,NA
+ChIJT5GdYHEE5IkRfXHzRhdWDLI,Divine Word International Ministry,42.2324594,-71.85088069999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJT7HNfY4G5IkRm0JJGb4N6Yw,ELM Park Cafe,42.2648164,-71.818759,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJt8R03hEE5IkRuyq9hhLh2eM,Dunkin',42.242081,-71.8450198,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,288,NA
+ChIJT9bfAoX444kRCSRfolVrwJY,Immanuel Lutheran Church,42.3342962,-71.8194644,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,14,NA
+ChIJtfX4KYwG5IkRiflKCvo6Jhc,JP's Café,42.2649492,-71.8185051,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJtfX4KYwG5IkRnx8ZWELMiXY,Webster Square Medical Center,42.2649492,-71.8185051,Park,square,hospital; health; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJTSox53ME5IkR8eHFZQDvtjM,Christian Worship Center,42.2328452,-71.8505852,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJTSox53ME5IkREo8A0TZlcAQ,Christ Apostolic Church International,42.2327345,-71.8497817,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJTT1dsm8G5IkRuHEIbyR05Ek,Steam Energy Cafe,42.2581225,-71.7963589,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.2,97,TRUE
+ChIJtTvhbEkH5IkRJnqqyz4sjAU,BubbleBee Cafe,42.2558444,-71.7977432,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,43,NA
+ChIJtW4VeqoH5IkRqInVyHgBzFI,Chadwick Square,42.2903706,-71.8092381,Park,square,colloquial_area; political,NA,NA,NA,NA
+ChIJTxI2QGQG5IkRsr3I9addIHQ,Quinsigamond Community College Healthcare and Workforce Development Center,42.2611526,-71.80227459999999,Community Space,community center,school; university; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJTXVb5okF5IkRcFcEdHdR2zg,Glodis Field,42.2399627,-71.7905273,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJTYv6xIMG5IkR9mu1JlXbpMs,"Iglesia Monte Olivo, Inc.",42.27166,-71.82898999999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJTZ8HO30G5IkRbfvHMQos_Z8,Ebenezer Church,42.2582551,-71.8070034,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,19,NA
+ChIJu2TSsqsH5IkRO_QVxJlmY-c,Fatima's Cafe,42.2901615,-71.80673930000002,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,467,NA
+ChIJu2vSYYIG5IkREQ5dP4iZIXI,Pilgrim Congregational Church,42.2519728,-71.8184531,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJu3XAf0AG5IkRduYo-MTvcZ8,Cristoforo Colombo Park,42.2667161,-71.7863427,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,517,NA
+ChIJu5mVZTEG5IkR808njUrivIw,Lifesong Church - Worcester Campus,42.2770223,-71.7780899,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,39,NA
+ChIJu5mVZTEG5IkRo_FEtPBcf9E,Edward M Kennedy Community Health Center,42.2770634,-71.7780811,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJu60zksYF5IkRJc11lf3bAsM,Quinsigamond Village Community,42.231432,-71.7940851,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,37,NA
+ChIJu6dDyJAG5IkRDOPPH1-R9ws,NU Kitchen Worcester,42.262733,-71.826509,Social Business,cafe,cafe; meal_takeaway; bar; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,1104,NA
+ChIJUcqEGykG5IkRS-1YNhAeqxs,Dunkin',42.2733324,-71.766538,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,95,NA
+ChIJUczhno8G5IkRokzC5VpBZS4,Temple of Beautiful Ministry International,42.2614933,-71.8186821,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJUeyWHyYE5IkRIvlJ8h1pcX8,University Park,42.247479,-71.8219252,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,322,NA
+ChIJufnyx5AH5IkRTUVfdOst974,Greendale Peoples Church,42.3100777,-71.7965088,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJuQMzCXb444kRa2HAL8LJfMM,Bennie's Cafe & Pub,42.3241094,-71.7925855,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,214,NA
+ChIJuSXZg8EG5IkRoyPAPJRhwBI,NEYM,42.2770944,-71.8362779,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJuzKE94YG5IkRkTlWgCrvWI8,Oread Castle Park,42.2569452,-71.8132152,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,93,NA
+ChIJv_Eq3LsH5IkR2Eeomixy-14,Liberty Church of God,42.297675,-71.79229219999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJV_yTqVUG5IkRhRIvZFdMlrM,Dunkin',42.2846166,-71.8070851,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,91,NA
+ChIJV0V7nUYG5IkRCVhjX52-wIo,Homer Gage Medical Library,42.27275789999999,-71.7921681,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJV715y5kH5IkRdmx2vYCpa8A,Worcester Public Library Frances Perkins Branch,42.3074084,-71.79905300000001,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,27,NA
+ChIJv7xo3PUG5IkR25ObywTMIO8,Dunkin',42.2749276,-71.80829609999999,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,42,NA
+ChIJv7xo3PUG5IkRW8Fl6TsgBxY,George C. Gordon Library,42.2742207,-71.8065441,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,23,NA
+ChIJv90J_4EH5IkR9L-NydB6Ocw,Bovenzi Conservation Park,42.319483,-71.80821159999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,60,NA
+ChIJVagoQRoH5IkRWdQTnfPdzcY,Fuel America,42.2624266,-71.7989815,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,279,NA
+ChIJVRrEmjMG5IkRPePu0BbEoxs,Recreation Division-Permits,42.2801366,-71.77866759999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJvS_-PfYD5IkR_xu1p_qb1TI,Parson's Cider Mill,42.2438681,-71.8582476,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,30,NA
+ChIJVTz6C1gE5IkRh9-qsK3WZME,Auburn Senior Center,42.2131629,-71.82286069999999,Community Space,community center,local_government_office; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJVXbkETIB5IkRAbUd6oFyERw,Cascading Waters,42.28590450000001,-71.8619722,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,211,NA
+ChIJVxf4m4gD5IkRRUUQAOwzfeE,LifeSource Church,42.229339,-71.8619659,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,9,NA
+ChIJVXmXpDQG5IkRmo8Qgbr_wls,Barnyard Zoo,42.281929,-71.7806769,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,190,NA
+ChIJw_7QqREE5IkR4cA51pgHeog,Dental Smiles Center,42.2423321,-71.84233760000001,Park,square,dentist; doctor; health; point_of_interest; establishment,OPERATIONAL,4.8,33,NA
+ChIJW-rleTgG5IkRtSIF0URWGZY,Bell Hill Park,42.2722385,-71.7856659,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,108,NA
+ChIJW3EWjicE5IkR5t0cY4l7RY4,Robert Hutchings Goddard Library,42.2517489,-71.8230683,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,21,NA
+ChIJW3EWjicE5IkR7vhSJzCD5cs,Map Library,42.2507498,-71.8217245,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw3uqH3oG5IkRGnmsNAa6H5Q,Cafe Neo,42.25258059999999,-71.79908329999999,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,207,NA
+ChIJW3v4XskG5IkRD8jkKuts6HM,Worcester Public Library Tatnuck Magnet Branch,42.2789852,-71.8508746,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,6,NA
+ChIJw4dkxmIH5IkR89DSO306vOs,Greek Orthodox Veterans Memorial,42.266192,-71.815088,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJWaE4dl0G5IkR838FKBuh8K8,Garden Fresh Courthouse Cafe,42.267824,-71.801031,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,170,NA
+ChIJWb6Dpz8G5IkRT9kAQKbLtxM,InHouse Coffee,42.2666999,-71.7834482,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,574,NA
+ChIJWbD1UKYF5IkRaGIEjxuJQPk,Emanuel Lutheran Church,42.2246079,-71.7958136,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,10,NA
+ChIJWchJuSwE5IkRW6U55UF0ycU,Culpeppers Bakery & Cafe,42.2436111,-71.8102778,Social Business,cafe,bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,413,NA
+ChIJWdrrBYQF5IkRxsjHvBeSGdM,Walmart Patio & Garden Services,42.233355,-71.791547,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJwf5m4aD_44kRjcndaIj2_5U,Brilla Coffee,42.340751,-71.840132,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.9,32,NA
+ChIJwX2LuLkG5IkRBzswhm7Lpl8,Garden for All Ages,42.2708446,-71.84374530000001,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJwXMmSWMG5IkRyPzx1pgw314,Creative Hub Worcester Youth Art Space,42.258556,-71.804929,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJX13qxt8H5IkRKhx-y2epUWw,Edward M. Kennedy Community Health Center,42.3084922,-71.76998640000001,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,2.8,9,NA
+ChIJX1ZPgmYG5IkRVCkYGc1RoDw,Burnside Fountain,42.2613886,-71.8003159,Park,fountain,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.4,71,NA
+ChIJX2Z0eFIH5IkRIJUSZbDgJS8,Beer Garden Worcester,42.261267,-71.80082019999999,Park,garden,bar; restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,473,TRUE
+ChIJx2zZXlEJ5IkRECR49TpEKR8,WFM Coffee Bar,42.2756555,-71.7468471,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3,2,NA
+ChIJX30qqjEB5IkR8xiI096hU2Y,Cascades Park,42.2857575,-71.86454479999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,160,NA
+ChIJx4IMxSwE5IkRkXbf8jHfUlI,Fountain of Grace Church,42.2430935,-71.8101574,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJx4IMxSwE5IkRkXbf8jHfUlI,Fountain of Grace Church,42.2430935,-71.8101574,Park,fountain,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJX5tn5GYG5IkRXgmRCFRZqU8,Great Charismatic Chapel,42.2643826,-71.8015087,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJx72DSAwG5IkRU3qZ3e7SIrs,Grafton St + Rice Square,42.25136,-71.78174,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJx9ftH-4H5IkR5ZvA5gJ7VOE,Bethany Gospel Chapel,42.311005,-71.77861399999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJXc2YRYEG5IkRYzO1yuC4og4,Dunkin',42.2539582,-71.8146275,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,276,NA
+ChIJxQA46h0H5IkRMfnSjiNHTI8,Starbucks,42.27344,-71.805374,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJXSo_ndcF5IkRN6l6q-yfk5Y,International Central Gospel,42.2451357,-71.798576,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,11,NA
+ChIJxW3rgxIH5IkRnLbG8-uhHfQ,Park,42.2547663,-71.8398105,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJxxAeFLUG5IkRja3tYWUCewE,Worcester Seventh-day Adventist Church,42.2744192,-71.8553538,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,13,NA
+ChIJXyvHpzwH5IkRnFjcUiih6os,GRASS TO GRACE International Ministries Inc,42.2671657,-71.7747533,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXzpRVIUG5IkRvUr0Hl90gXY,Boston Donuts,42.2605008,-71.8215244,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,368,NA
+ChIJxZsmD_EH5IkRj-rVWmw80ds,Revive Nutrition,42.3036379,-71.8008449,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,23,NA
+ChIJY_DuoQ8H5IkRbp711Kh8Oew,Worcester County Sheiffs Dept. Regional Reentry Center,42.2654576,-71.8022455,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJY0tbjYkH5IkRS5aMxoRLkHI,Worcester Public Library Burncoat Branch,42.3216127,-71.7925514,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJy1GVmiEH5IkRmrqpnbpOlqo,Washington Square Rotary Clock,42.261963,-71.7945022,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJy3niFWcG5IkR-vFMS5AZy1g,Born To Win Ministries,42.2657369,-71.80222069999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJy76WmWQG5IkRrnx52dKipaU,Rev. Pablo Ramos,42.2592655,-71.80314299999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJy7hHREgP5IkR5Z0oE-II5Zg,NEW CREATION BAPTIST CHURCH,42.2300663,-71.7404761,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJy8YjtzoG5IkR2bu2Gsw5vqA,Donut Cafe,42.271244,-71.774642,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,3.9,29,TRUE
+ChIJyaAycB4H5IkRjovxD82AmlM,Emmanuel d'Alzon Library,42.294671,-71.830467,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYddgaeMH5IkRKbtZQehZacc,OneZo Worcester,42.2559166,-71.7963726,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,109,NA
+ChIJYeV0oEoF5IkRUlf_a5TQdgU,Dunkin',42.2457487,-71.8099721,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,90,NA
+ChIJySuPep4H5IkRLRUXTdgFuQQ,Hadwen Community Garden,42.258232,-71.83329119999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJyV-o1WUG5IkR3Xpzj6t9o1Y,Worcester Common,42.2620431,-71.8006132,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,915,NA
+ChIJYXIFf4kG5IkRNtMop02JcUk,Pleasant Street Neighborhood Network Center,42.2641277,-71.8125273,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJz4ASge4J5IkRXzxpd9Wab8Q,COMING SOON: Starbucks,42.2453387,-71.7594215,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3,2,NA
+ChIJZbYMUhME5IkRJe6h2tXA3QE,Hadwen Park,42.2366422,-71.84252359999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,110,NA
+ChIJzdWRpoIG5IkR0Ku2RFltrEk,Clark University Campus Store,42.2501279,-71.821761,Social Business,bookstore,store; book_store; university; point_of_interest; establishment,OPERATIONAL,4.3,29,NA
+ChIJzf-AcUj444kRpuSr1dGDgoc,Happy Garden II,42.3511571,-71.7878367,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZf7Cdj0E5IkR6hdrnRY58nk,Four Square Church,42.241371,-71.8324313,Park,square,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZR_In3oG5IkRo2pbAc0C2f4,Green St + Kelly Square,42.25566999999999,-71.79792499999999,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZT5KdggH5IkRprFNPmn86O4,Bedlam Book Cafe,42.25651240000001,-71.7977521,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,42,NA
+ChIJZwpEHhwH5IkRg1OMT14zPg0,Rose Library,42.2523219,-71.8212803,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZXLP1hkG5IkRKlkTGxsi7kc,Crow Hill Conservation Restriction,42.2607133,-71.7733689,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,37,NA
+ChIJZXpz-7cH5IkR0fRdTeDIMoM,Burncoat Park,42.2927174,-71.7867133,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,69,NA
+ChIJZYXkAigE5IkRO9k2Ebf2v78,Acoustic Java,42.2510278,-71.82098839999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,219,NA

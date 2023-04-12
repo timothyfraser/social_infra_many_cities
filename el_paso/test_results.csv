@@ -1,0 +1,10 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJBVGBZ_1Z54YRPCoMoltdW44,Chamizal Community Center and Library,31.768017,-106.462646,Community Space,library,point_of_interest; establishment,OPERATIONAL,4.7,45
+ChIJD7XR7Bdb54YRuvKRVcNXxf0,Starbucks,31.771954,-106.375544,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,663
+ChIJHXHrb1Nb54YRMbkCvXhSkCc,Kung Fu Tea,31.7715639,-106.3751836,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.8,49
+ChIJK_s84Rlb54YRC2-XLyWSw7k,Tropical Smoothie Cafe,31.7707231,-106.3733846,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,481
+ChIJlWgNcBtb54YRZrZHoVFor00,Starbucks,31.774677,-106.379313,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,216
+ChIJn8mW7xlb54YRSgCYZ-Ylc5I,Hana Banana,31.77146159999999,-106.3749742,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,572
+ChIJNeUClaNb54YRne02VI2LunE,Primos Cafe & Grill,31.7605275,-106.4009767,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,11
+ChIJP95-Dhpb54YRYrEt-ysEIss,McDonald's,31.7704835,-106.376807,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,1713
+ChIJW445yBND54YRwlu3aVkut9I,Zaragoza AVI Toll Plaza,31.6734263,-106.3369006,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0

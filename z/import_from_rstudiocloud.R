@@ -17,7 +17,6 @@ dest = "C://Users//tmf77//OneDrive - Cornell University//Documents//rstudio//soc
 # Get files
 files = dir(path, pattern = ".zip", full.names = TRUE)
 
-unzip(files[1], junkpaths = FALSE, exdir = dest)
-
+files %>% map(~unzip(zipfile = ., junkpaths = FALSE, exdir = dest, overwrite = FALSE))
 
 source("z/commit.R")

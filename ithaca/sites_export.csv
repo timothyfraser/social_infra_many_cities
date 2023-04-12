@@ -1,0 +1,259 @@
+type,term,name,rating,business_status,lng,lat
+Community Space,library,Veterinary Library,0,OPERATIONAL,-76.46456359999999,42.4474803
+Community Space,library,Johnson Graduate School of Management Library,5,CLOSED_TEMPORARILY,-76.4832581,42.4458947
+Community Space,library,M P Catherwood Industrial Lib,5,OPERATIONAL,-76.4809992,42.4472515
+Community Space,community center,Tompkins Community Action - Food Distribution Center,4,OPERATIONAL,-76.5186866,42.41916399999999
+Park,garden,Garden Center at The Home Depot,4.5,OPERATIONAL,-76.52386299999999,42.419833
+Social Business,bookstore,Odyssey Bookstore,4.9,OPERATIONAL,-76.4999993,42.4383622
+Park,garden,Cornell Garden Plots,0,OPERATIONAL,-76.4443533,42.4615031
+Social Business,cafe,Gimme! Coffee,4.6,OPERATIONAL,-76.4811687,42.4449635
+Park,garden,Ithaca College - Garden Apts,0,OPERATIONAL,-76.49192,42.42518
+Social Business,bookstore,Comics for Collectors,3.8,OPERATIONAL,-76.49999199999999,42.439681
+Social Business,bookstore,Ithaca Store,0,CLOSED_TEMPORARILY,-76.50180979999999,42.4439631
+Place of Worship,place of worship,Ithaca Friends Meeting,0,OPERATIONAL,-76.50460269999999,42.4452121
+Social Business,cafe,Mann cafe,3.5,OPERATIONAL,-76.476565,42.4486248
+Social Business,cafe,Chatty Cathy Coffee and Juice Co.,4.7,OPERATIONAL,-76.48726599999999,42.4416584
+Park,park,Philip R. Dankert Village Park,4.5,OPERATIONAL,-76.47260899999999,42.480677
+Park,garden,Ithaca Orchid Garden Florist,4.6,CLOSED_TEMPORARILY,-76.50180979999999,42.4439631
+Park,park,Cornell Equine Park,4.7,OPERATIONAL,-76.4599334,42.45978820000001
+Park,park,Ithaca Park Reservations,0,OPERATIONAL,-76.50016839999999,42.4633448
+Social Business,cafe,The Bistro at La Tourelle,4.5,OPERATIONAL,-76.50220159999999,42.4015307
+Place of Worship,place of worship,St. John's Episcopal Church,5,OPERATIONAL,-76.4992973,42.4411717
+Place of Worship,place of worship,Varna United Methodist Church,4.5,OPERATIONAL,-76.43738920000001,42.4548168
+Community Space,city hall,Town of Ithaca Town Hall,1,OPERATIONAL,-76.4967192,42.4411415
+Park,park,Allan H Treman State Marine Park,4.7,OPERATIONAL,-76.512653,42.4573166
+Community Space,library,Nestle Library,4.6,OPERATIONAL,-76.48215429999999,42.445541
+Place of Worship,place of worship,Tabernacle Baptist Church,3.9,OPERATIONAL,-76.499256,42.4517392
+Social Business,cafe,Mattin's Cafe,4.1,OPERATIONAL,-76.4823639,42.44436520000001
+Social Business,cafe,Martha's Cafe,4.4,OPERATIONAL,-76.47913179999999,42.4500208
+Community Space,city hall,Ithaca City Hall,3.3,OPERATIONAL,-76.49847849999999,42.4387913
+Community Space,community center,Southside Community Center,4.7,OPERATIONAL,-76.5036302,42.4375095
+Park,garden,Rooftop Garden,0,OPERATIONAL,-76.4810704,42.446851
+Community Space,community center,Community Dispute Resolution Center,5,OPERATIONAL,-76.4969565,42.4393238
+Park,park,Permaculture Park,5,OPERATIONAL,-76.5029703,42.4488348
+Park,garden,Permaculture Park,5,OPERATIONAL,-76.5029703,42.4488348
+Community Space,community center,Robert Purcell Community Center,0,OPERATIONAL,-76.47713,42.45674
+Social Business,cafe,Temple of Zeus,4.6,OPERATIONAL,-76.48340999999999,42.44900060000001
+Place of Worship,place of worship,Hoover Kenneth,0,OPERATIONAL,-76.592573,42.408028
+Park,park,Horseshoe Falls,4.7,OPERATIONAL,-76.4859848,42.45199059999999
+Park,park,Стоянка 123,2,OPERATIONAL,-76.4991046,42.4376151
+Park,park,Buttermilk Falls State Park,4.7,OPERATIONAL,-76.5211832,42.4168452
+Park,park,Parking Ithaca,3.4,OPERATIONAL,-76.50489,42.438497
+Place of Worship,place of worship,Christ Church Ithaca,5,OPERATIONAL,-76.49972819999999,42.4360671
+Park,garden,Garden@Tower,0,OPERATIONAL,-76.47968999999999,42.44738
+Park,park,"Cass Park, Rink & Pool",4.3,OPERATIONAL,-76.51458509999999,42.4529588
+Place of Worship,place of worship,Bread of Life Anglican Church of Ithaca,5,OPERATIONAL,-76.4944879,42.43973949999999
+Social Business,cafe,Amit Bhatia Libe Café,4.3,OPERATIONAL,-76.484586,42.4480805
+Community Space,community center,College Circle Community Center,0,OPERATIONAL,-76.5003669,42.4117561
+Social Business,cafe,Fork and Gavel Kitchen,3.8,OPERATIONAL,-76.4860283,42.4435628
+Social Business,cafe,Collegetown Bagels,4.4,OPERATIONAL,-76.4949594,42.4394583
+Place of Worship,place of worship,Christian Community Church Ithaca,5,OPERATIONAL,-76.50343250000002,42.437415
+Park,park,Stewart Park,4.7,OPERATIONAL,-76.5032365,42.4613514
+Community Space,library,Finger Lakes Toy Library,4.8,OPERATIONAL,-76.49137080000001,42.4835813
+Social Business,cafe,Sacred Root Kava Lounge & Tea Bar,4.7,OPERATIONAL,-76.50048610000002,42.4392488
+Place of Worship,place of worship,Forest Home Chapel,4.3,OPERATIONAL,-76.4681777,42.4517333
+Place of Worship,place of worship,The Knoll,5,OPERATIONAL,-76.490101,42.4534122
+Place of Worship,place of worship,Reformed Community Church,0,OPERATIONAL,-76.50357389999999,42.4362225
+Place of Worship,place of worship,Browntown,5,OPERATIONAL,-76.48567170000001,42.4389
+Social Business,bookstore,Barnes & Noble,4.4,OPERATIONAL,-76.51034369999999,42.4326215
+Social Business,cafe,Dunkin',3.7,OPERATIONAL,-76.5079205,42.4381131
+Social Business,cafe,Alley Cat Cafe,4.8,OPERATIONAL,-76.4950526,42.4407309
+Community Space,community center,CFCU Community Credit Union - Transformation Center Branch,3,OPERATIONAL,-76.4965017,42.4398054
+Community Space,library,Library Place,0,OPERATIONAL,-76.49961789999999,42.442331
+Community Space,community center,Bethel Grove Church Center,5,OPERATIONAL,-76.43777349999999,42.4088133
+Community Space,community center,the Sustainability Center,5,OPERATIONAL,-76.50515,42.430248
+Social Business,cafe,Kelly's Dock-Side Cafe,3.8,OPERATIONAL,-76.512158,42.441905
+Place of Worship,place of worship,Muller Chapel,4.8,OPERATIONAL,-76.4967467,42.42266040000001
+Community Space,community center,The Lindisfarne Community,0,OPERATIONAL,-76.4721465,42.4666018
+Community Space,community center,Teen Community Center Project,0,OPERATIONAL,-76.4950408,42.4407165
+Social Business,cafe,The Strand Cafe,4.4,OPERATIONAL,-76.4949048,42.4401429
+Park,park,Houston Pond,5,OPERATIONAL,-76.45475929999999,42.4510069
+Place of Worship,place of worship,Baptized Church of Jesus Christ,4.2,OPERATIONAL,-76.5036397,42.4477377
+Park,park,Cass Park Trailhead,4.5,OPERATIONAL,-76.51462289999999,42.4524205
+Community Space,library,John M. Olin Library,4.5,OPERATIONAL,-76.48417239999999,42.44777879999999
+Social Business,bookstore,Worldwide Books,5,OPERATIONAL,-76.5137594,42.4397848
+Park,square,Winston Square Apartments,2.9,OPERATIONAL,-76.4578903,42.4756891
+Community Space,community center,Robert Purcell Community Center - Cornell,0,OPERATIONAL,-76.47693,42.45663
+Social Business,cafe,The State Diner,4.2,OPERATIONAL,-76.505202,42.439523
+Community Space,community center,Free Science Workshop,5,OPERATIONAL,-76.5030259,42.4482641
+Park,square,Fairview Tours,0,OPERATIONAL,-76.4762356,42.4406469
+Social Business,cafe,Bus Stop Bagels,4.3,OPERATIONAL,-76.4794052,42.4478366
+Social Business,cafe,Sultana,0,OPERATIONAL,-76.50164699999999,42.443936
+Park,garden,Newman Overlook,4.9,OPERATIONAL,-76.453178,42.45242
+Community Space,community center,Varna Community Association,4.8,OPERATIONAL,-76.4397291,42.45428769999999
+Place of Worship,place of worship,Two Rivers Church - Ithaca,5,OPERATIONAL,-76.502258,42.442177
+Park,square,SOUTH MEADOW Square,4.2,OPERATIONAL,-76.5124228,42.4278507
+Social Business,cafe,Allechant,4.7,OPERATIONAL,-76.480014,42.4689309
+Social Business,cafe,Big Red Barn,4.5,OPERATIONAL,-76.4810282,42.44842269999999
+Community Space,community center,Community Center of Hasbrouck Apartments,4.2,OPERATIONAL,-76.471898,42.4563388
+Community Space,library,Albert R. Mann Library,4.9,OPERATIONAL,-76.476316,42.4487952
+Social Business,cafe,Gimme! Coffee,4.6,OPERATIONAL,-76.506456,42.439456
+Social Business,cafe,Rusty's,4.2,OPERATIONAL,-76.4822465,42.4474569
+Park,park,The Old Mill,4.7,OPERATIONAL,-76.5896174,42.4021102
+Community Space,city hall,Cayuga Heights Village Barn,0,OPERATIONAL,-76.4794307,42.4631875
+Place of Worship,place of worship,Vineyard Church of Ithaca,4.2,OPERATIONAL,-76.4769886,42.4795987
+Park,park,Triangle Park,4.4,OPERATIONAL,-76.49970429999999,42.4455651
+Park,park,Hungerford Heights Park,4.5,OPERATIONAL,-76.4491012,42.4254805
+Social Business,bookstore,Buffalo Street Books,4.8,OPERATIONAL,-76.498352,42.441218
+Park,park,Cass Park Tennis Courts,3,OPERATIONAL,-76.5137766,42.4530928
+Park,square,Harolds Square,2,OPERATIONAL,-76.4980272,42.4393198
+Park,park,Marian Hartill Park,4.7,OPERATIONAL,-76.4743354,42.485718
+Place of Worship,place of worship,South Hill Church-The Nazarene,0,OPERATIONAL,-76.4936596,42.4313368
+Park,park,"Robert H. Treman State Park, Upper Entrance",4.8,OPERATIONAL,-76.5888755,42.40249230000001
+Social Business,cafe,Starbucks,4,OPERATIONAL,-76.4907381,42.4853782
+Park,park,Mulholland Wildflower Preserve,4.6,OPERATIONAL,-76.48413420000001,42.4326368
+Park,garden,Early Bird Farm,5,CLOSED_TEMPORARILY,-76.5566711,42.391838
+Park,park,Black Diamond Trail,0,OPERATIONAL,-76.4968291,42.4395082
+Social Business,cafe,Cafe Jennie,4.6,OPERATIONAL,-76.4842065,42.4467528
+Park,garden,GreenTree Garden Supply,4.8,OPERATIONAL,-76.5333152,42.414253
+Park,park,Six Mile Creek,4.5,OPERATIONAL,-76.4869361,42.4345764
+Place of Worship,place of worship,Trinity Lutheran Church,4.9,OPERATIONAL,-76.4638988,42.4286853
+Social Business,cafe,Red And White Cafe,4.5,OPERATIONAL,-76.5043022,42.4426506
+Community Space,city hall,Ithaca City Court,3.6,OPERATIONAL,-76.49757869999999,42.4370603
+Place of Worship,place of worship,His Tabernacle - Ithaca Campus,5,OPERATIONAL,-76.50627829999999,42.4361335
+Park,park,"Lower Falls, Enfield Glen",4.6,OPERATIONAL,-76.5611843,42.3973999
+Community Space,community center,Ithaca Community Childcare,5,OPERATIONAL,-76.46625999999999,42.477888
+Social Business,cafe,Dolce Delight,4.7,OPERATIONAL,-76.503322,42.408228
+Park,park,Tualatin Hills Park,0,OPERATIONAL,-76.4735026,42.4534492
+Community Space,community center,Robert Purcell Community Center,4.4,OPERATIONAL,-76.4774412,42.45592449999999
+Social Business,cafe,Trillium Dining Hall,4.2,OPERATIONAL,-76.4792602,42.4479763
+Community Space,city hall,Ithaca Police Department,3.7,OPERATIONAL,-76.4974745,42.4370315
+Social Business,cafe,Botanist Coffeehouse,4.8,OPERATIONAL,-76.497605,42.4534975
+Social Business,cafe,McDonald's,3.1,OPERATIONAL,-76.48690409999999,42.4848011
+Place of Worship,place of worship,Our Lord's Temple Church of God in Christ,5,OPERATIONAL,-76.49681799999999,42.444775
+Social Business,cafe,Market Café,4.1,OPERATIONAL,-76.5098618,42.4353787
+Park,park,Cass Park Park and Walk,4.7,OPERATIONAL,-76.51456189999999,42.4430227
+Park,garden,Restroom,0,OPERATIONAL,-76.51423129999999,42.4480377
+Place of Worship,place of worship,Catalyst Vineyard Church,5,OPERATIONAL,-76.5047876,42.4390855
+Park,garden,Garden Café,4.6,OPERATIONAL,-76.5373714,42.469135
+Social Business,cafe,Garden Café,4.6,OPERATIONAL,-76.5373714,42.469135
+Social Business,cafe,Panera Bread,4,OPERATIONAL,-76.50832799999999,42.429054
+Park,park,Ithaca Children's Garden,4.7,OPERATIONAL,-76.51428349999999,42.4470328
+Park,garden,Ithaca Children's Garden,4.7,OPERATIONAL,-76.51428349999999,42.4470328
+Park,park,Upper Buttermilk Falls State Park,4.8,OPERATIONAL,-76.5123175,42.4093101
+Place of Worship,place of worship,Bethlehem Church of Christ,4.5,OPERATIONAL,-76.5096593,42.4368849
+Place of Worship,place of worship,Hillside Alliance Church,5,OPERATIONAL,-76.46902879999999,42.4281873
+Community Space,city hall,Cayuga Heights Engineers,0,OPERATIONAL,-76.4789739,42.469654
+Community Space,city hall,Cayuga Heights Village Office,0,OPERATIONAL,-76.4789739,42.469654
+Social Business,cafe,Cup O’ Jo Café,4.8,OPERATIONAL,-76.4905665,42.48374620000001
+Park,garden,Cornell Botanic Gardens,4.7,OPERATIONAL,-76.4728445,42.4496189
+Community Space,community center,TC3 Ithaca Extension Center,3.2,OPERATIONAL,-76.4969998,42.4403044
+Place of Worship,place of worship,The Church of Jesus Christ of Latter-day Saints,4.7,OPERATIONAL,-76.47536459999999,42.47555819999999
+Park,park,Lucifer Falls Lower Trailhead,0,OPERATIONAL,-76.5565652,42.39794759999999
+Place of Worship,place of worship,First Ithaca Chinese Christian,4.6,OPERATIONAL,-76.4789842,42.4376886
+Social Business,bookstore,Daniels Books LLC,0,OPERATIONAL,-76.49153129999999,42.4702334
+Social Business,cafe,Cafe-On-The-Go,5,OPERATIONAL,-76.5019537,42.4233773
+Community Space,community center,Tompkins Center for History & Culture,0,OPERATIONAL,-76.49724359999999,42.4400314
+Place of Worship,place of worship,Bethel Grove Bible Church,4.8,OPERATIONAL,-76.4372084,42.408191
+Park,garden,Mundy Wildflower Garden,4.9,OPERATIONAL,-76.46897020000002,42.4502203
+Park,park,Tutelo Park,4.5,OPERATIONAL,-76.5310821,42.42265700000001
+Social Business,bookstore,Book Sale Gallery,5,OPERATIONAL,-76.4992539,42.4393856
+Park,garden,Der Rosenmeister Nursery,5,OPERATIONAL,-76.540605,42.422281
+Place of Worship,place of worship,First Congregational Church,0,OPERATIONAL,-76.5017989,42.4439634
+Community Space,community center,Center For Community Transportation,0,OPERATIONAL,-76.495424,42.442334
+Park,park,Enfield Falls,4.8,OPERATIONAL,-76.5918154,42.4027592
+Park,park,Cayuga Waterfront Trailhead,0,OPERATIONAL,-76.49916929999999,42.4640952
+Social Business,bookstore,The Cornell Store,4.5,OPERATIONAL,-76.4842171,42.4467383
+Park,park,Markels Flats,0,OPERATIONAL,-76.503428,42.442981
+Park,garden,Lowe's Garden Center,4.5,OPERATIONAL,-76.51400919999999,42.4308753
+Social Business,cafe,Cafe Dewitt,4.5,OPERATIONAL,-76.49861899999999,42.44084
+Social Business,cafe,One Ring Donuts,4.6,OPERATIONAL,-76.49970909999999,42.4390252
+Park,park,Tareyton Park,4.2,OPERATIONAL,-76.45956760000001,42.4752442
+Social Business,cafe,Goldie's,4.4,OPERATIONAL,-76.4817425,42.4498152
+Community Space,library,Tompkins Supreme Court Library,0,CLOSED_TEMPORARILY,-76.4972708,42.44227619999999
+Park,garden,Floral Avenue Community Garden,4,OPERATIONAL,-76.51926720000002,42.43468070000001
+Social Business,cafe,Coal Yard Cafe,4.6,OPERATIONAL,-76.4753484,42.441089
+Community Space,library,Cornell University - Law School Library,5,OPERATIONAL,-76.4857724,42.4438549
+Social Business,cafe,Hope's Events & Catering,4.3,OPERATIONAL,-76.47916649999999,42.4686823
+Community Space,library,Sidney Cox Library of Music and Dance,0,OPERATIONAL,-76.48346289999999,42.4501699
+Park,park,Small Pavillion and Pond,5,OPERATIONAL,-76.4633501,42.4856523
+Park,park,Robert H. Treman State Park,4.8,OPERATIONAL,-76.556324,42.3981723
+Place of Worship,place of worship,"Oasis Christian Fellowship of Ithaca, NY",0,OPERATIONAL,-76.5082395,42.4273794
+Community Space,community center,Community Center,4,CLOSED_TEMPORARILY,-76.49137080000001,42.4835813
+Park,garden,Ithaca Agway & True Value,4.6,OPERATIONAL,-76.508995,42.4377899
+Community Space,community center,Island Health & Fitness @ Community Corners,4.3,OPERATIONAL,-76.4801712,42.4682998
+Social Business,cafe,The Heights,4.5,OPERATIONAL,-76.4796717,42.4689404
+Community Space,community center,Noyes Fitness Center,3.8,OPERATIONAL,-76.487996,42.446447
+Social Business,cafe,Green Dragon Cafe,4.6,OPERATIONAL,-76.48404029999999,42.4509025
+Place of Worship,place of worship,Quaker Meeting,5,OPERATIONAL,-76.49125529999999,42.4521266
+Park,garden,Esty Street Garden,4,OPERATIONAL,-76.50831099999999,42.4429004
+Social Business,cafe,Ithaca Bakery,4.4,OPERATIONAL,-76.508888,42.4427064
+Place of Worship,place of worship,Church on the Rock,5,OPERATIONAL,-76.4925002,42.4315821
+Park,park,Lucifer Falls Upper Trailhead,5,OPERATIONAL,-76.5898905,42.4022899
+Social Business,cafe,Dunkin',4,OPERATIONAL,-76.4655628,42.4371604
+Community Space,community center,St. John's Community Service,3.7,OPERATIONAL,-76.50939509999999,42.4394852
+Community Space,library,Alternatives Library,0,OPERATIONAL,-76.4858157,42.4449505
+Community Space,library,Ithaca College Library,4.9,OPERATIONAL,-76.4950752,42.4212157
+Community Space,library,Engineering Library,5,OPERATIONAL,-76.4841488,42.4447409
+Park,park,East Shore Park,4.5,OPERATIONAL,-76.5036037,42.4713693
+Community Space,library,Tompkins County Public Library,4.7,OPERATIONAL,-76.49875999999999,42.4385288
+Social Business,cafe,Collegetown Bagels,4.3,OPERATIONAL,-76.4635789,42.4377584
+Park,park,McDaniels Park,5,OPERATIONAL,-76.523882,42.439495
+Park,park,Ithaca Dog Park,4.7,OPERATIONAL,-76.5157378,42.4563715
+Social Business,cafe,Forty Weight Coffee Roasters,5,OPERATIONAL,-76.5093496,42.45108949999999
+Park,garden,Ithaca Community Gardens,5,OPERATIONAL,-76.508235,42.4481399
+Park,park,"Monkey Run, Cayuga Trail",4.3,OPERATIONAL,-76.45103499999999,42.455962
+Social Business,cafe,Starbucks,2.7,OPERATIONAL,-76.508934,42.430916
+Park,park,Gorge Trail,4.8,CLOSED_TEMPORARILY,-76.5213441,42.416308
+Park,park,Wood Street Park Playground,0,OPERATIONAL,-76.5062525,42.4324823
+Park,park,Northview Park,4,OPERATIONAL,-76.4839069,42.4191534
+Social Business,cafe,Crossings Cafe,4,OPERATIONAL,-76.4795265,42.4555329
+Community Space,library,Carl A. Kroch Library,0,CLOSED_TEMPORARILY,-76.4841596,42.4477741
+Park,square,105 Wiedmaier Court,0,OPERATIONAL,-76.4485133,42.4133548
+Community Space,library,Uris Library,4.6,OPERATIONAL,-76.4853009,42.4477499
+Social Business,cafe,Gimme! Coffee,4.6,OPERATIONAL,-76.4994888,42.44449609999999
+Social Business,cafe,Nothing Nowhere,4.8,OPERATIONAL,-76.49798899999999,42.4398
+Community Space,library,"Friends of the Library Book Sale - Donations until April 16, 2022",4.8,OPERATIONAL,-76.509345,42.443015
+Social Business,bookstore,"Friends of the Library Book Sale - Donations until April 16, 2022",4.8,OPERATIONAL,-76.509345,42.443015
+Community Space,library,The Essential Electronic Agricultural Library,0,CLOSED_TEMPORARILY,-76.4801464,42.4475983
+Social Business,cafe,Dunkin',3.7,OPERATIONAL,-76.5206317,42.4196439
+Place of Worship,place of worship,Ithaca First Assembly of God Church,4.9,OPERATIONAL,-76.53343780000002,42.4219377
+Social Business,bookstore,Alphabet Soup,4.5,OPERATIONAL,-76.4968975,42.4393732
+Place of Worship,place of worship,Christ Chapel,3.7,OPERATIONAL,-76.4843897,42.4857208
+Park,square,Fairview Apartments,4,OPERATIONAL,-76.4762356,42.4406469
+Park,garden,Bioswale Garden,5,CLOSED_TEMPORARILY,-76.4728445,42.4496188
+Park,square,South Meadow Square,4,CLOSED_TEMPORARILY,-76.50670869999999,42.429336
+Social Business,cafe,The Bistro – Eat. Drink. Connect.®,4.5,OPERATIONAL,-76.4652584,42.4833424
+Park,park,Sunset Park,4.7,OPERATIONAL,-76.4932147,42.4587229
+Community Space,library,Population & Dev Research Library,0,CLOSED_TEMPORARILY,-76.47709259999999,42.4492432
+Social Business,bookstore,Ithaca College Campus Store,4.4,OPERATIONAL,-76.4949354,42.4222893
+Community Space,library,Mathematics Library,5,OPERATIONAL,-76.4802083,42.4482224
+Community Space,community center,Greater Ithaca Activities Center,4.5,OPERATIONAL,-76.502258,42.442177
+Community Space,library,Physical Sciences Library,0,CLOSED_TEMPORARILY,-76.4812084,42.4497231
+Park,garden,Garden Gate Delivery,4,OPERATIONAL,-76.49875999999999,42.4385288
+Place of Worship,place of worship,Schaff a J,0,OPERATIONAL,-76.4897496,42.4757831
+Community Space,city hall,Ithaca Building Department,3,OPERATIONAL,-76.49850959999999,42.4389135
+Place of Worship,place of worship,Seventh-Day Adventist Church,4.7,OPERATIONAL,-76.5307165,42.4623867
+Place of Worship,place of worship,Church of Christ at Northeast Ithaca,0,OPERATIONAL,-76.4772704,42.4771572
+Social Business,cafe,Gimme! Coffee,4.8,OPERATIONAL,-76.479202,42.4687701
+Park,garden,Ling Ling Garden,3.9,OPERATIONAL,-76.4634531,42.4377637
+Social Business,cafe,Starbucks,4.2,OPERATIONAL,-76.497126,42.44059600000001
+Place of Worship,place of worship,St. James AME Zion Church,4.7,OPERATIONAL,-76.5046338,42.4377339
+Park,park,Stewart Park,4.8,OPERATIONAL,-76.5075588,42.4609358
+Community Space,city hall,Ithaca City Water & Sewer Repairs,1,OPERATIONAL,-76.5041475,42.4484594
+Park,park,Friends of Stewart Park,0,OPERATIONAL,-76.5138218,42.4390335
+Social Business,cafe,McDonald's,3.1,OPERATIONAL,-76.5177047,42.42197549999999
+Place of Worship,place of worship,First Presbyterian Church,4.4,OPERATIONAL,-76.4988968,42.4424048
+Social Business,cafe,Ithaca Bakery,4.3,OPERATIONAL,-76.4819847,42.4796273
+Park,garden,Walmart Garden Center,0,OPERATIONAL,-76.5137766,42.427751
+Social Business,cafe,Carol's Cafe,4.7,OPERATIONAL,-76.4791678,42.4533011
+Community Space,library,Fine Arts Library,4.1,OPERATIONAL,-76.4828622,42.4512236
+Park,park,Lansing Village Community Park,4.5,OPERATIONAL,-76.47260299999999,42.480677
+Social Business,bookstore,Autumn Leaves Used Books,4.6,OPERATIONAL,-76.49819230000001,42.4392021
+Social Business,cafe,Ithaca Coffee Company,4.6,OPERATIONAL,-76.4819335,42.4794938
+Park,garden,Walmart Patio & Garden Services,0,OPERATIONAL,-76.513975,42.427633
+Social Business,cafe,Press Cafè,4.6,OPERATIONAL,-76.5000652,42.4387028
+Community Space,library,Adelson Library,5,OPERATIONAL,-76.4511752,42.479567
+Place of Worship,place of worship,St. Paul's United Methodist Church,4.7,OPERATIONAL,-76.4960923,42.4428134
+Community Space,library,"Carl A. Kroch Library, Division of Rare & Manuscript Collection",0,CLOSED_TEMPORARILY,-76.48308999999999,42.447022
+Park,garden,Dean's Garden,0,OPERATIONAL,-76.4772318,42.4494693
+Park,park,Salem Park,5,OPERATIONAL,-76.4553377,42.472062
+Park,garden,Jade Garden,4.5,OPERATIONAL,-76.5086498,42.4389625
+Social Business,cafe,Mac's Cafe,4.2,OPERATIONAL,-76.4820581,42.4459683
+Community Space,library,John Henrik Clarke Africana Library,0,OPERATIONAL,-76.4822137,42.4573916
+Park,park,Dewitt Park,4.2,OPERATIONAL,-76.498649,42.4418102
+Community Space,community center,Coddington Road Community Center,4.9,OPERATIONAL,-76.4571304,42.3998413
+Place of Worship,place of worship,Calvary Chapel Ithaca,5,OPERATIONAL,-76.4627028,42.423695
+Park,park,South Hill Rec Way Parking,4.7,OPERATIONAL,-76.4819241,42.4236963
+Place of Worship,place of worship,Ithaca Church of Christ,2.7,OPERATIONAL,-76.50008849999999,42.4532377
+Place of Worship,place of worship,First Congregational Church,5,OPERATIONAL,-76.4856501,42.4578286

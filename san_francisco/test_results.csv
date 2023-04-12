@@ -1,0 +1,6 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJe7MgZGN-j4ARekk-kVpXnY8,Glen Park Branch Library,37.7339585,-122.433749,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,34,NA
+ChIJF9ySgxJ-j4ARSRdKY7jGLy0,Noe Valley/Sally Brunn Branch Library,37.7502639,-122.4350361,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJKatO-Yh-j4ARTkDLxHym40k,Excelsior Branch Library,37.7270751,-122.433324,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,53,NA
+ChIJqXP7jNV_j4ARjrDol5_85KM,Little Free Library | Clipper Street,37.7487886,-122.4401992,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJS3Y4CkR_j4ARuOiVA6McG7U,Little Free Library,37.7355244,-122.4353509,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE

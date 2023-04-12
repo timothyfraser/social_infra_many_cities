@@ -1,0 +1,17 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ1beuSMUH5IkRAvmF0OfW6qY,Starbucks,42.292324,-71.775125,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.2,33,NA
+ChIJ4Z0zV4gI5IkRd_k7jnrAY1Q,Starbucks,42.2754468,-71.74817159999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,380,NA
+ChIJ8_G7P4YI5IkRt_5yhFC-n4Y,Panera Bread,42.27312,-71.753175,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,486,NA
+ChIJ97Hun3EJ5IkR7wTwk08Mfjw,Dunkin',42.2777097,-71.7614644,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2,4,NA
+ChIJB25QZ9sH5IkRu2cl5pbDWtM,Dunkin',42.2953278,-71.7712937,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,399,NA
+ChIJDeqpf9oJ5IkRIPrBvadC1BU,Dunkin',42.27436489999999,-71.7498299,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2.6,63,NA
+ChIJeW1pkC8G5IkRu_nGkFAXjLc,McDonald's,42.272665,-71.7710058,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,1431,NA
+ChIJFZwrUiUG5IkRKiAhZHZEqZg,Cafe Reyes,42.2716865,-71.7737121,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,649,NA
+ChIJJWbPxi0H5IkRPeEhFWJO1N0,Worcester Bioshelter,42.2595995,-71.8097763,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJM06yAMYH5IkRoSC5UxOddW4,Gourmet Donuts,42.29239949999999,-71.7799809,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,23,NA
+ChIJqw3hLIYI5IkRLRAEQA5WJsM,Gerardo's Cupcakes Galore,42.2755016,-71.7497795,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,165,NA
+ChIJUcqEGykG5IkRS-1YNhAeqxs,Dunkin',42.2733324,-71.766538,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,95,NA
+ChIJwX2LuLkG5IkRBzswhm7Lpl8,Garden for All Ages,42.2708446,-71.84374530000001,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJX2Z0eFIH5IkRIJUSZbDgJS8,Beer Garden Worcester,42.261267,-71.80082019999999,Park,garden,bar; restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,473,TRUE
+ChIJx2zZXlEJ5IkRECR49TpEKR8,WFM Coffee Bar,42.2756555,-71.7468471,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3,2,NA
+ChIJy8YjtzoG5IkR2bu2Gsw5vqA,Donut Cafe,42.271244,-71.774642,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,3.9,29,TRUE

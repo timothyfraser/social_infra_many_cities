@@ -1,0 +1,8 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJ6RNI8ryYVogRQSy2yyGI5tQ,Southview Recreation Center,35.211338,-80.91688099999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,89
+ChIJ73oJN6MmVIgRXdwmpNSiEEg,Arthur Goodman Memorial Park,35.1047077,-80.7318358,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,105
+ChIJdQkzmdSjVogRKP4gTQZXHjM,Chemway Industrial Park,35.268596,-80.9038259,Park,park,park; point_of_interest; establishment,OPERATIONAL,2,2
+ChIJE4kC2PIYVIgRCe_d6OkD23Y,J & V One of a Kind Lawn Care,35.229226,-80.68543199999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,5
+ChIJI6l9cJyhVogR3iem-IeXUn0,Eva B. Barber Park,35.260514,-80.884192,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,75
+ChIJWaMklJ8mVIgR6QsLR-2bUao,Squirrel Lake Park,35.0997222,-80.7230556,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,924
+ChIJZYwpsSmiVogRwKqj3ShS3Go,park,35.259084,-80.900402,Park,park,park; point_of_interest; establishment,OPERATIONAL,2,1

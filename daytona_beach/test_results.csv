@@ -1,0 +1,9 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJ-_kLFpzZ5ogRi5WwgHsQ52M,Walmart Patio & Garden Services,29.142239,-81.033269,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0
+ChIJ5ZRpFhfb5ogRsTyrc59h2T8,Downtown Daytona Live,29.2089845,-81.01812319999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,7
+ChIJb8AILIjZ5ogR69zejFVOsH8,Chef Papa's Cafe and Catering,29.2105674,-81.0190887,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,82
+ChIJI2SrkCfa5ogRGkdqC-0Ix0Q,Sweet Marlays' Coffee,29.2097895,-81.0183715,Social Business,cafe,cafe; bakery; food; point_of_interest; store; establishment,OPERATIONAL,4.5,772
+ChIJq4srPz3a5ogR1Q_arPdxjEw,Gateway Restaurant,29.2208538,-81.01062770000001,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,324
+ChIJTx7DJCba5ogRVmSbzOLliIQ,Kale Cafe Juice Bar & Vegan Cuisine,29.212619,-81.01972479999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,673
+ChIJUa3RAGHb5ogR-hZkXHguycQ,Arepita Beach,29.2136306,-81.02026359999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,260
+ChIJWQUEQZrf5ogRQZirzDKsnXA,Landscaping by Butchers Nursery & Garden Center,29.139149,-81.128937,Park,garden,point_of_interest; general_contractor; store; establishment,OPERATIONAL,4.4,156

@@ -1,0 +1,4 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJbYF4-8aRuokRt_U182SJUsA,Bay Oaks Park,36.9343175,-76.2123604,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,253
+ChIJoavpyqCZuokRmmCQaTSpTHM,Grandiflora Wine Garden,36.8654536,-76.3091795,Park,garden,liquor_store; bar; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,62
+ChIJX_KTr0m9uokRDflBbAOJ-uU,Cascade Boulevard Park,36.8186396,-76.2629376,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4,83

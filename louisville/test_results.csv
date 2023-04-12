@@ -1,0 +1,5 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJ-9EZixZtaYgRcW4Pm6DRYOU,"Love City, Inc.",38.2652044,-85.79339089999999,Community Space,community center,gym; point_of_interest; health; establishment,OPERATIONAL,4.5,10
+ChIJkx299A1taYgRiIs13lneP0U,Molly Leonard Portland Community Center,38.2733808,-85.7911346,Community Space,community center,local_government_office; point_of_interest; establishment,OPERATIONAL,4.2,20
+ChIJNQ8pGdpsaYgRbYD2_ltdGQ8,Shawnee Community Center,38.2540439,-85.8132758,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,170
+ChIJR3MpXWB1aYgRDwHQ9PFTAic,Lyndon City Hall,38.2575586,-85.6041042,Community Space,city hall,point_of_interest; local_government_office; establishment,OPERATIONAL,3,2

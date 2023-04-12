@@ -1,0 +1,3899 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sites_export" id="sites_export">
+	<SimpleField name="place_id" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="term" type="string"></SimpleField>
+</Schema>
+<Folder><name>sites_export</name>
+  <Placemark>
+	<name>145 Front at City Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ____U28G5IkR0EeklS2pVoU</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7973774,42.2616646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>American Antiquarian Society</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ__m25fcG5IkRmYv719k9mDE</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8100524,42.2772953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brigada Misionera Global</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ_cMs6sYF5IkR1BrZgDtDPug</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7937065,42.2309452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethany Christian Parish Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ_dh4OhgE5IkREJ88Z7t_Dfg</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.835615,42.2448477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emmaus City Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ_f-_xdsH5IkRcegl1mnR6DE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7699279,42.2936515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assembleia De Deus Central</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ_QYBcGEG5IkRp97V8UIv-XI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8059413,42.2636233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edward M Kennedy Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ_XIHVmYG5IkRPq_4zjgw1Gs</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7661015,42.3022981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of God of Prophecy</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-_Ip7SwE5IkRKvnKWoKJ-Uw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8117379,42.2437045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frank Vellaccio Fountain</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ--uvQs0F5IkRTsBGG8U_T9k</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8082463,42.2389483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Apartments</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-00DiQ8F5IkRHT3bsmHLio4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.83182,42.24592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assumption College Official Bookstore</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-284lR4H5IkRImstuTFn7x0</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8289122,42.2941774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farber Field</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-7Ey09oG5IkRd6R2aSK-lXk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8426798,42.2830851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackstone Bistro</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-9FBbk4H5IkRxUPgoY1wIAo</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.799802,42.2885374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-9OfY-UH5IkRzVAwObFahRs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7945034,42.2619326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dippin Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ-fvapyYE5IkRdqHs0Dy3aGw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8266667,42.2475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franklin St + City Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ0-jvL2QG5IkR-YL_4eEplHE</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.80149,42.26178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Front St + City Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ08__kGYG5IkR4Yp0Rc_ZUpA</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.80176,42.263178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WEBSTER SQUARE STATION</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ0ewxryIE5IkRbIeGtfvnw88</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8328791,42.2438503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Worcester Law Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ0XyFdV0G5IkRYde6b_7p258</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8007889,42.2680711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luk</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1ax4fmQG5IkR_W6sPIhVyOQ</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8033657,42.2603922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Starbucks</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1beuSMUH5IkRAvmF0OfW6qY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.775125,42.292324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Zion Christian Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1br5XYkG5IkR1GRBEKR2XII</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8138518,42.2641148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kelley Square Liquors Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1cDVenAG5IkRz2SJkM9iyr0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7971731,42.2549656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of God the Last Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1fOy8hIG5IkRPXEX40xAi_s</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7835189,42.2557532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seven Hills Foundation &amp; Affiliates</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1x78E0cE5IkRzmnkiP65dqY</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.825447,42.231472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chaos Gardens</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1xLtBlkF5IkRpfeqKkZO4qw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8471534,42.2331608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ1zc9kagF5IkRxcOaCiXopLE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7958481,42.2113067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highland St + Newton Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ2_Iv35IG5IkR1SJkx21Ivt0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.824375,42.26992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pleasant St + Newton Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ22WxG5MG5IkR7Ut-4YTfm9E</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.82505,42.26937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Music Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ26KnYc0F5IkR2BJv4ucMVxc</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8079324,42.2391887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grafton Square True Value Hardware</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ2c58CREG5IkRlsL1SS4XdlA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7782109,42.2564948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Bay Community Services</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ2UJNGGcG5IkRAkiLKJeLeF4</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7745433,42.3113622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coffee Time Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ2UJNGGcG5IkRmYpRFxDd96w</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8018178,42.2627622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ2zUnSusG5IkRqvWidAhbJ8Y</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8253738,42.2698622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deeper Life Bible Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ30stYF4H5IkRCFd5cVYzBn8</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.802101,42.265309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams Square Baptist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ33Riq7QH5IkRiE1oVqx-4P0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7918877,42.2846295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Living Word Church of Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ39Ge29sH5IkRt4QdwAwPDMo</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7686872,42.2935858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lulu’s Bakery and Café</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ3awFL4wH5IkRGjdVXZIsP2s</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8313066,42.273157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coes Pond Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ3bijFBwE5IkROCm5dQ1Mwvg</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8420219,42.251258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New England Synod ELCA</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ3XROyLAF5IkRYwgAACHTf1c</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7975969,42.2238031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pleasant and Winslow Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ3ZY1NIkG5IkR4oyKf2HtznQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8153464,42.2631852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>D.P.W Customer Service Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4_88ymoG5IkRlCwTLCVnLyw</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7864432,42.2632731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edward M. Kennedy Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4_PVld8H5IkRMhIHbnqnrNA</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7653308,42.2976584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Center For Community Revitalization</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ48F4zoMG5IkRr0LzAnBJ95o</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8165764,42.2530546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinsigamond State Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ48JRfIEI5IkRPRZcSS6izxE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7577847,42.2773644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Root and Press, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ49FPvNoH5IkRJtq_nA8bW2s</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8521254,42.2762853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Root and Press, LLC</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ49FPvNoH5IkRJtq_nA8bW2s</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8521254,42.2762853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parkview Cafe Llc</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4dplgI4G5IkR20T8yBmjJWY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8185051,42.2649492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairmount park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4e8FnkQH5IkRQDNXqoiL0_g</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8021459,42.284876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wholly Cannoli</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4RDLJgwG5IkRRtT0pl3GtuA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7801639,42.2506882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Worcester Neighborhood Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4X-kbi4E5IkRf1j6TsMRM6s</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8166671,42.24247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Office For Worship</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4Yik72MG5IkRCrTmMxbLTes</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.804151,42.261625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boucher's Good Books</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ4zKO4ZsI5IkR97DbApzzqQM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7549028,42.2644944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stone Soup</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ5bQ4foYG5IkRoqusY9rOCw0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8135175,42.2556406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lincoln Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ5X2BjsYH5IkR1USegTtfg_A</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7994272,42.2716676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lincoln Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ5X2BjsYH5IkR1USegTtfg_A</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7994272,42.2716676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapel of the Holy Spirit at Assumption College</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ5XHNCB8H5IkRkrV61krB9BI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8313379,42.2937365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Revival Church Fountain-Life</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ6_0X_G0G5IkRgx0IzBSIv7M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7915195,42.256269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christian Community Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ6dWU730G5IkRpmjo0oJ6lvc</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.808859,42.254657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edward M Kennedy Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ78hfEOEH5IkR2JthAD37sAA</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.766177,42.3024916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Journey Community Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7a_bUDEG5IkRhfVVsWij17I</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7963095,42.2719001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acoustic Java Roastery &amp; Tasting Room</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7aZp7y0E5IkRSXe-GKguaLQ</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8153034,42.2415987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indian Lake Community Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7eyoegcH5IkRlMZ02LADBVc</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8104218,42.2942439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flying Rhino Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7VJetD4G5IkR3Tqyd31qFTE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7812632,42.2684035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elm Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7wiUl4wG5IkR8S_bI1_36Q0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8157555,42.2688109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sisters Breakfast &amp; Lunch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ7XGIK3ME5IkRcA28jBrQ59k</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8486678,42.2363725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>iKrave Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ84DjoyAE5IkRRwAJDO419jg</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8284691,42.2520821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shore Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ8ThO6QsH5IkRgn-l34a6XBk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8145125,42.3035266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>First Church Of The Full Gospel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ8XOXPv4F5IkR147r4LZJ3iI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8497729,42.2321582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ8Y5q0IgH5IkRJcaD6YPfIfc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7952828,42.3190525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rice Square Alterations</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ8ZdhQAwG5IkRL1HGmxbxg_Q</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7599369,42.245947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaw's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ8zqqbxEE5IkRGhHXa1M0BBQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8419032,42.2418177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brittan Square Neighborhood</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ9-gkE7UH5IkRrubghtWcuU4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.787516,42.285513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lou Roc's Diner</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ90zmc3L444kRFB8akDthwVQ</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.79,42.3316667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ97fJVcoG5IkR7D1ym_Fipy4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8540553,42.2777765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ97Hun3EJ5IkR7wTwk08Mfjw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7614644,42.2777097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Vegan Nest Café</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ9f66rmcG5IkRY2fVB5tOfkU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8001864,42.2658999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Community Connections Coalition</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJ9UZzoWYG5IkR4ymY7r4JYvo</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8030731,42.2623544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon Hill Dog Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJa_HYKt8F5IkRSZsbbr9AW2M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7919508,42.2442467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Redeemed Christian Church Of God</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJa0G5zjsG5IkRP_sRZ_PaoTU</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7789939,42.2702242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Human Resources Department</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkR_fDtKmyP0n0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8014509,42.2627413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Retirement System</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkR3cTl8de7Zbk</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017906,42.2625307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dog Licensing</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkR8xfwnFRlMWI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017906,42.2625307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Treasurer</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkRDqPsFtawt_E</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017906,42.2625307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benefits Office</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkREYHkrEBtHOo</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017906,42.2625307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester City Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkRIgeRfKb2C-4</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017868,42.2625212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Council Records</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6gPn2YG5IkRYdpp9Wkz9-s</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8017906,42.2625307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission Chapel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJA6R5_GgG5IkRjqdrqLaLxS0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7952229,42.263278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tower Square Securities</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJAa3RiWMG5IkRWFS0R3XsKOY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8038465,42.2611629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia De Dios La Ultima Reserva</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJacjcjBIG5IkRoyV_WS8-ohw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7835189,42.2557532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spray park Forsberg St Worcester Ma</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJAQrKMrgF5IkRLA5sm_EhmVY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7969993,42.2258103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brittan Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJARBJqrUH5IkRNp6O08ozEzs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7889374,42.2865231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJaWJExIgH5IkRlulXObQqGyk</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7959944,42.3194039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Financial Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJaWXCh6kH5IkRCOJ4dpSljVE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8139939,42.2724461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Life Garden Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB_CxYxcF5IkR916pK0_k2yE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8307514,42.2461533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Life Garden Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB_CxYxcF5IkR916pK0_k2yE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8307514,42.2461533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meraki Coffee Dessert Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb_KbGwwH5IkRf-aUhmEhYf0</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7814938,42.2682004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Echobrook Nursery</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB-ghmKwI5IkR7mscbG7KbhE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7547304,42.2415352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB25QZ9sH5IkRu2cl5pbDWtM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7712937,42.2953278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb2ZmC20G5IkRt8lKcz114tM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7887137,42.2565631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kelley Square Pizza</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb3oLfnAG5IkRqqZntce9go4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.797428,42.2546015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Code Enforcement</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb3sjxnsG5IkRcGZKEnxQFN8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8016788,42.2538276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Zoning Department</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb3sjxnsG5IkRY0klzU2zgns</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8018138,42.2537957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Z Cafe &amp; Catering</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb6MG5WYG5IkR5zWVipgPn5U</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.801689,42.264205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAKE PARK COMMUNITY HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB87BoJgI5IkRgijpUmFuOcc</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7551151,42.2595945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Line Diner</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJb8bA33EF5IkR0sFt87avdps</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8549791,42.2405468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Foundation</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJB9G6yBwH5IkRE5GX3FM_-No</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8003017,42.2603989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Home Depot</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJBdwuua4H5IkR4wv_vov9fz0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8007805,42.2915827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJbeaKfQUH5IkRr0-7cL5qS_M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7982535,42.2624223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJbeaKfQUH5IkRr0-7cL5qS_M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7982535,42.2624223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of Pentacost International</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJbZciQ94H5IkRbCCq7Q38idU</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7665733,42.2975603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main St + Webster Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJC_-uExgE5IkRYCaZlAW7I9I</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.834375,42.24486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Gateway Café at WPI</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJc_GLvloG5IkREi-e3jE8JBo</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7991095,42.275308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of Christ</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJC_KPS54G5IkRtmJMrtFbx1o</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8282933,42.2557255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>House of Restoration Ministry</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJC-10YREE5IkRoQKDwjy6cyU</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8413629,42.2406427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Healthlink</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJc0jVsS8G5IkRlCM8O5nAivI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7746554,42.274845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oakland Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJc4Q6pZMF5IkR1VCW2dNhw7M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7779464,42.2221171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coes Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJc5i2oVEF5IkRrbUqhUMMP0o</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8316598,42.2499654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ the Rock Fellowship C&amp;MA Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJc61nVAoE5IkRB83jpsqG61Q</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.854391,42.24018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coes Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJC9ZLxh4E5IkRdi15a8qnExM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8371065,42.2495729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satan's Temple of Massachusetts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJCcKnDPYF5IkROo5HOaFlINk</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8359857,42.2454677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Village Autumn</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJccLdIgAH5IkRG6BbqvOo2k0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8109548,42.2889588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STOP Cafe Pizza&amp;Grille</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJce5ErusH5IkRsii3_s6jyQ4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8187103,42.26482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadwen Arboretum at Clark University</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJCS2ZBqIG5IkRZlWME7wWf1g</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8315511,42.2579318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Goddard Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJCUe6YyYE5IkRGEMt6hEBfCY</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.82428,42.2477655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green Hill Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJcyhnPzMG5IkR6Dam4ydnaa0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7768824,42.2810885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palma's Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJD0WvFQwG5IkRilrrU4XlSQw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.781423,42.2503924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Package Store</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJD1qpVSEE5IkRxNa1G2xE5u0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8277671,42.2476131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Square Pizza</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJd6HrFZMG5IkREGgyBf3NAdI</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.825726,42.2698044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indian Hill Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJD6XgLPAH5IkRcHTLdVaMnkY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8154159,42.3133792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJdfE4yqsI5IkRpsrtfd5PJEg</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7589717,42.2447396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luthern Community Services of SNE</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJDQKbAZgH5IkRMX814akKjXc</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7980673,42.3048715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJdUTqYNsH5IkRdt53rBXgwXs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.772667,42.295748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ty Cobb Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJDV10enEE5IkR9AJhEoqIMD0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8019606,42.2625688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diggers Landscaping Co-Op</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJdWZaw4YG5IkR92W71OW5N1o</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8134513,42.2556673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lowe's Garden Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJDX1Ev9oH5IkR-yoyzOvOfnc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.772351,42.2927855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Vocational Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJDx7AUTEG5IkR_NbD6Mfri8s</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7780811,42.2770634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unique Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJdYeMaokH5IkRlNxu7Ry_2NE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.798787,42.252747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bean Counter Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJdz_6YbQH5IkRk3Y5saLjcLs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8051986,42.2814064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJe_nyho0G5IkRZbGmRTcxRm8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8208133,42.2672854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadwen Park Congregational Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJe3Jgz2sE5IkRe7qLMlFIdKg</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8368127,42.2309355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJE4C_4ScH5IkR_r5_bKoleHM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8252776,42.2697947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hydroponics &amp; Garden Supplies</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJe6DovmQG5IkRQqz6o9s03Tc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8025129,42.2587143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institute Park Gazebo</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJe6xWnHkH5IkRsGKsTNBBiQg</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8072358,42.2767315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Regatta Point Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJe7jS7oAI5IkRr2YPjPFw-8Q</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7581704,42.2776044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Massachusetts Vietnam Veterans Memorial</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJeb5erzUG5IkRSiag1acEjkU</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7836111,42.2811111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bovenzi Conservation Park Trailhead</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJEcasTeAH5IkRrnaoB5cfCt4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8071,42.3236414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Denholm Coffee Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJEcOjHWQG5IkRG7xY4SEOo58</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8028735,42.2623977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Jerusalem of Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJEQiPr4EG5IkRMpIntBwk1FM</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8134231,42.2519302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJeQuzVDkG5IkRTiSHZ-2ajCk</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7802093,42.2683745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinand Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJESADMc0F5IkRZ29EEXDs1XI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8091845,42.2381225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WPI Bookstore</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJESMxklgG5IkRJeN43d2c6Wo</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8082543,42.2748616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Veterans Services Department</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJEUSznWYG5IkRfFVO2Ap_aDY</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8019606,42.2625688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Fire Station 8</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJEVwlarQH5IkRUuI_Urw_2Go</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7905574,42.2877164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJeW1pkC8G5IkRu_nGkFAXjLc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7710058,42.272665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia Pentecostal Remanente Fiel, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJex9CZQUF5IkR1ynv7ajS45s</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8502771,42.2325604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lowe's Home Improvement</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJf-eawsgH5IkRsyvVlsN6Jks</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7729672,42.292292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joe's Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJf1LYt2QG5IkRIfGFOr_dwhs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8019071,42.2582679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of God Ministry of Jesus Christ Intl.– Iglesia de Dios Ministerial- IDMJI</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJf1LYt2QG5IkRRWL_J6PmrxU</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8019203,42.2582668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BirchTree Bread Company</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJF3NUBnAG5IkRIYiUDydXNRU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7977972,42.2562472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christian Life Center of Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJF4X2xJoH5IkRb8Ll94rWueQ</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.799886,42.313746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJF69Ex6sI5IkRmZZw2V3cqCg</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7583604,42.2444361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yoway Cafe &amp; Frozen Yogurt</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJfaQ3OZsG5IkR4y4nRIEb1OY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.822419,42.25761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salem Covenant Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJfc3sofcH5IkRxIdiYIshZ_w</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7749443,42.3179833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRST BAPTIST CHURCH OF WORCESTER</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJfTa-2JwI5IkRbslC-xDawUA</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7593914,42.2689758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sever Square Apartments</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJfTdky4sG5IkR3jPnoDtP9Gc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8123218,42.2650975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honey Dew Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJFVWa-14G5IkRlJOHn04wJjQ</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8062698,42.2707107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rice Square Elementary School</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJFW371wgG5IkR23gi_In5oX4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7771123,42.2480279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eric's La Patisserie Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJFwi6PyEG5IkRB7ix-tTkBdI</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8034784,42.2633192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Reyes</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJFZwrUiUG5IkRKiAhZHZEqZg</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7737121,42.2716865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plourde Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJg_05sx4H5IkRm9-Mrea2fI8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8284828,42.2953394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester JCC</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJg_5dLScH5IkRsWOE3k_T1Co</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8386189,42.294996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>QCC at Worcester Senior Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJg-z-a3YG5IkRRYwAB45G1tM</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7930315,42.248111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armenian Church of the Martyrs</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJG0XYc34G5IkRLZnnWZi-Wmw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8079726,42.2697964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJg5bGcI8G5IkR2ORwSp6IOhA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8179525,42.2612343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pleasant St + Tatnuck Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJG61fscsG5IkRUiTFrxaeD1M</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.85314,42.27824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Square Counseling Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJg6bqI5MG5IkRw5di5NcXsjo</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8250112,42.2701449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Bay Community Services</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJG7y4WCAE5IkRqLHqCaMYlx8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8303598,42.2510418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Journey Community Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJgcHc3cYF5IkRTd66PaOPbis</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7936366,42.2303828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester State University Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJGcsH2bsG5IkRETojAeKrfLo</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8432891,42.2667699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester State University Bookstore</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJGcsH2bsG5IkRVV-LeFPusUA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.84397,42.267581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Christadelphian Chapel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJGSipkrkF5IkRyhycWl9VVDw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7962344,42.2239089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Roosevelt Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJGU8QdqsI5IkRhZL1Gr_WRl8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7570583,42.243133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Theatre Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJGVhAc2QG5IkRhqJ6RjrHhRw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.802951,42.2616344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt. Zion Sanctuary Assembly Massachusetts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJgyMg04QG5IkRrdxJsEOQrGc</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8216952,42.258109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Church of Jesus Christ of Latter-day Saints</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJh2dqAxQH5IkRqMnJ5cfRMdI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8284664,42.3047672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Tlgrm &amp; Gztt Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJH7FPImQG5IkRfqzhyJa2aW0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8015715,42.2612091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cook's Brook</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJH8DpJ9QG5IkRwdHLpodI7AA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.850833,42.290976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Betty Price Playground</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJh8EJE0EG5IkRrk3PxwWIv58</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7902391,42.2684488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJh8o3oyYE5IkRBR1QBk1Yw5E</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8261214,42.2477159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The WOO Card</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJh9D_iGYG5IkRuRfub7q6wNs</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8008912,42.2632071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Donut Cafe II</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJhaOdXr0G5IkRBlWvwCqSniY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.833833,42.263805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JCC Fitness Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJheG25WEH5IkRDxCiHxc5wz8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8387939,42.2948032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ReNew Tatnuck Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHQVY7MoG5IkROnZk_pC64a4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8554655,42.2766718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHSPcFnEE5IkRh_1JqulwotA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8495611,42.2303187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rice Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHwqcfXUG5IkRd3Eh0MuLPIQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7884042,42.2459268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Starbucks</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHY3r76oH5IkR2FADGwwBotc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.808267,42.2823503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHzPtjMQH5IkRYaRy06o1mcY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7774907,42.2944939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camp Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJHZtXX5IF5IkRvV46df7Vb7U</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8158406,42.2430005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ATM (Webster Square Mobil)</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJI-bjmy8E5IkR053du_yoKXQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8465599,42.2548539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ATM</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJI-bjmy8E5IkRqnJktLveqqk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8104244,42.2430352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJI32dmxEE5IkRFs2jkV1mlFo</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8428602,42.2414224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ Vision Ministries-Massachusetts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJi3j-0xcE5IkRnI77r2c04J0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8334149,42.2416806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Annie's Clark Brunch/Cash Only</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJI9EzAigE5IkRZ5Ct9eZNuW4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8210969,42.2510371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UMass Memorial Medical Group Chadwick Square Internal Medicine</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJiaI9dhsH5IkR21YISDYmkUA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8078658,42.2887794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Livermore Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJibvoUPUH5IkR6LR-zgewqv4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8295822,42.2659633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chandler St + Tatnuck Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJiUxoq8sG5IkRK0OZ2jA3h3Y</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.853855,42.27813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grace Christian Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJIX9kjYsG5IkR_bZqQ0hoXpY</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.814907,42.265825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Henry Lee Willis</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJIxnx0YUG5IkRqOJ2PwmdHwU</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.816306,42.257922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dos Tacos Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJj-k_gYkG5IkReRHgWMBA0O4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8123229,42.263843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJj0kLfmQG5IkRtXYAd_YIXE0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8035321,42.260992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJj0kLfmQG5IkRtXYAd_YIXE0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8035321,42.260992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brew on the Grid</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJ3pmNGQG5IkRD6RmJxK--Mc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.801061,42.2614109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Start Brain Injury Community Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJ3UpoGYG5IkREHI0ogCTQkw</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8006626,42.2606598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biotech Park Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJj5n3qdUH5IkRQMjvZzPKYFc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7648338,42.282614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>QCC Center for Workforce Development and Continuing Education</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJ9nIImQG5IkRfSKWCr3vLSI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8022746,42.2611526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walmart Garden Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJaIYksMF5IkRMgf2ahpOEuA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7917753,42.2341083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espress Yourself Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJVMG5OoG5IkRwEzTIz5mOUs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8309476,42.2733873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Bioshelter</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJWbPxi0H5IkRPeEhFWJO1N0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8097763,42.2595995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DCU Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJjwQAevjC5IkRCSFSmqzV0kE</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7986634,42.2644498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esmirna Hispanic Seventh-day Adventist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJJX5oTsoF5IkRkDuE5Eh7kqc</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.794733,42.2322864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Igreja Universal</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJjYnsVyAE5IkRwzOWsPuVpFs</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8305061,42.2509335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harvey Ball Conservation Area</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJk_G_ne4F5IkRC9B8P1OaEKk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7781878,42.2301764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>International Central Gospel Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJK0rThqIH5IkRjzmYgU4puR0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.800585,42.3048237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Barbers</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJk16m-CIE5IkR6fSCgiiBCZA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.832269,42.24544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hope Restoration Ministry</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJk1iEhvUH5IkRRpHO-T--Z50</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8181725,42.2671148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>That's Entertainment</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJk3Vu1I0G5IkR1v0iTL-71tM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.819087,42.265524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lamar Soutter Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJK8MrIIAI5IkROqidkOShWI8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7619694,42.2784111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Breens Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJKb6g4CIE5IkRIeZ0GfXu7Lw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8309592,42.2445909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhema Gospel Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJkSn7G0IG5IkR_Tvrt24qIvE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.792318,42.266474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Family Health Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJKT5NH4YG5IkR3860hGE4cw8</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.814606,42.2593315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJKxsYJEQG5IkRTQ9W1U1VIRE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7926149,42.2718731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kelly Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJL7PqbuAH5IkRQM0Iyt6eWRU</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7977832,42.2550251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Talking Book Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJL9jrt2UG5IkRgu4Q_1jiMac</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8003017,42.2603989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJL9jrt2UG5IkROpwPWbRMd4w</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7999764,42.2607657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Printers Building Trust</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJL9T582QG5IkR-kLnmaGdMyw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.801824,42.2597966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wetherell Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlb_w3ewG5IkR4SBPxcxdYWU</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8248902,42.2724256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Green</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlQ24DU8F5IkRc_wNuDTiGjE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8223152,42.251015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bean Counter Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlWoGwcQH5IkRjogzGJBi2t4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8070674,42.2708738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Center for Global Community and World Law</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJLWr8xo8G5IkRA2gqDm8jdPg</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.840262,42.2838629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlXlrztcF5IkR3v-Nxw6VWk0</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8004946,42.2471422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jazzman's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlyoq0mAH5IkRHS7BV5MIiZs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.823041,42.2518912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinsigamond State Park - Lake Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJlYPRYJgI5IkRIsHkiJNB1w0</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7530055,42.260236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panera Bread</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJLZo8pq4H5IkRTtNkWDmVzqM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8025436,42.2919984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gourmet Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJM06yAMYH5IkRoSC5UxOddW4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7799809,42.2923995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont St + Fountain St</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJM1XLlkQG5IkRkyAKoTcz4qg</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.79598,42.27178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinsigamond United Methodist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJm4uU-sYF5IkR-0ws9tICy2k</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7942657,42.2305336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJM6XSit8H5IkRkkpgo2fjLGc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7625719,42.2977096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Downtown Dog Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJm88ndfQH5IkRP0V-caWEFVs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7978121,42.2600139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>red square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJm8ZQ7CcE5IkRaX7pQaD-lL8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.823404,42.2516001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJmaaNgFAP5IkRkwVyuTzdj4c</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7534446,42.2306976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>United Congregational Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJMbL-glsG5IkR97IoZkc5n-Q</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8007278,42.2723808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bancroft Tower</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJMRNXKvEG5IkRT7MsIkZezrc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8158251,42.2764938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Square Properties</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJMTULfmQG5IkR5kzXXiRBO6U</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8033657,42.2603922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Square Condominium</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJmUpAc2QG5IkROzLA6aV0iVs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8029436,42.2615946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>R.C.C.G. - Power Miracle Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJmVihzjsG5IkRJN2ZVH3LSXE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7790026,42.2702668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Dental Care</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJMwvkJREE5IkRVglssbUnsYc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.840187,42.2421559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>His Ministry Oneness Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJMYGIwZMF5IkRFqKNYU5CbQk</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7939474,42.2309053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnuts Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJn-_XMGEG5IkRdwUDlEDNsSs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8040255,42.2645795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Philadelphia Pentecostal church of all nation</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJn06h4jQF5IkRTCtlUZIOB3o</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8013082,42.2633127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Logan Field</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJN0GFwLQG5IkRzzErpiv-57c</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8560213,42.2727358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Massachusetts League of Community Health Centers - James W. Hunt Jr. Training &amp; Learning Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJN1_8zJ0H5IkRr1jueqI1W4Y</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7996747,42.3100046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jakubowitz-Chaifetz Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJN7_hrJ4H5IkR9pGZKJTa8K4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8215206,42.25219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Fishman Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJN8lCnScE5IkRZ633rBh-WNg</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8244675,42.2511067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Great Brook Valley Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJNcOcwuMH5IkRggrv8WY01as</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7663258,42.3057688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonald's</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJneG7ccoG5IkR82KPo6cm8Ao</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8536343,42.2758719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>First Congregational Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJNSVkdMkG5IkRHULaYUgR6K0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8499621,42.2777216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Upper Room Family International Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJnWJlDp0I5IkRGMkwOhgLKjw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7603401,42.2680086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Healthlink - Motivating Youth Recovery</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJnzY1oYgG5IkRvsH9iumS5LU</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.814606,42.2593315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Tire &amp; Auto Services</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJo_VloxgE5IkRtU673spgR_k</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8339525,42.2474885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Starbucks</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJo--LY0IG5IkRFZI5RietdDc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.794511,42.2668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institute Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJO-QrNVgG5IkRnUNuM_vPpLA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8067502,42.2764529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bennett Field</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJo1KzNhAE5IkRqSQqUhZI1RM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8447181,42.2432935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morris Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJO2ap4DYH5IkRnHoXR95eD6o</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8034604,42.267726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Italian Books Records Perfumes</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJo4PPc3oG5IkRVlyhI2tFRT8</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.798218,42.253671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Agrizzi</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJOeY7AHQH5IkRRAwyYOtP_vM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8004474,42.2631061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coal Mine Brook</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJOQBfxXcI5IkRmlxlFif9o4o</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7618774,42.2901371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethsaida Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJOSnpvIkG5IkRjwA_6cmM-eE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8118259,42.2626269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatnuck Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoTh1qcsG5IkRQnaCjif7WSA</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8539773,42.278439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beaver Brook Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoTxNZZoG5IkRXzjYz13LNkE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8248902,42.2610909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oread Castle Park Playground</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoV7iAr0H5IkRw9y0C87dQmw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8133731,42.2573868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garden Center at The Home Depot</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoWlifa4H5IkRulVEbH_XPJs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.800235,42.2920831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentecostal Movement Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoXdnOdYF5IkRmtS1ZD2jPPE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8011361,42.2483719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nguyen Congregational</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJoYkMwC4E5IkROGPxavE6TW0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8170488,42.2447356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hart Center Arena</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJP_mxb8wF5IkRTYZz368M26w</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.806029,42.2350991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Route 12 Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJp0ESc38H5IkRRfSPrhoTXpQ</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7975875,42.3111811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WPI Sports &amp; Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJp0I-EfYG5IkRarl10ZY2PU0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8103392,42.2743694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawk's Nest</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJP2iHL1YH5IkR75y9i6ljKZM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.811912,42.2690259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UAD of New Life Christian Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJp2TzUIIG5IkR2D9KvK78s5M</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8179918,42.2526299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Epoca</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJp7h2UokG5IkRHAjFAhD50zI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8134513,42.2556672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City of Worcester Technical Services Department</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJp9m3McEF5IkRy-fdURYc974</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7780811,42.2770634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Vision Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJPbKDcBIE5IkR7M18MbckdSg</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8447671,42.2391957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crompton Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJpQKyxXgG5IkR_jOidFoQhec</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8028211,42.2500152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont Street Community Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJpTJRCUcG5IkR5Z0lgCcVR_s</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.787918,42.2718203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJPUYMfdsF5IkRWpNzpQoIHsA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7928426,42.2377959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Plaza Garage</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJPUZ0j2MG5IkRBt65kfcrQzg</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8039545,42.2609131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Annie's Book Stop of Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJPWQWxXME5IkRGc0m2hUUTsU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8493693,42.2330115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>African Community &amp; Cultural Center Home Of The Africans</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQ-tYxYMG5IkRB8HqbBMvkis</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8164282,42.2534479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kasperson Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQ0bMnIMG5IkRPQl2TSxsAq0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8183347,42.2549294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW BETHSAIDA</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJq1szGicG5IkRaGWABrwRPkg</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.764654,42.2673911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unitarian Universalist Church of Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJq6oaXwwH5IkRjYieO8VKYiM</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8173386,42.3053672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Tradition Co</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQ6pZ1QcH5IkRPO376fhudbk</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8086328,42.2567821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>House of Zion</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJq6qWu3gH5IkRRipdQMZcMU8</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8106902,42.3202423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Community Branch YMCA</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQdpagocG5IkRXwcgwu7osZI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8095061,42.2574458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vietnamese Christian Church C&amp;MA</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqQ7BUwoE5IkRd8u4iJubHzw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8543904,42.2401854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentecost International Worship Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqRKau8UF5IkRO01Bcwwtho4</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7958241,42.2346079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cook's Brook II</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqS8O6dMG5IkRfFGR7_XurAk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8523154,42.2888324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zion Lutheran Church: Worcester Campus of Grace Ministries, ELCA</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQU0a_5cH5IkRIZsPt9vhQcg</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7976542,42.3047779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Church on Seven Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQU0a_5cH5IkRvCjpFpdFRcY</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7912099,42.3189372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main St + Webster Square Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqVBrqxEE5IkRj4Bdi7St3oE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.84259,42.242705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MissionE4 center for community development</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqWafQokH5IkRTSKmUl15K1o</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.767461,42.2978152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqWtHlGYG5IkRvUtDvgjOTyI</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8019631,42.263429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Day Care Center, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQyhrUyIE5IkRxFT40Wo7pxY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8140493,42.2576882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Square Family Dental</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQYJa2JIG5IkR5aCgDW-wTmM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8243,42.2701097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honey Dew Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqZ2oKagI5IkR2wQohct_c_U</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.762113,42.249139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taproot Treasures</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJqZDhtRT444kRlHNfn4xsx-M</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7884398,42.3393062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Den</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJQZFGaO0F5IkRMfD8Zph-emE</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8220137,42.2501348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glazy Susan</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJr2IYBecH5IkRNrwrTJcMuBg</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7993994,42.2645554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeview Ghanaian Seventh-day Adventist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJr2ZxvhYF5IkRpCAiGT3x6OI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8448272,42.2523309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brigham Road</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJr71s_9UG5IkRWUGEffBqz1c</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8502771,42.294016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main St + City Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJR7AuomYG5IkRaVBzyRQ2D8E</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">city hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.802437,42.262813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJR7pHmvkH5IkRwZl3_oqYh5M</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8135398,42.2728089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRdMXcQQE5IkRQm_w6Ete_ik</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8512036,42.2513645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon Hill Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRficmmcF5IkRZhNUjH0Y54o</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7927268,42.2435655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Laundry</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRRLX_hAE5IkRZeiff9KKHLw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.842101,42.243029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salem Community Corporation</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRXVaO_gH5IkRRxgY0ugyvqA</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7722702,42.3165168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tidepool Bookshop, Llc</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRYKIWiMH5IkRhsXzmHf-Br8</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8300511,42.2625714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Channing st parkkng</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJRZ78G6IH5IkRS94pZv4bv_Y</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7915934,42.274285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia El Semrador</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJs10Ygj0E5IkR_Mbi-i9b4j4</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8338083,42.2416535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honey Dew Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJs2osCKwH5IkRIGsBOpWfv18</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.803706,42.290601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>House Of Worship</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJS8J3ii4E5IkRU8C9tlmCkyI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8168917,42.2433737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aaron Krock Memorial Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJsbVhDjgH5IkRmIriIM-XfOY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7705968,42.312563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brown Square Civic Club</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJSeBQiTwG5IkRpWj32kY0ZAU</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7757174,42.2672872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jesus power assembly</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJsfX1WY8G5IkRQKkZOrXpC60</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.81644,42.2603895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia Pentecostal Y Misionera El Sembradr</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJsfX1WY8G5IkRWhlb0-nnhxE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.81644,42.260306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero's Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJsQQxpmwG5IkRazyqLrC-vCk</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7867972,42.2597783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Revival Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJsyXHfQ4E5IkR_vu7xNS9KMo</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8481195,42.2416771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Great Brook Valley Branch Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJszNYbOQH5IkRaXrrFlmorvc</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7692156,42.3054132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont A.M.E. Zion Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJt0lbtCgE5IkRjATqbyW-4n0</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.820229,42.246174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Divine Word International Ministry</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJT5GdYHEE5IkRfXHzRhdWDLI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8508807,42.2324594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ELM Park Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJT7HNfY4G5IkRm0JJGb4N6Yw</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.818759,42.2648164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJt8R03hEE5IkRuyq9hhLh2eM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8450198,42.242081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JP's Café</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJtfX4KYwG5IkRiflKCvo6Jhc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8185051,42.2649492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webster Square Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJtfX4KYwG5IkRnx8ZWELMiXY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8185051,42.2649492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christian Worship Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTSox53ME5IkR8eHFZQDvtjM</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8505852,42.2328452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ Apostolic Church International</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTSox53ME5IkREo8A0TZlcAQ</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8497817,42.2327345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Steam Energy Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTT1dsm8G5IkRuHEIbyR05Ek</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7963589,42.2581225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BubbleBee Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJtTvhbEkH5IkRJnqqyz4sjAU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7977432,42.2558444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chadwick Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJtW4VeqoH5IkRqInVyHgBzFI</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8092381,42.2903706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinsigamond Community College Healthcare and Workforce Development Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTxI2QGQG5IkRsr3I9addIHQ</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8022746,42.2611526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glodis Field</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTXVb5okF5IkRcFcEdHdR2zg</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7905273,42.2399627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia Monte Olivo, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTYv6xIMG5IkR9mu1JlXbpMs</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.82899,42.27166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ebenezer Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJTZ8HO30G5IkRbfvHMQos_Z8</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8070034,42.2582551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fatima's Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu2TSsqsH5IkRO_QVxJlmY-c</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8067393,42.2901615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilgrim Congregational Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu2vSYYIG5IkREQ5dP4iZIXI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8184531,42.2519728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cristoforo Colombo Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu3XAf0AG5IkRduYo-MTvcZ8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7863427,42.2667161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lifesong Church - Worcester Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu5mVZTEG5IkR808njUrivIw</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7780899,42.2770223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edward M Kennedy Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu5mVZTEG5IkRo_FEtPBcf9E</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7780811,42.2770634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinsigamond Village Community</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu60zksYF5IkRJc11lf3bAsM</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7940851,42.231432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NU Kitchen Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJu6dDyJAG5IkRDOPPH1-R9ws</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.826509,42.262733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJUcqEGykG5IkRS-1YNhAeqxs</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.766538,42.2733324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple of Beautiful Ministry International</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJUczhno8G5IkRokzC5VpBZS4</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8186821,42.2614933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>University Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJUeyWHyYE5IkRIvlJ8h1pcX8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8219252,42.247479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greendale Peoples Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJufnyx5AH5IkRTUVfdOst974</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7965088,42.3100777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bennie's Cafe &amp; Pub</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJuQMzCXb444kRa2HAL8LJfMM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7925855,42.3241094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEYM</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJuSXZg8EG5IkRoyPAPJRhwBI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8362779,42.2770944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oread Castle Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJuzKE94YG5IkRkTlWgCrvWI8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8132152,42.2569452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liberty Church of God</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJv_Eq3LsH5IkR2Eeomixy-14</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7922922,42.297675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJV_yTqVUG5IkRhRIvZFdMlrM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8070851,42.2846166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Homer Gage Medical Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJV0V7nUYG5IkRCVhjX52-wIo</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7921681,42.2727579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Frances Perkins Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJV715y5kH5IkRdmx2vYCpa8A</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.799053,42.3074084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJv7xo3PUG5IkR25ObywTMIO8</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8082961,42.2749276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George C. Gordon Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJv7xo3PUG5IkRW8Fl6TsgBxY</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8065441,42.2742207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bovenzi Conservation Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJv90J_4EH5IkR9L-NydB6Ocw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8082116,42.319483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuel America</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJVagoQRoH5IkRWdQTnfPdzcY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7989815,42.2624266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Recreation Division-Permits</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJVRrEmjMG5IkRPePu0BbEoxs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7786676,42.2801366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parson's Cider Mill</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJvS_-PfYD5IkR_xu1p_qb1TI</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8582476,42.2438681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascading Waters</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJVXbkETIB5IkRAbUd6oFyERw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8619722,42.2859045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barnyard Zoo</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJVXmXpDQG5IkRmo8Qgbr_wls</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7806769,42.281929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dental Smiles Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJw_7QqREE5IkR4cA51pgHeog</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8423376,42.2423321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bell Hill Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJW-rleTgG5IkRtSIF0URWGZY</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7856659,42.2722385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Robert Hutchings Goddard Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJW3EWjicE5IkR5t0cY4l7RY4</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8230683,42.2517489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Map Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJW3EWjicE5IkR7vhSJzCD5cs</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8217245,42.2507498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Neo</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJw3uqH3oG5IkRGnmsNAa6H5Q</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7990833,42.2525806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Tatnuck Magnet Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJW3v4XskG5IkRD8jkKuts6HM</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8508746,42.2789852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greek Orthodox Veterans Memorial</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJw4dkxmIH5IkR89DSO306vOs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.815088,42.266192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garden Fresh Courthouse Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJWaE4dl0G5IkR838FKBuh8K8</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.801031,42.267824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>InHouse Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJWb6Dpz8G5IkRT9kAQKbLtxM</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7834482,42.2666999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emanuel Lutheran Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJWbD1UKYF5IkRaGIEjxuJQPk</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7958136,42.2246079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Culpeppers Bakery &amp; Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJWchJuSwE5IkRW6U55UF0ycU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8102778,42.2436111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walmart Patio &amp; Garden Services</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJWdrrBYQF5IkRxsjHvBeSGdM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.791547,42.233355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garden for All Ages</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJwX2LuLkG5IkRBzswhm7Lpl8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8437453,42.2708446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Creative Hub Worcester Youth Art Space</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJwXMmSWMG5IkRyPzx1pgw314</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.804929,42.258556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edward M. Kennedy Community Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJX13qxt8H5IkRKhx-y2epUWw</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7699864,42.3084922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burnside Fountain</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJX1ZPgmYG5IkRVCkYGc1RoDw</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8003159,42.2613886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beer Garden Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJX2Z0eFIH5IkRIJUSZbDgJS8</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8008202,42.261267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascades Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJX30qqjEB5IkR8xiI096hU2Y</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8645448,42.2857575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fountain of Grace Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJx4IMxSwE5IkRkXbf8jHfUlI</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8101574,42.2430935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fountain of Grace Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJx4IMxSwE5IkRkXbf8jHfUlI</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">fountain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8101574,42.2430935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Great Charismatic Chapel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJX5tn5GYG5IkRXgmRCFRZqU8</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8015087,42.2643826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grafton St + Rice Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJx72DSAwG5IkRU3qZ3e7SIrs</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.78174,42.25136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethany Gospel Chapel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJx9ftH-4H5IkR5ZvA5gJ7VOE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.778614,42.311005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJXc2YRYEG5IkRYzO1yuC4og4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8146275,42.2539582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Starbucks</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJxQA46h0H5IkRMfnSjiNHTI8</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.805374,42.27344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>International Central Gospel</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJXSo_ndcF5IkRN6l6q-yfk5Y</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.798576,42.2451357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJxW3rgxIH5IkRnLbG8-uhHfQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8398105,42.2547663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Seventh-day Adventist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJxxAeFLUG5IkRja3tYWUCewE</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8553538,42.2744192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GRASS TO GRACE International Ministries Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJXyvHpzwH5IkRnFjcUiih6os</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7747533,42.2671657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boston Donuts</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJXzpRVIUG5IkRvUr0Hl90gXY</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8215244,42.2605008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Revive Nutrition</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJxZsmD_EH5IkRj-rVWmw80ds</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8008449,42.3036379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester County Sheiffs Dept. Regional Reentry Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJY_DuoQ8H5IkRbp711Kh8Oew</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8022455,42.2654576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Public Library Burncoat Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJY0tbjYkH5IkRS5aMxoRLkHI</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7925514,42.3216127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Square Rotary Clock</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJy1GVmiEH5IkRmrqpnbpOlqo</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7945022,42.261963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Born To Win Ministries</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJy3niFWcG5IkR-vFMS5AZy1g</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8022207,42.2657369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rev. Pablo Ramos</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJy76WmWQG5IkRrnx52dKipaU</SimpleData>
+		<SimpleData name="type">Place of Worship</SimpleData>
+		<SimpleData name="term">place of worship</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.803143,42.2592655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Donut Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJy8YjtzoG5IkR2bu2Gsw5vqA</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.774642,42.271244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emmanuel d'Alzon Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJyaAycB4H5IkRjovxD82AmlM</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.830467,42.294671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OneZo Worcester</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJYddgaeMH5IkRKbtZQehZacc</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7963726,42.2559166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunkin'</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJYeV0oEoF5IkRUlf_a5TQdgU</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8099721,42.2457487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadwen Community Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJySuPep4H5IkRLRUXTdgFuQQ</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8332912,42.258232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Worcester Common</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJyV-o1WUG5IkR3Xpzj6t9o1Y</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8006132,42.2620431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pleasant Street Neighborhood Network Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJYXIFf4kG5IkRNtMop02JcUk</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">community center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8125273,42.2641277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COMING SOON: Starbucks</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJz4ASge4J5IkRXzxpd9Wab8Q</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7594215,42.2453387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadwen Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZbYMUhME5IkRJe6h2tXA3QE</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8425236,42.2366422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark University Campus Store</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJzdWRpoIG5IkR0Ku2RFltrEk</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.821761,42.2501279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Four Square Church</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZf7Cdj0E5IkR6hdrnRY58nk</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8324313,42.241371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green St + Kelly Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZR_In3oG5IkRo2pbAc0C2f4</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.797925,42.25567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bedlam Book Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZT5KdggH5IkRprFNPmn86O4</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">bookstore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7977521,42.2565124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rose Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZwpEHhwH5IkRg1OMT14zPg0</SimpleData>
+		<SimpleData name="type">Community Space</SimpleData>
+		<SimpleData name="term">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8212803,42.2523219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crow Hill Conservation Restriction</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZXLP1hkG5IkRKlkTGxsi7kc</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7733689,42.2607133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burncoat Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZXpz-7cH5IkR0fRdTeDIMoM</SimpleData>
+		<SimpleData name="type">Park</SimpleData>
+		<SimpleData name="term">park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.7867133,42.2927174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acoustic Java</name>
+	<ExtendedData><SchemaData schemaUrl="#sites_export">
+		<SimpleData name="place_id">ChIJZYXkAigE5IkRO9k2Ebf2v78</SimpleData>
+		<SimpleData name="type">Social Business</SimpleData>
+		<SimpleData name="term">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8209884,42.2510278</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

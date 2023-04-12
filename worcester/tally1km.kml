@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tally1km" id="tally1km">
+	<SimpleField name="cell" type="int"></SimpleField>
+	<SimpleField name="Pop Density" type="float"></SimpleField>
+	<SimpleField name="Pop Density (Quartiles)" type="string"></SimpleField>
+	<SimpleField name="Community Spaces" type="float"></SimpleField>
+	<SimpleField name="Places of Worship" type="float"></SimpleField>
+	<SimpleField name="Social Businesses" type="float"></SimpleField>
+	<SimpleField name="Parks" type="float"></SimpleField>
+	<SimpleField name="(%) Non-White" type="float"></SimpleField>
+	<SimpleField name="(%) Non-White (Quartiles)" type="string"></SimpleField>
+	<SimpleField name="(%) Black" type="float"></SimpleField>
+	<SimpleField name="(%) White" type="float"></SimpleField>
+	<SimpleField name="(%) Hispanic/Latino" type="float"></SimpleField>
+	<SimpleField name="(%) Asian" type="float"></SimpleField>
+</Schema>
+<Folder><name>tally1km</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">1</SimpleData>
+		<SimpleData name="Pop Density">889.765689420483</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">34</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">3</SimpleData>
+		<SimpleData name="(%) White">66</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8675265482805,42.2220975740701 -71.8550575620771,42.2199658597055 -71.8518109318768,42.2281557252284 -71.8642814472044,42.2302877120774 -71.8675265482805,42.2220975740701</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">2</SimpleData>
+		<SimpleData name="Pop Density">1934.88386674416</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">26</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">1</SimpleData>
+		<SimpleData name="(%) White">74</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8550575620771,42.2199658597055 -71.8425894297983,42.217833066075 -71.8393412708031,42.226022659005 -71.8518109318768,42.2281557252284 -71.8550575620771,42.2199658597055</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">3</SimpleData>
+		<SimpleData name="Pop Density">2423.4482973261</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">38</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">62</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">21</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8176557283881,42.2135642414345 -71.8051901599435,42.2114282106342 -71.8019374165411,42.2196169851371 -71.8144045127918,42.2217532888545 -71.8176557283881,42.2135642414345</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">4</SimpleData>
+		<SimpleData name="Pop Density">1739.12632299623</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">5.75</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">36</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">64</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">18</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8051901599435,42.2114282106342 -71.7927254467968,42.209291100987 -71.7894711759181,42.2174796024646 -71.8019374165411,42.2196169851371 -71.8051901599435,42.2114282106342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">5</SimpleData>
+		<SimpleData name="Pop Density">94.4846201892435</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">48</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">52</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">23</SimpleData>
+		<SimpleData name="(%) Asian">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7927254467968,42.209291100987 -71.7802615892907,42.2071529125975 -71.7770057912657,42.2153411409421 -71.7894711759181,42.2174796024646 -71.7927254467968,42.209291100987</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">6</SimpleData>
+		<SimpleData name="Pop Density">412.312504443023</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">43</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">22</SimpleData>
+		<SimpleData name="(%) White">57</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8767528164421,42.2324186194475 -71.8642814472044,42.2302877120774 -71.8610354922184,42.2384777467189 -71.8735083912537,42.240608926576 -71.8767528164421,42.2324186194475</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">7</SimpleData>
+		<SimpleData name="Pop Density">2349.89883960441</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">12.77</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">43</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">57</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8642814472044,42.2302877120774 -71.8518109318768,42.2281557252284 -71.8485634474226,42.2363454872745 -71.8610354922184,42.2384777467189 -71.8642814472044,42.2302877120774</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">8</SimpleData>
+		<SimpleData name="Pop Density">1805.59818979733</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">11.08</SimpleData>
+		<SimpleData name="Social Businesses">11.08</SimpleData>
+		<SimpleData name="Parks">5.54</SimpleData>
+		<SimpleData name="(%) Non-White">37</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">63</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8518109318768,42.2281557252284 -71.8393412708031,42.226022659005 -71.8360922572103,42.2342121483476 -71.8485634474226,42.2363454872745 -71.8518109318768,42.2281557252284</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">9</SimpleData>
+		<SimpleData name="Pop Density">903.26428800391</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">11.07</SimpleData>
+		<SimpleData name="Places of Worship">11.07</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">46</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">54</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">23</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8393412708031,42.226022659005 -71.8268724643269,42.2238885135121 -71.8236219219252,42.2320777300429 -71.8360922572103,42.2342121483476 -71.8393412708031,42.226022659005</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">10</SimpleData>
+		<SimpleData name="Pop Density">1959.82087835909</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">49</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">15</SimpleData>
+		<SimpleData name="(%) White">51</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">29</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8268724643269,42.2238885135121 -71.8144045127918,42.2217532888545 -71.8111524419109,42.2299422324654 -71.8236219219252,42.2320777300429 -71.8268724643269,42.2238885135121</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">11</SimpleData>
+		<SimpleData name="Pop Density">3305.95697655344</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">46</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">24</SimpleData>
+		<SimpleData name="(%) White">54</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8144045127918,42.2217532888545 -71.8019374165411,42.2196169851371 -71.798683817511,42.2278056557199 -71.8111524419109,42.2299422324654 -71.8144045127918,42.2217532888545</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">12</SimpleData>
+		<SimpleData name="Pop Density">1503.54746127393</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">19.95</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">6.65</SimpleData>
+		<SimpleData name="(%) Non-White">41</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">59</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">23</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8019374165411,42.2196169851371 -71.7894711759181,42.2174796024646 -71.7862160490687,42.2256679999115 -71.798683817511,42.2278056557199 -71.8019374165411,42.2196169851371</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">13</SimpleData>
+		<SimpleData name="Pop Density">549.274292101638</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">18.21</SimpleData>
+		<SimpleData name="(%) Non-White">40</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">60</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">16</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7894711759181,42.2174796024646 -71.7770057912657,42.2153411409421 -71.7737491369272,42.2235292651449 -71.7862160490687,42.2256679999115 -71.7894711759181,42.2174796024646</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">14</SimpleData>
+		<SimpleData name="Pop Density">152.580592337817</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7770057912657,42.2153411409421 -71.7645412629269,42.2132016006744 -71.7612830814294,42.2213894515253 -71.7737491369272,42.2235292651449 -71.7770057912657,42.2153411409421</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">15</SimpleData>
+		<SimpleData name="Pop Density">1741.77118329255</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">46</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">54</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">18</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8735083912537,42.240608926576 -71.8610354922184,42.2384777467189 -71.8577886829928,42.2466676781258 -71.8702631121699,42.2487991305806 -71.8735083912537,42.240608926576</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">16</SimpleData>
+		<SimpleData name="Pop Density">3361.7532349213</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">8.92</SimpleData>
+		<SimpleData name="Social Businesses">5.95</SimpleData>
+		<SimpleData name="Parks">2.97</SimpleData>
+		<SimpleData name="(%) Non-White">50</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">50</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">21</SimpleData>
+		<SimpleData name="(%) Asian">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8610354922184,42.2384777467189 -71.8485634474226,42.2363454872745 -71.8453151083849,42.2445351459753 -71.8577886829928,42.2466676781258 -71.8610354922184,42.2384777467189</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">17</SimpleData>
+		<SimpleData name="Pop Density">2227.4026026692</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">13.47</SimpleData>
+		<SimpleData name="Social Businesses">4.49</SimpleData>
+		<SimpleData name="Parks">40.41</SimpleData>
+		<SimpleData name="(%) Non-White">52</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">48</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">26</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8485634474226,42.2363454872745 -71.8360922572103,42.2342121483476 -71.8328423886902,42.2424015342339 -71.8453151083849,42.2445351459753 -71.8485634474226,42.2363454872745</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">18</SimpleData>
+		<SimpleData name="Pop Density">1232.95649619498</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">8.11</SimpleData>
+		<SimpleData name="(%) Non-White">57</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">43</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">35</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8360922572103,42.2342121483476 -71.8236219219252,42.2320777300429 -71.8203705242526,42.2402668430067 -71.8328423886902,42.2424015342339 -71.8360922572103,42.2342121483476</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">19</SimpleData>
+		<SimpleData name="Pop Density">1617.88590540531</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">6.18</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">37</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">63</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">19</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8236219219252,42.2320777300429 -71.8111524419109,42.2299422324654 -71.8078995154158,42.2381310723983 -71.8203705242526,42.2402668430067 -71.8236219219252,42.2320777300429</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">20</SimpleData>
+		<SimpleData name="Pop Density">3296.80496278258</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">3.03</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">47</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">16</SimpleData>
+		<SimpleData name="(%) White">53</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">23</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8111524419109,42.2299422324654 -71.798683817511,42.2278056557199 -71.7954293625233,42.2359942225139 -71.8078995154158,42.2381310723983 -71.8111524419109,42.2299422324654</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">21</SimpleData>
+		<SimpleData name="Pop Density">1975.43812637956</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">5.06</SimpleData>
+		<SimpleData name="Places of Worship">30.37</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">10.12</SimpleData>
+		<SimpleData name="(%) Non-White">54</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">18</SimpleData>
+		<SimpleData name="(%) White">46</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">24</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.798683817511,42.2278056557199 -71.7862160490687,42.2256679999115 -71.7829600659186,42.2338562934585 -71.7954293625233,42.2359942225139 -71.798683817511,42.2278056557199</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">22</SimpleData>
+		<SimpleData name="Pop Density">1236.16751124074</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">8.09</SimpleData>
+		<SimpleData name="(%) Non-White">40</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">60</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7862160490687,42.2256679999115 -71.7737491369272,42.2235292651449 -71.7704916259449,42.2317172853369 -71.7829600659186,42.2338562934585 -71.7862160490687,42.2256679999115</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">23</SimpleData>
+		<SimpleData name="Pop Density">523.258904311108</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">34</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">12</SimpleData>
+		<SimpleData name="(%) White">66</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7737491369272,42.2235292651449 -71.7612830814294,42.2213894515253 -71.7580240429453,42.2295771982543 -71.7704916259449,42.2317172853369 -71.7737491369272,42.2235292651449</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">24</SimpleData>
+		<SimpleData name="Pop Density">372.359799868143</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">41</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">18</SimpleData>
+		<SimpleData name="(%) White">59</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">11</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7612830814294,42.2213894515253 -71.7488178829181,42.2192485591576 -71.7455573172627,42.2274360323157 -71.7580240429453,42.2295771982543 -71.7612830814294,42.2213894515253</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">25</SimpleData>
+		<SimpleData name="Pop Density">69.7875666471261</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">27</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">73</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8827383955718,42.2509295032349 -71.8702631121699,42.2487991305806 -71.8670169788611,42.2569892315928 -71.8794937930788,42.2591198768472 -71.8827383955718,42.2509295032349</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">26</SimpleData>
+		<SimpleData name="Pop Density">1812.99950371005</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">45</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">55</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">16</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8702631121699,42.2487991305806 -71.8577886829928,42.2466676781258 -71.8545410191981,42.2548575064294 -71.8670169788611,42.2569892315928 -71.8702631121699,42.2487991305806</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">27</SimpleData>
+		<SimpleData name="Pop Density">2707.99268710848</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.69</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">3.69</SimpleData>
+		<SimpleData name="(%) Non-White">52</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">48</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">25</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8577886829928,42.2466676781258 -71.8453151083849,42.2445351459753 -71.842065914434,42.2527247014619 -71.8545410191981,42.2548575064294 -71.8577886829928,42.2466676781258</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">28</SimpleData>
+		<SimpleData name="Pop Density">3124.54714758935</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">6.4</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">25.6</SimpleData>
+		<SimpleData name="(%) Non-White">56</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">16</SimpleData>
+		<SimpleData name="(%) White">44</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">29</SimpleData>
+		<SimpleData name="(%) Asian">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8453151083849,42.2445351459753 -71.8328423886902,42.2424015342339 -71.8295916649131,42.2505908167953 -71.842065914434,42.2527247014619 -71.8453151083849,42.2445351459753</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">29</SimpleData>
+		<SimpleData name="Pop Density">6881.16284456912</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">1.45</SimpleData>
+		<SimpleData name="Places of Worship">1.45</SimpleData>
+		<SimpleData name="Social Businesses">5.81</SimpleData>
+		<SimpleData name="Parks">4.36</SimpleData>
+		<SimpleData name="(%) Non-White">67</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">33</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">42</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8328423886902,42.2424015342339 -71.8203705242526,42.2402668430067 -71.8171182709792,42.2484558525345 -71.8295916649131,42.2505908167953 -71.8328423886902,42.2424015342339</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">30</SimpleData>
+		<SimpleData name="Pop Density">4285.99012808934</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">4.67</SimpleData>
+		<SimpleData name="Places of Worship">9.33</SimpleData>
+		<SimpleData name="Social Businesses">7</SimpleData>
+		<SimpleData name="Parks">9.33</SimpleData>
+		<SimpleData name="(%) Non-White">66</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">34</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">38</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8203705242526,42.2402668430067 -71.8078995154158,42.2381310723983 -71.8046457329762,42.2463198087844 -71.8171182709792,42.2484558525345 -71.8203705242526,42.2402668430067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">31</SimpleData>
+		<SimpleData name="Pop Density">5434.73356405948</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">1.84</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">1.84</SimpleData>
+		<SimpleData name="(%) Non-White">59</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">21</SimpleData>
+		<SimpleData name="(%) White">41</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">36</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8078995154158,42.2381310723983 -71.7954293625233,42.2359942225139 -71.7921740512478,42.2441826856502 -71.8046457329762,42.2463198087844 -71.8078995154158,42.2381310723983</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">32</SimpleData>
+		<SimpleData name="Pop Density">2900.74703238952</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">3.45</SimpleData>
+		<SimpleData name="Parks">3.45</SimpleData>
+		<SimpleData name="(%) Non-White">60</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">40</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">29</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7954293625233,42.2359942225139 -71.7829600659186,42.2338562934585 -71.7797032261375,42.2420444832366 -71.7921740512478,42.2441826856502 -71.7954293625233,42.2359942225139</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">33</SimpleData>
+		<SimpleData name="Pop Density">2053.37329928062</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">44</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">56</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7829600659186,42.2338562934585 -71.7704916259449,42.2317172853369 -71.7672332579886,42.239905201649 -71.7797032261375,42.2420444832366 -71.7829600659186,42.2338562934585</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">34</SimpleData>
+		<SimpleData name="Pop Density">2271.60660257867</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">16</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7704916259449,42.2317172853369 -71.7580240429453,42.2295771982543 -71.7547641471443,42.2377648409923 -71.7672332579886,42.239905201649 -71.7704916259449,42.2317172853369</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">35</SimpleData>
+		<SimpleData name="Pop Density">1497.86718423898</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">6.68</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7580240429453,42.2295771982543 -71.7455573172627,42.2274360323157 -71.7422958939475,42.2356234013717 -71.7547641471443,42.2377648409923 -71.7580240429453,42.2295771982543</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">36</SimpleData>
+		<SimpleData name="Pop Density">282.147139733371</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">9</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">0</SimpleData>
+		<SimpleData name="(%) White">91</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">0</SimpleData>
+		<SimpleData name="(%) Asian">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7455573172627,42.2274360323157 -71.7330914492397,42.2252937876263 -71.7298284987412,42.2334808828924 -71.7422958939475,42.2356234013717 -71.7455573172627,42.2274360323157</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">37</SimpleData>
+		<SimpleData name="Pop Density">51.7774132881904</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">25</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">75</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">0</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8919714615065,42.2612494420879 -71.8794937930788,42.2591198768472 -71.8762483363756,42.2673101477094 -71.8887275362933,42.2694399855525 -71.8919714615065,42.2612494420879</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">38</SimpleData>
+		<SimpleData name="Pop Density">34.6684786447014</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">26</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">74</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">7</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8794937930788,42.2591198768472 -71.8670169788611,42.2569892315928 -71.8637699909978,42.2651792297439 -71.8762483363756,42.2673101477094 -71.8794937930788,42.2591198768472</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">39</SimpleData>
+		<SimpleData name="Pop Density">2918.60560621874</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">46</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">54</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8670169788611,42.2569892315928 -71.8545410191981,42.2548575064294 -71.8512925005045,42.2630472317611 -71.8637699909978,42.2651792297439 -71.8670169788611,42.2569892315928</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">40</SimpleData>
+		<SimpleData name="Pop Density">2706.63952799885</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">3.69</SimpleData>
+		<SimpleData name="(%) Non-White">43</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">57</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">16</SimpleData>
+		<SimpleData name="(%) Asian">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8545410191981,42.2548575064294 -71.842065914434,42.2527247014619 -71.83881586524,42.2609141538658 -71.8512925005045,42.2630472317611 -71.8545410191981,42.2548575064294</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">41</SimpleData>
+		<SimpleData name="Pop Density">5395.45640769996</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">1.85</SimpleData>
+		<SimpleData name="Places of Worship">3.71</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">5.56</SimpleData>
+		<SimpleData name="(%) Non-White">55</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">45</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">29</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.842065914434,42.2527247014619 -71.8295916649131,42.2505908167953 -71.8263400855488,42.258779996163 -71.83881586524,42.2609141538658 -71.842065914434,42.2527247014619</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">42</SimpleData>
+		<SimpleData name="Pop Density">8747.87545836747</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">8</SimpleData>
+		<SimpleData name="Places of Worship">2.29</SimpleData>
+		<SimpleData name="Social Businesses">8</SimpleData>
+		<SimpleData name="Parks">3.43</SimpleData>
+		<SimpleData name="(%) Non-White">64</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">36</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">42</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8295916649131,42.2505908167953 -71.8171182709792,42.2484558525345 -71.8138651617748,42.2566447587577 -71.8263400855488,42.258779996163 -71.8295916649131,42.2505908167953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">43</SimpleData>
+		<SimpleData name="Pop Density">4801.89117906174</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">8.33</SimpleData>
+		<SimpleData name="Places of Worship">4.17</SimpleData>
+		<SimpleData name="Social Businesses">2.08</SimpleData>
+		<SimpleData name="Parks">2.08</SimpleData>
+		<SimpleData name="(%) Non-White">72</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">28</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">51</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8171182709792,42.2484558525345 -71.8046457329762,42.2463198087844 -71.801391094262,42.2545084417548 -71.8138651617748,42.2566447587577 -71.8171182709792,42.2484558525345</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">44</SimpleData>
+		<SimpleData name="Pop Density">8387.19740004157</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">1.19</SimpleData>
+		<SimpleData name="Places of Worship">1.19</SimpleData>
+		<SimpleData name="Social Businesses">4.77</SimpleData>
+		<SimpleData name="Parks">1.19</SimpleData>
+		<SimpleData name="(%) Non-White">67</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">17</SimpleData>
+		<SimpleData name="(%) White">33</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">46</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8046457329762,42.2463198087844 -71.7921740512478,42.2441826856502 -71.7889178833542,42.2523710452595 -71.801391094262,42.2545084417548 -71.8046457329762,42.2463198087844</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">45</SimpleData>
+		<SimpleData name="Pop Density">6388.91651928649</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">3.13</SimpleData>
+		<SimpleData name="Parks">3.13</SimpleData>
+		<SimpleData name="(%) Non-White">57</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">21</SimpleData>
+		<SimpleData name="(%) White">43</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">30</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7921740512478,42.2441826856502 -71.7797032261375,42.2420444832366 -71.7764455293949,42.250232569377 -71.7889178833542,42.2523710452595 -71.7921740512478,42.2441826856502</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">46</SimpleData>
+		<SimpleData name="Pop Density">2727.79058267971</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">3.67</SimpleData>
+		<SimpleData name="(%) Non-White">41</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">59</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7797032261375,42.2420444832366 -71.7672332579886,42.239905201649 -71.7639740327276,42.2480930142121 -71.7764455293949,42.250232569377 -71.7797032261375,42.2420444832366</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">47</SimpleData>
+		<SimpleData name="Pop Density">3351.20902581379</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">2.98</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">8.95</SimpleData>
+		<SimpleData name="Parks">5.97</SimpleData>
+		<SimpleData name="(%) Non-White">44</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">56</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7672332579886,42.239905201649 -71.7547641471443,42.2377648409923 -71.7515033936956,42.2459523798703 -71.7639740327276,42.2480930142121 -71.7672332579886,42.239905201649</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">48</SimpleData>
+		<SimpleData name="Pop Density">2116.1705089836</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7547641471443,42.2377648409923 -71.7422958939475,42.2356234013717 -71.739033612642,42.2438106664565 -71.7515033936956,42.2459523798703 -71.7547641471443,42.2377648409923</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">49</SimpleData>
+		<SimpleData name="Pop Density">1950.76002009976</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">20</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">80</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">6</SimpleData>
+		<SimpleData name="(%) Asian">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7422958939475,42.2356234013717 -71.7298284987412,42.2334808828924 -71.7265646899096,42.2416678740761 -71.739033612642,42.2438106664565 -71.7422958939475,42.2356234013717</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">50</SimpleData>
+		<SimpleData name="Pop Density">103.554826576381</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">25</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">75</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">0</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8887275362933,42.2694399855525 -71.8762483363756,42.2673101477094 -71.8730020251325,42.2755003159528 -71.8854827568849,42.2776304265092 -71.8887275362933,42.2694399855525</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">51</SimpleData>
+		<SimpleData name="Pop Density">188.626729349839</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">6</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8762483363756,42.2673101477094 -71.8637699909978,42.2651792297439 -71.8605221482499,42.2733691251656 -71.8730020251325,42.2755003159528 -71.8762483363756,42.2673101477094</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">52</SimpleData>
+		<SimpleData name="Pop Density">1339.40417830117</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8637699909978,42.2651792297439 -71.8512925005045,42.2630472317611 -71.8480431265818,42.2712368542524 -71.8605221482499,42.2733691251656 -71.8637699909978,42.2651792297439</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">53</SimpleData>
+		<SimpleData name="Pop Density">3054.82545969286</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">3.27</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">3.27</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">29</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">71</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8512925005045,42.2630472317611 -71.83881586524,42.2609141538658 -71.8355649604728,42.2691035033183 -71.8480431265818,42.2712368542524 -71.8512925005045,42.2630472317611</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">54</SimpleData>
+		<SimpleData name="Pop Density">3830.82320388228</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">7.83</SimpleData>
+		<SimpleData name="Parks">2.61</SimpleData>
+		<SimpleData name="(%) Non-White">33</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">67</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.83881586524,42.2609141538658 -71.8263400855488,42.258779996163 -71.8230876502672,42.2669690724682 -71.8355649604728,42.2691035033183 -71.83881586524,42.2609141538658</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">55</SimpleData>
+		<SimpleData name="Pop Density">7733.51752456723</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">5.17</SimpleData>
+		<SimpleData name="Places of Worship">7.76</SimpleData>
+		<SimpleData name="Social Businesses">10.34</SimpleData>
+		<SimpleData name="Parks">6.47</SimpleData>
+		<SimpleData name="(%) Non-White">68</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">17</SimpleData>
+		<SimpleData name="(%) White">32</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">44</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8263400855488,42.258779996163 -71.8138651617748,42.2566447587577 -71.8106111963092,42.2648335618074 -71.8230876502672,42.2669690724682 -71.8263400855488,42.258779996163</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">56</SimpleData>
+		<SimpleData name="Pop Density">7020.85669600952</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">32.76</SimpleData>
+		<SimpleData name="Places of Worship">7.12</SimpleData>
+		<SimpleData name="Social Businesses">12.82</SimpleData>
+		<SimpleData name="Parks">21.36</SimpleData>
+		<SimpleData name="(%) Non-White">65</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">35</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">48</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8138651617748,42.2566447587577 -71.801391094262,42.2545084417548 -71.7981355989428,42.2626969714407 -71.8106111963092,42.2648335618074 -71.8138651617748,42.2566447587577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">57</SimpleData>
+		<SimpleData name="Pop Density">4199.84969738629</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">16.67</SimpleData>
+		<SimpleData name="Parks">21.43</SimpleData>
+		<SimpleData name="(%) Non-White">62</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">17</SimpleData>
+		<SimpleData name="(%) White">38</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">38</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.801391094262,42.2545084417548 -71.7889178833542,42.2523710452595 -71.7856608585119,42.2605593014734 -71.7981355989428,42.2626969714407 -71.801391094262,42.2545084417548</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">58</SimpleData>
+		<SimpleData name="Pop Density">7203.62973337865</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">2.78</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">2.78</SimpleData>
+		<SimpleData name="(%) Non-White">49</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">16</SimpleData>
+		<SimpleData name="(%) White">51</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">28</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7889178833542,42.2523710452595 -71.7764455293949,42.250232569377 -71.7731869753603,42.2584205520106 -71.7856608585119,42.2605593014734 -71.7889178833542,42.2523710452595</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">59</SimpleData>
+		<SimpleData name="Pop Density">3314.2126298929</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">40</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">16</SimpleData>
+		<SimpleData name="(%) White">60</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7764455293949,42.250232569377 -71.7639740327276,42.2480930142121 -71.7607139498314,42.2562807231575 -71.7731869753603,42.2584205520106 -71.7764455293949,42.250232569377</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">60</SimpleData>
+		<SimpleData name="Pop Density">3214.00073513157</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">3.11</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7639740327276,42.2480930142121 -71.7515033936956,42.2459523798703 -71.7482417822686,42.2541398150192 -71.7607139498314,42.2562807231575 -71.7639740327276,42.2480930142121</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">61</SimpleData>
+		<SimpleData name="Pop Density">1111.03826555435</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">24</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">76</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">7</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7515033936956,42.2459523798703 -71.739033612642,42.2438106664565 -71.7357704730151,42.251997827701 -71.7482417822686,42.2541398150192 -71.7515033936956,42.2459523798703</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">62</SimpleData>
+		<SimpleData name="Pop Density">1756.94950924477</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">31</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">69</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8854827568849,42.2776304265092 -71.8730020251325,42.2755003159528 -71.8697548590196,42.2836903817091 -71.8822371229515,42.2858207650897 -71.8854827568849,42.2776304265092</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">63</SimpleData>
+		<SimpleData name="Pop Density">2143.23168826524</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">33</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">67</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8730020251325,42.2755003159528 -71.8605221482499,42.2733691251656 -71.8572734502875,42.2815589179891 -71.8697548590196,42.2836903817091 -71.8730020251325,42.2755003159528</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">64</SimpleData>
+		<SimpleData name="Pop Density">2084.28773879777</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">4.8</SimpleData>
+		<SimpleData name="Places of Worship">9.6</SimpleData>
+		<SimpleData name="Social Businesses">19.19</SimpleData>
+		<SimpleData name="Parks">23.99</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8605221482499,42.2733691251656 -71.8480431265818,42.2712368542524 -71.8447928971001,42.2794263740346 -71.8572734502875,42.2815589179891 -71.8605221482499,42.2733691251656</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">65</SimpleData>
+		<SimpleData name="Pop Density">2778.71405678201</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.6</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">3.6</SimpleData>
+		<SimpleData name="(%) Non-White">22</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">78</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8480431265818,42.2712368542524 -71.8355649604728,42.2691035033183 -71.8323131998022,42.2772927499506 -71.8447928971001,42.2794263740346 -71.8480431265818,42.2712368542524</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">66</SimpleData>
+		<SimpleData name="Pop Density">2966.04856763646</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.37</SimpleData>
+		<SimpleData name="Social Businesses">6.74</SimpleData>
+		<SimpleData name="Parks">26.97</SimpleData>
+		<SimpleData name="(%) Non-White">22</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">78</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8355649604728,42.2691035033183 -71.8230876502672,42.2669690724682 -71.819834358738,42.2751580458424 -71.8323131998022,42.2772927499506 -71.8355649604728,42.2691035033183</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">67</SimpleData>
+		<SimpleData name="Pop Density">5117.84993528755</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.91</SimpleData>
+		<SimpleData name="Social Businesses">3.91</SimpleData>
+		<SimpleData name="Parks">7.82</SimpleData>
+		<SimpleData name="(%) Non-White">36</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">64</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">19</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8230876502672,42.2669690724682 -71.8106111963092,42.2648335618074 -71.8073563742519,42.2730222618149 -71.819834358738,42.2751580458424 -71.8230876502672,42.2669690724682</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">68</SimpleData>
+		<SimpleData name="Pop Density">2738.0210623162</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">14.61</SimpleData>
+		<SimpleData name="Places of Worship">18.26</SimpleData>
+		<SimpleData name="Social Businesses">32.87</SimpleData>
+		<SimpleData name="Parks">3.65</SimpleData>
+		<SimpleData name="(%) Non-White">56</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">44</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">29</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8106111963092,42.2648335618074 -71.7981355989428,42.2626969714407 -71.7948792466881,42.2708853979734 -71.8073563742519,42.2730222618149 -71.8106111963092,42.2648335618074</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">69</SimpleData>
+		<SimpleData name="Pop Density">876.471854820607</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">11.41</SimpleData>
+		<SimpleData name="Places of Worship">22.82</SimpleData>
+		<SimpleData name="Social Businesses">22.82</SimpleData>
+		<SimpleData name="Parks">22.82</SimpleData>
+		<SimpleData name="(%) Non-White">46</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">54</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">30</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7981355989428,42.2626969714407 -71.7856608585119,42.2605593014734 -71.7824029763905,42.2687474544228 -71.7948792466881,42.2708853979734 -71.7981355989428,42.2626969714407</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">70</SimpleData>
+		<SimpleData name="Pop Density">4025.83311403108</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">2.48</SimpleData>
+		<SimpleData name="Social Businesses">4.97</SimpleData>
+		<SimpleData name="Parks">4.97</SimpleData>
+		<SimpleData name="(%) Non-White">40</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">60</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7856608585119,42.2605593014734 -71.7731869753603,42.2584205520106 -71.7699275637029,42.2666084312686 -71.7824029763905,42.2687474544228 -71.7856608585119,42.2605593014734</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">71</SimpleData>
+		<SimpleData name="Pop Density">2603.37121530605</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">37</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">63</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7731869753603,42.2584205520106 -71.7607139498314,42.2562807231575 -71.757453008969,42.2644683286159 -71.7699275637029,42.2666084312686 -71.7731869753603,42.2584205520106</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">72</SimpleData>
+		<SimpleData name="Pop Density">1602.8631792741</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">6.24</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">6.24</SimpleData>
+		<SimpleData name="(%) Non-White">32</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">68</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">11</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7607139498314,42.2562807231575 -71.7482417822686,42.2541398150192 -71.7449793125322,42.26232714657 -71.757453008969,42.2644683286159 -71.7607139498314,42.2562807231575</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">73</SimpleData>
+		<SimpleData name="Pop Density">1170.50205310786</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">40</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">5</SimpleData>
+		<SimpleData name="(%) White">60</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">24</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8822371229515,42.2858207650897 -71.8697548590196,42.2836903817091 -71.8665068377067,42.29188034511 -71.8789906341632,42.2940110014257 -71.8822371229515,42.2858207650897</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">74</SimpleData>
+		<SimpleData name="Pop Density">1309.79187425499</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">15.27</SimpleData>
+		<SimpleData name="(%) Non-White">30</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">70</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8697548590196,42.2836903817091 -71.8572734502875,42.2815589179891 -71.8540238967804,42.2897486083461 -71.8665068377067,42.29188034511 -71.8697548590196,42.2836903817091</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">75</SimpleData>
+		<SimpleData name="Pop Density">1795.38250887354</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">5.57</SimpleData>
+		<SimpleData name="(%) Non-White">29</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">71</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8572734502875,42.2815589179891 -71.8447928971001,42.2794263740346 -71.8415418117291,42.2876157912392 -71.8540238967804,42.2897486083461 -71.8572734502875,42.2815589179891</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">76</SimpleData>
+		<SimpleData name="Pop Density">2131.73174562662</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">4.69</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">4.69</SimpleData>
+		<SimpleData name="(%) Non-White">22</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">5</SimpleData>
+		<SimpleData name="(%) White">78</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8447928971001,42.2794263740346 -71.8323131998022,42.2772927499506 -71.8290605828977,42.2854818938944 -71.8415418117291,42.2876157912392 -71.8447928971001,42.2794263740346</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">77</SimpleData>
+		<SimpleData name="Pop Density">1876.18092388856</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">22</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">78</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8323131998022,42.2772927499506 -71.819834358738,42.2751580458424 -71.8165802106306,42.2833469164168 -71.8290605828977,42.2854818938944 -71.8323131998022,42.2772927499506</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">78</SimpleData>
+		<SimpleData name="Pop Density">1658.64193198055</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">12.06</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">12.06</SimpleData>
+		<SimpleData name="Parks">18.09</SimpleData>
+		<SimpleData name="(%) Non-White">33</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">67</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.819834358738,42.2751580458424 -71.8073563742519,42.2730222618149 -71.8041006952724,42.2812108589116 -71.8165802106306,42.2833469164168 -71.819834358738,42.2751580458424</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">79</SimpleData>
+		<SimpleData name="Pop Density">3069.15278470626</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">3.26</SimpleData>
+		<SimpleData name="Places of Worship">6.52</SimpleData>
+		<SimpleData name="Social Businesses">6.52</SimpleData>
+		<SimpleData name="Parks">9.77</SimpleData>
+		<SimpleData name="(%) Non-White">60</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">15</SimpleData>
+		<SimpleData name="(%) White">40</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">39</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8073563742519,42.2730222618149 -71.7948792466881,42.2708853979734 -71.7916220371671,42.2790737214839 -71.8041006952724,42.2812108589116 -71.8073563742519,42.2730222618149</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">80</SimpleData>
+		<SimpleData name="Pop Density">7084.43177393622</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Highest</SimpleData>
+		<SimpleData name="Community Spaces">1.41</SimpleData>
+		<SimpleData name="Places of Worship">1.41</SimpleData>
+		<SimpleData name="Social Businesses">1.41</SimpleData>
+		<SimpleData name="Parks">2.82</SimpleData>
+		<SimpleData name="(%) Non-White">62</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">21</SimpleData>
+		<SimpleData name="(%) White">38</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">37</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7948792466881,42.2708853979734 -71.7824029763905,42.2687474544228 -71.779144236659,42.276935504239 -71.7916220371671,42.2790737214839 -71.7948792466881,42.2708853979734</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">81</SimpleData>
+		<SimpleData name="Pop Density">2745.45997136314</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">3.64</SimpleData>
+		<SimpleData name="Places of Worship">7.28</SimpleData>
+		<SimpleData name="Social Businesses">14.57</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">43</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">57</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">19</SimpleData>
+		<SimpleData name="(%) Asian">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7824029763905,42.2687474544228 -71.7699275637029,42.2666084312686 -71.7666672940918,42.2747962072822 -71.779144236659,42.276935504239 -71.7824029763905,42.2687474544228</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">82</SimpleData>
+		<SimpleData name="Pop Density">2608.13322568689</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">11.5</SimpleData>
+		<SimpleData name="Social Businesses">3.83</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">11</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7699275637029,42.2666084312686 -71.757453008969,42.2644683286159 -71.7541912098094,42.2726558307186 -71.7666672940918,42.2747962072822 -71.7699275637029,42.2666084312686</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">83</SimpleData>
+		<SimpleData name="Pop Density">1928.35332967457</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">5.19</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">29</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">71</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.757453008969,42.2644683286159 -71.7449793125322,42.26232714657 -71.7417159841553,42.2705143746537 -71.7541912098094,42.2726558307186 -71.757453008969,42.2644683286159</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">84</SimpleData>
+		<SimpleData name="Pop Density">56.2347046086827</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">2</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8789906341632,42.2940110014257 -71.8665068377067,42.29188034511 -71.8632579608636,42.3000702062869 -71.8757432901897,42.3022011356488 -71.8789906341632,42.2940110014257</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">85</SimpleData>
+		<SimpleData name="Pop Density">669.24880851849</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">33</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">67</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8665068377067,42.29188034511 -71.8540238967804,42.2897486083461 -71.8507734873981,42.2979381963681 -71.8632579608636,42.3000702062869 -71.8665068377067,42.29188034511</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">86</SimpleData>
+		<SimpleData name="Pop Density">1180.70966959995</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">16.94</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">16.94</SimpleData>
+		<SimpleData name="(%) Non-White">29</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">71</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8540238967804,42.2897486083461 -71.8415418117291,42.2876157912392 -71.8382898701382,42.2958051059979 -71.8507734873981,42.2979381963681 -71.8540238967804,42.2897486083461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">87</SimpleData>
+		<SimpleData name="Pop Density">1248.30354826004</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">8.01</SimpleData>
+		<SimpleData name="Social Businesses">8.01</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">18</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">5</SimpleData>
+		<SimpleData name="(%) White">82</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">7</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8415418117291,42.2876157912392 -71.8290605828977,42.2854818938944 -71.8258071094288,42.293670935281 -71.8382898701382,42.2958051059979 -71.8415418117291,42.2876157912392</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">88</SimpleData>
+		<SimpleData name="Pop Density">1830.21578907664</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">26</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">4</SimpleData>
+		<SimpleData name="(%) White">74</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8290605828977,42.2854818938944 -71.8165802106306,42.2833469164168 -71.8133252056145,42.291535684323 -71.8258071094288,42.293670935281 -71.8290605828977,42.2854818938944</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">89</SimpleData>
+		<SimpleData name="Pop Density">2229.69006498913</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">4.48</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">17.94</SimpleData>
+		<SimpleData name="Parks">8.97</SimpleData>
+		<SimpleData name="(%) Non-White">43</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">16</SimpleData>
+		<SimpleData name="(%) White">57</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8165802106306,42.2833469164168 -71.8041006952724,42.2812108589116 -71.8008441590398,42.2893993532288 -71.8133252056145,42.291535684323 -71.8165802106306,42.2833469164168</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">90</SimpleData>
+		<SimpleData name="Pop Density">4908.23073798544</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">2.04</SimpleData>
+		<SimpleData name="Parks">6.11</SimpleData>
+		<SimpleData name="(%) Non-White">60</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">40</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">35</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8041006952724,42.2812108589116 -71.7916220371671,42.2790737214839 -71.788363970049,42.2872619421037 -71.8008441590398,42.2893993532288 -71.8041006952724,42.2812108589116</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">91</SimpleData>
+		<SimpleData name="Pop Density">6405.0312401152</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">6.25</SimpleData>
+		<SimpleData name="(%) Non-White">56</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">14</SimpleData>
+		<SimpleData name="(%) White">44</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">36</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7916220371671,42.2790737214839 -71.779144236659,42.276935504239 -71.7758846389865,42.2851234510532 -71.788363970049,42.2872619421037 -71.7916220371671,42.2790737214839</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">92</SimpleData>
+		<SimpleData name="Pop Density">304.609142980026</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">98.49</SimpleData>
+		<SimpleData name="Places of Worship">32.83</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">65.66</SimpleData>
+		<SimpleData name="(%) Non-White">37</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">19</SimpleData>
+		<SimpleData name="(%) White">63</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">18</SimpleData>
+		<SimpleData name="(%) Asian">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.779144236659,42.276935504239 -71.7666672940918,42.2747962072822 -71.763406166196,42.2829838801824 -71.7758846389865,42.2851234510532 -71.779144236659,42.276935504239</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">93</SimpleData>
+		<SimpleData name="Pop Density">1217.71663537348</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">8.21</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">8.21</SimpleData>
+		<SimpleData name="Parks">16.42</SimpleData>
+		<SimpleData name="(%) Non-White">44</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">56</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7666672940918,42.2747962072822 -71.7541912098094,42.2726558307186 -71.7509285520215,42.2808432295967 -71.763406166196,42.2829838801824 -71.7666672940918,42.2747962072822</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">94</SimpleData>
+		<SimpleData name="Pop Density">250.321769623694</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">12</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">3</SimpleData>
+		<SimpleData name="(%) White">88</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">3</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8632579608636,42.3000702062869 -71.8507734873981,42.2979381963681 -71.8475222218102,42.3061276821869 -71.8600082281599,42.3082599653716 -71.8632579608636,42.3000702062869</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">95</SimpleData>
+		<SimpleData name="Pop Density">1386.72014227062</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">19</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">5</SimpleData>
+		<SimpleData name="(%) White">81</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">7</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8507734873981,42.2979381963681 -71.8382898701382,42.2958051059979 -71.8350370719969,42.303994318442 -71.8475222218102,42.3061276821869 -71.8507734873981,42.2979381963681</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">96</SimpleData>
+		<SimpleData name="Pop Density">1735.01922218314</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">11.53</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">23</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">77</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">6</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8382898701382,42.2958051059979 -71.8258071094288,42.293670935281 -71.8225527790647,42.301859874242 -71.8350370719969,42.303994318442 -71.8382898701382,42.2958051059979</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">97</SimpleData>
+		<SimpleData name="Pop Density">1880.94251829712</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">16</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">5</SimpleData>
+		<SimpleData name="(%) White">84</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8258071094288,42.293670935281 -71.8133252056145,42.291535684323 -71.8100693433586,42.2997243496921 -71.8225527790647,42.301859874242 -71.8258071094288,42.293670935281</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">98</SimpleData>
+		<SimpleData name="Pop Density">2712.66268701024</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.69</SimpleData>
+		<SimpleData name="Social Businesses">7.37</SimpleData>
+		<SimpleData name="Parks">7.37</SimpleData>
+		<SimpleData name="(%) Non-White">41</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">15</SimpleData>
+		<SimpleData name="(%) White">59</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">18</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8133252056145,42.291535684323 -71.8008441590398,42.2893993532288 -71.7975867652232,42.2975877448978 -71.8100693433586,42.2997243496921 -71.8133252056145,42.291535684323</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">99</SimpleData>
+		<SimpleData name="Pop Density">1538.96251052717</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">6.5</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">6.5</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">16</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8008441590398,42.2893993532288 -71.788363970049,42.2872619421037 -71.7851050450028,42.2954500599642 -71.7975867652232,42.2975877448978 -71.8008441590398,42.2893993532288</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">100</SimpleData>
+		<SimpleData name="Pop Density">1440.42761518538</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">13.88</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.788363970049,42.2872619421037 -71.7758846389865,42.2851234510532 -71.7726241830418,42.2933112949966 -71.7851050450028,42.2954500599642 -71.788363970049,42.2872619421037</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">101</SimpleData>
+		<SimpleData name="Pop Density">1748.82785549135</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">17.15</SimpleData>
+		<SimpleData name="(%) Non-White">34</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">66</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7758846389865,42.2851234510532 -71.763406166196,42.2829838801824 -71.7601441796842,42.2911714501006 -71.7726241830418,42.2933112949966 -71.7758846389865,42.2851234510532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">102</SimpleData>
+		<SimpleData name="Pop Density">1860.82477874568</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">38</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">62</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.763406166196,42.2829838801824 -71.7509285520215,42.2808432295967 -71.747665035274,42.2890305253813 -71.7601441796842,42.2911714501006 -71.763406166196,42.2829838801824</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">103</SimpleData>
+		<SimpleData name="Pop Density">1924.19211981516</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">34</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">12</SimpleData>
+		<SimpleData name="(%) White">66</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">4</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8475222218102,42.3061276821869 -71.8350370719969,42.303994318442 -71.8317834169742,42.3121834287032 -71.844270099686,42.314317065934 -71.8475222218102,42.3061276821869</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">104</SimpleData>
+		<SimpleData name="Pop Density">1909.74810128796</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">5.24</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">27</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">73</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">8</SimpleData>
+		<SimpleData name="(%) Asian">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8350370719969,42.303994318442 -71.8225527790647,42.301859874242 -71.8192975914746,42.3100487109088 -71.8317834169742,42.3121834287032 -71.8350370719969,42.303994318442</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">105</SimpleData>
+		<SimpleData name="Pop Density">1267.01102395156</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">7.89</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">7.89</SimpleData>
+		<SimpleData name="(%) Non-White">25</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">75</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">11</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8225527790647,42.301859874242 -71.8100693433586,42.2997243496921 -71.8068126235322,42.307912912656 -71.8192975914746,42.3100487109088 -71.8225527790647,42.301859874242</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">106</SimpleData>
+		<SimpleData name="Pop Density">2132.69444903485</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">14.07</SimpleData>
+		<SimpleData name="Social Businesses">4.69</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">17</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8100693433586,42.2997243496921 -71.7975867652232,42.2975877448978 -71.7943285134915,42.3057760340502 -71.8068126235322,42.307912912656 -71.8100693433586,42.2997243496921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">107</SimpleData>
+		<SimpleData name="Pop Density">2714.94281172341</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">3.68</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">31</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">69</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7975867652232,42.2975877448978 -71.7851050450028,42.2954500599642 -71.7818452616972,42.3036380751966 -71.7943285134915,42.3057760340502 -71.7975867652232,42.2975877448978</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">108</SimpleData>
+		<SimpleData name="Pop Density">3255.38796924586</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">6.14</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">49</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">22</SimpleData>
+		<SimpleData name="(%) White">51</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">22</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7851050450028,42.2954500599642 -71.7726241830418,42.2933112949966 -71.7693628684936,42.3014990362007 -71.7818452616972,42.3036380751966 -71.7851050450028,42.2954500599642</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">109</SimpleData>
+		<SimpleData name="Pop Density">1420.71968523037</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">14.08</SimpleData>
+		<SimpleData name="Places of Worship">21.12</SimpleData>
+		<SimpleData name="Social Businesses">14.08</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">57</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">20</SimpleData>
+		<SimpleData name="(%) White">43</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">24</SimpleData>
+		<SimpleData name="(%) Asian">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7726241830418,42.2933112949966 -71.7601441796842,42.2911714501006 -71.7568813342249,42.2993589171679 -71.7693628684936,42.3014990362007 -71.7726241830418,42.2933112949966</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">110</SimpleData>
+		<SimpleData name="Pop Density">296.325092958637</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">3</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">24</SimpleData>
+		<SimpleData name="(%) Asian">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7601441796842,42.2911714501006 -71.747665035274,42.2890305253813 -71.7444006592352,42.2972177182037 -71.7568813342249,42.2993589171679 -71.7601441796842,42.2911714501006</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">111</SimpleData>
+		<SimpleData name="Pop Density">1138.00548575524</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">12</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">3</SimpleData>
+		<SimpleData name="(%) White">88</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">4</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.844270099686,42.314317065934 -71.8317834169742,42.3121834287032 -71.8285289047393,42.3203724369132 -71.8410171206945,42.322506347741 -71.844270099686,42.314317065934</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">112</SimpleData>
+		<SimpleData name="Pop Density">1533.12728795711</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">23</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">77</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8317834169742,42.3121834287032 -71.8192975914746,42.3100487109088 -71.8160415463274,42.3182374454131 -71.8285289047393,42.3203724369132 -71.8317834169742,42.3121834287032</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">113</SimpleData>
+		<SimpleData name="Pop Density">1418.9633488647</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">7.05</SimpleData>
+		<SimpleData name="(%) Non-White">25</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">75</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">10</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8192975914746,42.3100487109088 -71.8068126235322,42.307912912656 -71.8035550458038,42.316101373346 -71.8160415463274,42.3182374454131 -71.8192975914746,42.3100487109088</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">114</SimpleData>
+		<SimpleData name="Pop Density">2097.87751556</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">9.53</SimpleData>
+		<SimpleData name="Places of Worship">9.53</SimpleData>
+		<SimpleData name="Social Businesses">4.77</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">39</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper Middle (38-46%)</SimpleData>
+		<SimpleData name="(%) Black">17</SimpleData>
+		<SimpleData name="(%) White">61</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8068126235322,42.307912912656 -71.7943285134915,42.3057760340502 -71.7910694035134,42.3139642208173 -71.8035550458038,42.316101373346 -71.8068126235322,42.307912912656</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">115</SimpleData>
+		<SimpleData name="Pop Density">2809.27132601334</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">28</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">8</SimpleData>
+		<SimpleData name="(%) White">72</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">11</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7943285134915,42.3057760340502 -71.7818452616972,42.3036380751966 -71.7785846198008,42.3118259879323 -71.7910694035134,42.3139642208173 -71.7943285134915,42.3057760340502</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">116</SimpleData>
+		<SimpleData name="Pop Density">3801.61714361675</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">5.26</SimpleData>
+		<SimpleData name="Places of Worship">2.63</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">55</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">18</SimpleData>
+		<SimpleData name="(%) White">45</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">32</SimpleData>
+		<SimpleData name="(%) Asian">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7818452616972,42.3036380751966 -71.7693628684936,42.3014990362007 -71.7661006950104,42.3096866747966 -71.7785846198008,42.3118259879323 -71.7818452616972,42.3036380751966</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">117</SimpleData>
+		<SimpleData name="Pop Density">4998.21750908049</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Upper Middle</SimpleData>
+		<SimpleData name="Community Spaces">4</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">2</SimpleData>
+		<SimpleData name="(%) Non-White">73</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">18</SimpleData>
+		<SimpleData name="(%) White">27</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">46</SimpleData>
+		<SimpleData name="(%) Asian">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7693628684936,42.3014990362007 -71.7568813342249,42.2993589171679 -71.7536176294866,42.3075462815157 -71.7661006950104,42.3096866747966 -71.7693628684936,42.3014990362007</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">118</SimpleData>
+		<SimpleData name="Pop Density">1224.11066187071</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">19</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">81</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">7</SimpleData>
+		<SimpleData name="(%) Asian">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8285289047393,42.3203724369132 -71.8160415463274,42.3182374454131 -71.8127846432918,42.3264260778864 -71.825273534961,42.3285613432036 -71.8285289047393,42.3203724369132</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">119</SimpleData>
+		<SimpleData name="Pop Density">1122.79577093761</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">8.91</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">17.81</SimpleData>
+		<SimpleData name="(%) Non-White">30</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">70</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8160415463274,42.3182374454131 -71.8035550458038,42.316101373346 -71.8002966098424,42.3242897318936 -71.8127846432918,42.3264260778864 -71.8160415463274,42.3182374454131</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">120</SimpleData>
+		<SimpleData name="Pop Density">2808.27055961418</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">3.56</SimpleData>
+		<SimpleData name="Places of Worship">3.56</SimpleData>
+		<SimpleData name="Social Businesses">7.12</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">34</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">12</SimpleData>
+		<SimpleData name="(%) White">66</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8035550458038,42.316101373346 -71.7910694035134,42.3139642208173 -71.7878094349576,42.3221523053306 -71.8002966098424,42.3242897318936 -71.8035550458038,42.316101373346</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">121</SimpleData>
+		<SimpleData name="Pop Density">2531.69949917968</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">28</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">72</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">9</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7910694035134,42.3139642208173 -71.7785846198008,42.3118259879323 -71.7753231189822,42.3200137983029 -71.7878094349576,42.3221523053306 -71.7910694035134,42.3139642208173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">122</SimpleData>
+		<SimpleData name="Pop Density">1597.76567211598</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">12.52</SimpleData>
+		<SimpleData name="Places of Worship">6.26</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">6.26</SimpleData>
+		<SimpleData name="(%) Non-White">47</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Upper (46-73%)</SimpleData>
+		<SimpleData name="(%) Black">12</SimpleData>
+		<SimpleData name="(%) White">53</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">27</SimpleData>
+		<SimpleData name="(%) Asian">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7785846198008,42.3118259879323 -71.7661006950104,42.3096866747966 -71.7628376622607,42.317874210916 -71.7753231189822,42.3200137983029 -71.7785846198008,42.3118259879323</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">123</SimpleData>
+		<SimpleData name="Pop Density">1466.89495483995</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">32</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">10</SimpleData>
+		<SimpleData name="(%) White">68</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">15</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8127846432918,42.3264260778864 -71.8002966098424,42.3242897318936 -71.7970373153162,42.3324779884304 -71.8095268820365,42.3346146084604 -71.8127846432918,42.3264260778864</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">124</SimpleData>
+		<SimpleData name="Pop Density">2531.39100346557</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lower Middle</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">3.95</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">35</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">65</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8002966098424,42.3242897318936 -71.7878094349576,42.3221523053306 -71.7845486074923,42.3303402877217 -71.7970373153162,42.3324779884304 -71.8002966098424,42.3242897318936</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">125</SimpleData>
+		<SimpleData name="Pop Density">513.397133164434</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">16</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">84</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">12</SimpleData>
+		<SimpleData name="(%) Asian">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7878094349576,42.3221523053306 -71.7753231189822,42.3200137983029 -71.7720607589095,42.3282015064396 -71.7845486074923,42.3303402877217 -71.7878094349576,42.3221523053306</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">126</SimpleData>
+		<SimpleData name="Pop Density">1019.51433350637</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">24</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">7</SimpleData>
+		<SimpleData name="(%) White">76</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">14</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7753231189822,42.3200137983029 -71.7628376622607,42.317874210916 -71.7595737699126,42.3260616446899 -71.7720607589095,42.3282015064396 -71.7753231189822,42.3200137983029</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">127</SimpleData>
+		<SimpleData name="Pop Density">1006.27037537627</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">27</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">13</SimpleData>
+		<SimpleData name="(%) White">73</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">4</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.8095268820365,42.3346146084604 -71.7970373153162,42.3324779884304 -71.7937771618938,42.3406661430881 -71.8062682622298,42.3428030372667 -71.8095268820365,42.3346146084604</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">128</SimpleData>
+		<SimpleData name="Pop Density">1970.39788965819</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">10.15</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">37</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lower Middle (29-37%)</SimpleData>
+		<SimpleData name="(%) Black">15</SimpleData>
+		<SimpleData name="(%) White">63</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7970373153162,42.3324779884304 -71.7845486074923,42.3303402877217 -71.7812869207858,42.3385281681221 -71.7937771618938,42.3406661430881 -71.7970373153162,42.3324779884304</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">129</SimpleData>
+		<SimpleData name="Pop Density">1208.67735404532</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">27</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">9</SimpleData>
+		<SimpleData name="(%) White">73</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">8</SimpleData>
+		<SimpleData name="(%) Asian">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7845486074923,42.3303402877217 -71.7720607589095,42.3282015064396 -71.768797539251,42.3363891124742 -71.7812869207858,42.3385281681221 -71.7845486074923,42.3303402877217</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tally1km">
+		<SimpleData name="cell">130</SimpleData>
+		<SimpleData name="Pop Density">1374.3573795797</SimpleData>
+		<SimpleData name="Pop Density (Quartiles)">Lowest</SimpleData>
+		<SimpleData name="Community Spaces">0</SimpleData>
+		<SimpleData name="Places of Worship">0</SimpleData>
+		<SimpleData name="Social Businesses">0</SimpleData>
+		<SimpleData name="Parks">0</SimpleData>
+		<SimpleData name="(%) Non-White">20</SimpleData>
+		<SimpleData name="(%) Non-White (Quartiles)">Lowest (9-28%)</SimpleData>
+		<SimpleData name="(%) Black">6</SimpleData>
+		<SimpleData name="(%) White">80</SimpleData>
+		<SimpleData name="(%) Hispanic/Latino">13</SimpleData>
+		<SimpleData name="(%) Asian">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.7937771618938,42.3406661430881 -71.7812869207858,42.3385281681221 -71.7780243745062,42.3467159466635 -71.7905161492431,42.3488541959984 -71.7937771618938,42.3406661430881</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

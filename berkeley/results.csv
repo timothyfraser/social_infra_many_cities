@@ -1,0 +1,522 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ_____-B-hYARkH8qFkVlQZA,Marian Koshland Bioscience & Natural Resources Library,37.87141159999999,-122.2621114,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ__-_ciV8hYARxgPm1ycRiEQ,Jean Gray Hargrove Music Library,37.8704442,-122.2561865,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,10,NA
+ChIJ__-_HfN-hYARDfJkROsybIw,Sustainable Berkeley,37.8568896,-122.2898814,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ_2K_soB-hYARHmgdRdpFdyo,Berkeley Public Library - Tarea Hall Pittman South Branch,37.856408,-122.2710368,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,32,NA
+ChIJ_5wULsV_hYAR5dRWdsv6rfU,Cafe Buenos Aires,37.8397169,-122.2889474,Social Business,cafe,cafe; meal_delivery; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,5,14,NA
+ChIJ_6JaFLR9hYARUcNoe6qJk3k,Garber Park,37.8621779,-122.2363179,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,56,NA
+ChIJ_QcUrnt-hYARnMwcHCIodYo,Urban Grace,37.8482468,-122.273344,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_QWxKQR5hYAReQ1zpKZYGms,El Cerrito Chinese Christian Church,37.909605,-122.301431,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ-_-nizF5hYARTk4x8fM8JHY,Royal Ground Coffee,37.8905143,-122.2979323,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,103,NA
+ChIJ-_-nizF5hYARTk4x8fM8JHY,Royal Ground Coffee,37.8905143,-122.2979323,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.4,103,NA
+ChIJ-_-nizF5hYARTk4x8fM8JHY,Royal Ground Coffee,37.8905143,-122.2979323,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,103,NA
+ChIJ-_gLg_N-hYARsQmkVFJ8cKQ,Gardensia,37.8546933,-122.2915722,Park,garden,park; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJ-_gLg_N-hYARsQmkVFJ8cKQ,Gardensia,37.8546933,-122.2915722,Park,garden,furniture_store; park; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,5,7,NA
+ChIJ-_v7YNt-hYARq99IQn5vrzg,Books Inc.,37.8803869,-122.2690449,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,152,NA
+ChIJ-_v7YNt-hYARq99IQn5vrzg,Books Inc.,37.8803869,-122.2690449,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,152,NA
+ChIJ--ihH31-hYARmvC_NIS2GfY,Prince Street Mini-Park,37.8521253,-122.275228,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,34,NA
+ChIJ-8C38xV_hYARijYl96DUEu8,Portal Community Center,37.853575,-122.2689315,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-fkJ1Vt5hYARGdKuY5XoLIg,Iglesia presbiteriana hispana,37.9063137,-122.2950177,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-RSPFll-hYAR8dI8CM6T7dI,Espresso Roma,37.8469815,-122.2911639,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ-YUm6jN5hYARJpEmnOhkRpo,Suzette Crêpe Café,37.8903797,-122.2950146,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.5,220,NA
+ChIJ-YUm6jN5hYARJpEmnOhkRpo,Suzette Crêpe Café,37.8903797,-122.2950146,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,220,NA
+ChIJ-Z7E9TF5hYARVS7aGYr5A7g,Rendez-Vous Café Bistro,37.890568,-122.298505,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,264,NA
+ChIJ-zXYu_B_hYARfZUk4VhCrn4,Heritage Square,37.8421116,-122.2902554,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ03nVbwJ5hYARv1JYOGS8N_E,Tala Coffee & Tea,37.9137858,-122.3092917,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,116,NA
+ChIJ0acevi58hYARWbsFtrpCPHI,Romeo's Coffee,37.8653361,-122.2583532,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,228,NA
+ChIJ0acevi58hYARWbsFtrpCPHI,Romeo's Coffee,37.8653361,-122.2583532,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.3,228,NA
+ChIJ0f8wxDJ5hYARxFfWTvTQ2Qo,San Pablo Av & Marin Av (Albany City Hall),37.886486,-122.2976044,Community Space,city hall,bus_station; transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ1cV6QId-hYARtyz1gUKRa-U,Grove Park,37.8563865,-122.2723007,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,208,NA
+ChIJ1Rpga2p9hYARgmlzMSklkmk,Baker & Commons,37.8583609,-122.253348,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,174,NA
+ChIJ1W4sfmx5hYARGVP6gSvBQpI,Blake Garden UC Berkeley,37.9135894,-122.2847949,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,153,NA
+ChIJ1Xw6Kxp8hYAR91LoHt4Wl7g,Camaldolese Hermits,37.8840852,-122.256826,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJ1zf9HjN5hYARQpAS0M0a_Is,Berkeley Zion (Korean) Presbyterian Church 버클리 시온장로교회,37.906313,-122.2950209,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJ2-4gaRp5hYARpemytHrj_mg,Well Grounded Tea & Coffee Bar,37.9102161,-122.3005508,Social Business,cafe,liquor_store; bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,169,NA
+ChIJ2-Hpf3N_hYARyCUJXid9X5o,Walnut Square,37.8799851,-122.2683796,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ20e56JR-hYARezDFlleSt_s,Strawberry Creek Park,37.8670771,-122.2862145,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,437,NA
+ChIJ26lwQbB-hYARGdm6-Xj0EwE,King School Park,37.8828441,-122.2782996,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,58,NA
+ChIJ30T4jEp5hYAR-yL2sN87yTs,Christian Witness Institute,37.8910775,-122.2867655,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ35RE_GJ_hYAR0IuOJT05Gtk,decay college,37.8424329,-122.2672979,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ36QTqG15hYARXDutm_nFb44,Great Stoneface Park,37.8967605,-122.2783335,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJ36YslhB5hYARHZ7v-F3QrBg,Mira Vista United Church of Christ,37.91047,-122.2985345,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ36YslhB5hYARLQvg-FaKpzs,Christ Lutheran Church,37.9104399,-122.2984873,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJ3ST051d-hYARsKXjY_y-9CI,Point Emery,37.8464432,-122.3003798,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,301,NA
+ChIJ3YjYqhJ8hYARXNbly3BB8vw,Regional Parks Botanic Garden,37.8928366,-122.2426629,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,304,NA
+ChIJ3YjYqhJ8hYARXNbly3BB8vw,Regional Parks Botanic Garden,37.8928366,-122.2426629,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,304,NA
+ChIJ3Zwm3kp5hYARYiwCCr3swnQ,Shans' Groundwater,37.890562,-122.2856081,Social Business,bookstore,book_store; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ4-0j0Oh-hYAR_rDr6cfh-N4,CoRo Coffee Room,37.8624991,-122.2972602,Social Business,cafe,cafe; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.7,82,NA
+ChIJ41Cxgel-hYARD9rYxKgUNgs,Rosa Parks School Park,37.8654863,-122.293944,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,17,NA
+ChIJ41kQeyF8hYARwcdepzgBPbc,Northside Cafe.,37.8751951,-122.260339,Social Business,cafe,cafe; restaurant; point_of_interest; store; food; establishment,OPERATIONAL,4.1,211,NA
+ChIJ4cCHgex-hYARbI0v9SiCCkw,East Bay Nursery,37.8641404,-122.2907738,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.5,156,NA
+ChIJ4cCHgex-hYARbI0v9SiCCkw,East Bay Nursery,37.8641404,-122.2907738,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.5,156,NA
+ChIJ4QpNLDJ5hYARvR-qyKvckyM,Eunice Gourmet Café,37.8902609,-122.296755,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,68,NA
+ChIJ4UNH4ph-hYARrMRu-UJx31I,Gold Leaf Cafe,37.8719212,-122.2728967,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,74,NA
+ChIJ4yc_D1N5hYAR2Yjc_SvNnoM,John Hinkel Park,37.8953691,-122.2728324,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,107,NA
+ChIJ4YrCpDR5hYAR4L3NMDT7iGE,Albany Library,37.8879693,-122.2929898,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,59,NA
+ChIJ52Pm5Zx-hYARFJSVxlIWIuM,Square One Management,37.8674192,-122.268315,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,3.6,33,NA
+ChIJ550A5RZ8hYARe0oDu0mH9Rw,Terrace View Park,37.88414460000001,-122.2507376,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,35,NA
+ChIJ5RaiW7B5hYARy4p8fOxhAss,Hal's Parklet,37.8905069,-122.2959863,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5SFCj1x-hYARzzpbrWEaK5I,Peet's Coffee,37.841617,-122.293626,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,394,NA
+ChIJ5V4u1UJ-hYAREw4Lnviwvdk,Polaris Cafe,37.8401401,-122.2907646,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,64,NA
+ChIJ5VvX8Nh9hYARkIMJqZ1C0DU,Bushrod Park,37.8454589,-122.2635231,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,338,NA
+ChIJ60Z0osl9hYAR6QTO2zh9JPc,John Muir School Park,37.8576889,-122.2449159,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,8,NA
+ChIJ671XqJ5-hYARRomHeZwRmkc,Nuha's Cafe,37.87036740000001,-122.2704781,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.9,17,NA
+ChIJ6e5lMaF-hYARHud8rn6osIc,Epicurious Garden,37.8798128,-122.2690504,Park,garden,meal_takeaway; grocery_or_supermarket; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.6,20,NA
+ChIJ6e5lMaF-hYARHud8rn6osIc,Epicurious Garden,37.8798128,-122.2690504,Park,garden,grocery_or_supermarket; meal_takeaway; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,20,NA
+ChIJ6eznJZd-hYARnJM9fx2l6t8,Presentation Park,37.8682364,-122.2791087,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,34,NA
+ChIJ6Vcw8X5-hYARLAh21rc8JJA,Zing Cafe,37.8535935,-122.2691658,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,89,NA
+ChIJ6Wpo8LN_hYARzn-9xnOevl0,UC Village Park,37.8842174,-122.302034,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ6x6F-SF_hYARZwzBYuu1Bvs,Shorebird Park Nature Center,37.8616236,-122.3162801,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,638,NA
+ChIJ6XDDULl-hYAR9MTUGUTlUGg,Berkeley Friends Church,37.8763845,-122.2829946,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,9,NA
+ChIJ6XjgMVd_hYARAevz9AGom9k,Karl Linn Community Garden,37.8782546,-122.2885954,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ7_YgsCV8hYARBreZ04Yc3N8,Ethnic Studies Library,37.8713614,-122.2575924,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ70mt0xF5hYARE_dvKJ6xNkY,Souvenir Coffee Co.,37.8902095,-122.2981434,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.8,58,NA
+ChIJ70mt0xF5hYARE_dvKJ6xNkY,Souvenir Coffee Co.,37.8902095,-122.2981434,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,58,NA
+ChIJ70mt0xF5hYARE_dvKJ6xNkY,Souvenir Coffee Co.,37.8902095,-122.2981434,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,58,NA
+ChIJ718p2gp_hYARBBny_oK-BnU,The Sacred Hoop Garden,37.8904678,-122.276416,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ72TAapt-hYAR0pwDDZy3JXw,The Bridge Church,37.8644432,-122.2726964,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,13,NA
+ChIJ7aTVrPN-hYAR4BoxYFP3vrs,Garden Architecture,37.856623,-122.291432,Park,garden,park; general_contractor; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJ7aTVrPN-hYAR4BoxYFP3vrs,Garden Architecture,37.856623,-122.291432,Park,garden,park; point_of_interest; general_contractor; establishment,OPERATIONAL,4.2,5,NA
+ChIJ7zgaSSl9hYARFoyCo1D9fyA,Sleepy Cat Books,37.8648909,-122.2581882,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.9,59,NA
+ChIJ7zgaSSl9hYARFoyCo1D9fyA,Sleepy Cat Books,37.8648909,-122.2581882,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,59,NA
+ChIJ89n3Ln9-hYARQmCjRBIbKy0,All Nations Church-Christ Hlnss,37.852391,-122.2676994,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ8R1khDt8hYARu_tQOctkgyU,"LBNL Cafeteria, Bay View Cafe",37.8759944,-122.2508972,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.8,139,NA
+ChIJ8RExZ0R_hYARL-QAvHa-Chg,BAM poetry garden,37.8770643,-122.2711463,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8SjoYYt9hYAR8B3WmjqBF5s,First Church of Christ Scientist,37.8657859,-122.2558028,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,14,NA
+ChIJ9--VFjN5hYAR2Hjkcp61O_Q,Wild Sage Gardens,37.8877571,-122.2954415,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ91fiUyt5hYARh_qJ42D8wvs,University Village Community Garden,37.8836923,-122.3056139,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.7,7,NA
+ChIJ94NcKWd-hYARbElr0bsmnAM,"PLACE - Community Center, Makerspace & Permaculture Site",37.8462171,-122.2855292,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,17,NA
+ChIJ95BDMfJ-hYARpUsCeF9CcwM,Nina's Cafe,37.8565462,-122.2926593,Social Business,cafe,cafe; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,53,NA
+ChIJ95BDMfJ-hYARpUsCeF9CcwM,Nina's Cafe,37.8565462,-122.2926593,Social Business,cafe,cafe; meal_takeaway; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.4,53,NA
+ChIJ97bYKdJ9hYARoba7XzkJ6hU,Bateman Park,37.8554508,-122.256435,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,17,NA
+ChIJ98p_Rot-hYARlMX_zC2oc4A,First Evangelical Baptist Church,37.854615,-122.2872892,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ99dStch9hYARxgnDWIpkMAs,The Escapist Comic Bookstore,37.8544321,-122.2485696,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,128,NA
+ChIJ9b5ZVi98hYARYVnKSCctYFE,Cal Student Store,37.8692999,-122.2595139,Social Business,bookstore,clothing_store; book_store; store; point_of_interest; establishment,OPERATIONAL,4.3,442,NA
+ChIJ9b5ZVi98hYARYVnKSCctYFE,Cal Student Store,37.8692999,-122.2595139,Social Business,bookstore,clothing_store; book_store; point_of_interest; store; establishment,OPERATIONAL,4.3,442,NA
+ChIJ9b72EF5_hYAR4ZftcjHIyRE,EL TINY CAFE,37.8500163,-122.2705863,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,42,NA
+ChIJ9eRavRl_hYAR_ZsJa37Yv-4,Golden Gate Community Garden,37.845607,-122.282239,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ9fMskqZ-hYARXZRJMIFMSdw,Starbucks,37.880779,-122.270055,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.7,71,NA
+ChIJ9WkbGxh5hYARuj2wAy7XcCk,Cerrito Creek Congregation,37.90457809999999,-122.2999358,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ9xYendJ-hYAR18DjU3_k6gU,University Village Recreation Program,37.883491,-122.2993919,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJ9Xz_4ER5hYARDkz-IHZHg14,Kensington Community Center,37.9138342,-122.2806743,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.1,14,NA
+ChIJ9ysO5G15hYARXh97hiVmL1o,Unitarian Universalist Church of Berkeley,37.9178481,-122.2827213,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,26,NA
+ChIJa_wNlaV_hYARnk5BKR2W9pQ,Espresso Roma Cafe,37.8817017,-122.2822679,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,22,NA
+ChIJA-LowZl5hYARXnENsc6tDzE,Christ Central SF - East Bay Campus,37.8925399,-122.2795224,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJA0gQUjR5hYARyU-s73qZZfc,Flowerland Nursery,37.8903972,-122.2914861,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.7,103,NA
+ChIJA0gQUjR5hYARyU-s73qZZfc,Flowerland Nursery,37.8903972,-122.2914861,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.7,103,NA
+ChIJA4Op-ZN_hYARULIT1VwpGpI,Agape Love Sojourners Divine Church of the Holy Monochotomy,37.8489239,-122.2782598,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJa9vo_SV8hYARKlWfsBYS2A0,Multicultural Community Center,37.86915279999999,-122.2593987,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJAcK7wax-hYARYxSnYWfJjTA,Indian Rock Park,37.8921686,-122.2726873,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,1223,NA
+ChIJAe3pMC18hYAROl5VDUkRDpA,Willard Clubhouse Rec Center,37.8605638,-122.2561213,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJAQAwriV8hYARQdxyNG6mnw0,Rosberg International Studies Library,37.8721876,-122.2595194,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJAQDf5H9-hYARlTx-tPekPyA,The Church by the Side of the Road,37.8567375,-122.265894,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJARE7xzJ5hYARER2TEPJyd2o,San Pablo Av & Marin Av (Albany City Hall),37.8864621,-122.2978696,Community Space,city hall,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJATeQ7yd8hYARtIL0y4SiJIg,Career Counseling Library,37.8679323,-122.2644808,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJAXUZGh18hYARe7Uug71u2io,Berkeley Rose Garden,37.8852994,-122.2628894,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,1369,NA
+ChIJayd8KZh-hYARpmVfOXoMr9A,Lutheran Church of the Cross,37.8709043,-122.2762732,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,29,NA
+ChIJaYHARDB8hYARRY9Kq7EU3q0,International House Cafe,37.8696559,-122.2514304,Social Business,cafe,cafe; restaurant; point_of_interest; store; food; establishment,OPERATIONAL,3.9,98,NA
+ChIJAYt4gMZ-hYARyMgp8yrKXpE,Bartavelle Cafe,37.874882,-122.2936321,Social Business,cafe,cafe; bar; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.6,301,NA
+ChIJAYt4gMZ-hYARyMgp8yrKXpE,Bartavelle Cafe,37.874882,-122.2936321,Social Business,cafe,cafe; bar; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.6,301,NA
+ChIJb-_chtp-hYAREU1XpNA2xFQ,Cactus Jungle Nursery and Garden,37.8745219,-122.3017132,Park,garden,point_of_interest; general_contractor; store; establishment,OPERATIONAL,4.5,109,NA
+ChIJb-_chtp-hYAREU1XpNA2xFQ,Cactus Jungle Nursery and Garden,37.8745219,-122.3017132,Park,garden,store; point_of_interest; general_contractor; establishment,OPERATIONAL,4.5,109,NA
+ChIJB-0ytkh8hYARLPEQsVn-oo4,University of California Botanical Garden,37.875145,-122.2387194,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.8,1539,NA
+ChIJB-rhOKZ-hYAR5RzDmRfjJd4,Live Oak Recreation Center,37.8838014,-122.2690907,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,64,NA
+ChIJB-rhOKZ-hYAR5RzDmRfjJd4,Live Oak Recreation Center,37.8838014,-122.2690907,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,64,NA
+ChIJB2FA3Yt-hYAR3MrezJR79Tc,Frances Albrier Community Center,37.8551971,-122.2833095,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,21,NA
+ChIJB3di6Z1-hYARcHgGugsXH5g,Café Rio,37.8703783,-122.2666222,Social Business,cafe,cafe; convenience_store; point_of_interest; store; food; establishment,OPERATIONAL,3.6,22,NA
+ChIJB8C1Zy58hYARFo7n9VwZ4mk,Vedanta Society Berkeley,37.86609079999999,-122.2561247,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,10,NA
+ChIJbbmdjih8hYARB0R7FM5P3kE,Ashby Village,37.8924827,-122.2795968,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.9,14,NA
+ChIJbbVx8Sd8hYARG-HGSJWzlRw,Café Blue Door,37.8679118,-122.2641121,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,161,NA
+ChIJbbVx8Sd8hYARG-HGSJWzlRw,Café Blue Door,37.8679118,-122.2641121,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.3,161,NA
+ChIJbe_v1M9-hYAR69Y3bTwFTnc,"Jeff Maser, Bookseller—ABAA",37.8780423,-122.2992553,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJbe_v1M9-hYAR69Y3bTwFTnc,"Jeff Maser, Bookseller—ABAA",37.8780423,-122.2992553,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,5,1,NA
+ChIJbeufR4B-hYARsH0534OnVbI,Sconehenge Bakery & Cafe,37.8586694,-122.2667667,Social Business,cafe,bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,393,NA
+ChIJbfm6JqZ-hYARKlvdO13O1Lo,Live Oak Park,37.884103,-122.2691889,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,417,NA
+ChIJbR9fK015hYARCwf5IM0pPYc,Peet's Coffee,37.8915722,-122.2792213,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,164,NA
+ChIJBTRjHlN-hYARI4ugONvexwg,Emeryville Crescent State Marine Reserve,37.8370897,-122.3090256,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,25,NA
+ChIJBWwhhyx8hYAR7MA7zKml5x0,Found For Spiritual Freedom,37.8615124,-122.2591698,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJbxm7tj1_hYARNrnonyQ-bk8,Shorebird Park Playground,37.86289310000001,-122.3151241,Park,park,point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJBXOowZl_hYARlyq3_rFQii0,The Hidden Cafe,37.8684254,-122.2869747,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.8,116,NA
+ChIJbXrAy4x-hYARlgUBfS2jW5E,Broom Bush Cafe,37.8567752,-122.2879966,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,289,NA
+ChIJBywXTYV-hYARGABttofKXnI,Becky Temko Tot Park,37.8636709,-122.2759429,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,67,NA
+ChIJC-7-67V-hYARP9V24yFXbbg,Jewel's Terrace Park,37.8850862,-122.286992,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,121,NA
+ChIJC1B3R_1_hYARZO8SEBl1WGY,Oxford Street Parklet,37.8703132,-122.2660673,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJC3GLFF9-hYARcNPCcn7Dk0g,Cafe Zambala,37.84798,-122.2920243,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJC3RGoM1-hYARGtVC65sybmI,The Spot,37.8830654,-122.2976125,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJC4Foux15hYARgLMwPPOpOnc,Huntington Park,37.9078046,-122.308941,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,54,NA
+ChIJc4U-eZ9-hYAR5ih4d-bZpBI,Victory Point Cafe,37.8753638,-122.2686011,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.7,692,NA
+ChIJC9q47yN_hYAR13zbmekLBv4,Horseshoe Park,37.8647464,-122.3173345,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,24,NA
+ChIJcaR8bFl-hYARU_FX9V_5SvU,Starbucks,37.846608,-122.291652,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,267,NA
+ChIJcb-lmkx5hYAR22Zbc7iuaX0,Thousand Oaks Tot Park,37.8923077,-122.2817212,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJcbEY-aB-hYAR9mvXIYF5YUE,Berkeley Worship Service,37.8784443,-122.2677287,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCeoIuHt-hYAR0OZUwj2Gqxk,Alchemy Collective Cafe and Roaster,37.8487166,-122.2724868,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,245,NA
+ChIJcQOdXb1-hYARoCqold8JN0A,Ohlone Park,37.8737618,-122.2716076,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,513,NA
+ChIJcTuHUTR5hYARkHtlWTIsujE,Highwire Coffee Roasters,37.8905596,-122.2913324,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,151,NA
+ChIJcTuHUTR5hYARkHtlWTIsujE,Highwire Coffee Roasters,37.8905596,-122.2913324,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.7,151,NA
+ChIJCVvCmKB-hYARsr-Bjxh06sM,Second Church of Christ Scientist,37.8799435,-122.2656301,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJCzW7iy58hYARTlOV_gLlxW8,People's Park,37.86576489999999,-122.2570668,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.4,499,NA
+ChIJczXJ051-hYAR5ICyF_2JT1g,Juice Appeal,37.8705016,-122.2679614,Park,square,food; point_of_interest; establishment,OPERATIONAL,4.3,52,NA
+ChIJd_JBGyl5hYAR5FH2JqB2cGA,Parking for John Hinkel Park,37.8947639,-122.2735164,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJD-7mfXZ-hYARciJXzbzfeo4,Dover Park,37.8425845,-122.2681782,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,111,NA
+ChIJD-PS45F-hYARB__pvSms_KU,Homemade Cafe,37.8622769,-122.2814496,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,647,NA
+ChIJD-PS45F-hYARB__pvSms_KU,Homemade Cafe,37.8622769,-122.2814496,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,647,NA
+ChIJD4vl2saGj4ARn0SOoD7Nml8,Livingwater Church,37.8611057,-122.252994,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJD5U15zF5hYAR7z32dqnXiE8,Royal Cafe,37.8913595,-122.2990813,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.5,385,TRUE
+ChIJd5Z1iJ5-hYARtFqIrhve_2I,Fantastic Comics,37.8756888,-122.273614,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,139,NA
+ChIJd5Z1iJ5-hYARtFqIrhve_2I,Fantastic Comics,37.8756888,-122.273614,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,139,NA
+ChIJD8k31Kp_hYARlKP6BnNhcOk,Mr.Mopps Children's Books,37.881329,-122.2738514,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.9,31,NA
+ChIJD8k31Kp_hYARlKP6BnNhcOk,Mr.Mopps Children's Books,37.881329,-122.2738514,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,31,NA
+ChIJDalvFgV8hYARpkd98iqNeOA,Grizzly Peak Park,37.8902565,-122.2558618,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,55,NA
+ChIJdSi6NFB-hYAR9KDnqzmsY-8,Square Z Research LLC,37.8376128,-122.3021949,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJdwOuqn5-hYARj0bLYaWu8Zk,Rasa Caffe,37.8510078,-122.2709141,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,237,NA
+ChIJDxmxxml-hYARTW8Bc2N3tkw,Doyle Street Cafe,37.8381838,-122.2869567,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,1005,NA
+ChIJdyMO3Xt-hYARi5XpEuIGQzU,Vault Cafe,37.8494947,-122.2714712,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,396,NA
+ChIJdzqHsV1-hYARA_oQBIAe0bo,Ruby's Cafe,37.8433048,-122.2905977,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,139,NA
+ChIJeehUNqF-hYARmbVCz9ygPko,Yali’s Qualcomm Café,37.8747057,-122.2587518,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.2,15,NA
+ChIJEeIzp-F9hYARAb2PODOZ73k,Mezzo,37.8661778,-122.2588202,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,668,NA
+ChIJeeSywC58hYAR3kMU-ITdTUQ,Moe's Books,37.8655102,-122.2586633,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,772,NA
+ChIJeeSywC58hYAR3kMU-ITdTUQ,Moe's Books,37.8655102,-122.2586633,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,772,NA
+ChIJeeSywC58hYAROCJs5NOBDTM,More Moe's Art & Antiquarian,37.8655351,-122.2586693,Social Business,bookstore,book_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJeeSywC58hYAROCJs5NOBDTM,More Moe's Art & Antiquarian,37.8655351,-122.2586693,Social Business,bookstore,book_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,5,4,NA
+ChIJEYhNGOJ7hYARbLwMRZiTIIk,Tilden Nature Area,37.9146243,-122.2651493,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,1287,NA
+ChIJEyJgr8l-hYARpmHc00www8U,Westbrae Nursery,37.8813725,-122.2907438,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.6,170,NA
+ChIJEyJgr8l-hYARpmHc00www8U,Westbrae Nursery,37.8813725,-122.2907438,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.6,170,NA
+ChIJEyQHw9h9hYAR_wb0vfrapKo,Bushrod Recreation Center,37.84538939999999,-122.2635426,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,52,NA
+ChIJezVrjzJ5hYARrrwGFehstHY,City of Albany,37.8872171,-122.2981882,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2.7,3,NA
+ChIJF4BsiyN8hYARLZ1vIPraljI,Kresge Engineering Library,37.8738432,-122.2583163,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,13,NA
+ChIJF4mLi7B-hYARsCenZQVgkiU,Berkeley Covenant Church,37.8825083,-122.2799651,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJf4qm-T55hYARXaisKUR353g,FatApple's El Cerrito Restaurant and Bakery,37.9041931,-122.2917284,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,687,NA
+ChIJF7zMudx-hYARMGp4dHtwB6k,Builders Booksource,37.8694282,-122.3003508,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,58,NA
+ChIJF7zMudx-hYARMGp4dHtwB6k,Builders Booksource,37.8694282,-122.3003508,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,58,NA
+ChIJf8AznCx_hYARU-638FvvF50,Northside Community Garden,37.8793329,-122.28926,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJfREZl-R5hYARFpQdVR9q1y8,Grave site Ida M & John L Lloyd,37.9107618,-122.2865019,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJFSdULE15hYARj54fRUioqyA,Fern's Garden,37.8916339,-122.2790794,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,15,NA
+ChIJFTWqXi5_hYARimk-cK6Tl_g,César E. Chávez Park,37.8720756,-122.3189663,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,1412,NA
+ChIJFUhqVpl-hYARznadUAreJeU,Berkeley Parks & Recreation,37.8701543,-122.2712312,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJfVEYxy58hYAROvgFvzEwaUk,The Upper Room Prayer House,37.8655637,-122.2587518,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJfyBvDzB8hYARa-2_ekvKxf8,Robbins Collection Library,37.8703261,-122.2532869,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJFz0eh0p5hYAROYnzNUCDeok,Solano Junction,37.8911078,-122.2875882,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,207,NA
+ChIJFz0eh0p5hYAROYnzNUCDeok,Solano Junction,37.8911078,-122.2875882,Social Business,cafe,restaurant; food; bar; point_of_interest; establishment,OPERATIONAL,4.3,207,NA
+ChIJFz7zysl-hYARTNShcdeL3gM,Coffee Conscious,37.8811891,-122.2893886,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,159,NA
+ChIJFZLL5s19hYAR-PoPkSWG7yc,Timeless Coffee,37.8568302,-122.2529102,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,270,NA
+ChIJG_gPBSF5hYARZZMuaSIWCjk,Kingstone Bookstore,37.8986102,-122.3075536,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.3,36,NA
+ChIJg-FMmXh-hYARGwqAr35SiIo,Dry Garden Nursery,37.8513476,-122.2657189,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.7,99,NA
+ChIJg-FMmXh-hYARGwqAr35SiIo,Dry Garden Nursery,37.8513476,-122.2657189,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.7,99,NA
+ChIJg-LfEDB8hYARHk_Dyy9VT-k,UC Berkeley School of Law Bookstore,37.8699767,-122.2532914,Social Business,bookstore,book_store; clothing_store; store; point_of_interest; establishment,OPERATIONAL,4.2,6,NA
+ChIJg-LfEDB8hYARHk_Dyy9VT-k,UC Berkeley School of Law Bookstore,37.8699767,-122.2532914,Social Business,bookstore,book_store; clothing_store; point_of_interest; store; establishment,OPERATIONAL,4.2,6,NA
+ChIJG46vIAB5hYAR2AmFg9FnGUA,Moeser Square,37.911103,-122.3079601,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJG4EGsDR5hYARJiXVC1e_NMM,Albany Recreation & Community Services,37.8878963,-122.2931917,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,32,NA
+ChIJG5e13yx8hYARtyq-Kr8-lcQ,Willard Park,37.8610841,-122.2566194,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,429,NA
+ChIJgewSjZV-hYARn0CKPSD6xhU,Fellini Coffeebar,37.8703337,-122.283946,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.5,212,NA
+ChIJgQrHdep-hYARQy6JzSTX_zs,Cafe V,37.8682472,-122.2920656,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJgWCJmCF_hYARJ0wHwov9Gu0,Shorebird Park Stage,37.8632573,-122.315095,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,24,NA
+ChIJGWelA4l-hYARRShfO0hOInA,Spiral Gardens,37.85558,-122.279875,Park,garden,point_of_interest; establishment,OPERATIONAL,4.9,31,NA
+ChIJGxW97Rx8hYARrmWBykD0ryE,Codornices Park,37.8853382,-122.2618439,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,679,NA
+ChIJh_8-SRZ_hYAR3m8csqUNCSw,Old Berkeley City Hall,37.8692479,-122.2731774,Community Space,city hall,point_of_interest; establishment,CLOSED_TEMPORARILY,5,2,TRUE
+ChIJH3qzDFt-hYARdZWwToJiTHc,Comeback Cafe,37.8406186,-122.2951918,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,3.8,12,TRUE
+ChIJh461fct-hYAR1oJ7QYFkAqY,Opal Staniek Tot Lot,37.8845667,-122.29367740000001,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,33,NA
+ChIJh7lo1tF-hYARuaOFDdlSaGI,Cypher Books,37.878289,-122.2997004,Social Business,bookstore,book_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJh7lo1tF-hYARuaOFDdlSaGI,Cypher Books,37.878289,-122.2997004,Social Business,bookstore,book_store; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJH8p_NMh9hYARPOdN5E4qeCk,Oak Park,37.8568769,-122.243675,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,13,NA
+ChIJHalsZa1-hYARgwQOh5vJGAE,Northbrae Community Church,37.8904997,-122.2764244,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJhcW_vWl5hYAR1j9bCyopVXY,El Cerrito Community Center,37.9140986,-122.3025356,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,37,NA
+ChIJHQXpIiR8hYARqKk0ptub3CM,Doe Library,37.8722068,-122.2592367,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,35,NA
+ChIJHRidLjJ5hYARDm61QKNFTMM,Café Raj,37.8902527,-122.2969017,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,283,NA
+ChIJHWgHcZmHhYARSmH3v6fyiIQ,Brazilian Breads,37.891366,-122.282389,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,170,NA
+ChIJHY0xK6F-hYAROOJj2xznDxs,Peet's Coffee,37.8801963,-122.2683931,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,422,NA
+ChIJhyf4pSF8hYARaA4M6AmmaGg,Flora Lamson Hewlett Library,37.8755765,-122.2618611,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJI2lNqdx-hYARlydJnQElo_w,Cafe M,37.8705126,-122.2998267,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,827,NA
+ChIJI2lNqdx-hYARlydJnQElo_w,Cafe M,37.8705126,-122.2998267,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,827,NA
+ChIJi4jZ-aB-hYAR2GR4QPa98zc,Grace North Church,37.878468,-122.2675468,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJI5XYuSV8hYARBEOeAv5FFVM,Howison Philosophy Library,37.8710105,-122.2580614,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,5,3,TRUE
+ChIJI7JbdDJ5hYARfz2pTrIQiAI,Librarians by Design,37.8887842,-122.2988945,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJi8YnBtJ9hYAR_xFnV0yZxxs,Claremont Branch Library,37.8565857,-122.2543403,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,38,NA
+ChIJI9CLWit_hYARNmPKm22i8CY,Park lawn,37.8846668,-122.2694277,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJi9lU8sl9hYAR1szHm59ASPg,Peet's Coffee,37.858707,-122.244069,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,108,NA
+ChIJi9lU8sl9hYAR1szHm59ASPg,Peet's Coffee,37.858707,-122.244069,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,108,NA
+ChIJicH48-9-hYARI-frQdm5OBs,Aquatic Park,37.8596806,-122.2987565,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,425,NA
+ChIJIcMyV71_hYARIP4vdqXHRNM,States Coffee x Bread,37.8681053,-122.2914615,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,43,NA
+ChIJiey2xtR_hYARlO3HJHgq8Jw,Emeryville Greenway Park,37.8392174,-122.2892559,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,4,NA
+ChIJIRKiIqt-hYARK2wAZWNIL1A,Grotto Rock Park,37.8933504,-122.2688385,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,50,NA
+ChIJiS8cyWh-hYAR0sfhv0lImK0,Star Bethel Missionary Baptist,37.8412336,-122.2829284,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,21,NA
+ChIJIVaHFVB-hYAR_LlIEt5g0DU,Why Cook?,37.8381852,-122.3009188,Social Business,cafe,cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.3,37,NA
+ChIJIVg7mSN5hYARmdwV1YQkL50,Square One Yoga El Cerrito,37.8994912,-122.302259,Park,square,gym; health; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJiWTUXC98hYARrmlNLX89GbI,Cafe Milano,37.8686139,-122.2585944,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,279,NA
+ChIJiWTUXC98hYARrmlNLX89GbI,Cafe Milano,37.8686139,-122.2585944,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.2,279,NA
+ChIJIXidATh5hYARp8nuPdgpnC0,Grace Lutheran Church,37.8982262,-122.2884059,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJIYM-Xdd4hYARIJExmpslTMY,Albany State Marine Reserve,37.8923595,-122.3117718,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,64,NA
+ChIJj2bfyp1-hYARo_hf0tIzgS4,Constitution Square,37.869632,-122.2684699,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJj3ZE5Jt-hYAReY-WppHyVDw,Martin Luther King Jr. Civic Center Park,37.8693887,-122.2716234,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,403,NA
+ChIJj51KciZ_hYARzrMbHbnNbzg,ShareNGetty Community Garden,37.8691621,-122.3158818,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJJ5MtD59-hYARB9wKo5dZPwQ,Berkeley Espresso,37.8737349,-122.2687521,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.2,223,NA
+ChIJJ5MtD59-hYARB9wKo5dZPwQ,Berkeley Espresso,37.8737349,-122.2687521,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.2,223,NA
+ChIJJ67V5Jt-hYARh_YUCzPqUsc,Provo Park,37.8693554,-122.2717829,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJ80PtKJ-hYARj41T8k3eG_o,Succulent & Cactus,37.8739564,-122.2764184,Park,garden,point_of_interest; store; establishment,OPERATIONAL,3.9,22,NA
+ChIJJ80PtKJ-hYARj41T8k3eG_o,Succulent & Cactus,37.8739564,-122.2764184,Park,garden,store; point_of_interest; establishment,OPERATIONAL,3.9,22,NA
+ChIJJe5a5i98hYARKF0NeaK-9kM,Caffè Strada,37.869146,-122.254859,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.3,895,NA
+ChIJjeS3JLB-hYARco5Q8dXujdg,King Track and Field,37.8837219,-122.2772356,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,49,NA
+ChIJJWYmKPR9hYARCFDy1EdqL54,Bayview Café,37.8589727,-122.2421553,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,0,0,NA
+ChIJJwze8sF-hYARO6ILB6Szqog,IPC of Berkeley,37.8737,-122.2729604,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJykKP5Z-hYARjt3PP4-UUao,Community Campaign Center,37.8708493,-122.2808516,Community Space,community center,local_government_office; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJJyWPUq1-hYARfJlrGMViqfM,Contra Costa Rock Park,37.8921842,-122.2760667,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,24,NA
+ChIJjzT7KMh_hYARBub0tFNLFyE,Aktivate,37.8581477,-122.2889043,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjZYlxYJ-hYARgM4953brw1U,Royal Ground Coffee,37.8657119,-122.2672666,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.2,215,NA
+ChIJK_rX6GF-hYARkz0jB-xEEKw,Haskell-Mabel Mini-Park,37.851223,-122.2835469,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,30,NA
+ChIJK32Qw1t-hYARtt3jUzFD9Aw,Black Diamond Café,37.8427129,-122.2955946,Social Business,cafe,meal_takeaway; bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,283,NA
+ChIJk4n6ASl8hYARPyZInM0l7cY,Church In Berkeley,37.8654285,-122.2610403,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,25,NA
+ChIJk4nSgJ5-hYARup1wuConx2c,Half Price Books,37.871286,-122.26861,Social Business,bookstore,book_store; electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.6,1215,NA
+ChIJk4nSgJ5-hYARup1wuConx2c,Half Price Books,37.871286,-122.26861,Social Business,bookstore,book_store; electronics_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.6,1215,NA
+ChIJK5iKYFJ5hYARDec-X7hBUAU,Frederick Mini Park,37.8950525,-122.2754464,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,4,NA
+ChIJK79JMwt9hYARoGc34zFt9rM,Palm Açai Café,37.8565611,-122.25289480000001,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,71,NA
+ChIJK7uu3J5-hYARd87MfpWI__E,Presbytery Of San Francisco,37.9063132,-122.2950203,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJk8pUK6F-hYARe6K2d1c5DjA,Walnut Square Optometry,37.8799833,-122.2683054,Park,square,store; point_of_interest; health; establishment,OPERATIONAL,3.5,8,NA
+ChIJk8pUK6F-hYARe6K2d1c5DjA,Walnut Square Optometry,37.8799833,-122.2683054,Park,square,health; point_of_interest; store; establishment,OPERATIONAL,3.5,8,NA
+ChIJk8pUK6F-hYARe6K2d1c5DjA,Walnut Square Optometry,37.8799833,-122.2683054,Park,square,store; health; point_of_interest; establishment,OPERATIONAL,3.5,8,NA
+ChIJkcV6RjR5hYARvu60oYI8Pus,The Church On the Corner,37.8908123,-122.291783,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJKfkdNxp8hYARpgnISTJhqjE,Glendale La Loma Park,37.8850971,-122.2563324,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,45,NA
+ChIJKfuLztN9hYARe7TJS_cjtnU,Ashby Health Science Library,37.8557241,-122.257135,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJkRaIMKB-hYAR8CZPRkiKbR8,Student Organic Garden,37.8766548,-122.2676042,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.7,10,NA
+ChIJKRvZICt5hYARrQFEPsmloz0,Starbucks,37.8827713,-122.3066769,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,3.5,48,NA
+ChIJkSKtNE18hYAR7xmyHnHitrg,Claremont Canyon Regional Preserve,37.8664817,-122.2355778,Park,park,park; tourist_attraction; natural_feature; point_of_interest; establishment,OPERATIONAL,4.8,455,NA
+ChIJKUlWHyB_hYARkOPDw5DoXfY,Cafe Buenos Aires,37.8554935,-122.2663699,Social Business,cafe,bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,146,NA
+ChIJkV0KfiN5hYAR4fIHL7LT0Og,Peet's Coffee,37.898813,-122.301995,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,474,NA
+ChIJkVraKd9-hYARCNcBxhC6irU,McLaughlin Eastshore State Seashore,37.8680408,-122.3088705,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.4,1743,NA
+ChIJkw0LUGV-hYARt5TTnL34N_Q,ORTA Kitchen Garden,37.8798882,-122.3042982,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJKX5_xeh-hYARWnaplTv6toM,CoRo Coffee,37.8625167,-122.2973417,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,61,NA
+ChIJKXajCs59hYAR4SyoSIYQDzk,Far Leaves Tea,37.8582458,-122.2889929,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,107,NA
+ChIJkzj55ah-hYARjAXAMWyP0QM,Children's Community Center,37.886654,-122.269262,Community Space,community center,school; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJl_OLulB9hYAR0sdIyb6kEJE,Ludwig's Fountain,37.8695684,-122.2594772,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJL0EVdup-hYARU-kkP-9o98c,Highwire Coffee Roasters,37.8684204,-122.2917316,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,297,NA
+ChIJL22lHnt-hYARTygEOgoDnuo,Sixty-Third Street Mini-Park,37.8476311,-122.2750034,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,28,NA
+ChIJl2AF9C98hYARKec1ZTLyN7E,Anthropology Library,37.8696838,-122.2553335,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJL2ZWqJh9hYARmG_kifSxKxI,Oakland Hills Fire Memorial Park,37.8500535,-122.2259349,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,73,NA
+ChIJL31AK6d-hYARJVSsr9pFktI,Berkeley Friends Meeting,37.8805219,-122.26791,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,7,NA
+ChIJL6AuhfN-hYAR65VvJ1pdHUc,Fiddlehead Gardens,37.8548294,-122.2914113,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJldte5r9-hYARHsn6HrSChh0,Berkeley Way Mini-Park,37.8703569,-122.2869046,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,32,NA
+ChIJLe7Ygbh-hYARjUO_bVoDEXo,Cedar Rose Park,37.876679,-122.28817,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,343,NA
+ChIJLfOdgXh-hYARBJT5wWMaGGg,Nomad Cafe,37.8505031,-122.2656767,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,255,NA
+ChIJLfV3CJx-hYARnIoaGUO0oOg,Berkeley City Hall,37.8694612,-122.2708857,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJLQEuWdd4hYARxmaYN-dNlYg,Albany Waterfront Trail,37.8895603,-122.3169143,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,51,NA
+ChIJlQO0qTd5hYARCUIaFVMVxP8,Memorial Park,37.8958946,-122.2905534,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,421,NA
+ChIJLR1CtDp8hYARVe4Q0zJ9ygQ,Cafe Think,37.8723299,-122.2542051,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.1,75,NA
+ChIJlR5fQ_F7hYARO9bet3eMP3s,Tilden Regional Park,37.8976908,-122.2452468,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,3338,NA
+ChIJLTNewX5-hYARIz4U_qtC7HA,Ada Cafe,37.8526706,-122.2694874,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,38,NA
+ChIJLTu3i8J-hYARHliJ-wfiaZ8,Berkeley Indoor Garden,37.8680149,-122.296746,Park,garden,point_of_interest; establishment,OPERATIONAL,4.7,69,NA
+ChIJLVUAUCV8hYARvXQnG_cbi4w,Environmental Design Library,37.8707352,-122.2548935,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJLwROYjN8hYARNgnDflfWp9g,Grand Court,37.8642492,-122.2485223,Park,square,town_square,NA,NA,NA,NA
+ChIJLYoLFc9-hYAR39X0JN4TJ8c,Sultana Bookstore & More,37.878179,-122.295267,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.9,113,NA
+ChIJLYoLFc9-hYAR39X0JN4TJ8c,Sultana Bookstore & More,37.878179,-122.295267,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,113,NA
+ChIJLZFnmNV_hYARteWkcDrirJc,The Sunny Side Cafe,37.8798335,-122.2688664,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4,6,NA
+ChIJM173pHh-hYAR-cXug1FCZMI,Jump'n Java,37.851752,-122.26587,Social Business,cafe,art_gallery; cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,99,NA
+ChIJM5mXn9x-hYARkOUj0MA2kHU,Peet's Coffee,37.8702242,-122.3009417,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,394,NA
+ChIJM5mXn9x-hYARkOUj0MA2kHU,Peet's Coffee,37.8702242,-122.3009417,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,394,NA
+ChIJM5PKU91-hYARlLkDStOwitY,Catahoula Kaffeegarten,37.866367,-122.2996663,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,149,NA
+ChIJMas23Fl5hYARTr3Bp1W_o20,Shepherd of the Hills Lutheran Church,37.9040009,-122.2692671,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJMbB3FNt-hYAR-FZpf8Lpdxs,Artís Coffee,37.87158489999999,-122.3008875,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,590,NA
+ChIJMbB3FNt-hYAR-FZpf8Lpdxs,Artís Coffee,37.87158489999999,-122.3008875,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,590,NA
+ChIJMx-w1yh8hYARC2Ip1pB1KzE,First Presbyterian Church of Berkeley,37.86601,-122.2606103,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,41,NA
+ChIJmY7BsDp8hYARfG23CBRdZdU,Business Library,37.871465,-122.253445,Community Space,library,library; university; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJmydkM51-hYARJ3pf_ykL_fU,Pegasus Books,37.86653039999999,-122.2673745,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,492,NA
+ChIJmydkM51-hYARJ3pf_ykL_fU,Pegasus Books,37.86653039999999,-122.2673745,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,492,NA
+ChIJmZFYHet-hYAR51J6E0ADRQs,Missionary Church of God in Christ,37.8666663,-122.2902986,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJmZnKH9R9hYARjP4ldzflV8A,Halcyon Commons,37.8540734,-122.261002,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,39,NA
+ChIJn-29E8V9hYARmAezYfXpKBo,Philz Coffee,37.8502307,-122.2522831,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,628,NA
+ChIJn-7Gx6h-hYAR7Nk768NzP68,The Church of Jesus Christ of Latter-day Saints,37.8754078,-122.262874,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJN0JQQsV9hYAR8GKMpZQhEm4,Peet's Coffee,37.851156,-122.252572,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,200,NA
+ChIJn1LkXb1-hYARP2vxDvzdHI4,Ohlone Park playground,37.8727538,-122.2780525,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,53,NA
+ChIJN7gQDSZ8hYARHAQN-zBPmw8,Gender Equity Resource Center (GenEq),37.8696397,-122.260298,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJn8XraJ1-hYARP8O10kW2M0c,King's Comic Books,37.8681292,-122.2662058,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4,6,NA
+ChIJn8XraJ1-hYARP8O10kW2M0c,King's Comic Books,37.8681292,-122.2662058,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4,6,NA
+ChIJN9y5CMB-hYARg4w1tAd3-C8,The Finnish Hall,37.8700701,-122.2882167,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,88,NA
+ChIJNaqF_Ep5hYARZkMBK5b_ML8,Solano-Peralta Park,37.8912828,-122.2855581,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJndQ7LCN5hYARi-xGwRtiW-o,Starbucks,37.9012775,-122.2996244,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,406,NA
+ChIJNQisF8V9hYARc49kZMxujrw,Cole Coffee Café,37.8502346,-122.2525058,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,145,NA
+ChIJNRRYFXl-hYARkZp-xntUQO0,Greg Brown Park,37.850018,-122.2694439,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,12,NA
+ChIJnSlyNM99hYAR_z23O72l_mc,Dark Carnival Imaginative Fiction Bookstore,37.8544472,-122.2484169,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,121,NA
+ChIJNSq9n11-hYARzNZebgDiRPI,Doyle Hollis Park,37.8431397,-122.289313,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,326,NA
+ChIJnTQmcpR-hYARX7xT1PxNj-E,Charlie Dorr Mini Park,37.8664868,-122.2841211,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJNY6tkwF8hYARbk-Crt8jBjQ,Cragmont Rock Park,37.8920762,-122.2637155,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,121,NA
+ChIJNyqmsCZ8hYARUTokYvlOKdU,Media Resources Center,37.872589,-122.2607356,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJnYwK9KWDhYARfzJmP9Rm_88,Exchange Box / Boitre D'Exchange Des Voisins,37.8892359,-122.2782449,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJNYzCQc5-hYARGBR46DtJObM,Philz Coffee,37.8795863,-122.2976581,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,648,NA
+ChIJNYzCQc5-hYARGBR46DtJObM,Philz Coffee,37.8795863,-122.2976581,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,648,NA
+ChIJnZ-CUGl5hYARFef04II89jI,Arlington Community Church,37.9135633,-122.2816139,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,10,NA
+ChIJo0etlS98hYAR069HVLOgqoY,Berkeley Art Museum and Pacific Film Archive Store,37.8709722,-122.2661413,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,3,NA
+ChIJo1_CNa5-hYARKmcoHNh3qao,Berkeley Public Library -- North Branch Library,37.8854563,-122.2754543,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.8,29,NA
+ChIJO60MVcF-hYARx7apz-2Rr3Y,Cafe Leila,37.8725562,-122.2935758,Social Business,cafe,cafe; park; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,777,NA
+ChIJO6AxCZ1-hYARf7mKqDw1Wy0,Palermo Books & Educational Materials - Online Billboard Marketing,37.8684407,-122.2671858,Social Business,bookstore,book_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJO6JfPCV_hYAR-Uhx5nx2jAU,Bancroft Community Garden,37.8651081,-122.2859652,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJoe7XC6F-hYARYIiq13W7xeM,Guerilla Cafe,37.8778963,-122.26923,Social Business,cafe,cafe; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.5,274,NA
+ChIJoe7XC6F-hYARYIiq13W7xeM,Guerilla Cafe,37.8778963,-122.26923,Social Business,cafe,cafe; restaurant; point_of_interest; store; food; establishment,OPERATIONAL,4.5,274,NA
+ChIJoUeXLyp8hYARgwl8KZ1UBko,Sanctuary Berkeley,37.8625117,-122.2633426,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJoUeXLyp8hYARSc2ySoHIG9Q,LIFE Adventist Church of Berkeley,37.862512,-122.2633401,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,23,NA
+ChIJOw9pl5h-hYAR31T_57p8kjI,North Berkeley Senior Center,37.8736888,-122.2728551,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,58,NA
+ChIJowJrg8R-hYARIN5x2_dx5So,James Kenney Community Center,37.87213879999999,-122.2972639,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,127,NA
+ChIJOWpkg0R_hYAR3h2OHu0xyUM,Belmo Café,37.86909050000001,-122.2903097,Social Business,cafe,bakery; cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,98,NA
+ChIJoxBQ9YJ-hYAR1Cs4HD1YtHs,360church,37.8710153,-122.2711567,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJoZpCSCV8hYARAEbWLD-SHhk,The Bancroft Library,37.872222,-122.2591277,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,17,NA
+ChIJOzwjFO1-hYARjAcqR5Xmh-s,Caffè Chiave,37.8609278,-122.2897333,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,272,NA
+ChIJOzwjFO1-hYARjAcqR5Xmh-s,Caffè Chiave,37.8609278,-122.2897333,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,272,NA
+ChIJP-te1a9_hYART99a7AgjK_k,Moses Gardens,37.8432928,-122.2832249,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJp8emjHt-hYAR4CV0EdfmY-s,South Berkeley Community Church,37.850333,-122.2726707,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJpbOT1qB-hYAR6fc5csN1zWo,The Church of Jesus Christ of Latter-day Saints,37.8801439,-122.2678307,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,34,NA
+ChIJpbtrAyZ8hYART4yblDoKKGM,Eshleman Hall,37.8686892,-122.2604534,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJpcrzms19hYARzzj8cQtMEO8,Mrs Dalloway's,37.8581708,-122.25329,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,118,NA
+ChIJPcz8gN94hYAR6GIaNDQQa0Y,Gran Milan,37.8985063,-122.3105999,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,224,NA
+ChIJPdyUOtd9hYARxyvEOMR2dqQ,Niebyl-Proctor Marxist Library,37.8511313,-122.2606209,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJpe0ORc59hYARlHO-iBUcKEI,Chinese for Christ Berkeley Church 中华归主柏克莱教会,37.8551035,-122.2520854,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,17,NA
+ChIJPRt-ZsV9hYARCEA_UVcNtLY,Harkness Gardens Landscaping,37.8514901,-122.2522741,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPTwgzs9-hYARg3YJoZRdnBw,Berkeley Mt Zion Baptist Church,37.8778846,-122.2987175,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,26,NA
+ChIJpU_y0t59hYARPtaULam9Dd0,Memorial Tabernacle Church,37.8440309,-122.2616584,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,11,NA
+ChIJpUjgXgF8hYAR5hFb0_zfYgA,Remillard Park,37.8922592,-122.2608691,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,69,NA
+ChIJPVBX6Jp_hYARqE0vrE5Wu_0,Crystol Red Park,37.8755582,-122.2870132,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJpY0K6Rd5hYARHkZOt524cU8,Ocean View Community Organic Garden,37.8861791,-122.3022924,Park,garden,park; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJq_vh2FZ5hYAR5vt7FnxOyME,Dorothy Bolte Park,37.9013907,-122.270174,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,47,NA
+ChIJq0N1G5x-hYAROQV3bj4cTTk,K's Coffee House,37.8699302,-122.2701727,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,52,NA
+ChIJQ0piU5GAhYAR6ff8dS5w5BE,European Books and Media,37.8517052,-122.2658692,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,15,NA
+ChIJQ0piU5GAhYAR6ff8dS5w5BE,European Books and Media,37.8517052,-122.2658692,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.9,15,NA
+ChIJQ1DLrll5hYARAXVBuDgVi4Y,Farallon Gardens,37.8912482,-122.2852595,Park,garden,point_of_interest; general_contractor; establishment,OPERATIONAL,5,50,NA
+ChIJq29b56Z-hYARmhTnJ8GGtY4,Jewish Community Center of the East Bay - Berkeley Branch,37.8815307,-122.2685141,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJQ2uILS98hYARbmWHpzMyYX8,Revolution Books,37.8670038,-122.2594354,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4,90,NA
+ChIJQ2uILS98hYARbmWHpzMyYX8,Revolution Books,37.8670038,-122.2594354,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4,90,NA
+ChIJq4goFCV5hYARg4JRXUd1Ujk,Albany Square,37.8956756,-122.3011624,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJq4Oc4TF8hYARbAO4rQXFKDU,University Lutheran Chapel,37.8666929,-122.2539309,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJQ4sgaqx-hYAR59_zh3w4FW0,The Fountain at The Circle,37.89015,-122.2723933,Park,fountain,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,80,NA
+ChIJQ5_6hSR8hYAR2G4-eW_BdS8,Yali's Stanley Hall Café,37.87391840000001,-122.2564549,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,4.4,59,TRUE
+ChIJQ6lfQwV5hYARvyVbpeFZsfw,Cerrito Vista Park,37.9140929,-122.3003351,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,349,NA
+ChIJq6oaapl-hYAR-xPtXYFCmBo,Berkeley City Council,37.8694486,-122.2708729,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2,4,NA
+ChIJq6PhM55-hYAR-EokE9qVQdA,Yali's Café,37.8734782,-122.266408,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,181,NA
+ChIJq6quVSJ5hYARRyUrg6gZaAU,CENTRAL BAY PENTECOSTAL CHURCH,37.9010262,-122.3025181,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6r6RyF8hYARTLr3QM31h6I,Social Research Library,37.873721,-122.261009,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ7YAlcF-hYARLM-FfQplbeM,East Bay Community Mediation,37.8695558,-122.2925032,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJqUm7I5x-hYARz7ckUlXGLHU,Berkeley City College Bookstore,37.86992559999999,-122.2697036,Social Business,bookstore,book_store; clothing_store; store; point_of_interest; establishment,OPERATIONAL,4.1,118,NA
+ChIJqUm7I5x-hYARz7ckUlXGLHU,Berkeley City College Bookstore,37.86992559999999,-122.2697036,Social Business,bookstore,book_store; clothing_store; point_of_interest; store; establishment,OPERATIONAL,4.1,118,NA
+ChIJqVebAy55hYAR-b9tsqg3eEE,Solano Community Church Office,37.8903004,-122.2997391,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqWshkGV-hYARkrIZ80-FxFc,Downs Memorial United Methodist Church,37.8440942,-122.2805533,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,14,NA
+ChIJQXSVuGh-hYARTqbIT-l-3WM,All Nations Pentecostal Prayer,37.8412994,-122.283393,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJR_fvTap_hYARFQi1Hm81Tqk,Emeryville Marina Park,37.8387346,-122.3146008,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,711,NA
+ChIJr2hEiKp_hYARkSQJWuVSAqo,Walking Trail Surrounded by the Water,37.8420467,-122.3134673,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,85,NA
+ChIJR4VccCR8hYAR-h7xyvaxKzY,Mathematics Statistics Library,37.87368290000001,-122.2578559,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJR652xGl-hYARVpbY4wycDYM,Square Peg Design,37.8380172,-122.286913,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrbT3KmR-hYARs4oKisSFBxM,Golden Gate Recreation Center,37.8450407,-122.2824303,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,43,NA
+ChIJRcTHIop_hYARgfiHNvqiMYc,Garden Variety,37.87153720000001,-122.2713876,Park,garden,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,5,28,NA
+ChIJreNGCch-hYARrtib3SH94CI,Peralta Community Garden,37.8786364,-122.2887774,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJrSa69nl-hYARAH4ZjLXWo60,Angel Light Books and Gifts,37.8470723,-122.2709267,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,96,NA
+ChIJrw4Q3vJ-hYARmnM0ReYHvKA,Zion Baptist Church,37.8577374,-122.2894097,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrWfkZBl5hYARp2fMfvxI6Jk,Centennial Park,37.907403,-122.3030759,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,25,NA
+ChIJRZY6LWF-hYARKlhywnw5qVA,Paradise Park Cafe,37.8468849,-122.2846863,Social Business,cafe,liquor_store; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,459,NA
+ChIJS03FsCl8hYARb-olHG1NoDU,Ark Ministries of Berkeley,37.8650347,-122.2562571,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJs2HQS118hYARemD17fXve1E,Laurel Picnic Area,37.8867935,-122.2318415,Park,park,tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,20,NA
+ChIJs3FA0jN5hYARTdbzL4_aCKQ,Tay Tah Café,37.8902931,-122.2963755,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,67,NA
+ChIJS4KrsCh8hYARFrqy1pEUSeg,Sodoi Coffee Tasting House,37.86739910000001,-122.2595332,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,39,NA
+ChIJS4sDZp5-hYARIW-0A3ZOoqM,Blue Bottle Coffee,37.8720889,-122.2676333,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.5,484,NA
+ChIJS4UFo3t-hYAR1ScG6ZtQbTk,Ephesian Church of God In Christ,37.8486286,-122.2734122,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,15,NA
+ChIJs5iG1gR8hYARNH53O6f4W80,Bio Friendly Gardens,37.8889488,-122.257056,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJS99RaMV9hYARiRGhFGT0qPc,Linh’s Café,37.8561507,-122.2531227,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,72,NA
+ChIJs9QijbR_hYARfJKzLtIlK-Y,Ohlone Park Baseball Field,37.8733173,-122.2817414,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJse7mwkR5hYARlj7B8FrV0_c,The Arlington,37.9043902,-122.2781651,Social Business,cafe,restaurant; cafe; point_of_interest; food; establishment,OPERATIONAL,4,23,NA
+ChIJSRY7O45-hYARZFfwkxKRBsY,Mo'Joe Cafe,37.8615247,-122.2806319,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,156,NA
+ChIJSRY7O45-hYARZFfwkxKRBsY,Mo'Joe Cafe,37.8615247,-122.2806319,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,156,NA
+ChIJSRYpTdN9hYARS6AYMNb8GnM,Mudrakers Café,37.859435,-122.258847,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,105,NA
+ChIJsS2xkyh8hYAR60j-TbaNc3o,First Congregational Church of Berkeley,37.867248,-122.2621562,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,44,NA
+ChIJSTgrYYJ-hYARI-qF_8z6T4Y,Way Station Brew,37.8639678,-122.266638,Social Business,cafe,restaurant; bar; cafe; food; point_of_interest; establishment,OPERATIONAL,4.5,270,NA
+ChIJSWFIAzx5hYARqcFRVwPBuDw,Harding Park,37.9013693,-122.2940164,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,50,NA
+ChIJsz7lPCB8hYAREpWzuluCMME,Chapel of the Great Commission,37.8761331,-122.2628631,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJt_-kNGV-hYARBg745zdG5do,Watson Temple Apostolic Church,37.8458279,-122.2766219,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJT-YLmvF5hYAR0V54AMSrV84,Raxakoul Coffee & Cheese,37.9035606,-122.2779124,Social Business,cafe,cafe; grocery_or_supermarket; store; point_of_interest; food; establishment,OPERATIONAL,4.8,27,NA
+ChIJt0tZJhB_hYAR7Fl7dvu67AQ,Cafe Karla,37.8721494,-122.2933249,Social Business,cafe,supermarket; grocery_or_supermarket; store; point_of_interest; food; establishment,OPERATIONAL,4,2,NA
+ChIJt2s4uC18hYARSSYhlRy6Kzc,The Shams Royal Palace,37.863909,-122.256141,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJT4PLNXp-hYARPC-Xu8FX1mY,Phillips Temple CME Church,37.8480038,-122.2720466,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,11,NA
+ChIJT8DTgWZ-hYARq3TAzrLbBmE,Charles Porter Golden Gate Recreation Center,37.8448786,-122.2825016,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,35,NA
+ChIJtbQO0CN8hYARN_88mTdTMdg,V&A Cafe,37.875332,-122.2590055,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,3.4,23,NA
+ChIJtcentax-hYARHXfEhv1l-YY,Mortar Rock Park,37.8933471,-122.2723893,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,51,NA
+ChIJtcR26Sh8hYARDAgwoeo4jm0,First Baptist Church-Berkeley,37.8652916,-122.2562397,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJtW4WvqN-hYARBII592KemBo,Berkeley Fellowship of Unitarian Universalists,37.8774901,-122.2726576,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,15,NA
+ChIJTwiNilp-hYARVlF-bqC50EE,Shorebird Park Emeryville,37.8402238,-122.2981359,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,134,NA
+ChIJtzkWJMZ-hYAREfLZFE7YM4M,Church For Today,37.8775694,-122.2919533,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJu0UQaSN5hYARkG2fjHuCrDQ,Barnes & Noble,37.9002012,-122.3010608,Social Business,bookstore,book_store; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,870,NA
+ChIJu1DJ0DN5hYARRSovhhQLnJs,Hal's Office Coffee,37.89058,-122.2959295,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,162,NA
+ChIJu1DJ0DN5hYARRSovhhQLnJs,Hal's Office Coffee,37.89058,-122.2959295,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,162,NA
+ChIJu1DJ0DN5hYARRSovhhQLnJs,Hal's Office Coffee,37.89058,-122.2959295,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,162,NA
+ChIJU4dMfyZ_hYAR03zYTFRoQw4,Cafe Réveille,37.868802,-122.299391,Social Business,cafe,cafe; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.5,134,NA
+ChIJU4dMfyZ_hYAR03zYTFRoQw4,Cafe Réveille,37.868802,-122.299391,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.5,134,NA
+ChIJu50sVCx5hYARN5kQerQ-9ys,Ocean View Park,37.8868471,-122.3026019,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,154,NA
+ChIJUaJwy7J-hYARToBpjJAnTRc,Pegasus Books,37.8916701,-122.278471,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,154,NA
+ChIJuaVS-ol-hYAR0lsZksNz3dY,Ashby Community Garden,37.852852,-122.281913,Park,garden,school; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJubmWdrp9hYARGtO23VYbcNU,Cal Esports Community Center,37.8751437,-122.2558788,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.9,8,TRUE
+ChIJUUnXnWB-hYARtoK_h23Orxs,Dee Spot,37.847301,-122.2879354,Social Business,cafe,cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,84,NA
+ChIJUwm6j0x5hYARuhcn0e-4zXo,Thousand Oaks School Park,37.8922189,-122.2809487,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,32,NA
+ChIJuXSktZV-hYARJZ7smTUJYRk,Church Without Walls,37.8768558,-122.2704667,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJuXSktZV-hYARYEatHaNa7jU,Berkeley Chinese Community Church,37.868604499999996,-122.2835198,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJUxStzMF-hYARGe-wjWOhUEs,Berkeley Public Library West Branch,37.8694895,-122.2909147,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,10,NA
+ChIJUYAIlyh5hYAR1yK5d85oyT8,Peggy Thomsen Pierce Street Park,37.8909109,-122.3069233,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,47,NA
+ChIJuyGgyPJ-hYARAYYeZ2QCht0,Covenant Church,37.85851299999999,-122.289139,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,31,NA
+ChIJUzbR8eh-hYARoBiEhKxXp0g,Tomate Cafe,37.8635664,-122.297347,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,341,NA
+ChIJuZs7eP17hYARP7cJxegAUto,Wilde Wood Gardens,37.90294660000001,-122.2647981,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJv4SaLi98hYAR4c6jo1KjkiI,Friends of the Berkeley Public Library,37.8672403,-122.2594511,Community Space,library,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,33,NA
+ChIJv4SaLi98hYAR4c6jo1KjkiI,Friends of the Berkeley Public Library,37.8672403,-122.2594511,Community Space,library,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,33,NA
+ChIJv4SaLi98hYAR4c6jo1KjkiI,Friends of the Berkeley Public Library,37.8672403,-122.2594511,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,33,NA
+ChIJv4SaLi98hYAR4c6jo1KjkiI,Friends of the Berkeley Public Library,37.8672403,-122.2594511,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,33,NA
+ChIJV5hU1CV5hYARtqb_zChVHt8,Albany Hill Park,37.8949333,-122.3043737,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,352,NA
+ChIJVboCdct9hYARjTVXCRiM_y4,Monkey Island,37.8607612,-122.2470432,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,40,NA
+ChIJVfciYM1-hYARuTYtzdX0cI8,University Village Community Center,37.8836347,-122.2994934,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,50,NA
+ChIJvQ4Vxy98hYAR8QHDGZVHsbo,Babette,37.86863280000001,-122.291683,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,77,NA
+ChIJVVbd7z58hYARMVSzgPYlrwM,Bay View Café,37.8793781,-122.2467773,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4,5,TRUE
+ChIJVVbd7z58hYARwR3bVD54VWY,The Lawrence Discovery Store,37.8793781,-122.2467773,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJVVbd7z58hYARwR3bVD54VWY,The Lawrence Discovery Store,37.8793781,-122.2467773,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJVVVlFGV-hYARmZr0rwcinmg,Landmark Restoration Christian Fellowship,37.8451953,-122.2784371,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJVVVVFTt8hYARbMj4957CgcA,Library of Asian Amer Studies,37.8713614,-122.2575925,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJVVVVVdx-hYARRg1FLvGOzdc,Albancy City Council,37.8645848,-122.2965778,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVVXRTo9-hYARe1Hykv-MOY0,Abenezer Evangelical Church,37.8588544,-122.2778345,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJvX9_6c5-hYARNyrOZJ0IZuk,Andrew Carriere & The Zydeco/Cajun Allstars,37.8800935,-122.2953954,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJvXqClth9hYARIZ1000XvSK8,Bushrod Community Garden,37.8450063,-122.2643647,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJW_YP9th9hYARRapz17FALfE,Colby Park,37.8475327,-122.2576787,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,60,NA
+ChIJW-csXc1-hYARbxIDSCTs5X8,Apparatus Bay,37.8844999,-122.2993234,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,3,TRUE
+ChIJW1eL7J5-hYARpOdGlaTG7Gk,Eastwind Books of Berkeley,37.8718985,-122.2691949,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,24,NA
+ChIJW1eL7J5-hYARpOdGlaTG7Gk,Eastwind Books of Berkeley,37.8718985,-122.2691949,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,24,NA
+ChIJW2yuxCh8hYARGGQHIaJzsZc,1951 Coffee Company,37.8666433,-122.2599786,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.7,281,TRUE
+ChIJW2yuxCh8hYARGGQHIaJzsZc,1951 Coffee Company,37.8666433,-122.2599786,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,4.7,281,TRUE
+ChIJwagyQDR5hYAR5pfjvOe5lJU,Kim's Café & Sandwiches,37.89077959999999,-122.2922906,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,197,NA
+ChIJwahlA2l5hYARJRejcV43zv4,Kensington Park,37.9129171,-122.2802578,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,27,NA
+ChIJwaiHgcZ-hYAR1paIGzyYGIc,Church﻿ of Holy Sophia in Practice,37.8747317,-122.2935999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJwTv_I0Z8hYARtz7IuT958E8,UC Botanical Garden,37.875433,-122.2387927,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJwVe_oLB-hYARNPmFDGYEuKQ,Berkeley Horticultural Nursery,37.8813889,-122.2811111,Park,garden,point_of_interest; establishment,OPERATIONAL,4.6,123,NA
+ChIJWx1rAyR8hYAR9HgAZILJJHc,Memorial Glade,37.8731865,-122.2593917,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,315,NA
+ChIJX7IE1tF-hYARAc13kM2IxwI,Small Press Distribution,37.8783458,-122.2997183,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJX7IE1tF-hYARAc13kM2IxwI,Small Press Distribution,37.8783458,-122.2997183,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,10,NA
+ChIJx9e2_px-hYARsVoF7Q_SXrY,Berkeley Public Library,37.8681512,-122.268463,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,137,NA
+ChIJxapf8PF_hYARPg1Ki7Ws9pE,MY Coffee Roastery,37.8707081,-122.2731313,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,187,NA
+ChIJxdoTHzN5hYARbdd-wrO5rEk,Albany United Methodist Church,37.8873802,-122.2963346,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJxfomotx-hYARvqBjHnAtDRE,The Gardener,37.8692358,-122.3005551,Park,garden,home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.4,28,NA
+ChIJxwB2CJx-hYARwdSaWJRgKuU,Berkeley City Clerk Department,37.86946349999999,-122.2708862,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJxWEsuCZ8hYAR48_Sst45khU,Moffitt Library,37.8725327,-122.2608366,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,52,TRUE
+ChIJy_LqU91-hYARrF2Z8bMXT-w,Third Culture Bakery Berkeley,37.8569603,-122.2917118,Social Business,cafe,bakery; cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,437,NA
+ChIJy_LqU91-hYARrF2Z8bMXT-w,Third Culture Bakery Berkeley,37.8569603,-122.2917118,Social Business,cafe,bakery; cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,437,NA
+ChIJy_wlx6F-hYARHnDQtAt1LPw,Church Without Walls,37.8763967,-122.2692408,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJY2RivS58hYARUDQo9IrHJx0,Peet's Coffee,37.865053,-122.258319,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,256,NA
+ChIJY3K7lVF4hYARwZss3v5l0B8,El Cerrito Library - Contra Costa County Library,37.908446,-122.3040767,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,44,NA
+ChIJy6TJa2l5hYARtR26NhbIGgk,Kensington Library - Contra Costa County Library,37.9129661,-122.2811088,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,11,NA
+ChIJy7beSI9-hYARVJaCWKlShzI,Bethlehem Temple WOFAC,37.8589864,-122.2792646,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJy86xOAmHj4ARFYNPBm0z_II,Christ Church East Bay,37.8784361,-122.2677922,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,33,NA
+ChIJY8u0k_R-hYARbkIhyTMGmxk,Berkeley Bowl West Cafe,37.8536406,-122.2899985,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,305,NA
+ChIJY8u0k_R-hYARbkIhyTMGmxk,Berkeley Bowl West Cafe,37.8536406,-122.2899985,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.4,305,NA
+ChIJya2rk4t-hYARwuNUSMel3ww,San Pablo Park,37.8558502,-122.2839784,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,817,NA
+ChIJyca2VBJ5hYARFDEAio5-nXQ,Huber Park,37.9134719,-122.2913557,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,59,NA
+ChIJYQMGNL99hYAR07TXMjyLcYw,Chabot Recreation Center,37.8503452,-122.2409273,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,16,NA
+ChIJYTCvbC98hYARUv8dnGN6VVc,Sweetheart Café,37.8680768,-122.2579152,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,117,NA
+ChIJyWopj9F-hYARHzEsPdZS3mw,Lama Beans,37.8794774,-122.3016124,Social Business,cafe,cafe; meal_takeaway; bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,540,NA
+ChIJz_0GHLh-hYARzzgr3AqlW7Y,Evangel Bible Church of Berkeley,37.8791186,-122.2870446,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.9,10,NA
+ChIJz-Zt2lx-hYARax5UIGQdg3o,Ponte Roma,37.84058150000001,-122.2917301,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.3,7,NA
+ChIJZ1sHc15-hYARVscosZYiRfY,Jelly Bean Square,37.84572259999999,-122.2900493,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJz4VbokB_hYAR95axLBoPul4,Cafenated Coffee Company,37.880249,-122.2698847,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,262,NA
+ChIJz4VbokB_hYAR95axLBoPul4,Cafenated Coffee Company,37.880249,-122.2698847,Social Business,cafe,cafe; point_of_interest; store; food; establishment,OPERATIONAL,4.4,262,NA
+ChIJz4VbokB_hYAR95axLBoPul4,Cafenated Coffee Company,37.880249,-122.2698847,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,262,NA
+ChIJz9cp57x-hYAR7Gb-foFNx0M,Virginia-McGee Totland,37.8751707,-122.2782549,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,229,NA
+ChIJZbBiix95hYARM6DqREg0KRA,Ladybug Gardens,37.8637042,-122.2930621,Park,garden,point_of_interest; general_contractor; establishment,OPERATIONAL,5,2,NA
+ChIJZbBiix95hYARM6DqREg0KRA,Ladybug Gardens,37.8637042,-122.2930621,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJze0rc9R9hYARffVXzhCeOAU,WFM Coffee Bar,37.8556066,-122.2602487,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,12,NA
+ChIJzWmaPE-Hj4ARY0oUPo-idO8,Ethiopian Community Cultural Center,37.8476842,-122.2604703,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJZX4mHut-hYAR_Ls2yCH3IZg,Apostolic Lutheran Church,37.8666667,-122.2897222,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJzxw-UiB8hYARTDZiaEmOs48,Berkeley Institute of Religion,37.8755026,-122.2629624,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJzYI_cw19hYARpGJLmEHwF0E,U Cafe Parklet,37.8680609,-122.256928,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZyWcQOp-hYARmx5esPwW5eI,George Florence Park,37.8667616,-122.2924139,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,42,NA

@@ -1,0 +1,8 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ_0FpvzDHxokRkx43XKcWlpA,Two Eagles Cafe,39.9340427,-75.1772026,Social Business,cafe,restaurant; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,145,NA
+ChIJ78exoHPGxokRPhtfWZRL8Eg,1900 Cafe,39.9282287,-75.1807499,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,3.9,32,TRUE
+ChIJDcU5WgvGxokR0oEnkT7EeW4,Fans Cafe,39.9254233,-75.1770085,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,20,NA
+ChIJhxG3UXXGxokRgqYd7vVRnxU,Kay Kay's,39.9215136,-75.17838739999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,83,NA
+ChIJleZkh2zGxokRGzVsmpShddM,22nd Street Cafe,39.9359353,-75.1807494,Social Business,cafe,bar; point_of_interest; establishment,OPERATIONAL,4.3,210,NA
+ChIJPSaGw2_GxokReS8pWigg9eg,Bambrey Cafe,39.933063,-75.1877562,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJPz5P723GxokRi65P7v1tqfc,Lid's Cafe,39.9325027,-75.1829328,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,11,NA

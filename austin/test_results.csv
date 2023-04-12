@@ -1,0 +1,15 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ27gACOixRIYRrnPeO62PNJY,caribou coffee,30.2021172,-97.66892179999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.2,9,NA
+ChIJ6bH7RzCxRIYRaKEb41W6Uvs,Z Cafe,30.2021448,-97.66773289999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,6,NA
+ChIJa-lsK36xRIYRdXrdbrgNa2A,Ruta-Maya,30.2020806,-97.67015219999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.7,23,NA
+ChIJB_UKuaaxRIYRpplRlnBdjAk,Medici Coffee,30.2022983,-97.66320259999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2.9,78,NA
+ChIJCV_Yk9-1RIYR7AdoZxw_1mQ,Open Door Church of God in Christ,30.2767122,-97.6991187,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,8,NA
+ChIJE3m72zCxRIYRucHRKwFMRcA,Annie's,30.2022694,-97.6701808,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.1,198,NA
+ChIJF3a_2W2xRIYR42JzWw3NLac,Zocalo Cafe,30.2019657,-97.6657085,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJI6Lj63e2RIYRVTGcs9cSrt4,New Life Temple,30.268133,-97.697175,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJIZ_7cky3RIYRhjOpSdZtuDU,Starbucks,30.213259,-97.65818999999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,476,NA
+ChIJPXzPLY23RIYRemc_rKS_inU,LASA Sousas,30.2594779,-97.6818544,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJQfcsI4OxRIYRhZLs9YCdmxs,Costa Coffee BaristaBot,30.20214989999999,-97.66630719999999,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,3.3,15,NA
+ChIJs3d_MQ2xRIYRxoAey_B_qvs,Jo’s Coffee,30.2022791,-97.6636384,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2,4,NA
+ChIJT09_um2xRIYRvFoFcyGeUZ4,Starbucks,30.2023527,-97.6650476,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,1.8,56,NA
+ChIJvd5-Anq2RIYRUYL-UywpkZM,Burning Flipside Warehouse,30.266853,-97.6928002,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,CLOSED_PERMANENTLY,5,1,TRUE

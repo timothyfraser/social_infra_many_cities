@@ -1,0 +1,4 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJ35DJrAOpIIYRZDy6Xg7Yhgk,Leonard S. Washington Memorial Library,30.0261883,-90.04480079999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,3
+ChIJ55Djk-enIIYRKHKmBpupiTw,Life Church - Westbank Campus,29.9198019,-90.01052080000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1
+ChIJMdoagoSnIIYR7g-56ZaxPxU,Connect Church of Algiers,29.9330988,-90.00690039999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,35

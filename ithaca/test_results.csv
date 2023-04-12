@@ -1,0 +1,11 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ-TGtoi-B0IkRFX1hUpgwSD4,Ithaca Orchid Garden Florist,42.4439631,-76.50180979999999,Park,garden,florist; point_of_interest; store; establishment,CLOSED_TEMPORARILY,4.6,11,TRUE
+ChIJ3yfgHouB0IkReywG9-LkcbA,Rooftop Garden,42.446851,-76.4810704,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3zW21YWB0IkRj887Q2XeyXA,Permaculture Park,42.4488348,-76.5029703,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ57ZO0oqB0IkRHp5WjRsd-Qk,Garden@Tower,42.44738,-76.47968999999999,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjWzG2PGD0IkRalDxNtEEVkE,Garden Café,42.469135,-76.5373714,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJPx67ZfOB0IkRTC2S_J1trTU,Esty Street Garden,42.4429004,-76.50831099999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJR-U4qn6B0IkRRv1okxLkU1k,Ithaca Community Gardens,42.4481399,-76.508235,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJVVVVWpuB0IkRA15j1USDG1I,Garden Gate Delivery,42.4385288,-76.49875999999999,Park,garden,grocery_or_supermarket; food; health; point_of_interest; store; establishment,OPERATIONAL,4,2,NA
+ChIJz7OdCOOD0IkRnA_J_74f7l4,Dean's Garden,42.4494693,-76.4772318,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJz9p3a5uB0IkRfiox8_N7R90,Jade Garden,42.4389625,-76.5086498,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,101,NA

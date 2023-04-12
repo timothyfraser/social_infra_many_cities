@@ -1,0 +1,22 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ_5wULsV_hYAR5dRWdsv6rfU,Cafe Buenos Aires,37.8397169,-122.2889474,Social Business,cafe,cafe; meal_takeaway; meal_delivery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,5,14,NA
+ChIJ-6C2-hN-hYAR2ML9F09H8hg,Starbucks,37.8288673,-122.2823913,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.5,288,NA
+ChIJ5SFCj1x-hYARzzpbrWEaK5I,Peet's Coffee,37.841617,-122.293626,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,394,NA
+ChIJ5V4u1UJ-hYAREw4Lnviwvdk,Polaris Cafe,37.8401401,-122.2907646,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,64,NA
+ChIJa3JobF-Pj4ARoEhEWluIZgg,85th Avenue Mini Park,37.7552349,-122.1734076,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,53,NA
+ChIJDxmxxml-hYARTW8Bc2N3tkw,Doyle Street Cafe,37.8381838,-122.2869567,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,1005,NA
+ChIJdzqHsV1-hYARA_oQBIAe0bo,Ruby's Cafe,37.8433048,-122.2905977,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,139,NA
+ChIJg-FMmXh-hYARGwqAr35SiIo,Dry Garden Nursery,37.8513476,-122.2657189,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.7,99,NA
+ChIJH3qzDFt-hYARdZWwToJiTHc,Comeback Cafe,37.8406186,-122.2951918,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,3.8,12,TRUE
+ChIJIVaHFVB-hYAR_LlIEt5g0DU,Why Cook?,37.8381852,-122.3009188,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.3,37,NA
+ChIJK32Qw1t-hYARtt3jUzFD9Aw,Black Diamond Café,37.8427129,-122.2955946,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,283,NA
+ChIJLRm6QnGPj4ARrBOjCdaXpsg,88th Avenue Mini Park,37.7530517,-122.1710128,Park,park,point_of_interest; establishment,OPERATIONAL,2,1,NA
+ChIJmVoJMxJ-hYAR9jH_9itUcsY,Bank Club Cafe,37.8301352,-122.279382,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,98,NA
+ChIJmVoJMxJ-hYARKgs2Gtarbic,Wally's Cafe (Emeryville),37.8301249,-122.2793796,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,725,NA
+ChIJPRt-ZsV9hYARCEA_UVcNtLY,Harkness Gardens Landscaping,37.8514901,-122.2522741,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqYmIcpqFj4AR0P2cfiynF0Y,"William ""Bill"" Patterson Park",37.737021,-122.1899991,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,230,NA
+ChIJs478Q2Z-hYARDC0ssaN0HTg,Donut Farm Oakland,37.8436951,-122.284218,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,239,NA
+ChIJueUfi0R-hYAROJ2Cm5c4Tyg,Starbucks,37.836607,-122.2950931,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.8,356,NA
+ChIJv6PryEaPj4ARPeng05UNpOg,Holly Mini Park,37.7445278,-122.1687524,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,3,NA
+ChIJwQ8DGBV-hYARjaVV1DJvSeo,Rudy's Can't Fail Cafe,37.83096,-122.285993,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,1599,NA
+ChIJz-Zt2lx-hYARax5UIGQdg3o,Ponte Roma,37.84058150000001,-122.2917301,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.3,7,NA

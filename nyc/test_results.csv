@@ -1,0 +1,23 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ_eQYpFdmwokR0DMefMvbJmk,Dunkin',40.6500654,-73.792377,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,174,NA
+ChIJ_eQYpFdmwokR756MAH2tZPw,Starbucks,40.642844,-73.790959,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2.8,125,NA
+ChIJ_eQYpFdmwokRgdc96drmvVQ,Peet's Coffee,40.6434983,-73.7796975,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.5,164,NA
+ChIJ_eQYpFdmwokRSwITdWEP9EY,Jikji Cafe,40.6429239,-73.7913258,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,2.2,27,NA
+ChIJ_eQYpFdmwokRVJsP5pzewtE,Aunt Butchie's Bakery Café,40.6437857,-73.78105060000001,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ-cLhdORnwokRHA4oOoUU6PM,Intelligentsia Coffee TWA Hotel,40.6458131,-73.7779312,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.6,16,NA
+ChIJ0yhr8jpnwokRSOrN_PCODNA,Feltman’s of Coney Island,40.6457705,-73.7775193,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,1,NA
+ChIJ3_vNEW9nwokR9J7kJGa23mk,Hudson,40.6497232,-73.7824497,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,3,5,NA
+ChIJ46dSiVNmwokRrMhmzGjB5rk,New York Hotdog & Coffee,40.6429199,-73.79063839999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJC085Xl9mwokRg0iipTP2kTA,Starbucks,40.646181,-73.775836,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.9,574,NA
+ChIJdT51qjJnwokR2NzGFeHHTWM,Dunkin',40.6458142,-73.775289,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,1,3,NA
+ChIJh4SHOlJmwokRqKlUZcEZR8c,World Bean,40.6403606,-73.7898859,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,2.3,71,TRUE
+ChIJj9-r5VtmwokRTbwGeRESF30,iglesia santisima trinidad,40.6413111,-73.77813909999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4,11,NA
+ChIJLaOib6tnwokR7JbE8Dslp8c,Dunkin',40.6495808,-73.7827276,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,1,1,NA
+ChIJm2LF6lVmwokRq8k8cDNn-VI,Euro Café,40.646923,-73.7902881,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,79,NA
+ChIJPcd6RfNnwokRuJE-18-y6C8,Jet blue juice bar,40.6458145,-73.77529059999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqUdplv9mwokRja77XxsziL8,Starbucks,40.65083000000001,-73.791217,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.9,438,NA
+ChIJS3DHVVFmwokRVn3mgbHK4iY,Dunkin',40.6435552,-73.7827039,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2.6,116,NA
+ChIJsew_vNRnwokRBghqj2sqL-0,The Paris Café,40.6453829,-73.7775979,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,87,NA
+ChIJtUYS8sRnwokRX1iHSQN2uSE,Dunkin',40.6435893,-73.7820064,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2.9,7,NA
+ChIJuVBpPRtnwokR3L67FHSesAM,Camden Food,40.6368215,-73.7809517,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2.2,13,NA
+ChIJv4-EJQBnwokRpgslX3OQx40,Dunkin',40.6430002,-73.790887,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3,137,NA

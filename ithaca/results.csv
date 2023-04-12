@@ -1,0 +1,259 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ__-_d_iB0IkRF_9KGvtEeeY,Veterinary Library,42.4474803,-76.46456359999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ__-_louB0IkRLzhzPiw1hIY,Johnson Graduate School of Management Library,42.4458947,-76.4832581,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJ__8_3IqB0IkRfqrv_LHxDNY,M P Catherwood Industrial Lib,42.4472515,-76.4809992,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ__BQFByB0IkR1Fr9-g3WkQw,Tompkins Community Action - Food Distribution Center,42.41916399999999,-76.5186866,Community Space,community center,food; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ_-8YPB-B0IkRfEr2QpR1_fY,Garden Center at The Home Depot,42.419833,-76.52386299999999,Park,garden,furniture_store; home_goods_store; general_contractor; point_of_interest; store; establishment,OPERATIONAL,4.5,2,NA
+ChIJ_28DGB-B0IkRAp4ipOFca0w,Odyssey Bookstore,42.4383622,-76.4999993,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.9,32,NA
+ChIJ_dqD0bx42okR5fl54nyiaBA,Cornell Garden Plots,42.4615031,-76.4443533,Park,garden,school; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_e9KYYuB0IkR3GlS-OHLMZM,Gimme! Coffee,42.4449635,-76.4811687,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,61,NA
+ChIJ_UOIxqSB0IkREC1qvT3rwCk,Ithaca College - Garden Apts,42.42518,-76.49192,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ_W6bRpuB0IkRT3IfatBeKN0,Comics for Collectors,42.439681,-76.49999199999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,3.8,119,NA
+ChIJ_YS-o8yB0IkRez1lUHalmdE,Ithaca Store,42.4439631,-76.50180979999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ--Cq93iB0IkR6L-ChaApMLM,Ithaca Friends Meeting,42.4452121,-76.50460269999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-9v7h3CB0IkRx3vSb-3okQQ,Mann cafe,42.4486248,-76.476565,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.5,4,NA
+ChIJ-bxCN46B0IkRexElZNwCq6U,Chatty Cathy Coffee and Juice Co.,42.4416584,-76.48726599999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.7,78,NA
+ChIJ-SzkO2SC0IkRmiwhp2SuCW0,Philip R. Dankert Village Park,42.480677,-76.47260899999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,13,NA
+ChIJ-TGtoi-B0IkRFX1hUpgwSD4,Ithaca Orchid Garden Florist,42.4439631,-76.50180979999999,Park,garden,florist; point_of_interest; store; establishment,CLOSED_TEMPORARILY,4.6,11,TRUE
+ChIJ-VoaqxmD0IkR6lf_VzTXsYA,Cornell Equine Park,42.45978820000001,-76.4599334,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJ-zWMktKD0IkRVG4kOdWApc4,Ithaca Park Reservations,42.4633448,-76.50016839999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ071I1PeA0IkRd6MneXgFMGE,The Bistro at La Tourelle,42.4015307,-76.50220159999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,29,NA
+ChIJ1__c3pyB0IkRNDTRiScks3s,St. John's Episcopal Church,42.4411717,-76.4992973,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ197FlLl42okR0XyP8Ri9YXo,Varna United Methodist Church,42.4548168,-76.43738920000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ1aqyUJuB0IkRCH2kUatrW_g,Town of Ithaca Town Hall,42.4411415,-76.4967192,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,1,2,NA
+ChIJ1VWUZcuA0IkR5nr_e5nMKuc,Allan H Treman State Marine Park,42.4573166,-76.512653,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,210,NA
+ChIJ2aP9D4uB0IkRaF2_G9FXcI4,Nestle Library,42.445541,-76.48215429999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,9,NA
+ChIJ2YjVfiqC0IkRzNC0Tc9J1UY,Tabernacle Baptist Church,42.4517392,-76.499256,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.9,11,NA
+ChIJ30CCfYyB0IkR5eBZGHb8c-8,Mattin's Cafe,42.44436520000001,-76.4823639,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.1,32,NA
+ChIJ31Pw9h-C0IkR54fdSCcnNTc,Martha's Cafe,42.4500208,-76.47913179999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,26,NA
+ChIJ34u1XJyB0IkRI_Yp2QyoeG8,Ithaca City Hall,42.4387913,-76.49847849999999,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,3.3,9,NA
+ChIJ3W1p5HWB0IkR5ERS8QICY_0,Southside Community Center,42.4375095,-76.5036302,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,112,NA
+ChIJ3yfgHouB0IkReywG9-LkcbA,Rooftop Garden,42.446851,-76.4810704,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3z_Uf5yB0IkR2IvWO_cXVxk,Community Dispute Resolution Center,42.4393238,-76.4969565,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ3zW21YWB0IkRj887Q2XeyXA,Permaculture Park,42.4488348,-76.5029703,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ3zW21YWB0IkRj887Q2XeyXA,Permaculture Park,42.4488348,-76.5029703,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ4-NPUBiC0IkR5L3wmJCqGjI,Robert Purcell Community Center,42.45674,-76.47713,Community Space,community center,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ4-VjbIqB0IkR7jootSpaulw,Temple of Zeus,42.44900060000001,-76.48340999999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,60,NA
+ChIJ41-PTgqH0IkRHfzSBgKpf6U,Hoover Kenneth,42.408028,-76.592573,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ4UYsNieC0IkRi6V43Yo0S_Q,Horseshoe Falls,42.45199059999999,-76.4859848,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,46,NA
+ChIJ4ZLDgp6B0IkR_uIx2J2391Q,Стоянка 123,42.4376151,-76.4991046,Park,park,park; point_of_interest; establishment,OPERATIONAL,2,1,NA
+ChIJ4ZlsaR6B0IkRx_TASduKuRM,Buttermilk Falls State Park,42.4168452,-76.5211832,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,3740,NA
+ChIJ4ZwlZXaB0IkRlx-ZbkMCv5A,Parking Ithaca,42.438497,-76.50489,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.4,5,NA
+ChIJ50jHYZ6B0IkRauD_4753YYs,Christ Church Ithaca,42.4360671,-76.49972819999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJ57ZO0oqB0IkRHp5WjRsd-Qk,Garden@Tower,42.44738,-76.47968999999999,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ58KvNtiD0IkR8yTC_lKPdac,"Cass Park, Rink & Pool",42.4529588,-76.51458509999999,Park,park,park; school; health; point_of_interest; establishment,OPERATIONAL,4.3,25,NA
+ChIJ64hQT3aB0IkRuHGOHv8hsy4,Bread of Life Anglican Church of Ithaca,42.43973949999999,-76.4944879,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ6cSQ_ouB0IkRykBwgK6iiWU,Amit Bhatia Libe Café,42.4480805,-76.484586,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,52,NA
+ChIJ6d2PjlGA0IkRDqIA5EtWBRA,College Circle Community Center,42.4117561,-76.5003669,Community Space,community center,school; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6fzwno6B0IkR6nAHZDfGDPw,Fork and Gavel Kitchen,42.4435628,-76.4860283,Social Business,cafe,cafe; meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,8,NA
+ChIJ7RxdQZuB0IkRx0ZfKXmBdU4,Collegetown Bagels,42.4394583,-76.4949594,Social Business,cafe,cafe; bakery; food; point_of_interest; store; establishment,OPERATIONAL,4.4,493,NA
+ChIJ7V1BxQKB0IkRxlxFlmB8nzw,Christian Community Church Ithaca,42.437415,-76.50343250000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ7ydfgtKD0IkRcQWQsFEmwbA,Stewart Park,42.4613514,-76.5032365,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,1420,NA
+ChIJ83-rWnSB0IkRH9pkdbQuFAQ,Finger Lakes Toy Library,42.4835813,-76.49137080000001,Community Space,library,point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJ8841pZ2B0IkR_KskH03nZAk,Sacred Root Kava Lounge & Tea Bar,42.4392488,-76.50048610000002,Social Business,cafe,night_club; cafe; bar; food; point_of_interest; establishment,OPERATIONAL,4.7,223,NA
+ChIJ8a8WsxyC0IkRooWxFyPjDOE,Forest Home Chapel,42.4517333,-76.4681777,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,4,NA
+ChIJ8RsGIzaD0IkRJT_2agcc9xQ,The Knoll,42.4534122,-76.490101,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJ8TIiknWB0IkRgtgLPtcSCXw,Reformed Community Church,42.4362225,-76.50357389999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8UkKN-CB0IkR6Fp8ojlrkXA,Browntown,42.4389,-76.48567170000001,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,13,NA
+ChIJ8Vs_r3SB0IkR6tDLXybCnYU,Barnes & Noble,42.4326215,-76.51034369999999,Social Business,bookstore,book_store; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,657,NA
+ChIJ90VQAnSB0IkRLhg_toTdzlY,Dunkin',42.4381131,-76.5079205,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.7,533,NA
+ChIJ96voNj2B0IkRCr-wnONaVW0,Alley Cat Cafe,42.4407309,-76.4950526,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,195,NA
+ChIJ9fuX1uSB0IkR7R09niNjVnk,CFCU Community Credit Union - Transformation Center Branch,42.4398054,-76.4965017,Community Space,community center,atm; finance; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJa0AM89qB0IkRWB921EJV6is,Library Place,42.442331,-76.49961789999999,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJA12iOXR_2okRy8IF8f8yqs8,Bethel Grove Church Center,42.4088133,-76.43777349999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJa1TDUwqB0IkRafjMvY8op4c,the Sustainability Center,42.430248,-76.50515,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA5HMRXCB0IkRU6w00Bukr-4,Kelly's Dock-Side Cafe,42.441905,-76.512158,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,405,NA
+ChIJAQAQ_qWB0IkRIOMdF3OSKnk,Muller Chapel,42.42266040000001,-76.4967467,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJAQCUPxOC0IkR-u08CJ8EcDk,The Lindisfarne Community,42.4666018,-76.4721465,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaSFUOZuB0IkRvtV9mOxuUZU,Teen Community Center Project,42.4407165,-76.4950408,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaZf7fmuB0IkRBtq5UMoaado,The Strand Cafe,42.4401429,-76.4949048,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJb4DtzRp52okR3ADW3XLq3J8,Houston Pond,42.4510069,-76.45475929999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJb65dSX-B0IkRq24SgsgKdlA,Baptized Church of Jesus Christ,42.4477377,-76.5036397,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,6,NA
+ChIJB9VbtmKB0IkRv80CDJK6JG8,Cass Park Trailhead,42.4524205,-76.51462289999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJBevaLYqB0IkREdNOX2-vd3Y,John M. Olin Library,42.44777879999999,-76.48417239999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,17,NA
+ChIJBRyA5nGB0IkRn6j1JzOeaAc,Worldwide Books,42.4397848,-76.5137594,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJbyZ4uxGD0IkRL8yVU1Ujql0,Winston Square Apartments,42.4756891,-76.4578903,Park,square,point_of_interest; establishment,OPERATIONAL,2.9,12,NA
+ChIJBZ5kURiC0IkR5d4DkRWNMXY,Robert Purcell Community Center - Cornell,42.45663,-76.47693,Community Space,community center,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJC1RBWXaB0IkRpuoFW_zGi7Q,The State Diner,42.439523,-76.505202,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,989,NA
+ChIJc4lL1PCB0IkRgXM87bGDDJg,Free Science Workshop,42.4482641,-76.5030259,Community Space,community center,museum; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJc9VUEeWB0IkRQZIEYh_FqZk,Fairview Tours,42.4406469,-76.4762356,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJC9Z7tYqB0IkRt6zgAoRXPAg,Bus Stop Bagels,42.4478366,-76.4794052,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,43,NA
+ChIJCcJL77mB0IkRo2V6Ok1Pexc,Sultana,42.443936,-76.50164699999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCTq_HIV52okR1_ku4xYEBB4,Newman Overlook,42.45242,-76.453178,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.9,44,NA
+ChIJCzjOCLp42okR8BWjYbh2AV0,Varna Community Association,42.45428769999999,-76.4397291,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.8,22,NA
+ChIJD0_sUniB0IkRFxft_g1O6XA,Two Rivers Church - Ithaca,42.442177,-76.502258,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,16,NA
+ChIJDabCQQ6B0IkRgzEvy0XliBg,SOUTH MEADOW Square,42.4278507,-76.5124228,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.2,180,NA
+ChIJdasr6hKD0IkR8sU3q6OYbQI,Allechant,42.4689309,-76.480014,Social Business,cafe,restaurant; cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,73,NA
+ChIJDR2olYqB0IkRr0G4Rv2qXek,Big Red Barn,42.44842269999999,-76.4810282,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,166,NA
+ChIJDRVHjBmC0IkR82HvzldMNoc,Community Center of Hasbrouck Apartments,42.4563388,-76.471898,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,47,NA
+ChIJdxu2j_WB0IkRuZgiCOYkK7Y,Albert R. Mann Library,42.4487952,-76.476316,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,11,NA
+ChIJdZqV7HaB0IkR7yI0xhLvBgw,Gimme! Coffee,42.439456,-76.506456,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,453,NA
+ChIJe_cP_4qB0IkR_ARDkq7hxLs,Rusty's,42.4474569,-76.4822465,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJE-V0xiCH0IkRxvhaqHFAZr0,The Old Mill,42.4021102,-76.5896174,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,40,NA
+ChIJE5Qj-D2C0IkRZZ7UuqbGPdU,Cayuga Heights Village Barn,42.4631875,-76.4794307,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJewmovmeC0IkRM3wgr1j5ylk,Vineyard Church of Ithaca,42.4795987,-76.4769886,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,13,NA
+ChIJEZ3SSoKB0IkRpoayCfUUNq4,Triangle Park,42.4455651,-76.49970429999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,70,NA
+ChIJF6tcjCR_2okRrFImT82tXDY,Hungerford Heights Park,42.4254805,-76.4491012,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJfa64x5yB0IkROBU7nRnfLwk,Buffalo Street Books,42.441218,-76.498352,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,102,NA
+ChIJfcNK-9eD0IkRyemj2obqLY0,Cass Park Tennis Courts,42.4530928,-76.5137766,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJfxIIYZyB0IkR49fdlVap_Bs,Harolds Square,42.4393198,-76.4980272,Park,square,point_of_interest; establishment,OPERATIONAL,2,4,NA
+ChIJFXIQjmGC0IkR_lD7n8nbjFM,Marian Hartill Park,42.485718,-76.4743354,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,30,NA
+ChIJg3cZhKKB0IkRbt2IK-l355g,South Hill Church-The Nazarene,42.4313368,-76.4936596,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJG8hre3OH0IkRpzhrWnHxRm4,"Robert H. Treman State Park, Upper Entrance",42.40249230000001,-76.5888755,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,205,NA
+ChIJg93g2VuC0IkRM7asdA2XV_I,Starbucks,42.4853782,-76.4907381,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,57,NA
+ChIJGdFJM5SB0IkR5cmONbS4XwM,Mulholland Wildflower Preserve,42.4326368,-76.48413420000001,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,168,NA
+ChIJGSCCsM2A0IkRNiJFImHCAH8,Early Bird Farm,42.391838,-76.5566711,Park,garden,point_of_interest; store; establishment,CLOSED_TEMPORARILY,5,25,TRUE
+ChIJGVZKH1CB0IkRX-Ef2Uj4dJM,Black Diamond Trail,42.4395082,-76.4968291,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJGxMzxIuB0IkRGQ6TdkazK1g,Cafe Jennie,42.4467528,-76.4842065,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,43,NA
+ChIJGZMdvA6B0IkRlbp2ePCMBRQ,GreenTree Garden Supply,42.414253,-76.5333152,Park,garden,home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.8,30,NA
+ChIJh46_wZaB0IkRlFr7hAWq4aA,Six Mile Creek,42.4345764,-76.4869361,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,24,NA
+ChIJH9i_ZeeB0IkR_kNsC1QAnes,Trinity Lutheran Church,42.4286853,-76.4638988,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,10,NA
+ChIJh9i8IHiB0IkROVFD9dH84qg,Red And White Cafe,42.4426506,-76.5043022,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,135,NA
+ChIJhaOQHJyB0IkRpX7236K9xVs,Ithaca City Court,42.4370603,-76.49757869999999,Community Space,city hall,courthouse; local_government_office; point_of_interest; establishment,OPERATIONAL,3.6,7,NA
+ChIJHecEKqKB0IkRxfGDoNKXDVk,His Tabernacle - Ithaca Campus,42.4361335,-76.50627829999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,45,NA
+ChIJhQez5l2H0IkRpD2oYgrHMxw,"Lower Falls, Enfield Glen",42.3973999,-76.5611843,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,59,NA
+ChIJHVTW6nqC0IkRWqKEnsB8A68,Ithaca Community Childcare,42.477888,-76.46625999999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJhW3asfiA0IkRYBH0aX4j1gk,Dolce Delight,42.408228,-76.503322,Social Business,cafe,bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,282,NA
+ChIJhX-b_xuC0IkRa5LkZUAzqVU,Tualatin Hills Park,42.4534492,-76.4735026,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJI-ZCXxiC0IkRQsIvu40I6L4,Robert Purcell Community Center,42.45592449999999,-76.4774412,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,227,NA
+ChIJi6PMNfWB0IkRgtfpaqSnbhw,Trillium Dining Hall,42.4479763,-76.4792602,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,217,NA
+ChIJIbOvT4CC0IkRzMh8wXEW_gs,Ithaca Police Department,42.4370315,-76.4974745,Community Space,city hall,police; point_of_interest; establishment,OPERATIONAL,3.7,7,NA
+ChIJicC3SIWD0IkRD6BREV3OsBs,Botanist Coffeehouse,42.4534975,-76.497605,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,42,NA
+ChIJIRmbc1mC0IkRhgWw9a6blg8,McDonald's,42.4848011,-76.48690409999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.1,1318,NA
+ChIJIWkbiIOB0IkRph4-Qk6OaOY,Our Lord's Temple Church of God in Christ,42.444775,-76.49681799999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJjbi7EnOB0IkR4n0rCziw6oY,Market Café,42.4353787,-76.5098618,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.1,16,NA
+ChIJJRhs5G-B0IkR8z9UZYSvdSk,Cass Park Park and Walk,42.4430227,-76.51456189999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,32,NA
+ChIJjUm6t9OB0IkRCm-p1DyAE70,Restroom,42.4480377,-76.51423129999999,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjWZFmP-B0IkROHEQc08vcSE,Catalyst Vineyard Church,42.4390855,-76.5047876,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJjWzG2PGD0IkRalDxNtEEVkE,Garden Café,42.469135,-76.5373714,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJjWzG2PGD0IkRalDxNtEEVkE,Garden Café,42.469135,-76.5373714,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJk-MnBwyB0IkRxvAQW1Fw8Kw,Panera Bread,42.429054,-76.50832799999999,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,648,NA
+ChIJK8jnFNiD0IkRcCc4Fvo2HDM,Ithaca Children's Garden,42.4470328,-76.51428349999999,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,332,NA
+ChIJK8jnFNiD0IkRcCc4Fvo2HDM,Ithaca Children's Garden,42.4470328,-76.51428349999999,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,332,NA
+ChIJKfxcjvGA0IkRTkKt7cFRQfw,Upper Buttermilk Falls State Park,42.4093101,-76.5123175,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,116,NA
+ChIJKVHZlnOB0IkR6MkQqO02T5Y,Bethlehem Church of Christ,42.4368849,-76.5096593,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJkY4-o8KB0IkR8kyJOcHtyvA,Hillside Alliance Church,42.4281873,-76.46902879999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJL5lBomqC0IkR-gbLD8Mfw4Q,Cayuga Heights Engineers,42.469654,-76.4789739,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJL5lBomqC0IkRdnuikcF48VM,Cayuga Heights Village Office,42.469654,-76.4789739,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJldpCD1qC0IkR8ktf9ovobf4,Cup O’ Jo Café,42.48374620000001,-76.4905665,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,126,NA
+ChIJlVAbipKD0IkR89XBR8LBo9k,Cornell Botanic Gardens,42.4496189,-76.4728445,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.7,1189,NA
+ChIJLWoWnpyB0IkRiPjGtJ1v4hE,TC3 Ithaca Extension Center,42.4403044,-76.4969998,Community Space,community center,university; point_of_interest; establishment,OPERATIONAL,3.2,5,NA
+ChIJm2bn4WiC0IkRphF19AWqdYk,The Church of Jesus Christ of Latter-day Saints,42.47555819999999,-76.47536459999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJM6f0JNCH0IkRT_w610X6mws,Lucifer Falls Lower Trailhead,42.39794759999999,-76.5565652,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJm769Me2B0IkRRn77bNOlc7A,First Ithaca Chinese Christian,42.4376886,-76.4789842,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,10,NA
+ChIJM8r7AkiC0IkRY4KcLpSApCw,Daniels Books LLC,42.4702334,-76.49153129999999,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJmauJ-aeB0IkRiGhmWnOn-UU,Cafe-On-The-Go,42.4233773,-76.5019537,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJMf-j26mB0IkR0Tf2bWec0CE,Tompkins Center for History & Culture,42.4400314,-76.49724359999999,Community Space,community center,art_gallery; museum; travel_agency; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMRhCtnV_2okRUzFPLUH-1Go,Bethel Grove Bible Church,42.408191,-76.4372084,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,21,NA
+ChIJmUcL1hyC0IkRieakGMhBlaM,Mundy Wildflower Garden,42.4502203,-76.46897020000002,Park,garden,tourist_attraction; park; university; point_of_interest; establishment,OPERATIONAL,4.9,9,NA
+ChIJMWTEACSB0IkR93Bl-fKW-l4,Tutelo Park,42.42265700000001,-76.5310821,Park,park,point_of_interest; establishment,OPERATIONAL,4.5,31,NA
+ChIJMyiWVpyB0IkRoGbHq04ET2s,Book Sale Gallery,42.4393856,-76.4992539,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,5,1,NA
+ChIJn2EVLymB0IkR0q4DSmt1VgE,Der Rosenmeister Nursery,42.422281,-76.540605,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,10,NA
+ChIJN3R8moKB0IkRJoq1jgGrWGo,First Congregational Church,42.4439634,-76.5017989,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn6aNuISB0IkRiMqhRJSmn3I,Center For Community Transportation,42.442334,-76.495424,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJn7NfqqyH0IkRvXdGQwWv3lo,Enfield Falls,42.4027592,-76.5918154,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJN93xTs2D0IkR6ywWEi_pYWQ,Cayuga Waterfront Trailhead,42.4640952,-76.49916929999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJndqRYRqC0IkRrURr_mG5ICA,The Cornell Store,42.4467383,-76.4842171,Social Business,bookstore,book_store; cafe; electronics_store; food; point_of_interest; clothing_store; store; establishment,OPERATIONAL,4.5,760,NA
+ChIJNeUoP66B0IkRX89x6zCTvtM,Markels Flats,42.442981,-76.503428,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNU7qdRKB0IkRc4nZ2DXify0,Lowe's Garden Center,42.4308753,-76.51400919999999,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.5,4,NA
+ChIJnyNxx5yB0IkRH34huvWtLPc,Cafe Dewitt,42.44084,-76.49861899999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,144,NA
+ChIJo-uFZCqB0IkRCJo0th0L8EU,One Ring Donuts,42.4390252,-76.49970909999999,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,84,NA
+ChIJoaSVeXeC0IkRebcYlFUJwg0,Tareyton Park,42.4752442,-76.45956760000001,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,14,NA
+ChIJobfBcSCC0IkRn_HPxgI8tco,Goldie's,42.4498152,-76.4817425,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,37,NA
+ChIJoSctWIOB0IkR1g7gRVSabPg,Tompkins Supreme Court Library,42.44227619999999,-76.4972708,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJoW_AM3mB0IkRh9GHt8chhuc,Floral Avenue Community Garden,42.43468070000001,-76.51926720000002,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJOwLVQPKB0IkRr53Xc7-MN_0,Coal Yard Cafe,42.441089,-76.4753484,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,261,NA
+ChIJOYCteI6B0IkRj6SDbq2mgRE,Cornell University - Law School Library,42.4438549,-76.4857724,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJOYE_-D-C0IkRLwKoY4NLmT0,Hope's Events & Catering,42.4686823,-76.47916649999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,22,NA
+ChIJoZffHpCc0IkRjg-tPXEcvIU,Sidney Cox Library of Music and Dance,42.4501699,-76.48346289999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp_5WuZWD0IkRc6k6A3Gy5qc,Small Pavillion and Pond,42.4856523,-76.4633501,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJp_VU5UCH0IkRXDAGfftSF9M,Robert H. Treman State Park,42.3981723,-76.556324,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,3140,NA
+ChIJP-WBSgmB0IkRDa7CQj9GN_U,"Oasis Christian Fellowship of Ithaca, NY",42.4273794,-76.5082395,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp0z_o1CC0IkRngnc-V4Ci5Q,Community Center,42.4835813,-76.49137080000001,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4,1,TRUE
+ChIJP3lx7nOB0IkRTUyyDlfm1kw,Ithaca Agway & True Value,42.4377899,-76.508995,Park,garden,hardware_store; locksmith; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.6,137,NA
+ChIJp3rm5T-C0IkRAddmzsWqx-c,Island Health & Fitness @ Community Corners,42.4682998,-76.4801712,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.3,24,NA
+ChIJp3rm5T-C0IkRkgiu8K9kKHw,The Heights,42.4689404,-76.4796717,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,297,NA
+ChIJP8ia34iB0IkRGLJ2Id0cxkM,Noyes Fitness Center,42.446447,-76.487996,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,3.8,40,NA
+ChIJp8iSviCC0IkRy5UpJk6Ro9I,Green Dragon Cafe,42.4509025,-76.48404029999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,29,NA
+ChIJpfzecyiC0IkRvtX0nfSG40I,Quaker Meeting,42.4521266,-76.49125529999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJPx67ZfOB0IkRTC2S_J1trTU,Esty Street Garden,42.4429004,-76.50831099999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJPxTDrXCB0IkRXexVOok16hk,Ithaca Bakery,42.4427064,-76.508888,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,1879,NA
+ChIJPYbfn6KB0IkRQ67bNEk9gUc,Church on the Rock,42.4315821,-76.4925002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJPzFkWv-H0IkR3jSkzEu_E5k,Lucifer Falls Upper Trailhead,42.4022899,-76.5898905,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJQ1NjJOWB0IkRmXiPW0XfRxo,Dunkin',42.4371604,-76.4655628,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4,198,NA
+ChIJq6o6R3GB0IkR8259X6jt-CY,St. John's Community Service,42.4394852,-76.50939509999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.7,10,NA
+ChIJq6rarY6B0IkR_s8YcHnauBk,Alternatives Library,42.4449505,-76.4858157,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6rqa6-B0IkR-Pxq1Nh0OZ8,Ithaca College Library,42.4212157,-76.4950752,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,12,NA
+ChIJq6rqC4yB0IkRuY7ICsIG8Js,Engineering Library,42.4447409,-76.4841488,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJQdw6p8qD0IkRpcJtiB4yDjI,East Shore Park,42.4713693,-76.5036037,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,159,NA
+ChIJQTPDP5yB0IkR7MoMKW0qsSg,Tompkins County Public Library,42.4385288,-76.49875999999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,74,NA
+ChIJqUQlaeSB0IkReeBBTT1HOoI,Collegetown Bagels,42.4377584,-76.4635789,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,261,NA
+ChIJQwXO0ZmB0IkRI6HfqrktByM,McDaniels Park,42.439495,-76.523882,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJqxPG83uD0IkRFsclwZB_9X4,Ithaca Dog Park,42.4563715,-76.5157378,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,43,NA
+ChIJr-9GyEqB0IkRBoX8VdH8fpI,Forty Weight Coffee Roasters,42.45108949999999,-76.5093496,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJR-U4qn6B0IkRRv1okxLkU1k,Ithaca Community Gardens,42.4481399,-76.508235,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJR3n28LJ52okRJ0S__KWGTvE,"Monkey Run, Cayuga Trail",42.455962,-76.45103499999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,10,NA
+ChIJr5mxWLCB0IkR-_7qi2hIOmo,Starbucks,42.430916,-76.508934,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,2.7,14,NA
+ChIJrcTqQ-KA0IkRl3Jfi8yd7E4,Gorge Trail,42.416308,-76.5213441,Park,park,tourist_attraction; park; point_of_interest; establishment,CLOSED_TEMPORARILY,4.8,291,TRUE
+ChIJrf8S8eeB0IkRISovvqrNS98,Wood Street Park Playground,42.4324823,-76.5062525,Park,park,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrWPn_ByB0IkRH7CLU9xiTo0,Northview Park,42.4191534,-76.4839069,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJrXeHWuOD0IkRkLR3fhAJeT4,Crossings Cafe,42.4555329,-76.4795265,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,1,NA
+ChIJs7W4Q4qB0IkR29Ic_9mwpdQ,Carl A. Kroch Library,42.4477741,-76.4841596,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJsdLyhw5_2okRPM7Hmg3bHgo,105 Wiedmaier Court,42.4133548,-76.4485133,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJswaZLoqB0IkRHXjISs2d81M,Uris Library,42.4477499,-76.4853009,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,44,NA
+ChIJT_x1AIOB0IkRhcd1YOHXJXk,Gimme! Coffee,42.44449609999999,-76.4994888,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,442,NA
+ChIJt-oOBgKB0IkR-B0B1n0MWRQ,Nothing Nowhere,42.4398,-76.49798899999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,43,NA
+ChIJTahdp3CB0IkRyhLrNquHNiI,"Friends of the Library Book Sale - Donations until April 16, 2022",42.443015,-76.509345,Community Space,library,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,150,NA
+ChIJTahdp3CB0IkRyhLrNquHNiI,"Friends of the Library Book Sale - Donations until April 16, 2022",42.443015,-76.509345,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,150,NA
+ChIJu_r5z4qB0IkRSKTYNKMBsL4,The Essential Electronic Agricultural Library,42.4475983,-76.4801464,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJu4t4-B6B0IkREdxXzSR8YDg,Dunkin',42.4196439,-76.5206317,Social Business,cafe,bakery; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.7,331,NA
+ChIJu66GniaB0IkRdzdYMZuL-Lk,Ithaca First Assembly of God Church,42.4219377,-76.53343780000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,21,NA
+ChIJUQRWhpyB0IkRBbfbDID0oSY,Alphabet Soup,42.4393732,-76.4968975,Social Business,bookstore,point_of_interest; store; establishment,OPERATIONAL,4.5,63,NA
+ChIJuTPGKF-C0IkReUqe0IawU9o,Christ Chapel,42.4857208,-76.4843897,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,7,NA
+ChIJUUM9X_KB0IkRQFXtyJH54qI,Fairview Apartments,42.4406469,-76.4762356,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4,9,NA
+ChIJv-SS8R2C0IkRg7vb1UEljkE,Bioswale Garden,42.4496188,-76.4728445,Park,garden,park; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJV35WVAmB0IkRW2NM_htnS_E,South Meadow Square,42.429336,-76.50670869999999,Park,square,shopping_mall; point_of_interest; establishment,CLOSED_TEMPORARILY,4,2,TRUE
+ChIJv4e0_nyC0IkR7xcO2v5b38g,The Bistro – Eat. Drink. Connect.®,42.4833424,-76.4652584,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,8,NA
+ChIJvc0esC-C0IkRSPLlUZJzPkM,Sunset Park,42.4587229,-76.4932147,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,122,NA
+ChIJVVUF1x-C0IkRxz_9vrBQpT0,Population & Dev Research Library,42.4492432,-76.47709259999999,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJVVUVhKWB0IkRaFIHqMnXlms,Ithaca College Campus Store,42.4222893,-76.4949354,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.4,57,NA
+ChIJVVUVuIqB0IkRFg7SS-7glqY,Mathematics Library,42.4482224,-76.4802083,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJVVVlVJ2B0IkRX6Hbuh2fsh8,Greater Ithaca Activities Center,42.442177,-76.502258,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,33,NA
+ChIJVVVVdCCC0IkRDGiaQHmfRLg,Physical Sciences Library,42.4497231,-76.4812084,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJVVVVWpuB0IkRA15j1USDG1I,Garden Gate Delivery,42.4385288,-76.49875999999999,Park,garden,grocery_or_supermarket; food; health; point_of_interest; store; establishment,OPERATIONAL,4,2,NA
+ChIJvXgg60WC0IkRb3BqyXjX51s,Schaff a J,42.4757831,-76.4897496,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJvYHKXJyB0IkR0exQ-qZtQh0,Ithaca Building Department,42.4389135,-76.49850959999999,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJw1jGn-aD0IkRgpvR9rTMNDk,Seventh-Day Adventist Church,42.4623867,-76.5307165,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJw9WgZWiC0IkRJXQDCAyaxdw,Church of Christ at Northeast Ithaca,42.4771572,-76.4772704,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWUIMa0WD0IkRVFVyh2_9LSY,Gimme! Coffee,42.4687701,-76.479202,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,84,NA
+ChIJWW7ZaOSB0IkRB7joWXvHFsc,Ling Ling Garden,42.4377637,-76.4634531,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,110,NA
+ChIJWXbBoZyB0IkRIGJUbp0O23g,Starbucks,42.44059600000001,-76.497126,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,425,NA
+ChIJwZfy2XWB0IkRMmKNrpyCS9E,St. James AME Zion Church,42.4377339,-76.5046338,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,10,NA
+ChIJx0IvD-uD0IkRSwG5eU_lyoU,Stewart Park,42.4609358,-76.5075588,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,25,NA
+ChIJX3UrQX-B0IkRDS9xAY8YqVk,Ithaca City Water & Sewer Repairs,42.4484594,-76.5041475,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJX9H443GB0IkRpNWXgnYG3dM,Friends of Stewart Park,42.4390335,-76.5138218,Park,park,tourist_attraction; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJxesisBuB0IkRqgz36fWOHyI,McDonald's,42.42197549999999,-76.5177047,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.1,1078,NA
+ChIJxfxyzJyB0IkRXOx32-p3lOw,First Presbyterian Church,42.4424048,-76.4988968,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,19,NA
+ChIJXymQE12C0IkR366Gw8GD9a4,Ithaca Bakery,42.4796273,-76.4819847,Social Business,cafe,bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,519,NA
+ChIJxZxRJw6B0IkRDYXawVOXaK0,Walmart Garden Center,42.427751,-76.5137766,Park,garden,furniture_store; home_goods_store; general_contractor; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJxzxzWR-C0IkR34YH9TTmbj8,Carol's Cafe,42.4533011,-76.4791678,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,11,NA
+ChIJy_stz4WB0IkR2XSrYX5DVWQ,Fine Arts Library,42.4512236,-76.4828622,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.1,7,NA
+ChIJYRfkO2SC0IkRLeCIY56ry0w,Lansing Village Community Park,42.480677,-76.47260299999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJyUia9ZyB0IkRfLUysWB2dAI,Autumn Leaves Used Books,42.4392021,-76.49819230000001,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,369,NA
+ChIJYxF9LF2C0IkR4Y-R7vJGOFY,Ithaca Coffee Company,42.4794938,-76.4819335,Social Business,cafe,grocery_or_supermarket; cafe; bar; food; point_of_interest; store; establishment,OPERATIONAL,4.6,262,NA
+ChIJYYhmKUOB0IkR2LYtPm1ll_U,Walmart Patio & Garden Services,42.427633,-76.513975,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJz0LXs52B0IkRFJZDqKgVO8I,Press Cafè,42.4387028,-76.5000652,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,143,NA
+ChIJZ39mm4F42okRZP1f4ISFV_Y,Adelson Library,42.479567,-76.4511752,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJZ48zmISB0IkRVBMrst3Faj4,St. Paul's United Methodist Church,42.4428134,-76.4960923,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJZ68DsouB0IkR82zI8xtz94Q,"Carl A. Kroch Library, Division of Rare & Manuscript Collection",42.447022,-76.48308999999999,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJz7OdCOOD0IkRnA_J_74f7l4,Dean's Garden,42.4494693,-76.4772318,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJz99lkZ142okR39XEvEjIdxU,Salem Park,42.472062,-76.4553377,Park,park,point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJz9p3a5uB0IkRfiox8_N7R90,Jade Garden,42.4389625,-76.5086498,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,101,NA
+ChIJzb-1dIuB0IkRGbtEU3S2eUI,Mac's Cafe,42.4459683,-76.4820581,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,48,NA
+ChIJzQyLBSOC0IkRt7a_Kjhtuto,John Henrik Clarke Africana Library,42.4573916,-76.4822137,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZSWCy5yB0IkRrLyJ7HzZt18,Dewitt Park,42.4418102,-76.498649,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,157,NA
+ChIJZV-UEyiA0IkRd5XUwuQYomY,Coddington Road Community Center,42.3998413,-76.4571304,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.9,23,NA
+ChIJZV3HGtyB0IkRUs68YSlI0S0,Calvary Chapel Ithaca,42.423695,-76.4627028,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJzV675LiB0IkR1GzNSsiO4GY,South Hill Rec Way Parking,42.4236963,-76.4819241,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,33,NA
+ChIJZWKo9SqC0IkR-0Cqi_bkOGQ,Ithaca Church of Christ,42.4532377,-76.50008849999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,2.7,3,NA
+ChIJZXYRgySC0IkRz6TD_j8QBbI,First Congregational Church,42.4578286,-76.4856501,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA

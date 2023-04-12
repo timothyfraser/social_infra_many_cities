@@ -1,0 +1,757 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ___j35SVuokRl4pygFS0lPY,Christian Way Ministries,36.8589393,-76.1765557,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJ__8vUrOZuokRg1XH1crqJGE,Follett Hgher Edu Group Inc,36.8845203,-76.3005823,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ__gTJtmVuokRQ6hCS4EETZI,Zion Hear The Sound Ministries,36.8544972,-76.1751294,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ_0T9viWYuokRl6XTxS2a-TA,Fawn Street Community Garden,36.8696064,-76.2785498,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,5,NA
+ChIJ_9VdEkqYuokRtrGbePQCyg4,Mt. Gilead Pentecostal Church,36.8794788,-76.2949742,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ_eein7KXuokR1TeU62sFwfk,Grace Bible Church-Norfolk Campus,36.8971486,-76.2575268,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,16,NA
+ChIJ_eKcSd2juokR3uGW1Utaunw,"Church of the Lord Jesus Christ - Norfolk, VA",36.8294837,-76.2813192,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ_SYgPPiVuokRs5mDF4QFfK0,Coastal Cafe,36.8273196,-76.16705040000001,Social Business,cafe,restaurant; cafe; point_of_interest; food; establishment,OPERATIONAL,4.7,223,NA
+ChIJ_V1ayY2iuokRHwVx5QdBoD0,Harbor Square Apartments,36.825304,-76.3086075,Park,square,point_of_interest; establishment,OPERATIONAL,2.1,17,NA
+ChIJ_ZevUlK9uokR1kUC3jigHLs,Norfolk Campostella Recreation,36.8299437,-76.26752619999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.8,10,NA
+ChIJ--n7oOGXuokR7Yr-zGg5C4Q,Dog Park,36.8663772,-76.260329,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-0C9qamjuokRwINqx2qHTq4,Gosport Park,36.8278092,-76.2972295,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-19FTkiWuokRK4zuu2jSUMI,New Life Worship Center,36.8549643,-76.2154103,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,38,NA
+ChIJ-c9imoqZuokRbaEqvl51Erg,Norfolk Crossing Community Center,36.9253604,-76.2962331,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,30,NA
+ChIJ-clbYZ-0LxUR95l5qbd31Vs,Trinity-Word of Faith Baptist Church,36.87179709999999,-76.25236749999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,8,NA
+ChIJ-cUTHgaZuokRDHlfyBmTqow,Coalescence Coffee Company,36.870558,-76.28657299999999,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,214,NA
+ChIJ-cUTHgaZuokRDHlfyBmTqow,Coalescence Coffee Company,36.870558,-76.28657299999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,214,NA
+ChIJ-dHuWhOYuokRJvVvBBg-OPw,Wisteria Cafe,36.8565735,-76.293379,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,40,NA
+ChIJ-dHuWhOYuokRJvVvBBg-OPw,Wisteria Cafe,36.8565735,-76.293379,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,40,NA
+ChIJ-ebVgDmZuokR5cNEydP3D0M,Masjid Ash Shura Bookstore,36.8783655,-76.2946541,Social Business,bookstore,store; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ-fjeNqmXuokRPAIzOr8a0zY,Ambassadors for christ worship center,36.8872364,-76.2222951,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-S7Oo029uokRNToSwAr7SBk,Smyrna Community Church,36.8261111,-76.2677778,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-TXOdQyYuokRvkHoqbYC0qc,Parking garage,36.8462537,-76.29032110000001,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,3,NA
+ChIJ-zZb8v2WuokR47hRHWAtdXw,Living Water Ministries,36.8816855,-76.22413019999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ0_MuHIiXuokRs15QXpmTA3M,Walmart Patio & Garden Services,36.863511,-76.24620999999999,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ02CuhmaZuokRMCSbyVg3DUE,Eleanor's Norfolk,36.8675561,-76.2986025,Social Business,bookstore,book_store; liquor_store; store; food; point_of_interest; establishment,OPERATIONAL,5,15,NA
+ChIJ07yE_wyYuokRPxpX5yK78Og,Granby Street Public Parklet,36.848682,-76.2911621,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ0ahBv0WXuokR_Uclqr9U__c,Fenner Gardens Apartments,36.9095013,-76.25504029999999,Park,garden,point_of_interest; establishment,OPERATIONAL,4.1,41,NA
+ChIJ0e780f6ZuokRwlj3wDxglOs,Starbucks,36.8838472,-76.30174199999999,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,2.8,4,NA
+ChIJ0e780f6ZuokRwlj3wDxglOs,Starbucks,36.8838472,-76.30174199999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2.8,4,NA
+ChIJ0QhYLiuXuokREJE_I_RpGC4,Little Creek Square,36.9175356,-76.2281782,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.2,866,NA
+ChIJ0RNW-yWYuokRIDDeNU0ACNo,Assembly In Jesus Christ Holiness,36.8703409,-76.2772383,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ0zqEjuGVuokRP-zo0nOdKWY,Guiding Light Ministries,36.8437554,-76.1765329,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJ1_ONdqyXuokRXE7eDveKWHg,"Christian Concourse Ministries, Inc.",36.8704569,-76.2284722,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJ12QFL4yQuokR7ppWdTvIH94,Starbucks,36.9545062,-76.2534744,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.7,71,NA
+ChIJ12QFL4yQuokR7ppWdTvIH94,Starbucks,36.9545062,-76.2534744,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.7,71,NA
+ChIJ18WeNIyQuokRZXil1T_S8W8,Royal Garden Chinese Restaurant,36.9539829,-76.25282179999999,Park,garden,meal_delivery; meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,286,NA
+ChIJ18WeNIyQuokRZXil1T_S8W8,Royal Garden Chinese Restaurant,36.9539829,-76.25282179999999,Park,garden,meal_takeaway; meal_delivery; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,286,NA
+ChIJ1a7fDAmYuokRT-yr9oxFaL4,Norfolk Law Library,36.8464301,-76.28529189999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ1a7fDAmYuokRz3dSGBZ20EA,Cafe Crema,36.8459728,-76.2931801,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,19,NA
+ChIJ1bFv4zmXuokRe9AnSfaHWD8,Faith Deliverance Church,36.9089003,-76.24291629999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,14,NA
+ChIJ1ftLYM-XuokRwIgnZrEfSRg,Ingleside Recreation Center,36.8513372,-76.2371129,Community Space,community center,local_government_office; point_of_interest; establishment,CLOSED_TEMPORARILY,4.9,7,TRUE
+ChIJ1fvdGgKXuokRHKAhkuVuTDA,Azalea Garden & Beamon,36.881334,-76.2255,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ1UF14JiiuokRyW7ARvGAF_s,Crawford Square,36.8350112,-76.2970502,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ1VRPkg2YuokRiyA8Vd5vcVQ,aLatte Cafe,36.8506056,-76.2903894,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,293,NA
+ChIJ1VRPkg2YuokRiyA8Vd5vcVQ,aLatte Cafe,36.8506056,-76.2903894,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.8,293,NA
+ChIJ1X1p7s2XuokRluh0yGvMD2Q,Tiffany's Cafe Shop,36.9102053,-76.2556202,Social Business,cafe,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ1ZuSCkeXuokRUL1CbZ8eNdU,Inner City Church of Christ,36.879942,-76.233111,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJ218xhPiVuokRPmIcKPZGgl0,Carolanne Park,36.8271681,-76.17010379999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,28,NA
+ChIJ298-KkSRuokRtcWmjKqwMNQ,Tropical Smoothie Cafe,36.9176913,-76.19671679999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,302,NA
+ChIJ29JRMUtLLhUROD1cVxB14f8,Terrie's Breakfast & Lunch,36.8858849,-76.21665660000001,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,288,NA
+ChIJ2ahH63CWuokRpJ4wkrhKjfg,Faith Temple PFWB Church,36.8588618,-76.1857041,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,4,NA
+ChIJ2TRtabWiuokRSJunt1LOGLY,Dunkin',36.8184827,-76.272767,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.2,300,NA
+ChIJ2XQ7ovGZuokR5UURPfGrmw8,Brambleton Sculpture Park,36.8543007,-76.2933936,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2YWGTkyYuokR7ej6L80h2hg,Lin's Garden,36.88097200000001,-76.30245350000001,Park,garden,meal_delivery; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,96,NA
+ChIJ2Z-2VyKWuokRBnVOgL9jMmE,Firm Foundation Worship Center,36.8383625,-76.2090001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJ3-rxiESWuokRtzXBdbIhd-k,Panera Bread,36.8605915,-76.2086616,Social Business,cafe,cafe; meal_takeaway; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.1,682,NA
+ChIJ3-rxiESWuokRtzXBdbIhd-k,Panera Bread,36.8605915,-76.2086616,Social Business,cafe,cafe; bakery; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,682,NA
+ChIJ3-rxiESWuokRtzXBdbIhd-k,Panera Bread,36.8605915,-76.2086616,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.1,682,NA
+ChIJ3-rxiESWuokRtzXBdbIhd-k,Panera Bread,36.8605915,-76.2086616,Social Business,cafe,cafe; bakery; meal_takeaway; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.1,682,NA
+ChIJ30c0xEmXuokR7b5gpWTw7As,Healing Word Fellowship Church,36.9133402,-76.2489253,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,18,NA
+ChIJ33jfb7GiuokRhOfUI6Ri7m0,Center-Love Church-God-Christ,36.8254072,-76.2776275,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,11,NA
+ChIJ35yQXRWYuokRwGAGWS3xfSo,Ghent Square,36.8609231,-76.29280279999999,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJ36-ri4GiuokRnI5h_kCOfZo,First Congregational Church,36.8419519,-76.3118509,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3c7qCk69uokRyr30qQN8_0A,St Paul Church God In Christ,36.8260476,-76.2656744,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,24,NA
+ChIJ3QPMIKCXuokRiMbz8aLMgpg,Norfolk Deliverance Center,36.9082487,-76.24074399999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3RuohC2XuokRT_8GHzoSxGA,Restoration Christian Fellowship,36.9150903,-76.23645280000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ3wEGM_2WuokRS_KnvshKkcA,Azalea Garden & Windermere,36.885557,-76.22280099999999,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3XMaRKuZuokRamuOFKkpS7Y,ODU Student Recreation Center,36.8857194,-76.3111361,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.7,210,NA
+ChIJ3xZUlwKXuokRu-6SDCDv2CE,Filipino Christian Church-AG,36.8844605,-76.2252705,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJ3Yn3I8SQuokRf3B4558hWR0,Bayview United Church-Christ,36.9337423,-76.24170819999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,13,NA
+ChIJ41OeSzmXuokRiSFsSjrXtYI,Norview Garden Apartments,36.9042401,-76.2433965,Park,garden,point_of_interest; establishment,OPERATIONAL,3.6,20,NA
+ChIJ42JwIMmVuokR7Wazx1ehuzg,Lynbrook Landing Park,36.8598078,-76.1596671,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,58,NA
+ChIJ43_YDTKYuokRUDWdKs_-ZC4,Angelic Church of God & Christ,36.8779556,-76.2832411,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ434oho2QuokR5UjpDCpbQLg,Norfolk Public Library,36.9529658,-76.2512311,Community Space,library,library; accounting; finance; health; point_of_interest; establishment,OPERATIONAL,4.1,70,NA
+ChIJ434oho2QuokR5UjpDCpbQLg,Norfolk Public Library,36.9529658,-76.2512311,Community Space,library,accounting; library; finance; health; point_of_interest; establishment,OPERATIONAL,4.1,70,NA
+ChIJ48_qrjmXuokRGPvEz-icxDQ,The New Beginnings Christian Center Church,36.9071113,-76.24469839999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ49MWLYyQuokRp3-zTT1mFik,Burger King,36.9552474,-76.2531819,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.6,389,NA
+ChIJ4b55-DaYuokRR1mhsguBVHo,Park Place Community Center,36.8758569,-76.2913177,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,55,NA
+ChIJ4cUVYquXuokREZfIzSpD9rg,Jordan-Newby Anchor Branch Library at Broad Creek,36.8573032,-76.2557589,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.3,40,NA
+ChIJ4UzI032ZuokRsneYPw6kHlM,Vessel City Hall,36.8445319,-76.285761,Social Business,cafe,cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ4UzI032ZuokRsneYPw6kHlM,Vessel City Hall,36.8445319,-76.285761,Social Business,cafe,cafe; store; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ4xdEzGGiuokRZu-ieEDWlCQ,Zion Bethel United Church-Christ,36.8258679,-76.3186589,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJ4xHr3zWVuokRpcsD1e_dg3Y,Ellie-D Cafe,36.8415918,-76.1624783,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ50CsWmaYuokRmzQl4qP-m7k,Plum Point Park,36.8605354,-76.30782339999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,140,NA
+ChIJ544bwYeZuokRZj2uWvgKPNU,Commercial Place Fountain,36.8459457,-76.2884716,Park,fountain,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ5f4dEPiXuokRRO2vnm_I_7s,Smyrna Church-Christ Holy,36.8485037,-76.2703951,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ5fkPdfqXuokRg44royRegaY,Lyman Beecher Brooks Library,36.8483513,-76.26450059999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJ5RcHDAKXuokRHWiU68R3Hu4,Azalea Garden & Beamon,36.881909,-76.225018,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ5WELv4uiuokRE9aNoGoVVqA,Saint James Church of God in Christ,36.8264514,-76.3078034,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ5yewa1y9uokRkm3pxUmHqQQ,Mount Zion ICCC,36.8294391,-76.25243859999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,11,NA
+ChIJ5YOn-_SXuokRN41pVNUw2aw,Goff Street Park,36.8571501,-76.2676441,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.1,14,NA
+ChIJ6_5Ppo2VuokRys5ULLWIg6U,Life Line Ministries,36.8428726,-76.1755889,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ611_KYWiuokRU55oT91enOY,Montgomery Square Apartments,36.834824,-76.30617199999999,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4.5,13,NA
+ChIJ6ahO93SauokRD0-MCWMz2-g,Tim Hortons,36.9463091,-76.2734507,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.6,311,NA
+ChIJ6aMG1ViXuokRcAvbWLCbdF0,Rebirth Church,36.91402,-76.239671,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6dPne4KXuokRlOhOIixKWro,Temple of Prayer,36.8794387,-76.2626998,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ6dw1BS2XuokRDsExP0EUFAQ,Wendy's,36.9165275,-76.2340213,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.4,1187,NA
+ChIJ6VeL3kmXuokRpA2F6bKUtdk,Wedgwood Landscaping,36.9136724,-76.2481028,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6ZXuzAWXuokRRwR7SEgQr6Y,Upward Church,36.8825219,-76.2337885,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,36,NA
+ChIJ77jEVfCZuokRbuTjzXPljz4,Kung Fu Tea,36.8699213,-76.2925419,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,240,NA
+ChIJ79FqPra9uokRjqNeEbOMcDM,Woods of Avalon Park,36.8249408,-76.1887773,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,13,NA
+ChIJ7bO6AvKXuokRulgQiwxaamw,Solid Rock Church of Christ,36.853201,-76.260127,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJ7d-l_oCXuokRev0Eu50ZdBc,Tidewater Arboretum,36.8898719,-76.18001830000001,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJ7eC31hCXuokRK_cxkLjOOUg,Truth of God Ministry,36.8920651,-76.23897939999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJ7eYGQ7mZuokReGBAeySkPog,Farragut Park,36.8533534,-76.292377,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ7QwfhxGjuokR9u7FSOYEETc,Triumph International Church Without Walls Ministries,36.8142173,-76.25873849999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJ7UtyTJmXuokRgPgnnVCC1XE,Emanuel Holy Temple,36.8731925,-76.2526669,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,2.7,3,NA
+ChIJ7UVkG8iXuokRfztcpn5odNY,Virginia Beach & Norfolk Square,36.855261,-76.234851,Park,square,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ7Uw7inqZuokRDsVW1iMRQAk,Panera Bread,36.8824453,-76.2999059,Social Business,cafe,cafe; meal_takeaway; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.9,43,NA
+ChIJ7Uw7inqZuokRDsVW1iMRQAk,Panera Bread,36.8824453,-76.2999059,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,43,NA
+ChIJ7Y_DCKWiuokRlhNQEZ2YY7Y,Berkley Community Center,36.8319498,-76.2845875,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,53,NA
+ChIJ7y9RxOKWuokRRBxweeGnTgw,Christian Fellowship Church,36.886052,-76.22282589999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJ8_dkCgGXuokRqml44w4N7sI,Family Community Church,36.879604,-76.22787079999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ8-xunf2ZuokRXbepBCttsVc,Book Exchange,36.9156045,-76.2719816,Social Business,bookstore,movie_rental; book_store; electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.7,307,NA
+ChIJ84d2lAGYuokR0osHGB0wV4k,Greater House of Faith Church,36.8430556,-76.2727778,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ85lbqtujuokROvuBTna7I8M,Square 1 Studios,36.8178728,-76.2742358,Park,square,hair_care; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ85W4w_-9uokRCGMl9KZX9-M,Carolanne Farms Neighborhood Park,36.8262237,-76.1801804,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,60,NA
+ChIJ86CWAjS-uokRLqbVABVJs8o,Lafayette Garden Properties,36.8705659,-76.276077,Park,garden,park; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJ87_xRy2YuokRFTkQ96vWF0w,Eggleston Garden Center & Farmers Market,36.8812425,-76.28133199999999,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.6,105,NA
+ChIJ8eoQKY-QuokR42RXMqBu3A0,Monkey Bottom Park,36.9578256,-76.2568445,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,111,NA
+ChIJ8UgE8eKVuokRZi1AajJ0g4c,Tidewater Central Church of the Nazarene,36.840084,-76.1765703,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,20,NA
+ChIJ8VACbbWXuokRSxr3g5rOmOs,Wells Of Living Water Christian Center,36.856057,-76.2266068,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8ZxV-ZmZuokR1TjRsCVoj0E,Second Presbyterian Church,36.9107901,-76.3066075,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJ91zeNzeXuokR4XNzKNmgTQ0,Endtime United Church of Jesus,36.9106035,-76.2428908,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,20,NA
+ChIJ96ZG78mQuokRljYmMRv33l4,Colonial Heights Church of Christ,36.9264676,-76.2471315,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,13,NA
+ChIJ99UbkPyjuokRNBQKs0UvnrA,Cure,36.834914,-76.306195,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,13,NA
+ChIJ9ddRFy2XuokReMEjXZbpU-0,Christ Apostolic Church,36.917093,-76.234143,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,7,NA
+ChIJ9e01DquRuokR6kPr3Ldsx4E,Karla's Beach House,36.9324479,-76.2020994,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,459,NA
+ChIJ9e01DquRuokR6kPr3Ldsx4E,Karla's Beach House,36.9324479,-76.2020994,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,459,NA
+ChIJ9THrf-qXuokRsNtaVKheaNk,The Battlefield Church Of Christ,36.854267,-76.24798799999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ9ZYK6EiXuokR9FmCgWYVkDM,Chanel Cafe' & Catering,36.852206700000004,-76.2645039,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJA-_ZE0CZuokRh-p9bk13D6s,ishabachIAM Ministries,36.8730822,-76.292554,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJA2BMiSWYuokRqLnuzGtM0j4,Herald of His Coming Cogic,36.8709177,-76.2787692,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,16,NA
+ChIJA2YDM5OQuokRUW8-GmgjnqA,[OV] Church,36.949677200000004,-76.2529041,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,22,NA
+ChIJa4fT3U6XuokR6I2Ca3EP3rA,Chen's Garden,36.9148241,-76.25647529999999,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,184,NA
+ChIJA4gpnpuiuokRyJsKJbgiZaU,Monumental United Methodist Church,36.83588659999999,-76.3026127,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJA5IBDi-XuokR1hOOHBHfaUo,Full Gospel Outreach Ministry,36.9100748,-76.23286209999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJA6FIjBuWuokRbpymQC4vvyM,Coastal Virginia (CoVA) Church,36.8350606,-76.1942969,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,44,NA
+ChIJA6QTKgO9uokRFRYvF3r9150,Freedom AME Zion Church,36.8343274,-76.262036,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJa9u4G0KWuokRHnNlKSd0yko,Norfolk Public Library: Janaf Branch,36.8601463,-76.20452569999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.8,21,NA
+ChIJAaeY1ZqWuokRgQq9P7heCE4,Starbucks,36.8817366,-76.18718129999999,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.2,731,NA
+ChIJabtJ17CXuokRyvz4yXv0c70,Azalea Garden & Village,36.86129,-76.23384399999999,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAfapAq-XuokRGVwK8004wcY,Azalea Garden & Early,36.868928,-76.233515,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJafyBO82ZuokRyXdOOmo97rA,Colonial Place Dog Park,36.8833762,-76.28465729999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,123,NA
+ChIJAQBQDCqauokRdotQtl-Lo-0,dominion international church cathedral,36.9284357,-76.31282809999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJAQCw0XKYuokRMvXvf0smGHY,Pagoda & Oriental Garden,36.8498063,-76.2947484,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,31,NA
+ChIJaQoGyn-auokRDraVEDCTaeY,Captain's Quarters Recreation,36.964222,-76.273658,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,177,NA
+ChIJaR_LeguYuokR5epS4kYgZEM,Prince Books,36.8459842,-76.29175479999999,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,116,NA
+ChIJaR_LeguYuokRV6IEVyp66pI,The Lizard Cafe,36.8460226,-76.2917961,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,59,NA
+ChIJARBkTzS9uokRLXHVpZXu7hE,New Discipleship Worship,36.8135507,-76.26715779999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaScDPM-WuokRjMtjFAQsQt0,Marigold & Honey,36.9066315,-76.1991982,Social Business,cafe,food; point_of_interest; establishment,CLOSED_TEMPORARILY,4,1,TRUE
+ChIJaScDPM-WuokRL_0JC0thRxg,Million Bulb Walk,36.9067743,-76.2084805,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJASvjp-OWuokRlQ0NNLvx8IA,Azalea Garden & Iowa,36.888216,-76.221105,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaT_-Bg-WuokRVDQQv06SB7I,Trilogy Comics,36.8412497,-76.1871365,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.5,381,NA
+ChIJAwxcdlaWuokRGg9UAzBP6vM,Kingdom Word & Worship Temple,36.8731028,-76.21889639999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJAxs550mXuokRzGcHEIMamGU,Sabor Caribeño,36.913744,-76.24831499999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,352,NA
+ChIJAxSmui2YuokRSpaQ-BsGN5k,Lafayette Park,36.8784973,-76.28125080000001,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,624,NA
+ChIJaxZhN5yWuokRj2DjghUntpo,Pop's Diner Co.,36.8849315,-76.1817746,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,1347,NA
+ChIJaYcag7qZuokRJICMeWxMpJk,Kingdom Embassy Ministries,36.8895348,-76.2889228,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAz2y-PeZuokRu9dl0bwokS0,Ann Marie Steele Book Store,36.8454155,-76.28744189999999,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAz2y-PeZuokRu9dl0bwokS0,Ann Marie Steele Book Store,36.8454155,-76.28744189999999,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJAZcb2yGYuokRlLnZDBxlOm0,Hunter's Square,36.8604952,-76.2750655,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJAzKxRoCZuokRutWKHJyjq38,Christ First Community Fellowship Baptist church,36.9266155,-76.3156748,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJB0Va6fWXuokR8PPpV44DL2I,Princess Anne Park,36.8735435,-76.20692919999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,31,NA
+ChIJB2o_xA2YuokRtYa4k7ZDNmA,Barnes & Noble @ TCC,36.849332,-76.2890625,Social Business,bookstore,book_store; electronics_store; store; point_of_interest; establishment,OPERATIONAL,4.4,1004,NA
+ChIJB2o_xA2YuokRtYa4k7ZDNmA,Barnes & Noble @ TCC,36.849332,-76.2890625,Social Business,bookstore,book_store; electronics_store; point_of_interest; store; establishment,OPERATIONAL,4.4,1004,NA
+ChIJb6_VgUuXuokRiNmNLCflxZs,Crossroads Community Center,36.9183767,-76.251103,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.7,6,NA
+ChIJb76IppKZuokRq-5HH6B7qIs,Titustown Recreation Center,36.9151657,-76.2947646,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,64,NA
+ChIJb9FAFz-YuokRg-A8EvFe068,Agudath Achim Congregation,36.8656409,-76.2923529,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJBbQLYzeYuokRLNHpW2YgiSY,Handsome Biscuit,36.872761,-76.29046199999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,1843,NA
+ChIJbcHWCV2WuokRbgjL_MyT2pE,New Heights Fellowship,36.8647302,-76.2032724,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,12,NA
+ChIJBcMBQbqZuokRn-tuWlojaH0,Crossroads Church,36.8963889,-76.3016667,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,29,NA
+ChIJBRupKrCiuokRNFcsnP4T0IU,New Saint Mark Apostolic Faith Church of God,36.8290717,-76.2796895,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJbSiatN2VuokRiwH_GpjnG8Q,Ambassadors For Christ,36.8889342,-76.25912869999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,37,NA
+ChIJBXJhXJmiuokRHqMZCTY8I8Q,The Coffee Shoppe,36.835544,-76.299615,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,478,NA
+ChIJbYF4-8aRuokRt_U182SJUsA,Bay Oaks Park,36.9343175,-76.2123604,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,253,NA
+ChIJBZP-xmqYuokRt09CvW6em_c,First Presbyterian Church,36.8610035,-76.29527399999999,Place of Worship,place of worship,place_of_worship; church; point_of_interest; establishment,OPERATIONAL,4.7,18,NA
+ChIJC_YvKOSVuokRWBAsZIUrA6k,Topgolf,36.8431873,-76.1701729,Social Business,cafe,restaurant; bar; health; food; point_of_interest; establishment,OPERATIONAL,4.5,3325,NA
+ChIJC1s5lQ2YuokRZn-plebA_3A,The Campus Café,36.8499939,-76.2895882,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJC2xLraqZuokRWPgC1aREF9k,Whitehurst Beach Park,36.886169,-76.31676259999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,102,NA
+ChIJC3L6UFqWuokRGrm46fJu-fU,The Home Depot,36.867453,-76.2134385,Park,fountain,hardware_store; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.2,2535,NA
+ChIJC3L6UFqWuokRGrm46fJu-fU,The Home Depot,36.867453,-76.2134385,Park,fountain,hardware_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.2,2535,NA
+ChIJc3ui-rWZuokRtu5Yp6F3bF8,Daniel's Lawn & Garden,36.8882343,-76.2948162,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,2.5,21,NA
+ChIJc4bOm1CWuokRu6mADv92tlA,Garden Center at The Home Depot,36.8663818,-76.21325250000001,Park,garden,furniture_store; general_contractor; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.4,42,NA
+ChIJc4bOm1CWuokRu6mADv92tlA,Garden Center at The Home Depot,36.8663818,-76.21325250000001,Park,garden,furniture_store; home_goods_store; store; general_contractor; point_of_interest; establishment,OPERATIONAL,4.4,42,NA
+ChIJc4mgviOZuokRvc-sj3zURfw,Naci's Corner Cafe,36.8660742,-76.28554079999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,143,NA
+ChIJc58SLq-iuokR4RigWJ6Sdaw,Phillippi Church of Christ,36.8340912,-76.2801392,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJc8IrURqYuokRpim3FJOlmAk,Martin Luther King Jr Memorial,36.8532055,-76.28029769999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,18,NA
+ChIJc9szKDKYuokRBn2NvL7Ew7s,Christian Temple,36.8774853,-76.2851345,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJc9ZmlFGWuokRjR_FV6mUJ8w,Chix Beach pallets,36.8655001,-76.2177768,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,5,2,TRUE
+ChIJCageVTiWuokRXtaukpAn3I8,Norfolk Garden,36.8501199,-76.2104495,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,286,NA
+ChIJcanoDRaXuokRhFsUX6ebBUo,Norview Community Center,36.89697,-76.23936359999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,129,NA
+ChIJCayE-0m9uokRqtXPpLiy8xU,Philippians Church of Christ,36.8170657,-76.2650165,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJCbWYrKaZuokR-jBpDX23wY0,Townbank Fountain Park,36.8444872,-76.29249279999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJCbWYrKaZuokR-jBpDX23wY0,Townbank Fountain Park,36.8444872,-76.29249279999999,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJCcQ3My6YuokRXp64cjJrHKw,Hudgins Memorial Library,36.87430519999999,-76.2816957,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCd0tYTSZuokRu8EZif_Jnvw,KD Cafe,36.8619971,-76.30163739999999,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJcdAmWBOYuokRxfwOAU8D9Cs,Ghent Square Community Association,36.8591662,-76.29120859999999,Park,square,point_of_interest; establishment,OPERATIONAL,3.5,8,NA
+ChIJCdU9XZ6WuokR0YaQetP5Gls,Crescent Square,36.8875466,-76.1806321,Park,square,point_of_interest; establishment,OPERATIONAL,3.3,6,NA
+ChIJCfzuc8OZuokRGfhzf8ZMHL4,Roy E. Hendrix Bussiness Center at Slover Library,36.846685,-76.29059409999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJcSC6cXWWuokRHqSLHz-vKo0,McDonald's,36.8509068,-76.17933359999999,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.4,1663,NA
+ChIJCWwvMji9uokRs04AOjj2yZA,Victorious Living Worship Center,36.8138869,-76.25821959999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJcZqVR3uXuokRQhi7eo7-LnI,Lakewood Park,36.8908866,-76.2631983,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,319,NA
+ChIJd-uM3LCXuokRB2kZlTjSf90,Azalea Garden & Village,36.8616895,-76.234,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJD2IrOeKXuokRUiHDOKTkifs,Mama Lu’s Home Style Cooking,36.8831367,-76.2247314,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,40,NA
+ChIJd3qJv6aZuokRQHk8v93Xt2Y,Square Peg Rents LLC,36.8796927,-76.3065459,Park,square,point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJd8dAewyYuokRtUKLlaQjgf4,Slover Library Maker Studio,36.8466733,-76.2910373,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,6,NA
+ChIJd8dtVzyXuokRR4usfeOuzEg,City of Norfolk: Ofc,36.9002408,-76.2405539,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJd8UvIgiWuokRkq5eDlEfyBY,Kingdom Fellowship Worship Center,36.8396299,-76.178915,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDa-XsZmiuokR0JbaPeTtvqU,Portsmouth Voter Registration,36.832479,-76.2972368,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2.3,3,NA
+ChIJDa-XsZmiuokRMQ90v_-7yxk,City Council Office,36.8328784,-76.2975541,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2,5,NA
+ChIJDa-XsZmiuokRnJjcLkvJvIw,Engineering & Technical Services,36.832818,-76.297198,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJDa-XsZmiuokRPuRxxgiCKjs,Human Resource Management,36.832818,-76.297198,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJDeaOCvWZuokR7ZAD_xvnNis,Equinox Coffee Co.,36.8759068,-76.29461810000001,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,175,NA
+ChIJDeaOCvWZuokR7ZAD_xvnNis,Equinox Coffee Co.,36.8759068,-76.29461810000001,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,175,NA
+ChIJdefDif2WuokR0smH9Du-NNY,Azalea Garden Apartments,36.8825267,-76.2243517,Park,garden,point_of_interest; establishment,OPERATIONAL,2.4,11,NA
+ChIJdf2sZjaXuokRvHWLLllJTtA,Christ The Shepherd,36.913715,-76.2453865,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJdQh8Y5GXuokRS6eIo1HOGs8,"Zion Word Restoration Church, Inc",36.8604905,-76.2495859,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDRkTFNaWuokRWJ-8lhex_xE,Larrymore Lawns Community Park Association – Community Garden,36.91112529999999,-76.2235663,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.4,10,NA
+ChIJDRkTFNaWuokRWJ-8lhex_xE,Larrymore Lawns Community Park Association – Community Garden,36.91112529999999,-76.2235663,Park,garden,park; point_of_interest; establishment,OPERATIONAL,3.4,10,NA
+ChIJDT5BUG6ZuokReFMKJqFwwOo,Clean Eatz,36.915793,-76.2721334,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,146,NA
+ChIJdVsISNCVuokR4er-XXPP9_Y,Twin Tiger Ice Cream and Funnel Cake Cafe,36.8527407,-76.17773919999999,Social Business,cafe,store; food; point_of_interest; establishment,OPERATIONAL,4.7,386,NA
+ChIJdXaETf6XuokRwal-2Irs4hE,The Apostolic Church Glorious Vision,36.8746895,-76.25642979999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJDXjraRWYuokRoGCYyjmjo1I,Botetourt Gardens,36.8611093,-76.2929838,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,65,NA
+ChIJDXjraRWYuokRoGCYyjmjo1I,Botetourt Gardens,36.8611093,-76.2929838,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,65,NA
+ChIJdyblqx-XuokRqMmCllINi1Q,Walmart Patio & Garden Services,36.862881,-76.207306,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDz3bawyYuokRY28_l4JVaKU,MacArthur Square Station,36.8471152,-76.2896899,Park,square,train_station; transit_station; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJdzrGfwyYuokRpL2nGJsdO_Y,Vessel Craft Coffee,36.8646624,-76.3094299,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.7,60,NA
+ChIJdzrGfwyYuokRpL2nGJsdO_Y,Vessel Craft Coffee,36.8646624,-76.3094299,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,60,NA
+ChIJE0Jqo_eXuokR-snB_f9zSDw,Brambleton Community Outreach Center,36.8503862,-76.2687031,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,5,NA
+ChIJe53HMf6XuokRVQ5Fcu-NNTA,Dunkin',36.8383638,-76.1797902,Social Business,cafe,meal_takeaway; cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4,172,NA
+ChIJe53HMf6XuokRVQ5Fcu-NNTA,Dunkin',36.8383638,-76.1797902,Social Business,cafe,cafe; meal_takeaway; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4,172,NA
+ChIJe71z1SWYuokRSiY5YHhG5zM,Square Deal Demolition Inc.,36.8684367,-76.276996,Park,square,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJeceArbmZuokROgIJmLy5Ln0,Cambridge Crescent Dog Park,36.8969895,-76.29712099999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,45,NA
+ChIJecGuBN2WuokRmUef083l4oM,Starbucks,36.897447,-76.20326899999999,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4,397,NA
+ChIJecrtnlGZuokROX2kAZQ3V_w,Hunteraville park,36.8595023,-76.2729808,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,6,NA
+ChIJedYSaiyZuokRjJOR45zUnNY,Tidewater Square Apartments,36.8713624,-76.2918141,Park,square,point_of_interest; establishment,OPERATIONAL,2.8,4,NA
+ChIJEeF_awKXuokRqcG40RPh2X4,Norfolk Apostolic Church,36.8820769,-76.22532509999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,56,NA
+ChIJefP2Zh-YuokR8e8zXQjIG5g,Huntersville Community Center and Pool,36.8593112,-76.2747618,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.1,159,NA
+ChIJeQFz39-WuokRqF2JSt299pY,Living Destiny Church,36.9175823,-76.2561496,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,9,NA
+ChIJEShWGMeZuokRa9KNvLaTUqI,Starbucks,36.8466131,-76.2910835,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3,1,NA
+ChIJETolPM-WuokR7LPd_NPbPXA,Norfolk Botanical Garden,36.9015834,-76.200199,Park,garden,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,6528,NA
+ChIJeVleaDOUuokROBb9JM1ZYhM,Paradise Found Massage and Day Spa,36.8694903,-76.160639,Park,fountain,spa; beauty_salon; hair_care; health; point_of_interest; establishment,OPERATIONAL,4.7,71,NA
+ChIJEw8m5TyXuokR-01hOh4Zx2A,Dundale Square Apartments,36.9011573,-76.2383993,Park,square,real_estate_agency; point_of_interest; establishment,OPERATIONAL,3.3,32,NA
+ChIJEwNJvoiiuokRubywlSacoKY,Portsmouth Colored Community Library Museum,36.8317907,-76.31301069999999,Community Space,library,museum; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,11,NA
+ChIJeXsvRTWWuokRFEmQnKqicMI,Iglesia de Dios Ebenezer,36.8533871,-76.22358559999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,15,NA
+ChIJEXz8tDuXuokRysK4X2yPxhk,St Paul Uhca,36.9062007,-76.24049870000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJEzPhR0GYuokR5eyR5dT0_5s,Fair Grounds,36.8674841,-76.29861559999999,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,819,NA
+ChIJf_8rLd-VuokRdR7-NBmNB8k,Christ Unity Oceanside,36.8546326,-76.176071,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJF0P1nf2WuokRQEbANNffb1U,Norfolk Apostolic Family Life Center,36.883316,-76.2238625,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJF13wynGVuokRJaJ5POZ-KgA,"Chistian Congregation in the United States - VIRGINIA BEACH, VA",36.8537116,-76.1757157,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJf2jMT4WiuokRWReC3Qtf5FE,Fourth Baptist Church,36.83239289999999,-76.3063793,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJF4ZkIkWWuokR_mKGbsu8rEo,Tropical Smoothie Cafe,36.8616477,-76.2107883,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,605,NA
+ChIJF4ZkIkWWuokR_mKGbsu8rEo,Tropical Smoothie Cafe,36.8616477,-76.2107883,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,605,NA
+ChIJF5sH35WZuokRvJp2TqUqStU,EspressOasis,36.8623955,-76.3029292,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJF5sH35WZuokRvJp2TqUqStU,EspressOasis,36.8623955,-76.3029292,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,5,2,NA
+ChIJf6IWO4m9uokRxMXMc3hKbNo,Cornerstone City of Refuge Ministries International Church,36.8269688,-76.2095476,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJF6uqaa2ZuokR_ExpAnVhHQ0,Starbucks,36.8869192,-76.306341,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.9,117,NA
+ChIJF6YW30CRuokRHkEm4yPqhVA,Immanuel Worship & Deliverance Ministries INT'L,36.9441756,-76.2574247,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJF7zkNzmWuokR63cwEgWNpzo,McBath B C,36.848793,-76.20813249999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJf8cNvQKUuokRz24vNyy_1W4,Church of Christ Southside,36.9027124,-76.1770957,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJfcdbWkiZuokR2BjvOdHD_qA,Rei do mate,36.926832,-76.3260992,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJffBHaI6QuokRhT9DURuRgws,Carmen's Market & Restaurant,36.95449139999999,-76.2548951,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,165,NA
+ChIJffBHaI6QuokRhT9DURuRgws,Carmen's Market & Restaurant,36.95449139999999,-76.2548951,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,165,NA
+ChIJFR9S4g2YuokRMQNuVYC-_tE,MacArthur Center Park,36.8503702,-76.2886402,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,384,NA
+ChIJFSWS30iXuokRc1jqylWohEc,Walmart Garden Center,36.9127183,-76.2520759,Park,garden,general_contractor; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.1,13,NA
+ChIJfUCNtDCXuokRy6fPPUkDrqg,Zion Light Church of Christ,36.9101562,-76.2417785,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJFVy8F2qYuokRyRVAEezeHXQ,Raleigh Avenue Playground,36.8617552,-76.2992374,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,45,NA
+ChIJfW1R03SVuokRvoBdGZcYBrY,Happy Cafe,36.884545,-76.17707109999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,183,NA
+ChIJFwGYcA6YuokRzWYVzqhAZms,Garden Gazebo MacArthur Center,36.849493,-76.28936999999999,Park,garden,home_goods_store; point_of_interest; store; establishment,OPERATIONAL,3.4,5,NA
+ChIJfXh-bbSiuokR0d6LHv9ED1g,Chesapeake Community Health,36.8224074,-76.2752859,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,115,NA
+ChIJG_Qk06KWuokRJLX2ZxtusCc,Word Cathedral Worship Center,36.8946629,-76.1901433,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJg_QtTDSXuokRMkkJXTa-DDE,Martin’s Cafeteria,36.8499483,-76.2094019,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.7,233,NA
+ChIJg_QtTDSXuokRMkkJXTa-DDE,Martin’s Cafeteria,36.8499483,-76.2094019,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,233,NA
+ChIJg_vOcJKQuokRejbMpZM1upM,Ocean View Hardware,36.95405179999999,-76.2521481,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.8,201,NA
+ChIJg_vOcJKQuokRejbMpZM1upM,Ocean View Hardware,36.95405179999999,-76.2521481,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.8,201,NA
+ChIJg-1aVLOZuokRhXeZOhKRvAo,University Village Bookstore,36.8845538,-76.3005395,Social Business,bookstore,book_store; clothing_store; point_of_interest; store; establishment,OPERATIONAL,4.1,131,NA
+ChIJg-Tzo92ZuokRRuDOSmhf0nk,Meditation Park,36.877165,-76.28798510000001,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,9,NA
+ChIJG3eNVeuXuokRi-y_NlWuH4Y,Broad Creek Community Center,36.8568381,-76.26160589999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,22,NA
+ChIJg4IKdteZuokRT7IIJvSp6lU,Slover Library,36.846621,-76.2904329,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,149,NA
+ChIJg4Js2x6YuokRsSLqtyUm3ts,Norfolk Public Library: Blyden Branch,36.8571395,-76.27585710000001,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.8,11,NA
+ChIJg4M1NaSiuokRCk_IESl8RZQ,Tabernacle of God Holiness Church,36.833754,-76.28549160000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJG4nbJuuXuokROtVLAiilNng,Greater Revival Church,36.8500469,-76.2549464,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJG5qxB-2VuokRT_kPUYoVqKo,Connect Church,36.86915,-76.1626604,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,25,NA
+ChIJg6hxZjmXuokRGI1NsXod88M,Mount Gilead Missionary Baptist Church,36.9054015,-76.2430466,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,22,NA
+ChIJg9WHW4OiuokRHsEAZW4peAc,Starbucks,36.8380757,-76.3065869,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,723,NA
+ChIJgfr8Ku2QuokRQH7Vl4FmQys,Advent Episcopal Church,36.9494268,-76.247736,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,7,NA
+ChIJGfzo4S-YuokRjUloYsikcxQ,Refuge Assembly of Yahweh - Yahshua The Messiah,36.872649,-76.282519,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJgSPOfMyZuokR7avv5gB8n2c,Parking for Plum Point Park,36.8609888,-76.3068393,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJGT2X30GWuokRVDyPDgZhXGk,MP Island Café,36.8548441,-76.1964437,Social Business,cafe,grocery_or_supermarket; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,2141,NA
+ChIJgUn1ouSVuokRxTfdL5MvY8Q,Kempsville Christian Church,36.83844759999999,-76.1721725,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,18,NA
+ChIJgVF0huiQuokRAIM6JkjheOw,Ocean View Christian Reformed Church,36.94301189999999,-76.2369763,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,15,NA
+ChIJGWlWYoSVuokRRa3uqkJgJWo,Lake Edward Park,36.8640593,-76.1720787,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,5,NA
+ChIJGxf-JXWauokRhi2XsUoXVv0,ELY MEMORIAL PARK,36.9450983,-76.273614,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,14,NA
+ChIJGXl6zTOZuokRu4YAd9W6pKM,Brown Suga Hip Hop Soulfood Cafe,36.9186827,-76.2957211,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJGyOgLbKZuokRwhWL95t_6ZY,Old Dominion University Monarch Market,36.8879537,-76.3029783,Social Business,bookstore,book_store; clothing_store; point_of_interest; store; establishment,OPERATIONAL,4.7,6,NA
+ChIJGyOrBy6YuokRApJa8kKg8J4,Prayer & Deliverance Center,36.8766607,-76.2822367,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJgYY44m2YuokRaVXKVBdLZg0,Bea Arthur Dog Park,36.8534267,-76.2999514,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.4,298,NA
+ChIJh1ZL_0aZuokR9zQfSDj5buc,Plum Point Kayak Launch,36.8600582,-76.3073424,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,7,NA
+ChIJh2cY642QuokRBMU18wDZkI8,McDonald's,36.9536016,-76.2523392,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.3,1205,NA
+ChIJH36peT-9uokRVep56vU-O4o,Dr. Clarence V. Cuffee Community Center,36.8152231,-76.25151629999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,255,NA
+ChIJh4OarnCXuokR59s1rPW8c34,Abundant Life Apostolic Church of Christ,36.8749171,-76.2540745,Place of Worship,place of worship,place_of_worship; church; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJh5VyfDiWuokRiKA0GAb3EJU,Dunkin',36.8521788,-76.21058599999999,Social Business,cafe,meal_takeaway; cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.5,638,NA
+ChIJh5VyfDiWuokRiKA0GAb3EJU,Dunkin',36.8521788,-76.21058599999999,Social Business,cafe,cafe; bakery; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.5,638,NA
+ChIJH7CuBDCYuokRoAHfY9U9XLQ,Conscious Planet,36.872308,-76.2829254,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,194,NA
+ChIJH7CuBDCYuokRoAHfY9U9XLQ,Conscious Planet,36.872308,-76.2829254,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,194,NA
+ChIJH8cmaIeZuokRp1IBbb75mDc,La Brioche,36.8564608,-76.288455,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,245,NA
+ChIJH8cmaIeZuokRp1IBbb75mDc,La Brioche,36.8564608,-76.288455,Social Business,cafe,bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,245,NA
+ChIJH8cmaIeZuokRp1IBbb75mDc,La Brioche,36.8564608,-76.288455,Social Business,cafe,bakery; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.8,245,NA
+ChIJH8D_n5uVuokRYOuOnUKM5Aw,College Square Association,36.8432679,-76.1770154,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJH92EJLCiuokRm9AVJDE_iXA,Norfolk Public Library: Horace C Downing Branch,36.82885539999999,-76.2808774,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.6,7,NA
+ChIJHaMxecqiuokRDDe_XboECkg,Crumbsnatcher Cafe,36.8177875,-76.2744065,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJhbe6MDWauokRryLs6Z2pSBQ,Bellissimo Espresso Café,36.947237,-76.31691459999999,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,95,NA
+ChIJhbe6MDWauokRryLs6Z2pSBQ,Bellissimo Espresso Café,36.947237,-76.31691459999999,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.2,95,NA
+ChIJHbUqtWmYuokRPIYgPQ27RTQ,The Retreat Cafe,36.8621019,-76.303208,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,4,NA
+ChIJHbUqtWmYuokRPIYgPQ27RTQ,The Retreat Cafe,36.8621019,-76.303208,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.8,4,NA
+ChIJHfOs2NKWuokRIUMXGsTx-UM,Sonic Drive-In,36.9156335,-76.21592969999999,Social Business,cafe,restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.5,1226,NA
+ChIJHfOs2NKWuokRIUMXGsTx-UM,Sonic Drive-In,36.9156335,-76.21592969999999,Social Business,cafe,restaurant; store; point_of_interest; food; establishment,OPERATIONAL,3.5,1226,NA
+ChIJHfOs2NKWuokRIUMXGsTx-UM,Sonic Drive-In,36.9156335,-76.21592969999999,Social Business,cafe,restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.5,1226,NA
+ChIJhUjCPi6ZuokRaXJ_8eSDRq8,Town Center Cold Pressed - Norfolk Downtown,36.85198,-76.28806809999999,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,78,NA
+ChIJhUjCPi6ZuokRaXJ_8eSDRq8,Town Center Cold Pressed - Norfolk Downtown,36.85198,-76.28806809999999,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,78,NA
+ChIJHUZ5CbSiuokRrxG619YS7Dg,Chesapeake Christian Center,36.823055600000004,-76.2758333,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,30,NA
+ChIJHVAPF2qYuokR_CCLOGkisxs,Raleigh Park,36.861858,-76.299185,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,27,NA
+ChIJHVXoFByYuokRnIgSJuTldIo,Family Investment Center,36.8541513,-76.2762946,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJHwD6aK2ZuokRKH5ETVaMQ-w,Cafe 1201,36.8864902,-76.3066927,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.5,6,NA
+ChIJHYX7ipyiuokRse39vd5VeLg,Greenwich Square Park,36.8380437,-76.3030876,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJHYX7ipyiuokRse39vd5VeLg,Greenwich Square Park,36.8380437,-76.3030876,Park,square,park; point_of_interest; establishment,OPERATIONAL,4.9,13,NA
+ChIJHZaRqDmYuokREVKXYBro6GE,Catnip Cat Cafe,36.8689149,-76.2975225,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.9,269,NA
+ChIJHZw3i1yYuokREDpyCBZB6Sk,Fergus Reid Tennis Park,36.868073,-76.3084669,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,25,NA
+ChIJI_PTxwKUuokR_Ik1DUFoK1U,Chalice Christian Church,36.9014864,-76.176903,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJi-UNXCuXuokR6jJRb68k0vc,McDonald's,36.9171122,-76.2300832,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.3,1123,NA
+ChIJi-UNXCuXuokR6jJRb68k0vc,McDonald's,36.9171122,-76.2300832,Social Business,cafe,cafe; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,3.3,1123,NA
+ChIJI1W1ihKkuokR-RiQCXOMGRA,Big House Church,36.8656604,-76.29295599999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,57,NA
+ChIJI3HlE_iVuokRieCZ73aLGrU,Light of The World Ministries,36.8272144,-76.1673653,Place of Worship,place of worship,point_of_interest; establishment,OPERATIONAL,4.9,10,NA
+ChIJI5nNMHeRuokRmYOfwHCGV_U,All God's Children Community Church,36.9453716,-76.2594712,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJI9aOPOWZuokR9R_R9azwN1w,Zion Community Church - Port Norfolk,36.8498327,-76.3358988,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.9,11,NA
+ChIJia-JFkSRuokRoqSEJTb6wWU,THE CHURCH OF PENTECOST USA INC- NORFOLK ASSEMBLY,36.9287214,-76.1947345,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,25,NA
+ChIJiaF0sS6XuokRRzlUUZJV5Ug,Memorial chapel,36.87532789999999,-76.2525197,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJIbJMnQyYuokRXSs7mWbwOVI,Fruitive,36.8464518,-76.2921155,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,132,NA
+ChIJiblJK2SjuokRZbcVqh1NWbM,The Book Club llc,36.8354694,-76.3046339,Social Business,cafe,bar; book_store; home_goods_store; cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,19,NA
+ChIJIcwYwUSRuokRiddDXsPghXw,Sandfiddler Cafe,36.9274942,-76.1919077,Social Business,cafe,restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.7,474,NA
+ChIJIcwYwUSRuokRiddDXsPghXw,Sandfiddler Cafe,36.9274942,-76.1919077,Social Business,cafe,restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.7,474,NA
+ChIJIcwYwUSRuokRiddDXsPghXw,Sandfiddler Cafe,36.9274942,-76.1919077,Social Business,cafe,store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,474,NA
+ChIJIdN13LqQuokRmteGRFw_s_o,Norfolk Therapeutic Recreation,36.9345993,-76.25917559999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,26,NA
+ChIJiejmR0yYuokRnVnlTj69bOA,Dunkin',36.8807079,-76.3026375,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.9,423,NA
+ChIJiejmR0yYuokRnVnlTj69bOA,Dunkin',36.8807079,-76.3026375,Social Business,cafe,meal_takeaway; cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.9,423,NA
+ChIJiejmR0yYuokRnVnlTj69bOA,Dunkin',36.8807079,-76.3026375,Social Business,cafe,meal_takeaway; cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,423,NA
+ChIJIeKo5iiYuokRQY_Yj5qPBlY,Faith Deliverance Christian Center,36.8728726,-76.2747487,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,13,NA
+ChIJifE8nCuUuokRE6xg8vqIoHQ,The Gardens of Virginia Beach,36.87215390000001,-76.1732341,Park,garden,point_of_interest; health; establishment,OPERATIONAL,4.4,28,NA
+ChIJIQ4GFxyUuokR5Lx3yj2c2UY,Garden Wood Park,36.8965364,-76.1738256,Park,garden,colloquial_area; political,NA,NA,NA,NA
+ChIJISk1dLGQuokRLCGjYt807ok,Northside Park,36.92874219999999,-76.2566989,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,1205,NA
+ChIJITC6JK2ZuokRrx1dnJO_QrE,Einstein Bros. Bagels,36.8839962,-76.30528989999999,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,CLOSED_TEMPORARILY,3.4,20,TRUE
+ChIJIUWxwiiRuokRuxsWpSINoDU,Tarrallton Community Center,36.9255394,-76.22045469999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,30,NA
+ChIJIV0pljaZuokRqLqxgspSKes,Habitat Conservation Area,36.8556093,-76.29376069999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJIWGcq5CQuokRo4fO7vGwokc,Maple Park,36.9482443,-76.2591131,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,7,NA
+ChIJIws-tYyXuokRarvRDW6CRw8,New Macedonia Christian United Church of Christ,36.8589523,-76.2639342,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,13,NA
+ChIJixRMpu-_uokRv4P4AygcSEs,Seashore Church,36.8573097,-76.28848049999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJiY5d0uaXuokRf2xoBn9s_xA,Grandy Village Recreation Center,36.8422431,-76.2520065,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,30,NA
+ChIJj_yK8QaXuokRs1bJ5wVxyWc,Lion of Judah Worship Center,36.9072777,-76.24364800000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJj-boPGCiuokRxuc4GIg-SF8,Holy Light Church of Deliverance,36.8243839,-76.31827009999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJJ-OBaE6YuokRswf0pBtvD00,Greater House of Faith,36.8782934,-76.3038803,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJj-OStJmiuokRExgjZByClHw,The City Of Portsmouth,36.8327591,-76.2975514,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJJ1rLQ5yWuokR9VQtdP5kVDA,Dunkin',36.8845821,-76.1825631,Social Business,cafe,meal_takeaway; cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4,318,NA
+ChIJJ2qtWTOZuokRezQn_q6KLBo,C4 Cafe Ghent,36.8697996,-76.2903542,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.7,23,NA
+ChIJj2RQFQeXuokRTSjHQUuv7MA,The Big Free Bookstore,36.85166450000001,-76.2055415,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,15,NA
+ChIJj5B67aeXuokRjmbBG8CTSiw,Garden China,36.8761801,-76.23752979999999,Park,garden,meal_delivery; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,167,NA
+ChIJj8hBM42iuokRUA3xI0dqfZM,Antioch Church of God in Christ,36.8218148,-76.30771899999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJJ9YqCZWXuokRnnyijjtqMuE,The Kroc Center Hampton Roads,36.85878940000001,-76.2503902,Community Space,community center,gym; health; church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,336,NA
+ChIJjbgLniWYuokRdUE4-s-Y_lU,"The Hub: Earth Science, Urban Ecology & Economics Facility",36.8343943,-76.3021456,Community Space,community center,park; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJJfP9M9CXuokR5bt986Ek3iY,Squires Memorial Presbyterian,36.8439112,-76.23385309999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJjTsU6_WXuokRaK0-ICW15Ss,Jerusalem Apostolic Christian Church,36.8555205,-76.2698185,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjUVrEiKYuokRGQ4OdXLdn1Y,Sweet Jams Cafe,36.8609528,-76.2780167,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,470,NA
+ChIJjVQhfsqiuokR1wa3nERRteo,South Norfolk Christian Church,36.8174121,-76.273879600000015,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,21,NA
+ChIJJVwNWRqYuokRSclHALP_wOA,Cfc Bookstore & Café,36.8531506,-76.2807207,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJJVwNWRqYuokRSclHALP_wOA,Cfc Bookstore & Café,36.8531506,-76.2807207,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJW1VrJ-iuokRCSXgq18h96g,Portside Park,36.8394543,-76.29695989999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,17,NA
+ChIJjWCW7OCZuokROvbcNI7qlJU,Tabernacle Church of Norfolk,36.9040052,-76.2762078,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,55,NA
+ChIJJWlqkA2YuokRj65WiY7euIY,US Court Library,36.8536006,-76.2885478,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJwV2Aq-XuokRxSdLTgBVYNA,Azalea Garden & Early,36.86879800000001,-76.233424,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjX5MnCyXuokR9k62dqnn7R4,Bel Aire Pancake House,36.9166022,-76.2307292,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,773,NA
+ChIJjxxUx8GjuokRYpyrPh4DnKg,Impact Church SoNo,36.8155641,-76.2721753,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJJy_UNiGauokR7bRuxyym1PM,Capt. Slade Cutter Athletic Park,36.9296343,-76.299318,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,238,NA
+ChIJJy68N4G9uokRJCSv3msI7xc,Lecove Park,36.82867,-76.2195627,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,40,NA
+ChIJjzXwVjaYuokRheHKZtOhBbY,Norfolk Public Library: Park Place Branch,36.8758735,-76.2913645,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3,9,NA
+ChIJK005m0qYuokRRTqhQ0AQGWA,New Beginnings Deliverance Ministries Inc.,36.8724669,-76.2821886,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJK0jwKRKXuokRcqOYcPnTTOU,Impact Church,36.8902542,-76.2420864,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,24,NA
+ChIJk3tYvYWiuokRVh6uOeSabd4,Victory Fellowship Church,36.8338328,-76.3095187,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJk4-9Nkq9uokRCS9EPaoKFj4,Oakdale Square Apartments,36.8191213,-76.2667675,Park,square,point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJK5kmoamXuokR8HsKU21OGRM,New Hope Church of Deliverance,36.8737212,-76.232246,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJk7d8mQKXuokRFdErAReP51o,Doulos For Christ,36.88435,-76.2252372,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,16,NA
+ChIJk7hLz4iQuokRD3WmA4t1hpY,Sarah Constant Beach Park,36.9589302,-76.258231,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,837,NA
+ChIJk7ZUY9KjuokRFxDRknemcPk,Owens Creek Park,36.843247,-76.31768199999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJK8AVv8yWuokRJNnqgVl-S0Q,The Garden United Methodist Church,36.915019,-76.2088177,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,19,NA
+ChIJK8AVv8yWuokRJNnqgVl-S0Q,The Garden United Methodist Church,36.915019,-76.2088177,Park,garden,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,19,NA
+ChIJK8bW2XSauokRzfLAhgCbE-o,GREYHAWK 620,36.9451675,-76.27418949999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJK9lF-BiYuokRSGiTFckxmwk,United House of Prayer-Maintenance,36.8587004,-76.27959249999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJKbU2yeKZuokRqGOnhEdRfWM,Iglesia ni Cristo - Locale of Norfolk,36.9164925,-76.30057160000001,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJKc47rKaZuokRHIP6l2eTlIs,Roll & Press Cafe,36.84583780000001,-76.2884241,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.7,9,TRUE
+ChIJKcZO0CaXuokRhIjk8_g6ClA,Potter's House Christian Church,36.9027986,-76.2283174,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,92,NA
+ChIJkdjNq8yWuokRlgdK9lEzKkg,The Church of Jesus Christ of Latter-day Saints,36.9152395,-76.20744909999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,26,NA
+ChIJkdUS_YyRuokRfXvdYK-dvr0,Holy Trinity Pastorial Center,36.9520962,-76.2566076,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJkeL1nkeYuokRE13vwCSCB1E,Tropical Smoothie Cafe,36.8708288,-76.2950417,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.8,264,NA
+ChIJkeL1nkeYuokRE13vwCSCB1E,Tropical Smoothie Cafe,36.8708288,-76.2950417,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.8,264,NA
+ChIJkeVt-3yWuokRFWz6OtfX__E,Hofheimer Library,36.8680368,-76.1878401,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJkRaQurWQuokR7Js-u5TKMJQ,St Paul Christian Deliverence Center,36.9239732,-76.2500345,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJKRSKyziYuokRKIv9GRFfbBE,Local Heroes,36.8678245,-76.2926064,Social Business,bookstore,art_gallery; book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,330,NA
+ChIJKTCEKkGWuokRAz75iIxARfk,McDonald's,36.855008,-76.2070907,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.5,1897,NA
+ChIJKw1zaoyXuokRdDj4k-xZ3XE,The Way Of Truth Church,36.862604,-76.2639566,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,6,NA
+ChIJkwSXUMmVuokRFvH0h-pcBHQ,Williams Farm Recreation Center,36.8647003,-76.158564,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.3,175,NA
+ChIJkXN-3WqYuokR18RohHR8wQ0,FPC Center for Prayer and Spiritual Growth,36.8605463,-76.2953979,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJkYdsAUyXuokR_Zs1nxkREvQ,Tropical Smoothie Cafe,36.9152138,-76.2533322,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.5,367,NA
+ChIJKyN_bKeZuokRMRU4L9Pbsf0,Lamb and Lion Worship Center,36.8700977,-76.2834652,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJKyPGOZuYuokRBMPmbPJgK38,Bruce Johnson Memorial Park,36.8542365,-76.3366703,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,21,NA
+ChIJkzuN-BuYuokREjYaRk4xBGk,Calvert Square,36.8543526,-76.2761515,Park,square,neighborhood; political,NA,NA,NA,NA
+ChIJl-jiMYWWuokROy3kSGwVWDI,Krispy Kreme,36.88116,-76.1877799,Social Business,cafe,cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,1154,NA
+ChIJL-mxqj-YuokRTrvcUkL2i9w,Norfolk Public Library: Van Wyck Branch,36.8646872,-76.29141229999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,18,NA
+ChIJL4_DupyiuokR1BaEzhIY468,Emanuel AME Church,36.8382022,-76.3049913,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJL4v8nrKZuokRxpZlXNyYS80,Monarch Fountain,36.8863593,-76.30561709999999,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4,8,NA
+ChIJL6MZf_GXuokRlhJ1iAInZ6E,The Pentecostal Church of God,36.8670781,-76.2708797,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJL9ixxYSiuokRJFBoOiALxn8,Holy Disicple Ministry,36.835691,-76.3067432,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJL9Wy31eXuokRiZLoBNDer-0,Starbucks,36.9144364,-76.27072020000001,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,760,NA
+ChIJL9Wy31eXuokRiZLoBNDer-0,Starbucks,36.9144364,-76.27072020000001,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,760,NA
+ChIJLaDNjw2YuokRVEhy9lHp9kc,Mosaic,36.8507494,-76.2903601,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLaTzJTSYuokRcoNiRmf8Gz8,House of Consciousness/Jikoni Cafe,36.8778914,-76.291992,Social Business,cafe,book_store; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,413,NA
+ChIJlcfpNdWbuokRprq1wNzgdHk,McDonald's,36.9286897,-76.31724109999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3,820,NA
+ChIJlcfpNdWbuokRprq1wNzgdHk,McDonald's,36.9286897,-76.31724109999999,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3,820,NA
+ChIJLeeNqJCQuokRjPejldGRV-U,Ocean View Dog Park,36.9486091,-76.2592769,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,224,NA
+ChIJlQdeLY6XuokRvsjQllzKXW4,Ballentine Bark Park,36.8662605,-76.2601999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,138,NA
+ChIJLQIBgQuYuokRporVfs4r5GI,Starbucks,36.8474095,-76.2919391,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,404,NA
+ChIJLRQxhzGXuokR5cLoCMGINDM,God Is In Control Outreach,36.914015,-76.238614,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLRQxhzGXuokRRyHl6LrEkXQ,Lighthouse Assembly of God,36.914015,-76.238614,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,7,NA
+ChIJLS9f0cyWuokRgT6EisNgGw4,Norfolk Public Library: Little Creek Branch,36.9154311,-76.2098129,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,26,NA
+ChIJLTqlDUaWuokRL0L_ChfQvI8,Lowe's Garden Center,36.8574782,-76.211823,Park,garden,point_of_interest; store; establishment,OPERATIONAL,3.8,21,NA
+ChIJLTqlDUaWuokRL0L_ChfQvI8,Lowe's Garden Center,36.8574782,-76.211823,Park,garden,store; point_of_interest; establishment,OPERATIONAL,3.8,21,NA
+ChIJLTyiaFGYuokR0yLBgLzedko,Harbour Light Baptist Church,36.879296,-76.3098947,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJLWLuXTyYuokRhD-cLD5wUxw,Charlie's Cafe,36.8653364,-76.2859285,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,925,NA
+ChIJlWoakSeZuokR7OtycNvTF70,Meadowbrook Dog Park,36.9154858,-76.30563599999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,81,NA
+ChIJlWUUb_eXuokRY0bf5BQrvLE,Tropical Smoothie Cafe,36.8480161,-76.262085,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.3,3,NA
+ChIJlzL3qoOXuokRn5-VBPzUrHo,Mt Herman Church of Christ,36.8770616,-76.2626757,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJm3IpPEyXuokRMQyHVpV3CVw,Tealux Cafe,36.9155125,-76.2536169,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.7,207,NA
+ChIJM5ZV3ymauokRHxnRYBkSzCw,Glenwood Park,36.9274939,-76.3099044,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,38,NA
+ChIJm6q3NGSXuokR8WCB-l8iLvk,Every Square Inch of Norfolk,36.8945592,-76.2624313,Park,square,point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJM7CHow2YuokRSpAkrh58vao,Tropical Smoothie Cafe,36.8496858,-76.2907656,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,136,NA
+ChIJm7fihAyYuokRT8bAVqqKNG0,Café Stella,36.846838,-76.29199729999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,196,NA
+ChIJM7gDPpSZuokR0d5FyHdo5Aw,Cafe Milo,36.855547,-76.29156429999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.9,95,NA
+ChIJM7gDPpSZuokR0d5FyHdo5Aw,Cafe Milo,36.855547,-76.29156429999999,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.9,95,NA
+ChIJM7owU_2XuokRpkAt4Xy78XE,Zion Word Restoration Ministries,36.869869,-76.23178399999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJM8EBMeeZuokRvkUKTFh9mYM,Talbot Park Baptist Church,36.904482,-76.27813019999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJMc-UwwuYuokRxCNMlaNRKvU,Townebank Fountain Park,36.8444277,-76.2894523,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJMc-UwwuYuokRxCNMlaNRKvU,Townebank Fountain Park,36.8444277,-76.2894523,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJMcT06O6QuokRrn7VEw2F5Co,Shipwreck Sally's,36.918348,-76.19422999999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,218,NA
+ChIJmdV8OAiXuokRDhP0fBS3C4c,Norfolk Sherwood Forest Center,36.8782178,-76.2383442,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.9,43,NA
+ChIJmfOy3yqZuokRIL3zpwwaIE8,Mermaid @Waterside Pier,36.8444872,-76.29249279999999,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJmQjXO5miuokR8bUXoBf2bYU,Portsmouth Public Library,36.834325,-76.300258,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,30,NA
+ChIJmR6Al5uiuokR0PCpRNao3Jc,Bier Garden Gift Shop & Market,36.83578139999999,-76.3022849,Park,garden,grocery_or_supermarket; store; food; point_of_interest; establishment,OPERATIONAL,4.6,14,NA
+ChIJmRhgY4aXuokRv0Ng6dOPhM4,The Bibleway Church of God Family Outreach,36.872026,-76.2660947,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJmRmxp02YuokR7TJ4rT7SJrk,Lambert's Point Community Center,36.8819753,-76.3041095,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.6,114,NA
+ChIJmRNKYcGWuokRpCvrMWG0ar4,La Tapenade Mediterranean Café,36.897274,-76.20297339999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,41,NA
+ChIJMSHdU92ZuokRFATFPV9lVrs,Church Of The Ascension,36.9027296,-76.2834191,Place of Worship,place of worship,place_of_worship; church; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJmSsCwv6ZuokR1e6_NieHRFk,PRIM STUDIOS & CAFÈ,36.8749154,-76.28949159999999,Social Business,cafe,cafe; clothing_store; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJMUJ2RdOWuokR8YYrE_VhnlI,Dunkin',36.9161609,-76.21953030000002,Social Business,cafe,meal_takeaway; cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,391,NA
+ChIJMUJ2RdOWuokR8YYrE_VhnlI,Dunkin',36.9161609,-76.21953030000002,Social Business,cafe,meal_takeaway; cafe; bakery; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.5,391,NA
+ChIJMUJ2RdOWuokR8YYrE_VhnlI,Dunkin',36.9161609,-76.21953030000002,Social Business,cafe,bakery; cafe; meal_takeaway; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,3.5,391,NA
+ChIJMUJ2RdOWuokR8YYrE_VhnlI,Dunkin',36.9161609,-76.21953030000002,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.5,391,NA
+ChIJmWNty82RuokRT_mSdX5440Y,Monument of Joy Church,36.9346246,-76.2638405,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJmX8ewneWuokR8M48DT8RBVI,The Spot Lake Edward,36.8581321,-76.17952939999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJMXTIQ_iVuokRHsv-03SDiEc,Mesob Cafe,36.8279879,-76.1684932,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,338,NA
+ChIJMXtry0eWuokRiIyEjOQlOME,Eternal Life Family Worship,36.8555557,-76.2118933,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJmYkTHDSYuokRlK0kJpf1rBE,The Cage Kids Cafe,36.8780076,-76.2894737,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJmYRIKkKiuokRI0O4cfRb_m8,Portsmouth Information Technology,36.832479,-76.2972368,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMzDmm8GZuokRjDLUpqphsbU,Kobros Coffee,36.86864550000001,-76.2907633,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.9,103,NA
+ChIJn_gizk2RuokRib60dvVeGGY,McDonald's,36.918523,-76.1922946,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.3,1168,NA
+ChIJn_gizk2RuokRib60dvVeGGY,McDonald's,36.918523,-76.1922946,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.3,1168,NA
+ChIJn160EFOVuokRW3YsZCYS6jU,Raleigh Square Park,36.8810599,-76.17627329999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJn160EFOVuokRW3YsZCYS6jU,Raleigh Square Park,36.8810599,-76.17627329999999,Park,square,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJn2-zFzqWuokRa5wPcjj8zd4,Best Square Shopping Center,36.8474023,-76.2115118,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4,547,NA
+ChIJN3KnZNqZuokRe_OkIboNdG0,Norfolk Church of Christ,36.8928198,-76.27942480000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,11,NA
+ChIJn586dkeYuokRWW5VykesK9A,Panera Bread,36.8702825,-76.29530799999999,Social Business,cafe,cafe; meal_takeaway; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,709,NA
+ChIJn8RNgdWVuokRfbD_NeW5Dto,New Bethel Cathedral Worship,36.86690189999999,-76.1781063,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJnaA_x0OVuokRCH6P7hfYQ9U,Pho VA (Formerly Phuong Lien Bakery),36.8513867,-76.1688922,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,36,NA
+ChIJnasyBzi9uokRlnDqKEC1qXU,MP Island Cafe,36.8158706,-76.2591472,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,315,NA
+ChIJNbcCuWmYuokRn-PRjJgzO78,Grand Grounds,36.86182,-76.3021582,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJNbcCuWmYuokRn-PRjJgzO78,Grand Grounds,36.86182,-76.3021582,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3,2,NA
+ChIJNbOjoe6XuokRLcr383E9ZyQ,Healing Temple Church,36.85243639999999,-76.2549552,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJncSdrEqYuokRV78yyj4VumQ,Christ the Redeemer Anglican,36.9054614,-76.27628729999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,12,NA
+ChIJNe11-rGiuokRzSgipu3Ehfo,Berkley Park,36.8284044,-76.2772375,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,107,NA
+ChIJNfHCT0qWuokRflpFCM2xX20,Outreach For Christ Miracle Ministry,36.855891,-76.22106,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJNURA3EWRuokRXR7gIMZLQQ0,East Ocean View Community and Senior Center,36.9262182,-76.1945965,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,186,NA
+ChIJnw2jEq-XuokRKEgROm_qAhw,Faith In Action,36.8693486,-76.2348149,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,19,NA
+ChIJNw7j-IajuokRwrkAKJPPWrs,Balm Church Olde Towne Campus,36.8354315,-76.3029018,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNyOI3aiRuokRx3UQT3bnKBo,Wave church,36.9206434,-76.1928827,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNz5cO9aQuokRs2cF2KAHqTM,The Village At Whitehurst Farms Park,36.9246226,-76.22553479999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,7,NA
+ChIJNZCctR2XuokRCuWmVFq5fpA,Victory Worship International,36.8901388,-76.2274379,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJNZCctR2XuokRSUh5-k5VPqg,Deaf Missionary Church,36.8901388,-76.2274379,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJO07xdBWWuokRzxnVvi6TIYE,Church of God-Glenrock,36.8490291,-76.200344,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,8,NA
+ChIJO0Q_96WiuokRAIX3xHhPO1I,The United House of Prayer for All People,36.8338426,-76.2828365,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJo2OtllqYuokR6_QP6iGTn1U,Weyanoke Bird and Wildflower Sanctuary,36.873411,-76.3062702,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,70,NA
+ChIJo3uBqxGXuokRawdko4JWudo,New Life Metropolitan Community Church,36.929648,-76.24298499999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,23,NA
+ChIJo5tdgQK-uokRKrFvfdAoVRw,Living Faith Christian Fellowship,36.826342,-76.16935,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJO830HWyWuokRDsQ4XRNszDI,Fairlawn Community Center,36.8567924,-76.1938763,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.1,52,NA
+ChIJO9OEBq2QuokRs1NczR8qj7k,Monticello Village Park,36.9242735,-76.26203249999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,65,NA
+ChIJoavpyqCZuokRmmCQaTSpTHM,Grandiflora Wine Garden,36.8654536,-76.3091795,Park,garden,liquor_store; bar; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.8,62,NA
+ChIJobBfE7mYuokRU6E-BKmQ6zQ,West Norfolk Baptist Church,36.86481089999999,-76.348232,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJobmwuKWiuokRMXHYl4Paqgs,Living Word of Faith Christian Center,36.8334044,-76.2846586,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJoQ3h1NKZuokRz_D5n6IL8CQ,Stockley Gardens,36.8608314,-76.2975127,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJOQ6VHJ-QuokR239wD6b6kpY,First View Baptist Church,36.946167,-76.26743119999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJOQKV4DyZuokRei7M4bStx80,Calisthenics exercise park,36.861933,-76.30748659999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJORmznpaXuokROZpMWeNmg5w,Virginia Tech Display Gardens,36.8892345,-76.18033249999999,Park,garden,museum; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJow9tvhGjuokRCa0WA3ZUB0s,Burning Bush Worship Center,36.8356135,-76.2830007,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJowdzm8mWuokRQNZu_J8qT1Y,The Gardens,36.9080232,-76.2051793,Park,garden,neighborhood; political,NA,NA,NA,NA
+ChIJowEilEyZuokROG5RPIYl960,The WitchDoctors Kafe,36.8840551,-76.296807,Social Business,cafe,cafe; electronics_store; home_goods_store; store; point_of_interest; food; health; establishment,OPERATIONAL,5,1,NA
+ChIJowEilEyZuokROG5RPIYl960,The WitchDoctors Kafe,36.8840551,-76.296807,Social Business,cafe,cafe; electronics_store; home_goods_store; food; point_of_interest; health; store; establishment,OPERATIONAL,5,1,NA
+ChIJoWkyPNOWuokRHcGzIV6eVP8,Penguin's Snoballs,36.915539,-76.2170811,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,161,NA
+ChIJoWkyPNOWuokRHcGzIV6eVP8,Penguin's Snoballs,36.915539,-76.2170811,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.7,161,NA
+ChIJoWkyPNOWuokRHcGzIV6eVP8,Penguin's Snoballs,36.915539,-76.2170811,Social Business,cafe,cafe; restaurant; store; point_of_interest; food; establishment,OPERATIONAL,4.7,161,NA
+ChIJoWkyPNOWuokRHcGzIV6eVP8,Penguin's Snoballs,36.915539,-76.2170811,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.7,161,NA
+ChIJP_0tRkyRuokRb5iMytVN1uw,Starbucks,36.917632,-76.193592,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,411,NA
+ChIJP_0tRkyRuokRb5iMytVN1uw,Starbucks,36.917632,-76.193592,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.2,411,NA
+ChIJp_6nC7GZuokRBIhhRFN824M,Norfolk Larchmont Recreation,36.891283,-76.30270999999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJp2rf3NaVuokRAu2vNVH04RE,Jade Garden,36.8623045,-76.17385949999999,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,143,NA
+ChIJp5D_QoKiuokRiUfowlyiDT0,Park View Baptist Church,36.8415789,-76.3096367,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJP7MOphGXuokRIWM5WMznpfk,5 Points Community Garden,36.8900507,-76.24000989999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJp8TYFRSXuokR_mY17K-kb04,Marigold and Honey Cafe,36.9011113,-76.2010001,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,76,NA
+ChIJPbcFRrSQuokRWvu_QkSRHSk,Church-Jesus Christ House-Pryr,36.9243904,-76.2515645,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPdQHJ7ebuokR8aTM8NB4kxQ,Q-80 MWR Wind & Sea Rec. Center,36.9550256,-76.3262359,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.1,23,NA
+ChIJpQ_nAy6juokRY0DXDwNxmoU,Neal's Bookstore,36.8177131,-76.2746568,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJpT6z0MSZuokR_3rLnJMnk7Y,Marley’s @ the Y!,36.8530114,-76.293934,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJPTEUY4KXuokRvXMurUF2QWg,Jesus Christ's House Of Worship,36.8792134,-76.2626128,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJpUilNNyVuokRZoU-SUvDrn8,Gateway Free Will Baptist Church,36.8476056,-76.171356,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJPwqTEhKYuokRoQd0zMcThB8,Wave Church Norfolk,36.8502953,-76.2914164,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,34,NA
+ChIJPx2VX5miuokRQV80FTPVp08,"Rotary Club of Portsmouth, VA",36.8355048,-76.2999425,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPXm2PyyauokRVlRjflAYBvc,Fleet Recreation Park,36.9348772,-76.3120275,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.7,26,NA
+ChIJPy324LyZuokRjowI-v95mjU,Starbucks,36.9158354,-76.3076426,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,457,NA
+ChIJpZYx2-CXuokR0ijDAbemamA,Grandy Village Learning Center,36.8405829,-76.25008059999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,71,NA
+ChIJQ-PRWauXuokRaDU2Sva1vvU,Bay Square Shopping Center,36.8704834,-76.2251539,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.2,57,NA
+ChIJQ102AJmiuokR-lTrfAvs0w8,Marriage License,36.8341675,-76.29753749999999,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJQ1hy-LCXuokRAy18JDxlmCk,Cafe & Deli (Merrimac),36.8524036,-76.254536,Social Business,cafe,convenience_store; food; store; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJQ1hy-LCXuokRAy18JDxlmCk,Cafe & Deli (Merrimac),36.8524036,-76.254536,Social Business,cafe,convenience_store; store; food; point_of_interest; establishment,OPERATIONAL,4.8,9,NA
+ChIJQ25rTaeWuokRg3KLyoktfos,Diamond Springs Baptist Church,36.8964709,-76.1790724,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,11,NA
+ChIJQ4K53wyYuokRxCl32XdG5pc,Pagoda & Garden Foundation,36.8497472,-76.29483239999999,Park,garden,point_of_interest; establishment,OPERATIONAL,4.7,252,NA
+ChIJq57EZ1e9uokRlgAK-ZryrMg,Morning Star United Holy Church,36.8334404,-76.260237,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJq6d8hVqWuokRJxQTubHC3xU,Starbucks,36.865085,-76.212397,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,218,NA
+ChIJq6d8hVqWuokRJxQTubHC3xU,Starbucks,36.865085,-76.212397,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,218,NA
+ChIJq6p-VVKXuokRxQqPQpsdLNg,BIG Kids Ministries,36.9192478,-76.262249,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJq6paylG9uokRQ35Sk4eMCDY,Diggs Town Recreation Center,36.8280269,-76.262773,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.3,7,NA
+ChIJq6qqqkaWuokRm2KhIklVwLs,Jack Frost Landscp & Garden Center,36.8574869,-76.2073525,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJQ7B4ev-juokRhACPOdY5fEA,Wesley Community Service Center,36.8255774,-76.3120659,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,48,NA
+ChIJQau2kpqXuokRPMWqmhDA6H4,The Way Church,36.8697832,-76.2575923,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,19,NA
+ChIJqbq-YM2WuokRJDCC6o3Av88,Taco Bell,36.9149127,-76.2128038,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.9,772,NA
+ChIJqdMWeOGVuokROb38dkLgIUk,Living Word Ministry,36.8437973,-76.1755024,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJQdx-U4yQuokR-DRvZRAbGO0,Ocean View Beach Park,36.9546116,-76.25091069999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,2346,NA
+ChIJQeXSpRmYuokRba-Qi0_-mi4,Garden of Prayer Worship Center,36.8569737,-76.27946759999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,35,NA
+ChIJqfaCKLKZuokR9NGCGM-3fGU,Williamsburg Lawn,36.8897108,-76.3036541,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqftDM3WXuokRUwF4zPK5wMk,Word of Faith,36.8798386,-76.248077,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJqRh00TKYuokRJkUbTAkvN-w,Colonial Place Greenway,36.8816232,-76.2850204,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,51,NA
+ChIJqSHGStWbuokRb8mSeMCvHPs,Dunkin',36.9295884,-76.31740289999999,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,279,NA
+ChIJqSHGStWbuokRb8mSeMCvHPs,Dunkin',36.9295884,-76.31740289999999,Social Business,cafe,meal_takeaway; cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,279,NA
+ChIJqSHGStWbuokRb8mSeMCvHPs,Dunkin',36.9295884,-76.31740289999999,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.5,279,NA
+ChIJQTsXajCYuokRex2R1S3kGc0,Garden of Prayer No. 3,36.8730379,-76.2843508,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJQUeehGmYuokRrlg4so__7mE,Matthews EVMS Bookstore,36.8609172,-76.3006647,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,3.6,5,NA
+ChIJQUeehGmYuokRzsuUJo4_ma8,EVMS Brickell Medical Sciences Library,36.8613305,-76.30129699999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJQUjCV5uWuokRXI8EihaLN1M,Roosters Cafe & Grill,36.8823125,-76.1841548,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,836,NA
+ChIJQw-LHjSYuokRPH7DtXijqS8,Rose Of Sharon Revival Center,36.8779994,-76.2896349,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJqXEluhGXuokRyxN9frnASGQ,Norview Baptist Church,36.8893373,-76.2404318,Place of Worship,place of worship,place_of_worship; church; point_of_interest; establishment,OPERATIONAL,3.7,6,NA
+ChIJQxmnz8SZuokRTPOO03vSk_M,River's Edge Community Center,36.8473047,-76.30854099999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJQyQQj_OXuokRg2vBZBsWje8,Broad Creek Legacy Park,36.8556812,-76.2558638,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqZk1OqaXuokR-BsNZf7mH1c,Russian Baptist Church of Norfolk,36.843149,-76.1868417,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJR0k9xeWXuokRzwiZ4mt19Jg,The Kingdom Embassy,36.9076435,-76.24405349999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJR46rKP2XuokRr619DdRcrvQ,180Concerts and Productions,36.9025264,-76.22811779999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJR46tPpuiuokReRc-jopEJUo,Anderson-Wright rooms & gardens,36.8354009,-76.30470989999999,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,33,NA
+ChIJR49vI_yWuokRqfDv8YW9pkc,The Blackdog Cafe,36.88048029999999,-76.2209523,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,180,NA
+ChIJr5YNfqWZuokRWx4JQqLadOs,The Artist Vibez Cafe,36.8697347,-76.2900863,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4,12,NA
+ChIJR7VCLBqYuokRuDsOUwB3Ibw,Safe Creative Community Space,36.855046,-76.27999799999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJR7xVJHSiuokRjkkYz6RL7JI,Faith Fellowship Community Church,36.8426173,-76.3351577,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJR8W6rBaYuokRiqxtNNMJdL4,The Plot,36.8562708,-76.2880758,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,59,NA
+ChIJra8j4IeiuokR2cO7P_NRBM0,Twine Memorial Holy Temple,36.833305,-76.3160738,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJRakOjvKZuokRbhyu2bSAdIc,Armfield Square Apartments,36.9158974,-76.2920122,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJRcG1tzmYuokRZqJDI5cr_eE,Toast,36.8717856,-76.29044069999999,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,640,NA
+ChIJRcoiUzqXuokRCh56zn8Qmas,Norfolk,36.8507689,-76.28587259999999,Community Space,city hall,locality; political,NA,NA,NA,NA
+ChIJRfEgHIWXuokRvWQL047dSvo,Shoop Park,36.87152,-76.26132299999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,381,NA
+ChIJrSfblIiiuokR41aAbm6wDdA,Neighborhood Facility Rec Center,36.8320178,-76.31325679999999,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,31,NA
+ChIJrVMACK2ZuokR7nkb6dfaT1I,Wesley Foundation at Old Dominion University,36.887768,-76.3079939,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJRX9T556ZuokRpSCB63_ooBE,Hermitage Museum and Gardens,36.9103545,-76.31326589999999,Park,garden,tourist_attraction; park; museum; point_of_interest; establishment,OPERATIONAL,4.7,665,NA
+ChIJRX9T556ZuokRpSCB63_ooBE,Hermitage Museum and Gardens,36.9103545,-76.31326589999999,Park,garden,tourist_attraction; museum; park; point_of_interest; establishment,OPERATIONAL,4.7,665,NA
+ChIJrXAv89yWuokRBj6RVTRzKgw,Faith World Ministries,36.8990577,-76.21528359999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,31,NA
+ChIJRXgOL8mRuokRCZn4pJLcRjA,Community Garden,36.92921430000001,-76.1967408,Park,garden,tourist_attraction; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrXmmdTKXuokR7EnXHZNah1I,Deliveriance worship center,36.9151222,-76.236464,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJrxYoFESRuokRdUjNoKbknG8,New Life Christian Center,36.9288246,-76.1946945,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,18,NA
+ChIJrYAQaZGQuokR4BFbk129vOM,Miles Memorial United Methodist,36.9490226,-76.25466639999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,7,NA
+ChIJrYeUJTiZuokRtbUYJ4CR2yQ,Little Free Library,36.8499087,-76.29478850000001,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrYyuNX-ZuokRCKERA2pEu6Q,Vegan Planet Cafe,36.8723008,-76.28290109999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,61,NA
+ChIJRztqVOqQuokR4w3KIhDBxbM,Disciples Church the Lord,36.9437396,-76.24481220000001,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJRZw8Kg6YuokR3hpFu0E8UP4,Tidewater park,36.8507689,-76.28587259999999,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJs-2FOPyRuokRvsQWkq6eWWs,Village Square at East Beach,36.9296449,-76.19172209999999,Park,square,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJs170mwGXuokRFS0AVgbyhBM,Lansdale Garden Apartments,36.880032,-76.2264538,Park,garden,point_of_interest; establishment,OPERATIONAL,2.4,11,NA
+ChIJs2S5UheYuokRdC4RHsD_UrM,Young Terrace Community Center,36.8561627,-76.2828375,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,64,NA
+ChIJs8NVTyeUuokR4mFI80Z8sZE,True Victory Outreach Ministries,36.8844765,-76.17693849999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJSabQSCGXuokRq8lwFEQfZNU,Norfolk Public Library: Barron F Black Branch,36.9015946,-76.229591,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4,21,NA
+ChIJsaHEXbWZuokRAXCSqs04eHA,Starving Artist Cafe,36.88479299999999,-76.294663,Social Business,cafe,cafe; bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,450,NA
+ChIJSaxZ58uVuokRM3fp-YrSxDM,Williams Farm Park,36.8607685,-76.1574012,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,240,NA
+ChIJsbV9ZTWbuokRxha9pMapalU,Blimpie,36.9538589,-76.32654110000001,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.3,4,NA
+ChIJsc0vZj-9uokRz1a_O6ibFu8,Dr. Clarence V. Cuffee Outreach and Innovation Library,36.8155729,-76.2514527,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,19,NA
+ChIJScJ7MzaXuokRawRba-BW3C4,The Word First Church Ministries,36.9123441,-76.2467774,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJScpL_LWiuokRI3oziuFp1f0,Bethel Assembly of God,36.818533,-76.2764698,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJSegdm0m9uokR45z8PgvJioE,Rehoboth Church,36.8187497,-76.2645414,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJSev-YZmiuokRHuUqhzON_w4,Cafe Europa,36.8351402,-76.29994959999999,Social Business,cafe,bar; restaurant; cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,165,NA
+ChIJSW-Daf-VuokREPcBmfRlSPI,Christian Resource Center,36.8591135,-76.1766025,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJswdwdfu9uokRXzDxaRCTncY,Ferry Point Park,36.824336,-76.18269599999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJsweC1DWYuokRtq8W821hNMg,New Hope Church of God-Christ,36.8781424,-76.29150159999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,15,NA
+ChIJSXv16PSZuokRwl5EXc72klE,Freemason Green,36.8505993,-76.2944802,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJszJJK6yXuokRJvjN88RS5y8,Revelation International Ministries,36.868153,-76.23018309999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJt0QrpWmWuokR6LRNjxi4Wwo,Restoration Church & Ministries,36.8584304,-76.1993537,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJt2DNpbmYuokRSTaL8_BZwR4,Liberty Christian Fellowship,36.8651529,-76.3498445,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJt48gg8SXuokRkDDmz40vQJM,Ingleside Square Apartments,36.8497812,-76.24019489999999,Park,square,point_of_interest; establishment,OPERATIONAL,3.1,79,NA
+ChIJt4I28aiiuokRb-_3Zzxp7nc,Bellamy Avenue Church of God (Anderson),36.8367748,-76.2807258,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.5,4,NA
+ChIJt5T9ou6XuokRMYfDicc-hwM,Assembly of the Saints,36.852143,-76.2550406,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJt6KN2auXuokRNUsHG13eV0s,Bethany Free Will Baptist Church,36.872619,-76.23020799999999,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJT7ojPTeXuokRk7Ky4qHBM_M,Gospel Like Church-Christ,36.9112871,-76.2433561,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,6,NA
+ChIJt8a2wiiRuokR1uqk1dqWfl0,Tarrallton Community Garden,36.9256584,-76.2203188,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJt8qgEjKXuokRkv7pqtJ1fLE,Greater Grace Ministries,36.9153968,-76.2371355,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJT8ydWbCjuokRZ_4Vd6wkZUU,Portsmouth city hall,36.832915,-76.2975549,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3.7,36,NA
+ChIJT9UFFQ2YuokRDlBO-LbojH0,Chocollage Bakery and Cafe,36.8507156,-76.2924932,Social Business,cafe,bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.5,85,NA
+ChIJTe_w-VC9uokR5BD4tPSG8p8,Temple of Praise Outreach Minstry,36.8298142,-76.2617583,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJTeN1GvaWuokREO9yPbvd6uY,Church of Divine Deliverance,36.8742049,-76.2083481,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJtfCqO_aZuokRsmfSOIZWlYA,African Village Café,36.8794367,-76.27801079999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJTQq4D7CZuokRsGNfR4N57RQ,Virginia Park,36.894768,-76.3050185,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,17,NA
+ChIJTQvex5miuokRNe9iGtAne24,Commissioner of the Revenue Portsmouth,36.832479,-76.2972368,Community Space,city hall,accounting; local_government_office; point_of_interest; finance; establishment,OPERATIONAL,2.3,6,NA
+ChIJTTDgvwKUuokRP3jhoDYfeqg,Diamond Springs Park,36.9018369,-76.1763282,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.6,16,NA
+ChIJTTDgvwKUuokRP3jhoDYfeqg,Diamond Springs Park,36.9018369,-76.1763282,Park,garden,park; point_of_interest; establishment,OPERATIONAL,3.6,16,NA
+ChIJTwxZQUqWuokRIUNC06BoL5s,The Jesus Christ Charity's Faith Temple Church,36.8553825,-76.2206499,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJtWzH04SWuokRWL6IR-7pbTM,McDonald's,36.8808961,-76.18638849999999,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.4,1724,NA
+ChIJtxk5h0CYuokRaxc1sp_rFEc,Ghent Dog Park,36.8652111,-76.2946917,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.3,186,NA
+ChIJtyM8B6WXuokRyipXsA6Zmng,Kingdom Minded Christian Center,36.8675435,-76.2514291,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJtYPs9LSQuokReRcmsbaLOLk,Federation of Garden Clubs,36.923203,-76.25214299999999,Park,garden,point_of_interest; establishment,CLOSED_TEMPORARILY,4.7,6,TRUE
+ChIJu0UdTx-buokR9e1zyZ85UXg,Neighborhood Park,36.940959,-76.2718062,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJU27F6byZuokRYwqF-MrLW8Y,Norfolk Public Library: Larchmont Branch,36.9010415,-76.30414429999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,3.9,18,NA
+ChIJu4fEWk2YuokR4ToLncM0rH0,Perry Library,36.8840383,-76.30509529999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.2,50,NA
+ChIJU74x1Guqs1IRS81Oaif_VJQ,Barraud Park,36.8661933,-76.2645668,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,268,NA
+ChIJU86c84CQuokRrDxswjbuMzY,Willoughby Chapel,36.96480469999999,-76.27153899999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,8,NA
+ChIJu88dtTqXuokRakdaqtlQJQI,Peace of Mind Deliverance Center,36.8524593,-76.25436169999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJUQj149yXuokRDHs06wLuhbE,Hope Chapel,36.8443145,-76.2446611,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJuT4ZzA-YuokR2jFZgLORmlY,St Pauls Place Co,36.8499765,-76.2857554,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJuTvhBEGRuokRx6SeGVMPPmc,Tom's Green Thumb,36.9347506,-76.23390309999999,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.4,28,NA
+ChIJuTvhBEGRuokRx6SeGVMPPmc,Tom's Green Thumb,36.9347506,-76.23390309999999,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.4,28,NA
+ChIJuWhmJAKXuokRBfgZvOwT5-c,Church of God ADONAI,36.8811873,-76.226238,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,12,NA
+ChIJV_sJTVaXuokRyhPPGkfIpJI,McDonald's,36.91524709999999,-76.26931259999999,Social Business,cafe,restaurant; cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.5,1402,NA
+ChIJv0GjSPCZuokRjIxADK8nO30,Mission Church,36.8833643,-76.2943974,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJV3P8V1uWuokReILVdGBMDCg,Walmart Garden Center,36.862952,-76.20753359999999,Park,garden,general_contractor; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,2.5,2,NA
+ChIJV3P8V1uWuokReILVdGBMDCg,Walmart Garden Center,36.862952,-76.20753359999999,Park,garden,furniture_store; home_goods_store; store; general_contractor; point_of_interest; establishment,OPERATIONAL,2.5,2,NA
+ChIJv3Xcm3uXuokRiuunlTbhzk8,Norfolk Public Library: Lafayette Branch,36.88746039999999,-76.26446130000001,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,20,NA
+ChIJv48_b5miuokR3Xz7GyNnEyw,Scoops Ice Cream & Cafe,36.8349235,-76.2988876,Social Business,cafe,restaurant; cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.9,44,NA
+ChIJV4FvFAqWuokRafg4y4mCiyo,The Bistro – Eat. Drink. Connect.®,36.844953,-76.17983869999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,15,NA
+ChIJv4yjjnyWuokR0_I2-UZdrFk,Monumental Chapel,36.86720469999999,-76.1864193,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJV6SmWhCXuokRXbz82EFML9U,McDonald's,36.8890571,-76.2387516,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,1939,NA
+ChIJV9KwDdyQuokRRSQfzm3V7-o,Christ United Methodist Church,36.93431,-76.2318749,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,12,NA
+ChIJVQNhoYWiuokRemFgiEmzjoY,Victory Square Apartments,36.8338909,-76.3089386,Park,square,point_of_interest; establishment,OPERATIONAL,3.2,6,NA
+ChIJVSCaGEWWuokRpavUjDbBw7U,Starbucks,36.86084650000001,-76.2107075,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,672,NA
+ChIJVSCaGEWWuokRpavUjDbBw7U,Starbucks,36.86084650000001,-76.2107075,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,672,NA
+ChIJVSCaGEWWuokRpavUjDbBw7U,Starbucks,36.86084650000001,-76.2107075,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,672,NA
+ChIJvSmc00aWuokR85zIYDkM6fA,Waffle House,36.8552938,-76.20746559999999,Social Business,cafe,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,1136,NA
+ChIJVVVVVTyauokRGLPa8R1Z3mA,Starbucks,36.943084,-76.309962,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4,154,NA
+ChIJVVVVVVmWuokRwf9Uu5AIUCI,World Book Inc,36.8574869,-76.2073525,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVVVVVVmWuokRwf9Uu5AIUCI,World Book Inc,36.8574869,-76.2073525,Social Business,bookstore,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVVXl6ymYuokRDuA-kvYbiDk,Lafayette Dog Park,36.8746375,-76.2722146,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,268,NA
+ChIJVVXlr8KZuokR31XKp1slIzQ,Episcopal Church Of The Ascension Food Pantry,36.9027701,-76.2834428,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVWsu5UiWuokROODvCZnzTzg,Arcadia Square Apartments,36.856487,-76.215462,Park,square,point_of_interest; establishment,OPERATIONAL,1.3,8,NA
+ChIJVX5D2zmYuokRiyakQ_Jce_0,Mea Culpa Cafe,36.8719145,-76.2903249,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.8,155,NA
+ChIJVX5D2zmYuokRiyakQ_Jce_0,Mea Culpa Cafe,36.8719145,-76.2903249,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,155,NA
+ChIJVX5UhI6WuokRMy7XCnYZJPs,Starbucks,36.881226,-76.20036,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.4,275,NA
+ChIJVY8ORNqXuokR1fKi6VPSrXs,CrownLyfe Ministries,36.873245,-76.2186351,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJvy9oMDCWuokR9rSTV98KHx0,Poplar Hall Park,36.8436194,-76.2156826,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,293,NA
+ChIJvYo8do2ZuokRux9H_-zVhKs,Enfield Gardens Apartments,36.916416,-76.29709,Park,garden,point_of_interest; establishment,OPERATIONAL,3,3,NA
+ChIJVYU5Dj6XuokRRGDfAFZPhlk,New Mt Zion Church of God,36.8991737,-76.2428079,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,8,NA
+ChIJVZTD9D-VuokRZ2GrYnuZBwc,International Central Gospel Church-Victory Temple,36.8584876,-76.1768333,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJw_3KDtK9uokRQC6b4xjBYw0,WIC Communtity Services,36.8188491,-76.2699497,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJW-a7TzuRuokRmqpnXauwxdU,Mudita Cafe & Coffeehouse,36.9556641,-76.25428889999999,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.8,105,NA
+ChIJW-a7TzuRuokRmqpnXauwxdU,Mudita Cafe & Coffeehouse,36.9556641,-76.25428889999999,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.8,105,NA
+ChIJw3QN1hWYuokR13kazWMn0cE,Ghent On the Square Condo,36.8591756,-76.28954139999999,Park,square,point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJw5CLMe2ZuokRyc1xdLaoodc,First Baptist Church Logan Pk,36.9133362,-76.293688,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,23,NA
+ChIJW6r6wNSWuokRrQETJjlLN5I,Word & Seasons Ministry,36.9160241,-76.22048389999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw6ZQwNKjuokRKV3tPN6gTlI,Marshall W Butt Library,36.8359764,-76.29674469999999,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw8If77CXuokRWznoJatbk68,Azalea Garden & Village,36.862216,-76.234205,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw9skDwyYuokRdJ2lH2iVEzw,Fountain Park Garage,36.846662,-76.28924049999999,Park,fountain,parking; point_of_interest; establishment,OPERATIONAL,4.1,11,NA
+ChIJwad7me2QuokRs6YBguwYQz4,Community Beach Park,36.9506638,-76.2453774,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,1459,NA
+ChIJWaHSbk6YuokRrTxa1stJEGE,Zion Methodist Church,36.8783199,-76.3038454,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWcuV15OXuokRHGvnAw8x-og,Norfolk Parks & Urban Forestry,36.863104,-76.255957,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,24,NA
+ChIJWf0hiNCZuokR4lN0j9kodwE,Edward E. Gross Heirloom Gardens,36.860739,-76.2926349,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWQZke5eXuokRCBb4Ag4EdMk,Moj Hope House,36.8675089,-76.2514205,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJwRf8ILSQuokRsO4Lg1zZ33M,McDonald's,36.9257853,-76.25212669999999,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.2,1115,NA
+ChIJwRu5bjWXuokRwqk1_OEcHsY,Walmart Patio & Garden Services,36.912636,-76.25201,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWSIowTWYuokROVIf_PjtoFs,Faith Temple Church of God,36.8792734,-76.2924864,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJWT-PJDi9uokRDby6v_YfqQM,Points of Sword,36.8143627,-76.2588013,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWT-PJDi9uokRTsbHtPh2Os4,Prayer & Action Outreach Ministry,36.81436230000001,-76.2588011,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJWT-PJDi9uokRUoLjZoT07ng,Agape Full Gospel Deliverance,36.8137684,-76.2583356,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJWUrYd6mZuokRoiF3btNsJ4E,The Pagoda,36.850091,-76.29469379999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,35,NA
+ChIJWUrYd6mZuokRoiF3btNsJ4E,The Pagoda,36.850091,-76.29469379999999,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.7,35,NA
+ChIJwVbddg2WuokRRGP8mc1LcAw,Cafe James,36.8477271,-76.1892869,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,26,NA
+ChIJwYpcUh-YuokR1YgaiV3yFHk,Mason Memorial Church of God,36.8596715,-76.2766046,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,8,NA
+ChIJwysTvCiRuokR-ocn6UQu44c,Tarrallton Park,36.9268241,-76.21959319999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,112,NA
+ChIJWZnehOqbuokRDnbGkI8slHo,Wendy's,36.9436691,-76.32681079999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,187,NA
+ChIJX_KTr0m9uokRDflBbAOJ-uU,Cascade Boulevard Park,36.8186396,-76.2629376,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4,83,NA
+ChIJx-YNEROXuokR4PojTOtNa7g,Norfolk Garden,36.892097,-76.24356689999999,Park,garden,neighborhood; political,NA,NA,NA,NA
+ChIJx0dIRD-WuokRF-Gyzb13AKA,African Arts Bookstore,36.8512117,-76.2064243,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.6,162,NA
+ChIJx1NMFe2VuokR7Xhwnf7cYzc,Veritas Triumphant Church,36.8350576,-76.17110509999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJx1XNE3CXuokReeHj9awupgI,Spurgeon Church,36.9179103,-76.2502119,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,12,NA
+ChIJx5k-Hh-YuokRx6SwRxJhqZ8,First Church of Christ,36.8575851,-76.2750993,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,12,NA
+ChIJX7oNJkGRuokR4CJ6Ke-TURE,Timbuktu Book Store,36.9310361,-76.19832960000001,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.6,9,NA
+ChIJX8S-Mg-XuokRQRc6TFeDkVw,Streamliners Cafe - Proudly Serving Starbucks,36.87771559999999,-76.2100887,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJX8S-Mg-XuokRQRc6TFeDkVw,Streamliners Cafe - Proudly Serving Starbucks,36.87771559999999,-76.2100887,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXavhnOeZuokRuR0tLUxjOrk,Three Ships Coffee Roasters,36.8512335,-76.2893189,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.1,7,NA
+ChIJXavhnOeZuokRuR0tLUxjOrk,Three Ships Coffee Roasters,36.8512335,-76.2893189,Social Business,cafe,cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,7,NA
+ChIJXcNN0i-YuokRsL0eANm77hs,Faith Community Church,36.8738923,-76.2821254,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJxQs3gqyZuokR0vtDWZZT124,Episcopal Campus Ministry,36.8877052,-76.3115565,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJxVu1ZtqXuokRSkdpSH05aE8,Full Gospel Church-Deliverance,36.8424281,-76.23737129999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJxweltDeXuokRcZQ2IfhV_og,Macedonia Holiness Church,36.9121833,-76.24643410000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJXZSoTJmiuokRp99RsbxH0vA,Portsmouth Parking Authority,36.8365112,-76.299307,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJXZXmUimXuokRakhMdrizaAc,Chr1st Fellowship Church,36.87377439999999,-76.24485969999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJXZz9rnSYuokRIlNgL39X8GM,Town Point Park,36.8453265,-76.2940234,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,2471,NA
+ChIJXZz9rnSYuokRIlNgL39X8GM,Town Point Park,36.8453265,-76.2940234,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,2471,NA
+ChIJY-mXRZmiuokRv-c8yKBSCU4,Restore Church Portsmouth,36.826141,-76.299384,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,35,NA
+ChIJy-oqoJyXuokRKXX843cM0cY,Freedom Church of God in Christ,36.8742113,-76.2581185,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJy0FSoLaQuokR4c8JpqnpD_E,Coaster Coffee,36.9262507,-76.2524995,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.7,629,NA
+ChIJy5hlRc2WuokRpWAMvBYLhzY,Little Creek & Azalea Garden,36.915441,-76.212397,Park,garden,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJY7IDzDiYuokR2QGip6yrU4Y,Cafe Stella,36.8679037,-76.2925728,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,1197,NA
+ChIJY806yS2UuokRUwU45NdqbHY,Cypress Point North Park,36.8732155,-76.1693066,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,22,NA
+ChIJYbhRa36RuokRVrax-j39Les,Walmart Patio & Garden Services,36.918347,-76.22816999999999,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYd5s9DqZuokRthPv_n9fRjY,blanca all day,36.8843908,-76.2818463,Social Business,cafe,bar; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.8,45,NA
+ChIJyQ-UKLCRuokRy8SsEXzywVA,COVA Brewing Company,36.92687,-76.19149259999999,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,297,NA
+ChIJYQcOn4uiuokRZymbGPmt_Kc,Faith Evangelical Church,36.8251082,-76.31287120000002,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJyR-xoOuQuokRq-hJQZ-5w-k,Lake Modoc,36.9460234,-76.2435394,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,12,NA
+ChIJySHS7jmXuokRk2JCpO_elJs,Oakwood Chapel Church,36.9081825,-76.24313,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,15,NA
+ChIJYTVoC72XuokRByyX6g5q0f0,Boss Queens Soul Cafe,36.8583623,-76.2070808,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,301,NA
+ChIJyVMTV22WuokRSRgi-HlLz-E,Angela Fountain NP,36.850773,-76.1901608,Park,fountain,hospital; health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJYVxUotyQuokRHPaX4zQn9co,Bayview Community Center,36.9351185,-76.2348889,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,69,NA
+ChIJYX7uwzSRuokRSAb7FngHq1c,Calvin Presbyterian Church,36.91634579999999,-76.2055051,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,16,NA
+ChIJyxB790uXuokRwPOECuSEhzo,Trilogy Comics,36.916510100000004,-76.2537035,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.4,59,NA
+ChIJyz6LVDKYuokRaGiDyNtSgwQ,Memorial Spiritualist Church,36.87967709999999,-76.2853995,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,14,NA
+ChIJyzpWGUeYuokRSuDg1g1XnQw,Town Center Cold Pressed - Ghent,36.8696505,-76.29679759999999,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,251,NA
+ChIJZ1gSPgyYuokRD0QgjDlZMZM,MacArthur Square Outdoor Pavilion,36.8474188,-76.2895983,Park,square,point_of_interest; establishment,OPERATIONAL,3.7,6,NA
+ChIJZ6Opd9SVuokRhedaScB91kQ,Holy Cross,36.8410666,-76.1653793,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJz7BNKXiYuokR4RaepiprEGE,Green Beans Coffee - Portsmouth Naval Hospital NEX,36.8449466,-76.3061793,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,1,3,NA
+ChIJz7WuH0CXuokRtZmPD6MMVOs,Bethlehem Church of Christ,36.8996595,-76.2492075,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJZ8_Z2WmRuokRid6CYHo3eSc,Northside Park Mountain Bike Trail - Multi Use Trail,36.9286361,-76.2584153,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,36,NA
+ChIJZ8aXxhuXuokRfy7SsORcV2E,Christopher's garden,36.8725415,-76.23136819999999,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZbwODU6juokR1LvwsSDtFqs,Friends of Portsmouth Public Library Book Sale,36.83448509999999,-76.30027199999999,Community Space,library,book_store; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJZfzWzveXuokRsHspC3g-Ydo,Brambleton Dog Park,36.851172,-76.27002999999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,10,NA
+ChIJzQzQeyaXuokRR88wEvULIU4,New Covenant Outreach Ministries,36.9054721,-76.23015029999999,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZSy0V4yWuokRsScC62N3eRQ,Lake walk (Norfolk Premium outlets.,36.8796876,-76.19855679999999,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJzTT1WsWZuokRGQmdkFz0oqw,Munson park,36.874155,-76.293003,Park,park,point_of_interest; establishment,OPERATIONAL,4.3,29,NA
+ChIJZwRJoL2QuokRhnH1CCFBRQE,Ocean View Lighthouse Church,36.940899,-76.2563697,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJZx-9WDKVuokRMewzKsuPcG8,Lucky Cup Coffee Shop,36.8717301,-76.1701812,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.4,55,NA
+ChIJzxkAE56YuokRNCtbnE24iGE,Port Norfolk Recreation Center,36.8473063,-76.33557560000001,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,6,NA
+ChIJzXroxEmYuokR9LBrUptSpcU,ABC Community Empowerment Center,36.8765929,-76.2950321,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJzYZcCZ6XuokR_34pCsnB72o,M P Island Cafe & Grocery,36.85407319999999,-76.20323239999999,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJZZCuaG2YuokRKy3YXmCc6Bg,Cure Coffeehouse,36.8529907,-76.29611779999999,Social Business,cafe,cafe; bar; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.6,805,NA

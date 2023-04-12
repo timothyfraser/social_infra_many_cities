@@ -1,0 +1,841 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total,permanently_closed
+ChIJ__8_ndOMa4cRcIJ2UmX9UGI,Superior Town Hall,39.953484,-105.1660098,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJ__8_ndOMa4cRcIJ2UmX9UGI,Superior Town Hall,39.953484,-105.1660098,Community Space,city hall,city_hall; point_of_interest; local_government_office; establishment,OPERATIONAL,4.2,5,NA
+ChIJ_2lWaNXya4cRHcXT8js_IcM,Starbucks,39.9568478,-105.173816,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,14,NA
+ChIJ_5XF9CX1a4cR4Mavgwz0hEg,Rock Creek Public Trailhead Parking,39.9789299,-105.0714567,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.5,2,NA
+ChIJ_7j_gyjsa4cR0-Vyl-pdgE0,Pop Jet Fountain,40.0184243,-105.2776403,Park,fountain,point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ_bOO2Lf1a4cRpCwKpVedUkg,Сoffee Ta Sama,40.0143867,-105.0468961,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ_wLKQ4rta4cRlbN3nJEfGSE,Meadow Glen Park,40.0065634,-105.2215221,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,15,NA
+ChIJ_Z1j8Vnza4cRZ47CDPmkWkA,Louisville Community Park,39.9712908,-105.1310813,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,333,NA
+ChIJ_zlWjCbsa4cR89Eb1phQDAg,Amante Coffee,40.016619,-105.2815562,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,179,NA
+ChIJ--xkrZmMa4cRPWD8YRG9gTI,Frank Varra Park,39.937161,-105.1350324,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,27,NA
+ChIJ-b5fPNn1a4cRiIOXwkKviPk,Beyond Nature CO,40.0458491,-105.0624769,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ-QQkGhzsa4cRjjuToepdpHU,The People's Crossing,40.0146608,-105.2961726,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,413,NA
+ChIJ-wHIHzP1a4cRlkaw_9Vbjf4,Rock Creek Open Space,39.9676526,-105.0832609,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJ-zieHCLsa4cR4Rrxteulx34,City of Boulder Municipal Jdg,40.0144324,-105.2883534,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ-zieHCLsa4cRjOglGU7S89Y,Boulder County Juvenile Assessment Center,40.0144438,-105.2898946,Community Space,city hall,courthouse; lawyer; police; local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ0_EPjCX1a4cRPN2WkmJCPZA,Parking for the Rock Creek Trail,39.9789011,-105.0714988,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJ0-3Bjfzta4cR5JPeyhM3TKI,Little free library #56415,39.966902,-105.2546655,Community Space,library,school; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ00Gjeyjsa4cRvLYGmRIQ92o,Boulder Theater,40.019172,-105.2774745,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.6,1497,NA
+ChIJ00PA5ibsa4cRt6kp7z5_LCg,Church of Scientology Mission of Boulder County,39.9857563,-105.1069977,Place of Worship,place of worship,church; place_of_worship; book_store; point_of_interest; store; establishment,OPERATIONAL,3.4,23,NA
+ChIJ00PA5ibsa4cRt6kp7z5_LCg,Church of Scientology Mission of Boulder County,39.9857563,-105.1069977,Place of Worship,place of worship,church; book_store; store; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.4,23,NA
+ChIJ01j9ptfta4cRIKZGWw-Gkq4,Target,40.0218226,-105.2558498,Park,fountain,department_store; grocery_or_supermarket; electronics_store; clothing_store; furniture_store; home_goods_store; store; food; point_of_interest; establishment,OPERATIONAL,3.9,864,NA
+ChIJ01Zv7B_sa4cR54aVtyjRElw,Pine Street Church of Christ,40.0185872,-105.290751,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0aWMdnvua4cR8cG8eR-Kx7A,TEBO Plaza,40.0455093,-105.2840118,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.3,31,NA
+ChIJ0b562wjta4cRqz3H23nQ5Nk,The Bakery,40.0045248,-105.2649229,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ0RCqTHPza4cRmICpK10R42E,Westview Church,40.0138932,-105.194937,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJ0RlmR9fza4cRY1Ae3kCeXvM,Kerr - Growing Gardens,39.9839328,-105.1261089,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ0RY88L3ta4cRyg4zn6eSNoA,Einstein Bros. Bagels,39.9998333,-105.2630515,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.7,173,NA
+ChIJ0XJcSe70a4cR_Sv8_z_McIQ,Wilson Community Garden,39.99411569999999,-105.0941319,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJ0ZUKuHnua4cR5Oa8_dtJhJc,Garden Art Landscaping,40.0271661,-105.256284,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ12cnvGvta4cRxyNXeS_DFfw,La Colombe Coffee Roasters,40.0238441,-105.2559281,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,2.7,7,NA
+ChIJ152umv_va4cRjuuw4M-LO5A,Lovin Community,40.0517849,-105.2881232,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ182GKSvza4cRO1GevZrLKBM,WFM Coffee Bar,39.9564971,-105.1680375,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,2,NA
+ChIJ1a3DqxTsa4cR_WCXTicZ-2A,Boulder mountain park,39.9990809,-105.2952959,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.9,110,NA
+ChIJ1a4vGlXua4cR5lBvVu7iuOU,Harlequin's Gardens,40.061514,-105.263985,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.8,160,NA
+ChIJ1a4vGlXua4cR5lBvVu7iuOU,Harlequin's Gardens,40.061514,-105.263985,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.8,160,NA
+ChIJ1a9_BA7ta4cRI52IR-AbIf0,South Boulder Recreation Center,39.9747771,-105.2487779,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,174,NA
+ChIJ1cR3V3vxa4cR4oQSCbe7GwI,Heatherwood Filing 1 Park,40.059966,-105.1761668,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJ1dbxSSjsa4cRGv8IjvZn5QA,eTown Hall,40.0201727,-105.2754085,Community Space,community center,electronics_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.8,181,NA
+ChIJ1dbxSSjsa4cRGv8IjvZn5QA,eTown Hall,40.0201727,-105.2754085,Community Space,community center,electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.8,181,NA
+ChIJ1VfqIVzua4cR2UmvVKHlRwI,Elks Park,40.0477188,-105.2597727,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,107,NA
+ChIJ1xEgWY3ua4cRTV_r1SSMTi4,Melody Park,40.0404017,-105.2778375,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,30,NA
+ChIJ1xEgWY3ua4cRTV_r1SSMTi4,Melody Park,40.0404017,-105.2778375,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,30,NA
+ChIJ1Y090ar1a4cR7RCA4ZGovec,Whispering Meadows Park,39.9834249,-105.1010446,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJ1yFmBTbya4cR6UAMB7fB4-s,City on the Hill Church,40.0149153,-105.1787583,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,22,NA
+ChIJ1zkVVbPta4cR7usc9GTk0xE,Belay,39.9866308,-105.2604131,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,32,NA
+ChIJ21HUhDHsa4cRhxqQCwD_oxs,Macky Auditorium Concert Hall,40.0099913,-105.2727866,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.7,621,NA
+ChIJ24QKvDPsa4cRbcs9phBBtws,Laughing Goat Coffeehouse at Norlin Library,40.00877,-105.270234,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,154,NA
+ChIJ24QKvDPsa4cRbcs9phBBtws,Laughing Goat Coffeehouse at Norlin Library,40.00877,-105.270234,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,154,NA
+ChIJ25Juhdjta4cRl--rJSeEoW0,Depot Square Apartments,40.0240847,-105.251211,Park,square,point_of_interest; establishment,OPERATIONAL,4.4,57,NA
+ChIJ26LDM9fta4cRWBIEjIMbhRA,Panera Bread,40.019443,-105.256553,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.9,530,NA
+ChIJ27OMSefta4cRn7XD9LGqP38,heady coffee co.,39.9976752,-105.2334988,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJ2eU1iiXza4cROGrSZecW8S0,Office Evolution,39.9663862,-105.1649793,Community Space,community center,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4.8,69,NA
+ChIJ2VBCo_r0a4cRQemDf73QmcE,Lafayette Empowerment Center,39.9971409,-105.0901661,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2wLxdFHta4cRSKZv1zOgOVE,Village Center Multi-Purpose Room,39.99751819999999,-105.2518362,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2WwFXpfta4cR2Yt3Mnha_ek,Colorado Shakespeare Festival - Shakespeare Gardens,40.0073444,-105.2733672,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2x5qUCjsa4cRT4A6MrEax-4,Barker Park,40.0194997,-105.2760782,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJ2yMKRSTsa4cRE531U8mU-H0,BoulderReads,40.013952,-105.281769,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ2yMKRSTsa4cRSCSGwX1rRUI,Boulder Public Library - Main Library,40.013952,-105.281769,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,217,NA
+ChIJ30mOJt3ta4cRQ1gYOQLtQ7Q,Living Waters Pentecostal Church,40.05760069999999,-105.2828981,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ31wdV-f1a4cRHlffN-Ihmgk,Erie Town Government Public,40.0456628,-105.0555434,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ325KJinsa4cRoxTyBQ08Nto,Grace Commons Church,40.0173616,-105.2743782,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,25,NA
+ChIJ33beHfGNa4cRmjBoPu1rdWU,Village Green Park,39.949136,-105.1585374,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ350DDOL1a4cRBuH1W49F3HU,Orchard Community Church,40.0489047,-105.0477049,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,18,NA
+ChIJ3cJMqvHta4cRNGblxg2lP0k,Community Table Kitchen,40.0150983,-105.228916,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,22,NA
+ChIJ3Qgm1cSMa4cRaHACrxNkzbY,Purple Park,39.9440863,-105.1606124,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,180,NA
+ChIJ3QxKACjua4cR7nmUCgWIP7U,Gluten Free Cafe,40.0592587,-105.2195742,Social Business,cafe,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3TKKCD3za4cRMjFA_SmNOdA,Living River Church,40.0020807,-105.1039645,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ3WEmvhvsa4cRq15U-m74IpQ,Nalandabodhi Boulder,40.0125122,-105.297659,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3X4ylCXsa4cR_JHPZnJ7wsU,Boulder Building Permits,40.0143644,-105.2795987,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1.2,13,NA
+ChIJ3X4ylCXsa4cRFhXNUZRNGz0,Boulder Contractor Licensing,40.0144952,-105.2792641,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ3X4ylCXsa4cRSIrUysBXDto,Boulder City Council,40.0153543,-105.2796501,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1.6,15,NA
+ChIJ3XpMW_f0a4cR-_QnmgEk4xg,City Park,40.0018702,-105.0915318,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,12,NA
+ChIJ3XpMW_f0a4cR-_QnmgEk4xg,City Park,40.0018702,-105.0915318,Community Space,city hall,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,12,NA
+ChIJ41HX2fvxa4cRFxasNI7cYGA,Creekside Tree Nursery,40.0350512,-105.2123243,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.8,353,NA
+ChIJ46jbk371a4cRuHtQdmS7two,Tip Top Savory Pies,39.99864609999999,-105.0906076,Social Business,cafe,cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,340,NA
+ChIJ47NobIjua4cR7wWanXJcKfw,Columbine Park,40.0330897,-105.2686363,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,40,NA
+ChIJ4aC2eE3za4cRu4UKZaHowEc,Lawrence D Enrietto Park,39.9840975,-105.1358429,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ4emWrevta4cRRCcA69kRqHA,Community Table Kitchen - BCH Cafe & Marketplace,40.0162447,-105.2334977,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJ4QZKWZDua4cR_Siowe86nGc,City of Boulder Colorado,40.0321086,-105.2808811,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJ4RZHpJuMa4cRbpSgG9tfvMk,Cafe Crêpe,39.9330487,-105.1337585,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.4,48,NA
+ChIJ4RZHpJuMa4cRbpSgG9tfvMk,Cafe Crêpe,39.9330487,-105.1337585,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.4,48,NA
+ChIJ4RZHpJuMa4cRbpSgG9tfvMk,Cafe Crêpe,39.9330487,-105.1337585,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.4,48,NA
+ChIJ4TH-AFH1a4cRyzT-ivEH8gA,BREW Due South,39.9911658,-105.0903095,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,123,NA
+ChIJ4TH-AFH1a4cRyzT-ivEH8gA,BREW Due South,39.9911658,-105.0903095,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,123,NA
+ChIJ525cX-r0a4cR1T07sVhTZC8,Living Water Church,39.9858344,-105.0995108,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,3.7,9,NA
+ChIJ52B1bpzua4cRupb5L2BISBw,Breadworks Bakery & Cafe,40.0249423,-105.2811422,Social Business,cafe,bakery; store; point_of_interest; food; establishment,OPERATIONAL,3.8,124,NA
+ChIJ54YYgmLwa4cRtgEGYCGaShg,1914 House,40.1033249,-105.1727167,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,389,NA
+ChIJ561NDm3ta4cRHsa8Ru1Ry00,Mt. Hope Lutheran Church,39.9742869,-105.2408848,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,5,NA
+ChIJ57WBLojwa4cRsCrBZ1FtA00,The Old Oak Coffeehouse,40.1033269,-105.1722585,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,168,NA
+ChIJ5bnmo_r0a4cRveUrW--OIu4,Cannon Mine Coffee,39.9963675,-105.0902888,Social Business,cafe,cafe; bar; store; point_of_interest; food; establishment,OPERATIONAL,4.5,383,NA
+ChIJ5bnmo_r0a4cRveUrW--OIu4,Cannon Mine Coffee,39.9963675,-105.0902888,Social Business,cafe,cafe; bar; store; food; point_of_interest; establishment,OPERATIONAL,4.5,383,NA
+ChIJ5ffln9vta4cRykW-uid5AQE,Boulder Police Department,40.0177678,-105.250411,Community Space,city hall,police; local_government_office; point_of_interest; establishment,OPERATIONAL,1.8,165,NA
+ChIJ5T1LFtjta4cRLo3fyHfI3G8,Barnes & Noble,40.0235413,-105.2543452,Social Business,bookstore,book_store; cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.5,918,NA
+ChIJ5w_OuXTua4cRsKCBIuioROs,Vantage Point Office Community,40.0295677,-105.2437973,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJ5yWcP970a4cRQemI14Hwj7U,LaMont Does Park,39.9859314,-105.0830737,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,253,NA
+ChIJ5ZP4qCnsa4cRu5oCaqpnEuI,Foolish Craig's Cafe,40.0191772,-105.2744392,Social Business,cafe,restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.4,1231,NA
+ChIJ6_jO1ubua4cRqrTwvciV7FI,Foothill Community Garden,40.0547215,-105.2866862,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.6,16,NA
+ChIJ64Oo_Rb1a4cR60JcTRto5N0,Eastside Park at Compass,40.0168252,-105.0566041,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ68LmaMXta4cRNLw33Yd6eNs,Western Interstate Comm Library,40.0127063,-105.2533518,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ6dTSZSTsa4cRg3POQjiAMf4,Boulder Older Adult Services (West Age Well Center),40.0135997,-105.2827878,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,25,NA
+ChIJ6QiEQtbta4cRlG4YxUw-G20,Starbucks,40.0219735,-105.259021,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,266,NA
+ChIJ6US2rTPsa4cR2cVOiUs7VHE,University Of Colorado Boulder Recreation Center,40.0102234,-105.2693947,Community Space,community center,gym; point_of_interest; health; establishment,OPERATIONAL,4.7,368,NA
+ChIJ6US2rTPsa4cR2cVOiUs7VHE,University Of Colorado Boulder Recreation Center,40.0102234,-105.2693947,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.7,368,NA
+ChIJ6V42QfTxa4cRHL8VaHxOLsw,Community Sculpture Park,40.1014538,-105.1696166,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJ6WwzY_n1a4cRuZxyCc5VbaY,Nok's Donuts,39.9856205,-105.0947267,Social Business,cafe,bakery; cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.9,60,NA
+ChIJ6WwzY_n1a4cRuZxyCc5VbaY,Nok's Donuts,39.9856205,-105.0947267,Social Business,cafe,cafe; bakery; store; food; point_of_interest; establishment,OPERATIONAL,4.9,60,NA
+ChIJ6WwzY_n1a4cRuZxyCc5VbaY,Nok's Donuts,39.9856205,-105.0947267,Social Business,cafe,cafe; bakery; store; point_of_interest; food; establishment,OPERATIONAL,4.9,60,NA
+ChIJ6xjd7TL1a4cRXyQGMKT14ew,Tropical Smoothie Cafe,39.9862901,-105.0979856,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.6,68,NA
+ChIJ6xjd7TL1a4cRXyQGMKT14ew,Tropical Smoothie Cafe,39.9862901,-105.0979856,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,3.6,68,NA
+ChIJ7_0BgC3za4cRdDQxxKVljY0,McDonald's,39.961245,-105.162737,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,784,NA
+ChIJ7_0BgC3za4cRdDQxxKVljY0,McDonald's,39.961245,-105.162737,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.5,784,NA
+ChIJ7_0BgC3za4cRdDQxxKVljY0,McDonald's,39.961245,-105.162737,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.5,784,NA
+ChIJ7-_B1RDva4cRCgMXHxTHp0k,Silver Canyon Coffee Co,40.076361,-105.27817,Social Business,cafe,food; point_of_interest; establishment,OPERATIONAL,5,13,NA
+ChIJ7-_B1RDva4cRCgMXHxTHp0k,Silver Canyon Coffee Co,40.076361,-105.27817,Social Business,cafe,point_of_interest; food; establishment,OPERATIONAL,5,13,NA
+ChIJ72k4kTTwa4cRU7l9wvM9_Ac,Ampersand Coffee Roasters,40.0732564,-105.200829,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.9,259,NA
+ChIJ72YTTiLwa4cRw7MdMXe24dk,Coot Lake,40.0859012,-105.207177,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,194,NA
+ChIJ75-1Z_v0a4cRYCuKNCtE5VM,A Mom's Space (IME),39.9864842,-105.1081527,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJ7aSJ7Y6Ma4cRR6pFNgpkaMc,Bittersweet Cafe & Confections,39.9784189,-105.1319582,Social Business,cafe,cafe; bakery; meal_takeaway; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,400,NA
+ChIJ7f0udUrxa4cRUw1YW4oI75I,Blazing Star Landscapes,40.0584615,-105.1308522,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJ7fU7UPz0a4cRlZxhgJZ153g,Lafayette Masonic Lodge #91 A.F. & A.M.,40.00057400000001,-105.0989025,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJ7UvOhdOMa4cR4PyyqSdM2wg,Grasso Park,39.95287769999999,-105.1664144,Community Space,city hall,park; tourist_attraction; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,24,TRUE
+ChIJ7UvOhdOMa4cR4PyyqSdM2wg,Grasso Park,39.95287769999999,-105.1664144,Park,park,park; tourist_attraction; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,24,TRUE
+ChIJ7xlFiRHta4cRbuMaiV556ew,Harlow Platts Community Park,39.9746374,-105.2486266,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,366,NA
+ChIJ7xlFiRHta4cRbuMaiV556ew,Harlow Platts Community Park,39.9746374,-105.2486266,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,366,NA
+ChIJ7zFosonza4cRSfY2KRkaMwA,95a Bistro & Co.,40.0141662,-105.1296025,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,660,NA
+ChIJ7zFosonza4cRSfY2KRkaMwA,95a Bistro & Co.,40.0141662,-105.1296025,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,660,NA
+ChIJ7ZnjvKP1a4cRenca7X9kMX8,Westside Park at Compass,40.0185319,-105.0645123,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,5,NA
+ChIJ80CGEdOMa4cRzdt0LuhXy3s,HangryHorse Cafe,39.9520315,-105.1593981,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.3,53,NA
+ChIJ85UfIlzza4cReW5wqY9PCJs,The Huckleberry,39.97693719999999,-105.1320122,Social Business,cafe,restaurant; bakery; cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.5,1625,NA
+ChIJ8bvK2Mbta4cRQ8rC3nTsZ5U,Etai's Bakery Cafe,40.0078255,-105.2489762,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,18,NA
+ChIJ8bvK2Mbta4cRQ8rC3nTsZ5U,Etai's Bakery Cafe,40.0078255,-105.2489762,Social Business,cafe,cafe; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,3.8,18,NA
+ChIJ8dclQmj0a4cRyr0hl809sFU,Cairn Christian Church,40.01611,-105.1037031,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,10,NA
+ChIJ8ey4iVr0a4cR2G4xQXgPn_E,Kneebone Open Space,40.013578,-105.0917891,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,14,NA
+ChIJ8fa7nCXza4cRRVPtF-L6ThE,Starbucks,39.965123,-105.164282,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,261,NA
+ChIJ8fa7nCXza4cRRVPtF-L6ThE,Starbucks,39.965123,-105.164282,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,261,NA
+ChIJ8fa7nCXza4cRRVPtF-L6ThE,Starbucks,39.965123,-105.164282,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.2,261,NA
+ChIJ8UmY7srta4cRczeQO-StXYk,WeatherTech Cafe,40.0045806,-105.264363,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,3.9,61,NA
+ChIJ8w6eQ-b0a4cRkrt_TeRIEQU,OTIS Craft Collective,39.9858065,-105.0944074,Social Business,cafe,bar; cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.6,301,NA
+ChIJ8w6eQ-b0a4cRkrt_TeRIEQU,OTIS Craft Collective,39.9858065,-105.0944074,Social Business,cafe,cafe; bar; store; food; point_of_interest; establishment,OPERATIONAL,4.6,301,NA
+ChIJ8w6eQ-b0a4cRkrt_TeRIEQU,OTIS Craft Collective,39.9858065,-105.0944074,Social Business,cafe,cafe; bar; store; point_of_interest; food; establishment,OPERATIONAL,4.6,301,NA
+ChIJ8wyvAen1a4cRwKXyfvXtatk,Erie Community Center,40.038626,-105.052597,Community Space,community center,bus_station; transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ8y1l7anta4cRCnzQDD6EyAQ,Bona Coffee Roasters (Coffee Shop),40.0214332,-105.2473506,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.9,82,NA
+ChIJ8y1l7anta4cRCnzQDD6EyAQ,Bona Coffee Roasters (Coffee Shop),40.0214332,-105.2473506,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.9,82,NA
+ChIJ9-47OD6Ta4cReU9vkDis7aI,Eldorado Mountain,39.922189,-105.2867776,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,48,NA
+ChIJ99V_vXPta4cRpO9EwIzJxzo,Tantra Park,39.9799373,-105.2404686,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,85,NA
+ChIJ9ah7GFzza4cRhKgjt5bZQuM,Moxie Bread Company,39.9767154,-105.1323231,Social Business,cafe,bakery; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,945,NA
+ChIJ9ar8TGD0a4cRKVO_hgHYgEA,Walmart Garden Center,40.00577320000001,-105.1050654,Park,garden,furniture_store; home_goods_store; general_contractor; store; point_of_interest; establishment,OPERATIONAL,3.8,4,NA
+ChIJ9cUIJFzza4cRcINz_FXcrKQ,Parks & Recreation,39.9772809,-105.1323409,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJ9ekhHs3xa4cRfBCaeLCSwns,Better Blooms,40.0562847,-105.2012845,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ9feNzMnxa4cRWnPz7OAQJvs,Temple of the Sacred Feminine,40.064749,-105.1971049,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJ9xADVx_sa4cRPDdYP8jaYDs,Fortune Park,40.015066,-105.289925,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,10,NA
+ChIJ9Xj_aXrta4cRs5a631DhJtI,Gravity Express,40.0055274,-105.2634098,Social Business,cafe,cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJ9YtxntaMa4cRMKbxIP4vKbk,Children's Park,39.9504729,-105.1686215,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,5,7,TRUE
+ChIJA_68kzbsa4cReu6KRSwjBYs,Drogo's Coffee Bar,40.0051239,-105.2733815,Social Business,cafe,cafe; church; place_of_worship; food; store; point_of_interest; establishment,OPERATIONAL,4.7,66,NA
+ChIJa1a51NPta4cRhg25CfEPP1k,Village Coffee Shop,40.0155875,-105.2634735,Social Business,cafe,meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,1151,NA
+ChIJa20i2szxa4cRnTlAvlKZuAo,Way To Grow,40.0704305,-105.2043227,Park,garden,food; point_of_interest; store; establishment,OPERATIONAL,4.5,89,NA
+ChIJa20i2szxa4cRnTlAvlKZuAo,Way To Grow,40.0704305,-105.2043227,Park,garden,store; food; point_of_interest; establishment,OPERATIONAL,4.5,89,NA
+ChIJa3x9ziXsa4cRL0KW9_5tKKY,Boulder Municipal Campus,40.0150026,-105.2805018,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJA4VcVID1a4cRNa9cm4Mi7QA,Nature Kids Discovery Zone,39.9901181,-105.0849301,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,22,NA
+ChIJa77TJa3xa4cRPQ1Y7Kh1BmI,Niwot United Methodist Church,40.073395,-105.181709,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJa7vi-3eNa4cRg9mcM9Lgpt8,Superior Church,39.9388929,-105.1422534,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJA8wy8ozva4cRUHHqAWZyjwU,Prevovacional De Ashley,40.021696,-105.2794954,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaeZ6YtOMa4cR4EhDDCI0FLw,Asti Park,39.9541566,-105.1675252,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,12,TRUE
+ChIJAQAA_Arxa4cRcjMuNOvXpWI,Heatherwood Park,40.05790289999999,-105.1701226,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.9,10,NA
+ChIJAQAAADAiiYgRHQyV8EYETY8,Tilted Square,40.0164153,-105.2798846,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAQAAswWLa4cRz_Qwal0ViCo,The Agile Mentors Community,39.9328862,-105.0880743,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAQAEWA7ta4cRd_8kL8t6_mo,Garden to Table,39.977179,-105.2509896,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaQj2OyHsa4cRxajvhreYabk,Two Hands Paperie,40.0171125,-105.2848114,Park,fountain,store; point_of_interest; establishment,OPERATIONAL,4.7,130,NA
+ChIJAToeWQDxa4cRSXuDu5WZ1-c,Vinelife Church,40.0732935,-105.1708663,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,31,NA
+ChIJaTSnSfPza4cRhy_H2xaHrHo,Cross Ridge Park,40.0163994,-105.1330448,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJaTxK6q_ta4cRqPODFQlqlME,Community Roots Urban Gardens of Boulder,39.992751,-105.2557055,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaUKWnK31a4cREBk-fRBfHo0,Park,40.0169395,-105.119771,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJaVdeY9OMa4cRZPOhyeXQVWg,Superior Parks & Recreation,39.9527344,-105.158882,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJAVqmsS7za4cRYaVZP_4Zhg4,Village Shops At Colony Square,39.961206,-105.1665185,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.3,251,NA
+ChIJAVrj-WTva4cRK0YlAmD8RsY,PS Cafe,40.0295117,-105.2382595,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJAVrj-WTva4cRK0YlAmD8RsY,PS Cafe,40.0295117,-105.2382595,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJaw2EY2Lwa4cRkiOLlgcn0-k,Niwot Children's Park,40.1025471,-105.1736208,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,274,NA
+ChIJaw9xh5Tta4cRoQbfaUoRUDE,Cosmic Gardens,39.9845937,-105.2482931,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAWJz0qPxa4cRDryBRx3QUO4,Harvest Baptist Church,40.0571227,-105.1793022,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJAWJz0qPxa4cRJbjU9ecFCoA,Reformed Baptist Church of Northern Colorado,40.0572974,-105.1788618,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJAWqt-N_ta4cRXxHhaC6q8v4,Green Spaces Garden Services,40.0257965,-105.2432488,Park,garden,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJay62yPbua4cRN3NkvXJT6UM,Dharma's Garden,40.0489525,-105.2718564,Park,garden,point_of_interest; establishment,CLOSED_TEMPORARILY,5,9,TRUE
+ChIJAYxm_xHza4cRPUp4XgjsbaQ,The Church of Jesus Christ of Latter-day Saints,39.9871983,-105.1551616,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,39,NA
+ChIJAYxm_xHza4cRuCADn4_P5f0,Family History Center,39.9876931,-105.1548051,Community Space,library,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.1,7,NA
+ChIJb-9mZnrua4cRu-UUkquVkpM,Valmont Square Townhomes,40.031214,-105.2559661,Park,square,point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJb0EnMNLva4cRggRmhKL__sU,Boulder Reservoir Concession Area,40.0719991,-105.2288605,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.4,84,TRUE
+ChIJB1ME5jD1a4cRZjhgK4M8N74,Lucile's Creole Cafe,40.0497287,-105.0476821,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJB5i9Fv6Na4cRnMAgoU41AEs,Starbucks,39.94016999999999,-105.127014,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.2,127,NA
+ChIJb8aHvfvva4cRBIz_ITbPxPw,Pekoe,40.0260065,-105.281511,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,134,NA
+ChIJbbMoAZD0a4cRA_AjALRMiN4,Waneka Lake Park WEST SHELTER,39.9927054,-105.113996,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJBc5x5H3ua4cRSXmOSnmtyc0,Om Books & Gifts,40.0289702,-105.26420039999999,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,3.7,6,NA
+ChIJBcLkdv7va4cRHrYNjZiVF90,Mushroom Park,40.041036,-105.273161,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJbcnt7OmKa4cRMoq9k5mmoJ8,Country Estates Park,39.9484626,-105.0625731,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,36,NA
+ChIJBQEHObfta4cRw0cZDgo1Jdw,Cafe Mexicali,39.9999127,-105.2563642,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,1042,NA
+ChIJBQsyexT1a4cRiU0Afd6X2hM,Redgarden Restaurant and Brewery,39.965351,-105.1168878,Social Business,cafe,restaurant; bar; food; point_of_interest; establishment,OPERATIONAL,4.7,179,NA
+ChIJBQsyexT1a4cRiU0Afd6X2hM,Redgarden Restaurant and Brewery,39.965351,-105.1168878,Social Business,cafe,restaurant; bar; point_of_interest; food; establishment,OPERATIONAL,4.7,179,NA
+ChIJbQvz4tPza4cRZGWsgdjM65Y,"Heritage Park, Louisville, Colorado",39.9660912,-105.1503756,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,35,NA
+ChIJbSJxyyXsa4cR9Ek2_3uu3cg,Boulder International Peace Garden,40.0148249,-105.2807701,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJbVbMFl3za4cRIlZ_UkH4CNk,Memory Square Outdoor Pool,39.9780095,-105.1360453,Park,square,point_of_interest; establishment,OPERATIONAL,4.1,17,NA
+ChIJbW4bGJLwa4cRkkCKNXcwuP4,Left Hand Grange Park,40.101956,-105.1598172,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,17,NA
+ChIJbYEyySfsa4cRF95Bjg0jj2Y,Boulder County Community Planning & Permitting (formerly Land Use Dept.),40.0189791,-105.2791355,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3,4,NA
+ChIJBZkbqD3za4cR9HWEstP13Zs,Louisville Recreation & Senior Center,39.9749978,-105.1576131,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,378,NA
+ChIJbzLLXpDua4cR9rj3ae1WoUk,"Frederick Law Olmsted, Jr. Park",40.0324334,-105.2806648,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJC_Mwhl7za4cRX7N7hdoLz6I,Louisville Public Library,39.9779184,-105.131087,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,64,NA
+ChIJc-tXxDDsa4cRreX0M-TQMQo,BoCo Cafe,40.0071616,-105.2759389,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJC1yBqyjta4cRJWpb7VJlBug,Parking Scott Carpenter,40.0136185,-105.2558329,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJc1ZNFiTsa4cRq-adLIu2OLU,BLDG 61 Makerspace,40.0148739,-105.2825606,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJC3jxgwvza4cRCIulzK-xJbA,Giovannitti Coffee Roasters,39.977965,-105.1322297,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.8,53,NA
+ChIJc4cacnTza4cRYj9rMqKh6GQ,Keith Helart Park,39.9943325,-105.1450835,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,23,NA
+ChIJC5xyYW7ua4cRVyuUjjKPXVI,Dignity Memorial,40.0376473,-105.2493084,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJc6xTEm_2a4cRD2Nmt8dtBuE,Crescent Park,40.0632621,-105.0661994,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,36,NA
+ChIJC71E1zDsa4cRS8z3ARECaUk,Starbucks,40.0070996,-105.2752506,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,197,NA
+ChIJcaA6MCf1a4cR7lEW0ePkjvc,Lafayette Public Works Service Center,39.9824642,-105.0775615,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJcbcH4o35a4cRCx-0A96nNiA,Motherlode Cafe & Tavern,40.0718058,-105.2065012,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,339,NA
+ChIJcelnTS3xa4cRB8U1TpdH7o8,Tip Top Savory Pies,40.0711303,-105.2004071,Social Business,cafe,restaurant; cafe; bakery; food; store; point_of_interest; establishment,OPERATIONAL,4.5,70,NA
+ChIJcQ0ri3iLa4cRO-l4wYp1fqE,ink! Coffee,39.9232163,-105.1175487,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.2,60,TRUE
+ChIJCQ90hPr0a4cRWERw4482qo0,Lafayette Cultural Arts,39.9980923,-105.0901962,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCStZ5THza4cRRDs8Q5hFOzo,Ascent Community Church,39.9625621,-105.1602344,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,34,NA
+ChIJcVynAyTua4cRJmPb9vfberQ,Thistle Community Housing - Food Distribution Center,40.0537695,-105.2255786,Community Space,community center,food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJCW8SX7jta4cRXrWrw4HkV7w,Walking path through Arrowwood Park,40.0032184,-105.251769,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJcWO0tuDua4cRRe2Cf5CG6kA,Foothills Community Park,40.0563762,-105.287744,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,494,NA
+ChIJCyC0XJaMa4cR6ilbOJo0B74,Autrey Park,39.9371478,-105.1418452,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,111,NA
+ChIJCZM5fIPua4cRpA5bLaIxRyc,Mt Zion Lutheran Church,40.0265881,-105.2759621,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJd_XbI-L1a4cROyXmUhc2uKI,St. Scholastica Catholic Church,40.050337,-105.0525323,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,31,NA
+ChIJd1mORyXsa4cRkG6n7a85HmQ,United Ministries In Higher Ed,40.0116888,-105.2794141,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJD3QjvB3va4cRP0zQRag1DCo,Broadway West Community Lllp,40.0619907,-105.281929,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJd8QpPyHsa4cRyIFGhlHb_vs,Little Free Library,40.0167274,-105.285013,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJd8wFwgfya4cRm50zOmazzFg,OZO Coffee | Roastery Cafe & Lab,40.0204698,-105.2183336,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,181,NA
+ChIJd9mOxibsa4cRWHiWQZ1ptlc,PrintWithMe Print Kiosk at Trident Booksellers and Cafe,40.0173973,-105.2831638,Social Business,bookstore,point_of_interest; store; establishment,OPERATIONAL,3.9,19,NA
+ChIJda0uQbzta4cR1o9JVzUyHIo,St Andrew Presbyterian Church,39.99927599999999,-105.2466226,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,24,NA
+ChIJdbC8Cfr0a4cRO9dlOEyDLTs,Bob L Burger Recreation Center,40.000955,-105.0909171,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.5,291,NA
+ChIJdbC8Cfr0a4cRuBzUnzXGLtE,Lafayette Parks & Recreation,40.0008339,-105.0909061,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJdbjba_v0a4cRSWxaqtWet80,East Simpson Coffee Company,39.9984796,-105.0890394,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.7,453,NA
+ChIJDf0qfeHua4cR-G73E5lTayQ,New Knowledge Library,40.057318,-105.2838973,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJDS7bBEv1a4cRx1p_kd8FPmU,The Read Queen Bookstore and Cafe,39.9991163,-105.0895699,Social Business,bookstore,book_store; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.9,128,NA
+ChIJDS7bBEv1a4cRx1p_kd8FPmU,The Read Queen Bookstore and Cafe,39.9991163,-105.0895699,Social Business,bookstore,book_store; cafe; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,128,NA
+ChIJDS7bBEv1a4cRx1p_kd8FPmU,The Read Queen Bookstore and Cafe,39.9991163,-105.0895699,Social Business,cafe,book_store; meal_takeaway; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.9,128,NA
+ChIJDS7bBEv1a4cRx1p_kd8FPmU,The Read Queen Bookstore and Cafe,39.9991163,-105.0895699,Social Business,cafe,book_store; cafe; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.9,128,NA
+ChIJdTxAJTv1a4cRtqKgeCMsAVE,TRU PACE,40.01320450000001,-105.1267576,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJdUgpnAnxa4cRI2CUsOEx5SU,St. Mary Magdalene Episcopal Church,40.0616444,-105.1696976,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJDUHiLe7ua4cR484-0-fMSnM,Victory Apostolic Church,40.0482429,-105.2786556,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJDUPCEfnta4cRSiyJ5WX33HY,CU Boulder Bookstore Warehouse,40.018997,-105.2489034,Social Business,bookstore,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJDwjUxy-La4cRMr4Un4TEZ8E,Pioneer Landscape Centers,39.9577693,-105.0887417,Park,fountain,general_contractor; point_of_interest; store; establishment,OPERATIONAL,3.8,76,NA
+ChIJDWUQKyuNa4cR9bDK39U4XwY,Walmart Patio & Garden Services,39.9259055,-105.1362376,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDx1-ouDta4cRxuAXobASNoc,Spruce Cafe,40.0222349,-105.2425835,Social Business,cafe,cafe; bakery; food; store; point_of_interest; establishment,OPERATIONAL,4.3,91,NA
+ChIJdXEHRkTta4cRkJq-qOuMTsM,SOUTH BOULDER CREEK,39.9601993,-105.2366599,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,35,NA
+ChIJDxVXd2b1a4cRMOKSZtv_mGQ,Community Medical Center,39.9866462,-105.1025351,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJdYK9P4qNa4cRFOaHXuZp8wg,Hodgson-Harris Reservoir,39.9407103,-105.1434963,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJDyuIJub0a4cRQXmfqtzQ2es,Pho Café,39.9887868,-105.0911146,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,753,NA
+ChIJDyuIJub0a4cRQXmfqtzQ2es,Pho Café,39.9887868,-105.0911146,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,753,NA
+ChIJdyWXt4T1a4cRvf5KV1mh1lc,CL Group - Erie: Berkshire Hathaway Home Services,40.0225121,-105.08659,Park,fountain,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJDZzVdCjsa4cRmgi-Ktpp1Ys,Lucile's Creole Cafe,40.0200688,-105.2776735,Social Business,cafe,restaurant; cafe; food; point_of_interest; establishment,OPERATIONAL,4.6,1407,NA
+ChIJDZzVdCjsa4cRmgi-Ktpp1Ys,Lucile's Creole Cafe,40.0200688,-105.2776735,Social Business,cafe,restaurant; cafe; point_of_interest; food; establishment,OPERATIONAL,4.6,1407,NA
+ChIJE_5uTjPwa4cRlj5fyb_1_sY,Deli Zone Gunbarrel,40.0717612,-105.2026863,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,178,NA
+ChIJe-H9sxrva4cRY13GfR6UG-w,Neighborhood Park,40.0605584,-105.2857298,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJE-TVbPD0a4cRqUummMAelow,First Baptist Church of Lafayette,39.99700989999999,-105.0919204,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,7,NA
+ChIJe0fs6Orua4cRpMHMfszPvmY,Maxwell Park,40.0415044,-105.2875243,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,21,NA
+ChIJE21Di-H1a4cRXA-U3j632aw,Erie United Methodist Church,40.0508048,-105.0503268,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.3,9,NA
+ChIJE2VNgEDza4cRZenuXNE9XX8,Colony Square,39.9605255,-105.1660118,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJE4OOBTTza4cRyXEDZGDIAYg,Meadows Park,39.9618753,-105.1546545,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,28,NA
+ChIJE5KQL3aLa4cR8k_DilI8q_E,Central HOA Park,39.92208979999999,-105.1193494,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJE6YJGNDta4cRF2x0W8c8DAI,The Home Depot,40.0160986,-105.2548609,Park,fountain,hardware_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,3.9,841,NA
+ChIJE9rNYV7za4cRUbVILB8kwUE,Steinbaugh Pavilion,39.9784092,-105.1305531,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,40,NA
+ChIJe9UGd_r0a4cRJyHnezmjlSU,The Collective,39.9993229,-105.0907221,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJEaabO_L0a4cRY6Cr68mG-0k,Romero Park,39.997221,-105.0957143,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJeccpk7_ta4cRAwG79671LnY,Aurora 7 Park,40.0053047,-105.2447139,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,50,NA
+ChIJeefoqAfya4cRFomfImeTAlQ,Wok to Flatirons Deli,40.02148589999999,-105.217717,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,99,NA
+ChIJeQkZ9TTsa4cRICRcN8fNFfI,Howard B. Waltz Music Library,40.006016,-105.26907,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJeSApMHrua4cRkVBhBo_O1hs,Sturtz & Copeland Florist,40.01399,-105.2484494,Park,garden,florist; food; store; point_of_interest; establishment,OPERATIONAL,4.4,137,NA
+ChIJeSApMHrua4cRkVBhBo_O1hs,Sturtz & Copeland Florist,40.01399,-105.2484494,Park,garden,florist; store; point_of_interest; food; establishment,OPERATIONAL,4.4,137,NA
+ChIJeSApMHrua4cRkVBhBo_O1hs,Sturtz & Copeland Florist,40.01399,-105.2484494,Park,garden,florist; point_of_interest; store; food; establishment,OPERATIONAL,4.4,137,NA
+ChIJeSye1F3za4cRXfn8AJsRgDI,Bob's Diner,39.9783554,-105.1319594,Social Business,cafe,meal_takeaway; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,399,NA
+ChIJEUr8Rzfsa4cR6PAMqy9PQbQ,Grace Lutheran Church,40.0056819,-105.2765865,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,5,NA
+ChIJewfK6srta4cRLAEtgn2o7EI,Center for Community Dining,40.0041357,-105.2649255,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,85,TRUE
+ChIJeWZN9o3xa4cRhOGaEitEdeM,Gunbarrel North Park,40.0749504,-105.1959761,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,1,NA
+ChIJExttMEyLa4cRFYVef8cWvYs,"City of Louisville, city services facility",39.9586567,-105.1104588,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJeyD4EHDua4cR89QUVJvjlsI,Market Square Shopping Center,40.0196038,-105.2523433,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.1,280,NA
+ChIJEZBIzOPua4cR8XehRlIA_6w,Joyful Yoga Community Co-Op,40.0579577,-105.282708,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJEZiFBV3za4cR0BMOrSZOELA,Memory Square Park,39.9781506,-105.1353065,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,164,NA
+ChIJEZiFBV3za4cR0BMOrSZOELA,Memory Square Park,39.9781506,-105.1353065,Park,square,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,164,NA
+ChIJF-3KvCzsa4cRRx1xrYGZr0I,Boulder Community Treatment,40.0170119,-105.2676255,Community Space,community center,point_of_interest; establishment,OPERATIONAL,3.9,14,NA
+ChIJf0lUWfrua4cRwLfkuCq8gUo,Boulder Meeting of Friends,40.0531484,-105.2746897,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJF0R9BJvua4cRMmTQsSK014I,Washington School Park,40.0283316,-105.2805153,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4,6,NA
+ChIJf1b7NgHta4cRTR3fP2gmQsc,Community United Church-Christ,39.9797431,-105.2611068,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,9,NA
+ChIJF44CJ-jua4cRXtHMo4UHoUs,Wonderland Lake Park,40.0485278,-105.2901148,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,262,NA
+ChIJf4AA2B7va4cRhfrSmm42OBE,RealVideoTour,40.0644991,-105.2866821,Park,fountain,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJF7gVGUHsa4cRuFpfRVQ1DhY,Chautauqua Trail Overlook,39.9972211,-105.2855719,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,216,NA
+ChIJf8czL-z1a4cRN35_f_kUgSQ,Erie Community Center,40.037527,-105.052442,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.4,362,NA
+ChIJF8LxJYHsa4cRjqV7SWN5ve8,Bear Peak,39.9601903,-105.2952718,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,174,NA
+ChIJf8p_BA7ta4cRpHhNbrakwN4,Boulder Parks & Recreation,39.9746374,-105.2486267,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJFbBFTGX1a4cRt6OjkjyM5rQ,Walmart Patio & Garden Services,40.006018,-105.105275,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJFcpkomXza4cRHo44Pn85Cow,Mudrock's Biscuit Bar,39.9878512,-105.1363573,Social Business,cafe,bar; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,200,NA
+ChIJfcSg9ovta4cRMpgyY5-ANAw,"Space and Thyme, LLC",39.9805771,-105.2449654,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJfd0YhiPsa4cRlKfLXZUqoZw,Highland | City Club,40.0135899,-105.2842267,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.5,43,NA
+ChIJfd0YhiPsa4cRlKfLXZUqoZw,Highland | City Club,40.0135899,-105.2842267,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.5,43,NA
+ChIJfQZi23H1a4cRbQHh6cMaKXI,Silver Creek Park,40.004625,-105.0967603,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,92,NA
+ChIJFSNylC7za4cRxOkWu0PHk4g,Murphy's Tap House,39.96219809999999,-105.1651749,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,1302,NA
+ChIJfTmJPSTsa4cRRi3g6tKGiTc,Office of Arts + Culture,40.014823,-105.2823591,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJFU85yV7wa4cR8BDHZuZ1yB0,Community Food Share,39.9600589,-105.119374,Community Space,community center,food; point_of_interest; establishment,OPERATIONAL,4.7,217,NA
+ChIJFVIu-Szsa4cRZ-rquPxX2_U,Goss-Grove Neighborhood Garden,40.0152334,-105.2689996,Park,garden,park; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJFVU3c-n1a4cRApHz62BtE4E,Erie Community Park,40.03929249999999,-105.0528217,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,274,NA
+ChIJFVU3c-n1a4cRApHz62BtE4E,Erie Community Park,40.03929249999999,-105.0528217,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,274,NA
+ChIJfWRgsePua4cRRQXUf4YYa7g,Amante Coffee (Uptown Broadway),40.057878,-105.2818614,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.2,277,NA
+ChIJfWRgsePua4cRRQXUf4YYa7g,Amante Coffee (Uptown Broadway),40.057878,-105.2818614,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,277,NA
+ChIJfWRgsePua4cRRQXUf4YYa7g,Amante Coffee (Uptown Broadway),40.057878,-105.2818614,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,277,NA
+ChIJFyF9Iff0a4cRVEEhMx0YYMY,Lafayette Police Department,40.0024306,-105.0942887,Community Space,city hall,police; point_of_interest; establishment,OPERATIONAL,2.5,32,NA
+ChIJFZ1wBDTsa4cRp1tpquHNiHY,CU Collegiate Recovery Center,40.0065024,-105.271579,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJfZgnm4Dta4cRZk-iHUhKNRM,East Boulder Community Center,39.9921662,-105.2200696,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.6,231,NA
+ChIJG1KcCgr2a4cRKAUOtoxR_-A,Coal Miners Park,40.0514823,-105.0512349,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,39,NA
+ChIJg29zYmzua4cRt8S-ZRJta-w,Boulder JCC (Boulder Jewish Community Center),40.0140263,-105.2107577,Community Space,community center,point_of_interest; school; establishment,OPERATIONAL,4.5,26,NA
+ChIJg29zYmzua4cRt8S-ZRJta-w,Boulder JCC (Boulder Jewish Community Center),40.0140263,-105.2107577,Community Space,community center,school; point_of_interest; establishment,OPERATIONAL,4.5,26,NA
+ChIJG2h0J2D0a4cRNTnSQId4LLs,Starbucks,40.004383,-105.1035079,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4,195,NA
+ChIJG2h0J2D0a4cRNTnSQId4LLs,Starbucks,40.004383,-105.1035079,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4,195,NA
+ChIJG3PeBI7ta4cRTGR_0b82ikU,Pan's Gardens,40.0019517,-105.2305788,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJG3SvINLta4cR-cEjhRFonA4,Brewing Market Coffee,40.0160409,-105.2623354,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,270,NA
+ChIJg6hhLL7xa4cRkynpVm9L5ws,Gunbarrel Estates Park,40.0766335,-105.1838075,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJG9rOxILta4cRYHYRvxtMEiI,Rojan’s Gyros & Beers,39.9979264,-105.2332782,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.8,275,NA
+ChIJGdHUgpuMa4cRJ2AMRqDpYiw,2nd & Charles,39.9307106,-105.1345687,Social Business,bookstore,movie_rental; book_store; home_goods_store; electronics_store; store; point_of_interest; establishment,OPERATIONAL,4.5,1908,NA
+ChIJGdHUgpuMa4cRJ2AMRqDpYiw,2nd & Charles,39.9307106,-105.1345687,Social Business,bookstore,movie_rental; electronics_store; book_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.5,1908,NA
+ChIJGdHUgpuMa4cRJ2AMRqDpYiw,2nd & Charles,39.9307106,-105.1345687,Social Business,bookstore,home_goods_store; electronics_store; movie_rental; book_store; store; point_of_interest; establishment,OPERATIONAL,4.5,1908,NA
+ChIJGdHUgpuMa4cRJ2AMRqDpYiw,2nd & Charles,39.9307106,-105.1345687,Social Business,bookstore,movie_rental; book_store; electronics_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.5,1908,NA
+ChIJgdP_n4Pua4cRL7-MO_LR1-g,Ann Armstrong Park,40.0253878,-105.2751176,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.7,10,NA
+ChIJGfoqwNHta4cR2DfPsUxJjeo,Flatiron Coffee,40.0149544,-105.2590874,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.4,499,NA
+ChIJGUJz0gfua4cRwmsV4EWQwHk,Valmont Dog Park,40.0302566,-105.2302468,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.7,454,NA
+ChIJgVTxAVz0a4cR-dGtiAbycZo,Autumn Ash Park,40.0104916,-105.0968657,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.1,35,NA
+ChIJGWo75dz1a4cRhch1PDYJc7E,Lafayette Rock Park,39.9979958,-105.0825598,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJGwRTa5Hta4cR0Hh9bsPvZY0,Hope Boulder,40.0005556,-105.2352778,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,9,NA
+ChIJgX4gXsvxa4cRhTBUQCpY6MY,Cafe Blue,40.0703866,-105.2016606,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,178,NA
+ChIJgx6xNI_ua4cRXnb48J-skcc,Iglesia Nueva Vida Apos Ch,40.0333085,-105.2722299,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJgXs659_ta4cRmjueiN8TXCY,The Parkway Cafe,40.0249798,-105.2433207,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,1113,NA
+ChIJGY82xV_za4cRJjnrgM2Dhx0,Moe's Broadway Bagel,39.9800433,-105.1289708,Social Business,cafe,bakery; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.2,326,NA
+ChIJGY82xV_za4cRJjnrgM2Dhx0,Moe's Broadway Bagel,39.9800433,-105.1289708,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.2,326,NA
+ChIJGYDqVI7za4cRj0cpQBv7cKU,YMCA of Northern Colorado,40.0125815,-105.1344955,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.2,164,NA
+ChIJgyEf0aGLa4cRUKAWZQo40cc,T Square Designs Inc,39.9873091,-105.1304182,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJh_l2nuX0a4cR7BKVUy4toiI,Seventh Man,39.9935959,-105.0897058,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJH_y-T_Dya4cR0XgNJRphc5Q,Templo Cristiano El Siloe,39.985302,-105.1867704,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJH1m_iXjua4cRBEK-6H7NAQE,Mapleton Center YMCA,40.0246291,-105.2576485,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,3.8,62,NA
+ChIJH3Of8i_sa4cRv8eJFZ6e_3A,Andrews Arboretum,40.0124418,-105.2772802,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.6,24,NA
+ChIJH3Of8i_sa4cRv8eJFZ6e_3A,Andrews Arboretum,40.0124418,-105.2772802,Park,garden,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.6,24,NA
+ChIJH4yR4bHta4cRVz6XGK6GjwY,Boulder Labs Library,39.995774,-105.2615771,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJh5C7Cz7sa4cRRnOImevb0nw,Edward Sell Smith Park,40.0045374,-105.288484,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,19,NA
+ChIJH60ntJnua4cRVwkT5BAkHJs,City of Boulder: Parks and Recreation Department,40.032975,-105.2817001,Community Space,community center,local_government_office; gym; park; health; point_of_interest; establishment,OPERATIONAL,4.4,8,NA
+ChIJH60ntJnua4cRVwkT5BAkHJs,City of Boulder: Parks and Recreation Department,40.032975,-105.2817001,Park,park,local_government_office; gym; park; health; point_of_interest; establishment,OPERATIONAL,4.4,8,NA
+ChIJh66ZXiGNa4cROxE1EUI3ROY,Serendipity Tap and Cafe,39.9282153,-105.1484375,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,5,1,NA
+ChIJh66ZXiGNa4cROxE1EUI3ROY,Serendipity Tap and Cafe,39.9282153,-105.1484375,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,1,NA
+ChIJH6dm4Yvwa4cR-70MQITmoGc,The Garden Gate Cafe,40.1007922,-105.1681379,Park,garden,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,381,NA
+ChIJH6dm4Yvwa4cR-70MQITmoGc,The Garden Gate Cafe,40.1007922,-105.1681379,Park,garden,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,381,NA
+ChIJH6dm4Yvwa4cR-70MQITmoGc,The Garden Gate Cafe,40.1007922,-105.1681379,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,381,NA
+ChIJH6dm4Yvwa4cR-70MQITmoGc,The Garden Gate Cafe,40.1007922,-105.1681379,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,381,NA
+ChIJh6E68un1a4cRU1x04_bpYmA,Burger King,40.0360202,-105.0528881,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,2.8,511,NA
+ChIJh7WncWTxa4cRo_0nxXVeHPY,McConnell & Son's Garden Center,40.0538699,-105.097369,Park,garden,store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJh8yHJ5Lwa4cR7Ck1F5rKQP8,Divine Savior Lutheran Church,40.1022885,-105.1587696,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJHdip5uLua4cRWU5DAXVlYh0,Holiday Park,40.0596866,-105.2792533,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,31,NA
+ChIJHdMY9IDua4cRCqwjxyZ7GKQ,Lover’s Hill Park,40.0250573,-105.2684644,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,42,NA
+ChIJhSE25ibsa4cREVN1cLEOh14,OZO Coffee | West Pearl,40.017564,-105.282169,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,784,NA
+ChIJhSH7XTjya4cRd77gVHmynH8,Indochine Home & Garden,40.0150182,-105.1874059,Park,garden,home_goods_store; furniture_store; point_of_interest; store; establishment,OPERATIONAL,4.3,41,NA
+ChIJhSH7XTjya4cRd77gVHmynH8,Indochine Home & Garden,40.0150182,-105.1874059,Park,garden,home_goods_store; furniture_store; store; point_of_interest; establishment,OPERATIONAL,4.3,41,NA
+ChIJHSJLxCbsa4cRkw2E3vTDfzU,Trident Booksellers and Cafe,40.0171538,-105.2829921,Social Business,bookstore,cafe; book_store; bar; food; point_of_interest; store; establishment,OPERATIONAL,4.7,904,NA
+ChIJHSJLxCbsa4cRkw2E3vTDfzU,Trident Booksellers and Cafe,40.0171538,-105.2829921,Social Business,bookstore,cafe; book_store; bar; food; store; point_of_interest; establishment,OPERATIONAL,4.7,904,NA
+ChIJHSJLxCbsa4cRkw2E3vTDfzU,Trident Booksellers and Cafe,40.0171538,-105.2829921,Social Business,cafe,cafe; book_store; bar; food; point_of_interest; store; establishment,OPERATIONAL,4.7,904,NA
+ChIJHSJLxCbsa4cRkw2E3vTDfzU,Trident Booksellers and Cafe,40.0171538,-105.2829921,Social Business,cafe,cafe; book_store; bar; food; store; point_of_interest; establishment,OPERATIONAL,4.7,904,NA
+ChIJHU-vmZuMa4cRDHBuc9rw77I,Go! Calendars,39.9331396,-105.1331343,Social Business,bookstore,book_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,4.4,8,TRUE
+ChIJHV9ZefT0a4cRkh8pi1U0pdA,Lafayette Public Library,40.0008006,-105.0995124,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.6,73,NA
+ChIJHwgCv-n0a4cRKWuRJin5hoU,Einstein Bros. Bagels,39.98616930000001,-105.0979453,Social Business,cafe,bakery; cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.6,386,NA
+ChIJHwgCv-n0a4cRKWuRJin5hoU,Einstein Bros. Bagels,39.98616930000001,-105.0979453,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.6,386,NA
+ChIJHWMESLTta4cRLFjDUgIc4Fw,Subway,39.9985271,-105.2620453,Park,fountain,meal_takeaway; restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,152,NA
+ChIJHwtkcCfsa4cRABDuo1Y-g_U,Carnegie Library for Local History,40.0199437,-105.2814938,Community Space,library,library; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,7,TRUE
+ChIJHxAri9vta4cRO_bm5fuThRs,Purrfect Pause Cat Cafe,40.0141177,-105.2298146,Social Business,cafe,pet_store; cafe; gym; veterinary_care; food; store; point_of_interest; health; establishment,OPERATIONAL,5,3,NA
+ChIJi_5hhZHta4cRUgw3OgEUv3Y,January Coffee,40.0197639,-105.2517682,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,5,38,NA
+ChIJi095uUnta4cRG28OImzfhb0,South Creek Gardens,39.9526868,-105.2413911,Park,garden,general_contractor; store; point_of_interest; establishment,CLOSED_TEMPORARILY,4,5,TRUE
+ChIJi0Pc6zDsa4cRt7LOSJNQjx8,Lollicup Boulder,40.0082315,-105.2760617,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.2,180,NA
+ChIJI1DARN3ta4cRF3_cPz5LA5o,Spruce Confections,40.009974,-105.2434979,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJi3Y4Je71a4cRa2rV4LqeTbQ,Creekside Gazebo,40.0441043,-105.0641519,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJI5Czrgnua4cR1jOf5rqMjRg,Valmont City Park,40.0282876,-105.2344349,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,327,NA
+ChIJI5wbOVmLa4cRS3znbKSvOJw,Del Corso Park,39.9463031,-105.1204059,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,23,NA
+ChIJI7HnQP3za4cRzUalRsdAiH0,Square State Skate,40.0171748,-105.2187942,Park,square,point_of_interest; store; establishment,OPERATIONAL,4.8,30,NA
+ChIJI7OK-0bsa4cR_TIsdkISySE,Chautauqua Community House,39.9978762,-105.2813976,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.7,97,NA
+ChIJI7OK-0bsa4cR_TIsdkISySE,Chautauqua Community House,39.9978762,-105.2813976,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.7,97,NA
+ChIJi9Je_hDta4cRNz0oyOYjvdI,Playground at Viele Park,39.9718458,-105.2514401,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,50,NA
+ChIJia8_suP1a4cRUoT_C7ZutxM,Sweets Ice Cream,40.0491715,-105.0475791,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,131,NA
+ChIJIaq1_I_ta4cR0frm68nTU-0,Giambrocco & Sons Boulder Nursery,39.9825512,-105.2504661,Park,garden,home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.9,24,NA
+ChIJIbGVwuf0a4cRrnkPQ_vz4dk,Lafayette City Hall,39.9874544,-105.0900686,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJIdLwvSnsa4cRqL1L1qiFupg,Heart Pocket Park,40.0201752,-105.273633,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJIf8RBeKKa4cRUefdL7Vt3Ww,Anne Crouse Park,39.9419425,-105.078528,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,18,NA
+ChIJiQ3zsSqNa4cRRX0A7fZ2k7k,Founders Park,39.9546028,-105.1734954,Park,park,park; tourist_attraction; point_of_interest; establishment,CLOSED_TEMPORARILY,4.8,120,TRUE
+ChIJIT9My4L0a4cREvl46UCx1SI,Swankinson Park,39.9916504,-105.1241299,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJiTTtlgnta4cRTK9uIw-Fq0M,Moe's Broadway Bagel,39.983525,-105.2503283,Social Business,cafe,bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,151,NA
+ChIJiU3pdzvwa4cRAznJ_W6je1s,Tom Watson Park,40.0859148,-105.2065272,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,275,NA
+ChIJIVzRQuP1a4cRZSE0xriftu4,Aspen Lodge,39.9899067,-105.0410278,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJIYO-ENjta4cRCuG6HKWquT8,Boulder Junction at Depot Square Station Gate S2,40.023618,-105.2538,Park,square,bus_station; transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJiZgezQnya4cRcKBHbmuHbA8,Bona Coffee Roasters (Roastery By Appointment Only),40.01635419999999,-105.2187211,Social Business,cafe,food; point_of_interest; establishment,OPERATIONAL,5,24,NA
+ChIJizl1fO7ua4cRxL5NI6RGY8A,Oakleaf Park,40.04631,-105.280566,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,4,NA
+ChIJiZt1rozua4cRne4SwQAIFiU,Catalpa Park,40.0416366,-105.2727728,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,12,NA
+ChIJIzxEUI7ua4cRS-GuIZ4KEEY,Growing Gardens,40.0341865,-105.2758814,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.2,21,NA
+ChIJj-jAHeL1a4cRkUwpFnjE5MY,Town Hall,40.0506999,-105.0499811,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJj0Ge9ZDta4cRxFWO58FkXmc,Boulder Public Library - Meadows Branch,39.9976607,-105.2340314,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.3,20,NA
+ChIJj0Nhd7f1a4cR6RgUUa2epy0,Imaging at Community Medical Center,39.9866091,-105.1024635,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJj32bNnLua4cRzbEoYIiEvLo,Howard Heuston Park,40.033231,-105.2480662,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,143,NA
+ChIJj50nYHiLa4cRIgNng-YDOAM,Central Park Tower,39.9234239,-105.1171454,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJj58stHvua4cRUu1g48e7J34,Boulder Gardens Florist,40.0303367,-105.2578572,Park,garden,florist; point_of_interest; store; establishment,OPERATIONAL,4.7,160,NA
+ChIJJ6QvG2KNa4cRYAk_oI96FB8,Superior Community Center,39.9281976,-105.1484188,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.8,31,NA
+ChIJjbkqUNLta4cRNID1q9GsbnA,Le French Café,40.015192,-105.2624701,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,372,NA
+ChIJJcRRUuX0a4cRxO60tH1g0E0,Tangerine - Lafayette,39.9960661,-105.0902595,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,767,NA
+ChIJjdO3d9Dta4cRvqml2_oZpwI,Garden Center at The Home Depot,40.0160187,-105.2548662,Park,garden,furniture_store; general_contractor; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4,2,NA
+ChIJJeQKJiXta4cRZL-VsuaggU8,CU Engage: Center for Community Based Learning and Research,40.0108519,-105.2735431,Community Space,community center,university; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjRmCgzPsa4cR1YMs5EOMoS0,Government Publications Library,40.0087657,-105.2708297,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJSGpcyfsa4cRBAspr2tf-us,First Congregational Church,40.019576,-105.2812544,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,15,NA
+ChIJjW7OV1zza4cR6UwKdmTV8gU,Louisville United Methodist Church,39.9775937,-105.1347686,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJjx5CJZSMa4cRuEvSny9AQDI,Superior Bike Park,39.9357899,-105.1440854,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,51,NA
+ChIJJxCJwybsa4cR1rCaGbNQi-U,World Café,40.017008,-105.2826926,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjxj7sJvta4cRdx3AHgVn9v0,Frasier Retirement Community,39.9943667,-105.2343,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,76,NA
+ChIJJYoTcl7za4cRSRhIxM9BClg,Boulder County Community Church,39.9791702,-105.1310801,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJjzHIgjHsa4cR7pn4zvLoah4,Norlin Library,40.008717,-105.270784,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,64,NA
+ChIJjzHIgjHsa4cRQlfgypLQTNo,Special Collections Department Lib,40.0086763,-105.2708319,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJJzZteNvta4cR1a1hD6E6Bwc,"Boulder County Clerk & Recorder Offices - Motor Vehicle, Elections, Recording Divisions - Boulder",40.017506,-105.2496206,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,3.9,63,NA
+ChIJK3IgGk31a4cRy0txfkd2kMA,Flatirons Community Church District Offices,39.9858408,-105.0944788,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.3,4,NA
+ChIJk4cyrJLta4cRmkQvXPp_6do,Unitarian Universalist Church of Boulder,40.006918,-105.2328477,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,29,NA
+ChIJK6c3uDvsa4cR_pIvqecRZRU,Alpine Modern Café,40.0071446,-105.2817314,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.5,357,NA
+ChIJK6IbmmTua4cR9WEGzv5VXvI,Starbucks,40.035225,-105.2601924,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.6,162,NA
+ChIJK8NgYI2Ma4cRbzQDPNRYt0s,Starbucks,39.9284295,-105.1477566,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.2,236,NA
+ChIJK8NgYI2Ma4cRbzQDPNRYt0s,Starbucks,39.9284295,-105.1477566,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,236,NA
+ChIJk93YiWLwa4cRqR2Wu_iHGco,Whistle Stop Park,40.1025478,-105.1742485,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,61,NA
+ChIJkb7CWejva4cR2OG18VdewUg,Zinnia Gardens,40.0279081,-105.2641629,Park,garden,general_contractor; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJKcc8wNnta4cR_EvHdw03E98,Walnut Gardens,40.0206732,-105.2530898,Park,garden,point_of_interest; establishment,OPERATIONAL,4.6,40,NA
+ChIJKdP_Ecr3a4cRmh8LcZ4XgI8,Boulder Creek Access,40.0599145,-105.0767579,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJKfKiwzDsa4cR-AsJqz3HTmM,The Corner,40.0074268,-105.2760395,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,231,NA
+ChIJkftjyJvta4cRa_08fTjXyH8,Mountain View United Methodist,39.9933632,-105.2354817,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,9,NA
+ChIJkR-ORhDva4cRcTcAgEU4eO4,Harlequin's Gardens Wholesale Plants,40.06114240000001,-105.263687,Park,garden,point_of_interest; establishment,OPERATIONAL,4,3,NA
+ChIJKSxJHSfsa4cRv1vFGuXSK4c,Semple William,40.0182907,-105.2817363,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJKTaSojTwa4cRCcbRlg8IZC4,Tod's Espresso Cafe,40.0722461,-105.200975,Social Business,cafe,cafe; bakery; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.3,171,NA
+ChIJkTXfW-z1a4cRzrN-7OsfDNY,Lehigh Park,40.0349364,-105.0463961,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,96,NA
+ChIJkW05oEL0a4cRedtgGlXnbEY,Starbucks,40.015763,-105.1024178,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,191,NA
+ChIJkWtWeeX0a4cRzIErbRIjEY8,"Lafayette Florist, Gift Shop & Garden Center",39.9930038,-105.0903063,Park,garden,florist; point_of_interest; store; establishment,OPERATIONAL,4.7,389,NA
+ChIJkxywFe-Ma4cR23kpuUNJ_zM,Community Park Court,39.9303552,-105.1592921,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJKY8hwTDsa4cRcznXPsfGyEM,The Point Cafe,40.0074523,-105.2764166,Social Business,cafe,cafe; restaurant; food; store; point_of_interest; establishment,OPERATIONAL,4.6,118,NA
+ChIJkydudB7va4cRGODZKDPQ7WE,Juniper Books,40.0626246,-105.2787675,Social Business,bookstore,book_store; point_of_interest; home_goods_store; store; establishment,OPERATIONAL,5,36,NA
+ChIJkydudB7va4cRGODZKDPQ7WE,Juniper Books,40.0626246,-105.2787675,Social Business,bookstore,book_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,5,36,NA
+ChIJkydudB7va4cRGODZKDPQ7WE,Juniper Books,40.0626246,-105.2787675,Social Business,bookstore,book_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,36,NA
+ChIJKzdJi8zta4cRbgZfWO5i6hw,The Well,40.0295306,-105.2594038,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,37,NA
+ChIJkZTzZWPua4cRU9IjUSqh-wA,Elmer's Two Mile Park,40.0346726,-105.26107090000001,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,3.9,33,NA
+ChIJL_BeFEXza4cRhH1EJaoKZnQ,"Pirates Park, Louisville, Colorado",39.9829303,-105.1340242,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,4.3,12,TRUE
+ChIJl_C9Byjsa4cRdaUIBTgz4ag,St. John's Episcopal Church,40.0206429,-105.2779604,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,23,NA
+ChIJl1x_ye71a4cRlQC6f2IVduw,High Plains Library District - Erie Community Library,40.0379901,-105.0512049,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,42,NA
+ChIJl2juwaTva4cRMbNgTlKPsTg,Beleza Coffee Bar,40.0252868,-105.2810327,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,260,NA
+ChIJl2juwaTva4cRMbNgTlKPsTg,Beleza Coffee Bar,40.0252868,-105.2810327,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,260,NA
+ChIJl4ERI4v0a4cRzVKPX78uWeY,McDonald's,40.0013863,-105.1037201,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,3.4,1044,NA
+ChIJl4ERI4v0a4cRzVKPX78uWeY,McDonald's,40.0013863,-105.1037201,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.4,1044,NA
+ChIJL4FInG32a4cRnKOpvGAIudQ,St John Park,40.0613351,-105.058891,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,10,NA
+ChIJl5Itz3b0a4cR5W4C9uQxAh4,Yarrow Park,40.0161514,-105.1205062,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,13,NA
+ChIJL621mgbva4cRMCM9tQCE58g,Valmont Pump Track,40.0297687,-105.2314068,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJl7ioQyPza4cRLxJbfAro844,Louisville Police Department,39.9723563,-105.1636881,Community Space,city hall,police; point_of_interest; establishment,OPERATIONAL,3.1,29,NA
+ChIJLa2UrVzua4cRSIvPE2isDpk,North Palo Park,40.0478858,-105.2542837,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJlbkkhZmLa4cRse2r_AzO-98,The Hut at MVCC,39.9157798,-105.1075497,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,52,NA
+ChIJlbvjpV-Ta4cRiheSZKx8hek,Eldorado Canyon State Park,39.9289759,-105.2941,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.8,3393,NA
+ChIJlcLiYz_2a4cR0RDzrsyh3_4,Bible Baptist Church Of Erie,40.073428,-105.0549559,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,18,NA
+ChIJldpDm2Tua4cR3TlNUhtdVZA,Red Rock Coffeehouse,40.0358283,-105.260531,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,269,NA
+ChIJLeBRaCTsa4cRO8A2AxPqQ8s,Boulder Public Library,40.01383200000001,-105.2825252,Community Space,library,parking; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJlerhgIPta4cRitFMA6pLdmY,Keewaydin Meadows Park,39.9928728,-105.2284705,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,54,NA
+ChIJlerhgIPta4cRitFMA6pLdmY,Keewaydin Meadows Park,39.9928728,-105.2284705,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,54,NA
+ChIJlfS0BYnza4cRmcuBzaNc57I,Button Rock Bakery,39.9858416,-105.0947803,Social Business,cafe,bakery; cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,4.5,276,NA
+ChIJlfS0BYnza4cRmcuBzaNc57I,Button Rock Bakery,39.9858416,-105.0947803,Social Business,cafe,bakery; cafe; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,276,NA
+ChIJlfS0BYnza4cRmcuBzaNc57I,Button Rock Bakery,39.9858416,-105.0947803,Social Business,cafe,bakery; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,276,NA
+ChIJlQ-QyDHsa4cRn5bWMGC7Qfc,Earth Sciences & Map Library,40.0079531,-105.2658462,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJlQ-QyDHsa4cRwQFujPAR9Ek,East Asian Library,40.0088035,-105.270826,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLRFYd_T0a4cRp7RDHbiqUKM,Sister Carmen Community Center Thrift Store,40.0005739,-105.0989066,Community Space,community center,clothing_store; furniture_store; point_of_interest; home_goods_store; store; establishment,OPERATIONAL,4.3,139,NA
+ChIJLRFYd_T0a4cRp7RDHbiqUKM,Sister Carmen Community Center Thrift Store,40.0005739,-105.0989066,Community Space,community center,clothing_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.3,139,NA
+ChIJLRFYd_T0a4cRp7RDHbiqUKM,Sister Carmen Community Center Thrift Store,40.0005739,-105.0989066,Community Space,community center,clothing_store; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.3,139,NA
+ChIJlRjF7-7ua4cRQs7MsJybuv0,Lucky's Bakehouse and Creamery,40.0475883,-105.2815122,Social Business,cafe,bakery; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.6,330,NA
+ChIJlS_zJbTta4cRFzdh73Wl3XM,Brewing Market Coffee,39.999596,-105.2610447,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,207,NA
+ChIJlWsZo2Tua4cRqK16ZfAkTZ4,Signature Cafe,40.0347412,-105.2599237,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJLxoj8L3ta4cRh-k6YO3mj90,Reclamation Church,39.9995023,-105.1742273,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,17,NA
+ChIJlzIuRRLsa4cRKLBsTucnuds,Trail to Flagstaff Trailhead,40.00143449999999,-105.2993561,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,116,NA
+ChIJlzQ7eMzta4cRpLCsQBs4Nz8,St Aidan's Episcopal Church,40.0085246,-105.2627257,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,25,NA
+ChIJlZrs2ubta4cRhzKbPejIZrU,Net Library,40.0207855,-105.2391218,Community Space,library,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJM_YS1_zta4cRSJHVcwdWg0U,Boulder Parks Division,40.0246586,-105.2347982,Park,park,park; local_government_office; point_of_interest; establishment,OPERATIONAL,4.1,14,NA
+ChIJM00Oqpnua4cRyDlP7cMWJJQ,North Boulder Park,40.0275977,-105.2865094,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,572,NA
+ChIJM00Oqpnua4cRyDlP7cMWJJQ,North Boulder Park,40.0275977,-105.2865094,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,572,NA
+ChIJm0smm4Dta4cRkk0cHLcJhlA,East Rec Center,39.9921291,-105.2201264,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJm0zy_Bvsa4cRrOlV2b8jExg,Eben G. Fine Park,40.0130556,-105.295,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,1372,NA
+ChIJM2nRMybsa4cRReuqhisklD0,Capital One Café,40.0182893,-105.2789676,Social Business,cafe,cafe; bank; food; finance; store; point_of_interest; establishment,OPERATIONAL,4,71,NA
+ChIJm3Mz6jDsa4cRcLUYctwIzBI,The Fox Theatre,40.0080325,-105.2763873,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,4.4,849,NA
+ChIJm5vFSej0a4cRhaoAWgHcqpo,Flatirons Community Church,39.988843,-105.0926594,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,951,NA
+ChIJM73peOX1a4cRWM8lY7Udn7s,Cristos Coffee Boutique Roastery & Cafe,40.0420646,-105.0471649,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.4,515,NA
+ChIJm7tojEL0a4cRS6N3cvX6mII,Signature Cafe,40.0167407,-105.1011271,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJm7tojEL0a4cRS6N3cvX6mII,Signature Cafe,40.0167407,-105.1011271,Social Business,cafe,cafe; point_of_interest; food; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJmafJt5OMa4cRgZyhaM2NfFc,Destiny International Church,39.974044,-105.161491,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJmc26ZmTua4cRdXaMLR10LXI,Queer Asterisk Therapeutic Services,40.0570314,-105.2826281,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,4.3,12,NA
+ChIJmeUpKff0a4cRVlOZfcEuEKU,Lafayette Fire Department Station #1,40.001768,-105.0938936,Community Space,city hall,fire_station; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJMfHIbijsa4cR-yAep-85lZs,First United Methodist Church,40.0197609,-105.277035,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.8,8,NA
+ChIJmRYumE7za4cR1AA4tptG3BY,Nawatny Gateway Park,39.9817923,-105.1299699,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJMSCb-bTta4cRjpmq7iflilQ,William A. Wise Law Library,40.0011987,-105.2623138,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.9,9,NA
+ChIJMTtdRZbta4cRzHom6c_p5Kc,Atonement Lutheran Church,39.9995961,-105.2407067,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,21,NA
+ChIJMVLAagjta4cR1DUWrhYXgPM,Naropa Community Counseling Center,39.9831548,-105.2534315,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,3.8,37,NA
+ChIJMWjq_zPsa4cRWbxt6zvFvwM,University of Colorado Boulder: CU Book Store,40.0069437,-105.2719607,Social Business,bookstore,book_store; electronics_store; clothing_store; store; point_of_interest; establishment,OPERATIONAL,4.4,530,NA
+ChIJMWjq_zPsa4cRWbxt6zvFvwM,University of Colorado Boulder: CU Book Store,40.0069437,-105.2719607,Social Business,bookstore,book_store; clothing_store; electronics_store; store; point_of_interest; establishment,OPERATIONAL,4.4,530,NA
+ChIJMWjq_zPsa4cRWbxt6zvFvwM,University of Colorado Boulder: CU Book Store,40.0069437,-105.2719607,Social Business,bookstore,book_store; electronics_store; clothing_store; point_of_interest; store; establishment,OPERATIONAL,4.4,530,NA
+ChIJmWMbVOLua4cRnPAi5ZD5oOM,Boulder Public Library - NoBo Corner Library,40.0584205,-105.2819193,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJMz3TnMjxa4cRctX0EvK5JIc,Twin Lakes Open Space,40.06195659999999,-105.199741,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,180,NA
+ChIJMZ9ZYyvsa4cRmsvH3HRudr0,Emma Gomez Martinez Park,40.0176965,-105.2681682,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,95,NA
+ChIJN_-jnSnsa4cRDDn5vjGB7JU,The Laughing Goat,40.0194964,-105.2731276,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,1233,NA
+ChIJN_-jnSnsa4cRDDn5vjGB7JU,The Laughing Goat,40.0194964,-105.2731276,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,1233,NA
+ChIJn_gNmPzya4cRKu1Q--7A_gE,St Ambrose Episcopal Church,39.9862772,-105.178028,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4,11,NA
+ChIJn_W-B-b0a4cRoZ-2kvhOphs,Deli-Cious Z's,39.9910375,-105.0902885,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,414,NA
+ChIJn_W-B-b0a4cRoZ-2kvhOphs,Deli-Cious Z's,39.9910375,-105.0902885,Social Business,cafe,cafe; bakery; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,414,NA
+ChIJn10D7z_xa4cRQ8aBb8IChGQ,Cottonwood Square,40.1010543,-105.1682494,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.6,100,NA
+ChIJN3puxjDsa4cRReJOpSU_9IU,Deli Zone on The Hill,40.0071679,-105.2756858,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,57,NA
+ChIJn3v0aYr0a4cRydfKLd-ZLv0,Sister Carmen Community Center Food Bank,40.0034598,-105.1067642,Community Space,community center,park; food; point_of_interest; establishment,OPERATIONAL,4.9,220,NA
+ChIJn3v0aYr0a4cRydfKLd-ZLv0,Sister Carmen Community Center Food Bank,40.0034598,-105.1067642,Community Space,community center,park; point_of_interest; food; establishment,OPERATIONAL,4.9,220,NA
+ChIJN44EasXta4cR4o_4MVekdo8,Inst-Arctic & Alpine Library,40.013018,-105.2534074,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJN74NUzPsa4cRJzgZGEfyCUE,Visitor parking,40.0044556,-105.2660012,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,4,NA
+ChIJN7CxaMqLa4cR0Pmc9sGa5f0,LIFE Fellowship,39.9231004,-105.1069635,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJN9IGI4OMa4cRDT8D8b4QDfs,McDonald's,39.9296296,-105.1294139,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.5,740,NA
+ChIJN9IGI4OMa4cRDT8D8b4QDfs,McDonald's,39.9296296,-105.1294139,Social Business,cafe,cafe; restaurant; store; food; point_of_interest; establishment,OPERATIONAL,3.5,740,NA
+ChIJN9rbGifta4cRkdTN4Pt1ehg,City of Boulder,40.01846889999999,-105.2752977,Community Space,city hall,city_hall; local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJnejmopTva4cRosTThYZLrNM,Community Gallery @ Bus Stop Apartments,40.0633449,-105.2832293,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJnekVkV7za4cRGlQETsUCnII,Legacy Church,39.99134600000001,-105.1736412,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJNeOaMVzza4cR16LVBnWTp2E,Louisville City Hall,39.9776045,-105.1325998,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJNeOaMVzza4cRh0XyPCWQYtY,Louisville City Public Works,39.9776043,-105.1324283,Community Space,city hall,point_of_interest; general_contractor; establishment,OPERATIONAL,3,2,NA
+ChIJNeOaMVzza4cRO_JgqKTs0LA,Louisville Park Maintenance,39.9776045,-105.1325998,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,1,NA
+ChIJnRnGrGnua4cRiBqBCimwtaQ,Jazmine Park,40.042698,-105.251615,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJnSQ4N9OMa4cR_HnuiNh37CQ,Starbucks,39.955534,-105.1651322,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,359,NA
+ChIJnSQ4N9OMa4cR_HnuiNh37CQ,Starbucks,39.955534,-105.1651322,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,359,NA
+ChIJNTlbCerta4cROydD9V1YTIg,SEEC Cafe,40.0099696,-105.2426669,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,32,NA
+ChIJnUYtw6P1a4cRH_KlpWBH6rQ,McConnell and Son's,40.0544144,-105.0950687,Park,garden,point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJNxa7jGrza4cRUb7JR7Xmewg,Christ the Servant Lutheran,39.9771049,-105.1507895,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJNxjEvSwW3oYRvqqpE0e5Mls,Books Are Fun Ltd,39.96717220000001,-105.166568,Social Business,bookstore,book_store; point_of_interest; store; establishment,CLOSED_TEMPORARILY,5,4,TRUE
+ChIJNxjEvSwW3oYRvqqpE0e5Mls,Books Are Fun Ltd,39.96717220000001,-105.166568,Social Business,bookstore,book_store; store; point_of_interest; establishment,CLOSED_TEMPORARILY,5,4,TRUE
+ChIJNZt1_rnta4cR-VxSHMUCzLI,Little free library #36572,39.9669147,-105.2510592,Community Space,library,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJO_AQOC3sa4cRce22fzyRwPQ,Naropa Cafe,40.0139477,-105.2670785,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,7,NA
+ChIJo-mhHsXxa4cRBFU1Y8g4sB0,Eco Lawn & Garden LLC,40.0740525,-105.1998272,Park,garden,point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJO0dqJNbta4cRhhPJg19CSU0,Greenleaf Park,40.0217451,-105.2637208,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,81,NA
+ChIJO0dqJNbta4cRhhPJg19CSU0,Greenleaf Park,40.0217451,-105.2637208,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,81,NA
+ChIJo0kdIo4KbIcR5i8DjzOIpVI,Living Faith Christian Fellowship,40.0333632,-105.0539606,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJo5nDUL6Ka4cRWCDNAPf-NgA,Broadlands West Park,39.953586,-105.0519906,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,46,NA
+ChIJo7r0KSPza4cRuxAwgT1-KJY,Living Life Church,39.97497180000001,-105.157534,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJo8WXztrta4cRvMs73LXu2Sk,Starbucks,40.014966,-105.252724,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,363,NA
+ChIJoaubtxjva4cRO8pLEldzf9g,Dakota Ridge Park,40.066097,-105.2877515,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,38,NA
+ChIJocCZQeLua4cRB5VZsKkw21s,Spruce Confections,40.0597222,-105.2817917,Social Business,cafe,bakery; cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,190,NA
+ChIJocCZQeLua4cRB5VZsKkw21s,Spruce Confections,40.0597222,-105.2817917,Social Business,cafe,bakery; cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,190,NA
+ChIJocCZQeLua4cRB5VZsKkw21s,Spruce Confections,40.0597222,-105.2817917,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,190,NA
+ChIJOcdGc9H1a4cRmXjQApQE6zY,Country Fields Park,40.0422163,-105.070236,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.2,33,NA
+ChIJocPPiCTza4cRdhvO0kuqTyE,LaMar's Donuts and Coffee,39.9702484,-105.1639979,Social Business,cafe,cafe; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,630,NA
+ChIJocPPiCTza4cRdhvO0kuqTyE,LaMar's Donuts and Coffee,39.9702484,-105.1639979,Social Business,cafe,cafe; bakery; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,630,NA
+ChIJOctCmFH0a4cRceFEuSkhr3k,Innovative Outdoor Designs LLC,40.0136364,-105.1325654,Park,fountain,general_contractor; park; point_of_interest; establishment,OPERATIONAL,1,4,NA
+ChIJoRVehQnta4cRQglWIcRIBRA,South Side Walnut Cafe,39.9830139,-105.2493306,Social Business,cafe,restaurant; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.5,857,NA
+ChIJoTmim-n0a4cR60Q864g3tOY,Starbucks,39.9873466,-105.0969247,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.9,523,NA
+ChIJoTmim-n0a4cR60Q864g3tOY,Starbucks,39.9873466,-105.0969247,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.9,523,NA
+ChIJOUC0H8Dta4cR9i7Pro5EuSQ,Park East Square HOA,40.0056557,-105.2427169,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJoVMkLJyLa4cR5LJ7_S0UHKo,Interlocken East Park,39.92058,-105.1088445,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,221,NA
+ChIJoVQh5Pb0a4cRadMJdlsLE0g,Lafayette Municipal Court,40.0015869,-105.0947952,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3,4,NA
+ChIJoWEqNQjta4cRy59jsZ5rSzQ,Starbucks,39.983433,-105.251321,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,78,NA
+ChIJOXB_a5eLa4cR2bywY1hCXXc,C-Square Industries Inc,39.9123937,-105.1065147,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJOXW7WbTta4cRG-mrG5K8qgo,Starbucks,39.9998879,-105.2630505,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.1,310,NA
+ChIJOzfsFJHta4cRBi4DtMf11N8,Iglesia Punto de Encuentro,40.0005045,-105.2353151,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJp1bZM9Xta4cRE5p9dKjCD8c,Boulder Shambhala Center,40.0195321,-105.2779879,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJP1Gvy131a4cRAwFNO6Ow9ms,Library Media Center at Peak to Peak Charter School,39.9912323,-105.0777761,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp376on_za4cR7eam5tjkWrk,Urban Garden,39.999436,-105.1283636,Park,garden,point_of_interest; store; establishment,OPERATIONAL,4.6,236,NA
+ChIJp376on_za4cR7eam5tjkWrk,Urban Garden,39.999436,-105.1283636,Park,garden,store; point_of_interest; establishment,OPERATIONAL,4.6,236,NA
+ChIJp5tDJ73za4cRuc3WtRgtcKo,"East Hoyt Park (aka Pergola Park""",39.9955809,-105.1306263,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJP6Bgrdvta4cRMuucQ5i-XZg,Eckankar Center of Boulder,40.01797699999999,-105.2516627,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJp6Y87UL0a4cRYUWmzmPrEsY,Starbucks,40.016937,-105.10084,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.1,48,NA
+ChIJp6Y87UL0a4cRYUWmzmPrEsY,Starbucks,40.016937,-105.10084,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.1,48,NA
+ChIJp8up9iWLa4cRvoYa43qP6kk,Hunter Douglas Business Park,39.9264365,-105.1067658,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJP8XEcyPta4cRPL11iSIqVDc,Astro Coffee Bar,40.0185643,-105.2800076,Social Business,cafe,cafe; bakery; food; store; point_of_interest; establishment,OPERATIONAL,4.5,59,NA
+ChIJP8ZFQh_sa4cRBfox7PZCaB8,Church of Divine Light,40.0182086,-105.2778564,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPaETUXTua4cRSr1sWb0TI2g,Higher Alignment,40.0281136,-105.2462157,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJpdYpx6fta4cRV2fXrGg__e8,Mount Calvary Lutheran Church,39.9861836,-105.2533302,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.2,5,NA
+ChIJPeIl00Dva4cRWkhWGDC-VLU,Boulder Valley Baptist Church,40.0513971,-105.2353575,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJPSRb7Urta4cRZthjfi1lIHQ,Globalscope Maastricht,39.9764093,-105.2382453,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJpUr87y_sa4cR7FK1Q4ouVaE,National Indian Law Library,40.011936,-105.2771283,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJPwDSZ8fta4cR1RzM7Q1ldj0,WFM Coffee Bar,40.0238441,-105.2559281,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJpWuReM_ta4cREnxsSLAgTh0,Scott Carpenter Park,40.0118014,-105.2548561,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,739,NA
+ChIJPXbJ_XXta4cRRH_tn39TXhM,Boulder Bridge House,39.9861831,-105.23719,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.2,26,NA
+ChIJpxXEf1nua4cRLSUK1nqh8Oo,Peace Lutheran Church,40.0505331,-105.2601136,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,10,NA
+ChIJpZ_Yy9qHa4cR_ARKmgUSMN0,"Cake Bubbles - Cake Truffles, Coffee & More!",39.9324925,-105.1311948,Social Business,cafe,cafe; bakery; store; point_of_interest; food; establishment,OPERATIONAL,4.6,14,NA
+ChIJpZ_Yy9qHa4cR_ARKmgUSMN0,"Cake Bubbles - Cake Truffles, Coffee & More!",39.9324925,-105.1311948,Social Business,cafe,bakery; cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,14,NA
+ChIJpZ_Yy9qHa4cR_ARKmgUSMN0,"Cake Bubbles - Cake Truffles, Coffee & More!",39.9324925,-105.1311948,Social Business,cafe,cafe; bakery; store; food; point_of_interest; establishment,OPERATIONAL,4.6,14,NA
+ChIJPZ25jsDza4cR96rLOlbs3yA,Ziggi's Coffee,39.9799804,-105.129013,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.3,103,NA
+ChIJPZ25jsDza4cR96rLOlbs3yA,Ziggi's Coffee,39.9799804,-105.129013,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.3,103,NA
+ChIJQ-3oEvv0a4cR-RJbZnf7APk,Templo El Cordero del Cladic,39.9984008,-105.086536,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,fountain,general_contractor; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,fountain,general_contractor; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,fountain,furniture_store; general_contractor; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,garden,general_contractor; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,garden,general_contractor; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQ2UzwIWMa4cRyu_0npQAQOk,Walmart Garden Center,39.9257629,-105.1357634,Park,garden,furniture_store; general_contractor; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJq3YdKlX5a4cRpIyJKJut-LE,Family Village Cooperative Coworking and Childcare,40.014258,-105.1458106,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,4.9,16,NA
+ChIJq6pqYcvta4cROHmZgNt08pM,"Gemmill Library of Engineering, Mathematics and Physics",40.00796,-105.264317,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.4,15,NA
+ChIJq6qqBu3ta4cRjVaPA5jLzvE,Arapahoe Ridge Park,40.0092921,-105.2324216,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,155,NA
+ChIJQ7m4eF2Ma4cRM7F6Ly_US04,Graze Cafe,39.9101763,-105.1497592,Social Business,cafe,cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4,22,NA
+ChIJQ9u4EXvua4cRoTvJkUO4OhE,The Bookworm,40.032003,-105.2590732,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,4.8,288,NA
+ChIJqabAxRfta4cR3DnOhRvJg6w,Shanahan Ridge Park,39.9654459,-105.2520286,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,26,NA
+ChIJqeffBInza4cRckWwpL8UraA,Morning Glory Cafe,40.0140151,-105.1293349,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,810,NA
+ChIJqeffBInza4cRckWwpL8UraA,Morning Glory Cafe,40.0140151,-105.1293349,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,810,NA
+ChIJQRPuxgD1a4cRqZhPLouASKo,Southeast Garden at Compass,40.0153826,-105.0567677,Park,garden,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJqVITw_fta4cRwbVxNVtoXhE,Renee's Garden Seeds,40.0166766,-105.2201812,Park,garden,point_of_interest; storage; establishment,OPERATIONAL,5,2,NA
+ChIJqVITw_fta4cRwbVxNVtoXhE,Renee's Garden Seeds,40.0166766,-105.2201812,Park,garden,storage; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJQWHLS3vua4cR6NezuHxyFAg,Dunkin',40.0335606,-105.2592471,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.6,457,NA
+ChIJQwJlFkLua4cRIFs7AlliVbw,East Palo Park,40.046169,-105.249779,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,56,NA
+ChIJqWSG9yrza4cRdcKQYAl_cAs,Panera Bread,39.9557675,-105.1690664,Social Business,cafe,cafe; meal_takeaway; bakery; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.8,376,NA
+ChIJqwVpoPHta4cRLaFmWFThxFo,OZO Coffee | Arapahoe,40.0142288,-105.2283782,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.6,618,NA
+ChIJqwVpoPHta4cRLaFmWFThxFo,OZO Coffee | Arapahoe,40.0142288,-105.2283782,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,618,NA
+ChIJQWzFCSSLa4cRP_KEbQtXPGo,Evan’s Cafe,39.9155164,-105.1225149,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJQxAB0-r0a4cRjAp0GKNpZUw,Community Medical Center,39.9864222,-105.1025988,Community Space,community center,hospital; health; point_of_interest; establishment,OPERATIONAL,3.3,10,NA
+ChIJQYC7MhT1a4cRG-7G_X2NoO0,Flagg Park,39.9923771,-105.0606732,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,29,NA
+ChIJqYmC2vT0a4cR46IvKJS_RVc,Starbucks,40.0017474,-105.1018575,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.9,66,NA
+ChIJqYmC2vT0a4cR46IvKJS_RVc,Starbucks,40.0017474,-105.1018575,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,3.9,66,NA
+ChIJqzKxmsHva4cRwd0hvNBcrYw,Matthew Garrick,40.0353245,-105.25469,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJr_Ow6o_0a4cRHgk6VwYCvs8,Waneka Lake Park,39.9931703,-105.11328520000001,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,1271,NA
+ChIJR0tGeufta4cR1iZB95K-KTk,Shambhala Publications,40.0197394,-105.2794292,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,5,7,NA
+ChIJr1iCi4vva4cRw4NiWRVKmYQ,Plum Creek Garden Market - Boulder,40.0295725,-105.257065,Park,garden,point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJr1mGsJKMa4cRZ_nCzkOTzgs,PJ’s Diner,39.929708,-105.1496033,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.7,883,NA
+ChIJr1mGsJKMa4cRZ_nCzkOTzgs,PJ’s Diner,39.929708,-105.1496033,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.7,883,NA
+ChIJR2K6N_vua4cRcfLVAwgabaE,Violet Park,40.055003,-105.2774,Park,park,park; point_of_interest; establishment,OPERATIONAL,4,7,NA
+ChIJR3W5PJrta4cRkCCUUGr9Ffo,Admiral Arleigh A. Burke Park,39.9949083,-105.2366104,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,59,NA
+ChIJR4QUS4jza4cRXiim8HfSC0I,New Church of Boulder Valley,40.0140047,-105.1254538,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJr4zMg43ta4cR2-dQnrFNZZg,Belly Dance DVDs Books,40.0048027,-105.2307731,Social Business,bookstore,book_store; movie_rental; store; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJr5JAN8WNa4cRjtgs9zttWUA,Pirate Park,39.9218098,-105.1486424,Park,park,point_of_interest; establishment,OPERATIONAL,4.3,3,NA
+ChIJr6PmWbjta4cRpcXoV11vhIw,Arrowwood Park,40.0027889,-105.2519581,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,20,NA
+ChIJR7WIVbqNa4cRwvjTyEapMfQ,EAT! Food & Drink,39.926756,-105.1316187,Social Business,cafe,restaurant; bar; point_of_interest; food; establishment,OPERATIONAL,4.1,751,NA
+ChIJR7WIVbqNa4cRwvjTyEapMfQ,EAT! Food & Drink,39.926756,-105.1316187,Social Business,cafe,restaurant; bar; food; point_of_interest; establishment,OPERATIONAL,4.1,751,NA
+ChIJR84UTCbsa4cRs3kctvAhS44,Lighthouse Bookstore,40.0179569,-105.2798772,Social Business,bookstore,book_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4.7,72,NA
+ChIJR9Uhdinza4cR96TVkZG1R6s,Garden Center at The Home Depot,39.9605951,-105.1693041,Park,garden,general_contractor; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4,10,NA
+ChIJR9Uhdinza4cR96TVkZG1R6s,Garden Center at The Home Depot,39.9605951,-105.1693041,Park,garden,furniture_store; general_contractor; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4,10,NA
+ChIJRb24BN31a4cRkUNusYdUOEg,The Table Church,40.0131872,-105.1289093,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJreWC5znza4cRVZ7NbGGll9E,Elephant Park,39.9665483,-105.1401308,Park,park,point_of_interest; establishment,OPERATIONAL,4.5,4,NA
+ChIJRfyGv06La4cRP4T1Dx787iM,Wildgrass Park,39.9655169,-105.0466154,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,5,NA
+ChIJRQ5T1HLta4cR-h3LhobTjeg,Cornerstone Boulder,39.97833869999999,-105.2426476,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,27,NA
+ChIJrQtW013za4cRDgRtU1mnQV4,Little Horse Books & Vintage,39.9782652,-105.1319611,Social Business,bookstore,book_store; electronics_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4.7,50,NA
+ChIJrTler2bxa4cRvuPrmmiklII,Inkberry Books,40.100935,-105.1680941,Social Business,bookstore,book_store; store; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJRw1QtMrta4cR1y-fftAFINI,Center for Community (Farside),40.00381,-105.26607,Community Space,community center,transit_station; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrwDowtL0a4cRkHZz96KLwqk,Off Campus Cafe,39.9669581,-105.0893806,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,263,NA
+ChIJRWil9ZDta4cRrTYqh97ZcVE,Starbucks,39.998067,-105.234512,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.7,38,NA
+ChIJRyKqx-v1a4cRzsnXxC9RMOc,Cannon Mine Collective,39.9892781,-105.094971,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJrzsbKeyMa4cRjXWJc0hf_PQ,Community Park,39.9311725,-105.1532998,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,81,NA
+ChIJrzsbKeyMa4cRjXWJc0hf_PQ,Community Park,39.9311725,-105.1532998,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,81,NA
+ChIJs2ElgiHsa4cRrM7vQhuLV88,Canyon Pointe Park,40.0152789,-105.2865033,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,13,NA
+ChIJS2jVph_ta4cRFRn2KBknXVk,Naranon,40.0202605,-105.2798015,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJS8t8ucDta4cRUR_DodAM_EQ,Crestview Christian Reformed,40.0060563,-105.2471904,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,10,NA
+ChIJS9Mkyg3ta4cRkYSRTeY4wD4,St. Paul's United Methodist Church,39.9770911,-105.2474224,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJSa6WVlz1a4cRYRw_jtDW1PM,Anthem Rec Center,39.98978109999999,-105.0409915,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJsaVWok_0a4cRMyjXVQsCL44,Arapahoe Ridge Park,40.0178446,-105.0897183,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,42,NA
+ChIJsaXCWO7ua4cRfnUT1VOzgKk,Lucky's Bakehouse Cafe,40.0476356,-105.2805698,Social Business,cafe,cafe; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,281,NA
+ChIJScEdlWb1a4cRMAt-0ezbx1o,Ziggi's Coffee,39.9732213,-105.0884051,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,NA,NA,NA
+ChIJScwU0I7za4cRB_u6nOUfF9g,Reelfish Fish & Chips,40.0137327,-105.1328379,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.4,738,NA
+ChIJsR8RhcHza4cRd0XyFTxcj_k,"Cottonwood Park, Louisville, Colorado",39.9859325,-105.1419001,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,34,NA
+ChIJsRzTai3sa4cRG_UCza6Zk2g,Allen Ginsberg Library,40.014166,-105.2663947,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,2,NA
+ChIJsSh44lnza4cRMLlZl-5v41Y,Louisville Community (Dog) Park,39.97081180000001,-105.1309952,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,180,NA
+ChIJST4inCfsa4cRsO69ihXClwk,"Trinity Lutheran Church, ELCA",40.0202844,-105.2806346,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,16,NA
+ChIJsV79foL0a4cRd5hEThLly2o,Twin Peaks Seventh-day Adventist Church,39.9937178,-105.1259291,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,3.4,26,NA
+ChIJSVDwKbTta4cRCWd5SmgmdAo,OLLI Boulder,39.9974463,-105.2355359,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJSVxmWeX0a4cRKI1ZtOVtMIg,eats & sweets,39.9951412,-105.0906314,Social Business,cafe,bakery; meal_takeaway; store; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,542,NA
+ChIJsW1874L0a4cRQsJORTvVwIQ,Chunkinson Park,39.9933889,-105.1237222,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,9,NA
+ChIJSWMgTMvxa4cReJsYLVzuSFM,Gunbarrel Shopping Center,40.0709789,-105.201159,Park,square,shopping_mall; point_of_interest; establishment,OPERATIONAL,4.1,684,NA
+ChIJsWs25JmLa4cReJT-MUh8Z2A,Lac Amora Park,39.9326887,-105.0978813,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,23,NA
+ChIJsXPoE6GKa4cRWE3gu7dujWk,Le Peep Broadlands,39.956554,-105.0366854,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,285,NA
+ChIJsy_tewr2a4cR_6gAqZd4x9k,New Hope Fellowship Erie Baptist Church,40.0513575,-105.0519402,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJsYbngcX1a4cRZR2IAnQTCXw,Star Meadows Park,40.0331172,-105.0850328,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,20,NA
+ChIJSyNv_JDua4cREMpl-6-2opI,Playground in North Boulder Park,40.0286746,-105.2864252,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,45,NA
+ChIJSz8Au0Lua4cRz1tqf04SlY8,Palo Central,40.0447224,-105.2498342,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,9,NA
+ChIJT0GVj2Hua4cReL1DDJ37F3g,Parkside Park,40.0383718,-105.2644643,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,76,NA
+ChIJT0GVj2Hua4cReL1DDJ37F3g,Parkside Park,40.0383718,-105.2644643,Park,fountain,park; point_of_interest; establishment,OPERATIONAL,4.5,76,NA
+ChIJT1S8v2b1a4cR3vdE_BEQmkI,ANTHEM RANCH 55+,39.989781,-105.0409915,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,6,NA
+ChIJT6MpjyXsa4cRcJujiiifyQo,Coffee Stand Community,40.0144043,-105.2783939,Community Space,community center,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.1,19,NA
+ChIJT6MpjyXsa4cRcJujiiifyQo,Coffee Stand Community,40.0144043,-105.2783939,Community Space,community center,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.1,19,NA
+ChIJT6MpjyXsa4cRcJujiiifyQo,Coffee Stand Community,40.0144043,-105.2783939,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.1,19,NA
+ChIJT6MpjyXsa4cRcJujiiifyQo,Coffee Stand Community,40.0144043,-105.2783939,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.1,19,NA
+ChIJt7YnLA-La4cRc9ux2nsjplY,Zang Spur Park,39.931,-105.0928244,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.5,87,NA
+ChIJt83FPsyLa4cRCcakVrR6tDk,Northmoor Park,39.93674439999999,-105.0583616,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,42,NA
+ChIJT8MmVbn0a4cREoLUCIZKgXE,Coal Creek Corridor Open Space,39.9785445,-105.107875,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,77,NA
+ChIJt9Udnobza4cR_sk3oL45WIk,"City of Lafayette: Parks, Open Space and Golf",40.0071846,-105.1316316,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJTcutp5b0a4cRMeucW_Fqeug,First United Methodist Church of Lafayette,39.9882149,-105.1090238,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,11,NA
+ChIJtcxycfqMa4cRgkg606z-VNc,Wildflower Park,39.9230407,-105.1614939,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,110,NA
+ChIJTddzUvnza4cRMrlBPN23akg,Pleasant View Grange,40.03688,-105.1307945,Community Space,city hall,point_of_interest; establishment,OPERATIONAL,3.7,3,NA
+ChIJTdTGNC7za4cR8qwd8hC0PD0,Paul's Coffee & Tea,39.9638791,-105.1622056,Social Business,cafe,food; point_of_interest; store; establishment,OPERATIONAL,4.7,435,NA
+ChIJTdTGNC7za4cR8qwd8hC0PD0,Paul's Coffee & Tea,39.9638791,-105.1622056,Social Business,cafe,food; store; point_of_interest; establishment,OPERATIONAL,4.7,435,NA
+ChIJTdTGNC7za4cR8qwd8hC0PD0,Paul's Coffee & Tea,39.9638791,-105.1622056,Social Business,cafe,store; point_of_interest; food; establishment,OPERATIONAL,4.7,435,NA
+ChIJtdxIJwjta4cRpWydChhq5Ao,Boulder Public Library - George Reynolds Branch,39.9844433,-105.2526034,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.5,26,NA
+ChIJtQgJgZCLa4cRzG1CIr3ET8s,Mwlto,39.9403693,-105.1250876,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJtS5JseaKa4cRP2tUJh6zXfM,Outlook Park,39.9437156,-105.073437,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,72,NA
+ChIJTSZoMPrta4cRIrzetDykjhw,Corden Pharma Colorado fountain,40.0200895,-105.2260679,Park,fountain,health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJtTtr1Bjza4cRJmhtwVn0whU,Davidson Mesa Trailhead,39.978205,-105.166562,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,333,NA
+ChIJtTvecrqNa4cRR0gKcZKzzWo,Dream Bubble Tea,39.9329144,-105.1333406,Social Business,cafe,cafe; point_of_interest; food; establishment,OPERATIONAL,4.4,38,NA
+ChIJtTvecrqNa4cRR0gKcZKzzWo,Dream Bubble Tea,39.9329144,-105.1333406,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,4.4,38,NA
+ChIJtyLQ7bCMa4cRvq-URnAAwgo,Calvary Boulder Valley,39.9842695,-105.1329309,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.4,20,NA
+ChIJTzR6ISbsa4cR4dGSalp2rf8,Brewing Market Coffee and Tea Emporium,40.0175706,-105.2783199,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,87,NA
+ChIJu_hOV6v1a4cRtPXmMyabtFM,nuoci Farm Park,40.0045852,-105.0969579,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.9,7,NA
+ChIJU2G5jC71a4cR44uFQVi8JO4,Outpatient Rehabilitation,39.9866462,-105.1025351,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJU2JUAyrsa4cRp19iDHUn9bw,Baksun Books,40.0215397,-105.2718485,Social Business,bookstore,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJu5bl_Cjsa4cR37WCrvDk5EI,Boulder Community Police Center,40.0186782,-105.2747951,Community Space,community center,police; point_of_interest; establishment,OPERATIONAL,4,4,NA
+ChIJu5bl_Cjsa4cRzzi5kjQs7lE,City of Boulder Parking and Access Services - Department of Community Vitality,40.0183528,-105.2757046,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,2.3,34,NA
+ChIJU7-FtDTwa4cRaRaEJR8ahgg,Starbucks,40.0718343,-105.20079,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,2.9,14,NA
+ChIJu9kw5Mjxa4cRqivmGJdAXnI,Twin Lakes Dirt Jump Park,40.0640076,-105.20001,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,7,NA
+ChIJudT12e7ta4cRfX-yVyJaTog,Boulder Book Store,40.0180203,-105.2811613,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.8,1331,NA
+ChIJUesGM1vta4cRW0WmyogW8N8,Pinewood Church,40.0231917,-105.2796617,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJufUEdfT0a4cRTQnjIaParLw,Sister Carmen Community Center - Food Distribution Center,40.0005737,-105.0987007,Community Space,community center,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJufZMgSnsa4cRMaPsrK9bFI0,The Tune Up Taproom & Espresso Bar,40.0246411,-105.2541237,Social Business,cafe,bar; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.7,38,NA
+ChIJURGY0Y-Ma4cRbK_eRl3ULjg,Chick-fil-A,39.9283318,-105.1393631,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,1783,NA
+ChIJuwSqwSPza4cRtAE7bEgi2OY,CenterStage Theatre Company,39.9788976,-105.1309467,Community Space,community center,point_of_interest; establishment,OPERATIONAL,4.4,14,NA
+ChIJUXBhW6Dua4cRs-IbFa4JbtU,All Souls Church of Boulder,40.0202624,-105.2797929,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,20,NA
+ChIJUXBhW6Dua4cRWRduFpWZCU0,Boulder Seventh-day Adventist Church,40.021049,-105.2919514,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,21,NA
+ChIJUXgfL4Tta4cR57_g31AEdLg,Gravity Cafe North Engineering,40.0073608,-105.2632557,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3,6,NA
+ChIJuyQE1cnza4cRk2SQgc_Ol5s,DJ’S Watering Hole,39.9591497,-105.1645936,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJV_7hNibsa4cR8HQWa2xjAmk,Morningnotes Comllc,40.0181578,-105.2792295,Social Business,bookstore,book_store; point_of_interest; store; establishment,OPERATIONAL,4.7,6,NA
+ChIJv-FseuL1a4cReN-ofTodfxw,Rejoice Lutheran Church,40.0517058,-105.0478904,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,CLOSED_PERMANENTLY,0,0,TRUE
+ChIJV-YLW5Dua4cRQrbFB21qzuY,North Boulder Recreation Center,40.03237499999999,-105.280471,Community Space,community center,park; point_of_interest; establishment,OPERATIONAL,4.4,408,NA
+ChIJV05ODo_ta4cRGptvMlyrPBE,Second Baptist Church,39.999523,-105.2277767,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,25,NA
+ChIJV0Dhlgnta4cRNUgHT2dHX1k,Caffè Sole,39.98320440000001,-105.2499644,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,418,NA
+ChIJv0RWKyDsa4cRk5cMnaRyJNA,Campbell Robertson Park,40.0171938,-105.2893466,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,11,NA
+ChIJv0Xl5w7sa4cRD1UPsDDAIQ4,Sensory Nature Trail - Open Space & Mountain Parks,40.0043402,-105.3057522,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJV1HhgZDua4cReb_6lxGoltQ,Elder Square,40.0306986,-105.2812883,Park,square,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJv1ZlQJX0a4cRTOGsFHy4Rl8,Precision Pours - Coffee and Bakes,39.986694,-105.1314212,Social Business,cafe,bakery; store; point_of_interest; food; establishment,OPERATIONAL,4.9,376,NA
+ChIJv1ZlQJX0a4cRTOGsFHy4Rl8,Precision Pours - Coffee and Bakes,39.986694,-105.1314212,Social Business,cafe,bakery; food; point_of_interest; store; establishment,OPERATIONAL,4.9,376,NA
+ChIJv2ZYDJHua4cRJveqt6StLmc,Long's Gardens,40.0340595,-105.2811211,Park,garden,point_of_interest; establishment,OPERATIONAL,4.9,20,NA
+ChIJv4G3LRz1a4cRVRbnE8W5aMA,Hot & Spicy Cafe,39.985905700000004,-105.1070752,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.6,15,TRUE
+ChIJv4G3LRz1a4cRVRbnE8W5aMA,Hot & Spicy Cafe,39.985905700000004,-105.1070752,Social Business,cafe,restaurant; point_of_interest; food; establishment,CLOSED_TEMPORARILY,4.6,15,TRUE
+ChIJV8tv9m_ua4cRh4CLNREV3ok,Vic's Again,40.0353245,-105.25469,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.8,112,NA
+ChIJVeAmCW_2a4cR_L6hXYnq41o,Kenosha Farm Community Garden,40.062383,-105.0654345,Park,garden,park; point_of_interest; establishment,OPERATIONAL,4.9,8,NA
+ChIJVfgJ5yHsa4cRH7p5OEq0OQU,Hiram Fullen Park,40.0157604,-105.2893048,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,5,NA
+ChIJVS42H_yKa4cRA_ApB6B1_NI,Broomfield Community Church,39.9329854,-105.0750494,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.5,18,NA
+ChIJvSSf6er1a4cRf8YXJFu81PA,Impact Rock Church,40.0324629,-105.0538325,Place of Worship,place of worship,place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,5,NA
+ChIJvT6EasL0a4cRRKt-RrYPuJc,Shepherds Community Church,39.9843363,-105.0956142,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,4,NA
+ChIJvUO3vCXsa4cRHWY4ByjnHIU,City of Boulder Human Resources,40.0253972,-105.2829342,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJvUO7VEvta4cRMt5fpQ3zQpE,The Eat Well Café,40.0137076,-105.2830312,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJvV4onwjua4cRHSZ-bMRpYPw,Valmont Bike Park,40.0315015,-105.2342297,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,998,NA
+ChIJVVgc3jDsa4cRRQZ7Lk1kvpg,Kung Fu Tea,40.007786,-105.2752847,Social Business,cafe,cafe; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.4,323,NA
+ChIJvVv-8dnta4cRre1d06eNO-k,Walnut Cafe,40.0206705,-105.252645,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.6,1384,NA
+ChIJVVVVtAfta4cRpe2ZBpM88kg,Bill Bower Park,39.9816577,-105.2562347,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.4,29,NA
+ChIJVVVVVQnta4cRa5V4amumAdo,National Science Digital Library,40.0372411,-105.2420532,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJVxmRtNSMa4cRRyIsm8cQfXw,"t - square designs , inc .",39.9555728,-105.1679879,Park,square,point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJvXQxbhrza4cRnER6tCsICJU,Joe Carnival Park,39.9833021,-105.1617732,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.3,7,NA
+ChIJvXVdNej0a4cROIKAx0xs-qk,Ting's Place,39.98812030000001,-105.0908868,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.3,338,NA
+ChIJvzxQ_47za4cRhK5TpaRUDq0,Brewing Market Coffee,40.0123148,-105.1320385,Social Business,cafe,cafe; bar; store; point_of_interest; food; establishment,OPERATIONAL,4.2,297,NA
+ChIJW0AD2ETza4cR8p1UKpwk6b4,Squarehouse Boulder,40.0147999,-105.2188547,Park,square,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJw5-jdinza4cRXo8hxRsRIGA,The Home Depot,39.9611193,-105.1692282,Park,fountain,hardware_store; furniture_store; point_of_interest; home_goods_store; store; establishment,OPERATIONAL,4,660,NA
+ChIJw5-jdinza4cRXo8hxRsRIGA,The Home Depot,39.9611193,-105.1692282,Park,fountain,hardware_store; furniture_store; home_goods_store; store; point_of_interest; establishment,OPERATIONAL,4,660,NA
+ChIJw5-jdinza4cRXo8hxRsRIGA,The Home Depot,39.9611193,-105.1692282,Park,fountain,hardware_store; furniture_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,4,660,NA
+ChIJWboYlAzza4cRi5fY8rbMmNU,McKinley Park,39.9800305,-105.1387507,Park,park,park; point_of_interest; establishment,CLOSED_TEMPORARILY,5,1,TRUE
+ChIJWbsVLOPua4cRuaVbSBRn5ls,Windhorse Community Services,40.058435,-105.2782843,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJWcKTkcrta4cROqO_9LnkGQo,William M. White Business Library,40.0057187,-105.2634523,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJwd_EEkfsa4cRqy6eShKXFXY,Chautauqua Park,39.9991996,-105.2814996,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,4114,NA
+ChIJWdCbKYPza4cRyi_UGWvcf9U,Indian Peaks Trail West Park,40.0025022,-105.1365638,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.6,12,NA
+ChIJwdkvZZvta4cRi0SwKnuvn-s,Gravity Cafe Koelbel,40.0060351,-105.2634523,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,0,0,NA
+ChIJwdOi-PT0a4cR6EXesobQXJs,Ofelia Miramontes Park,40.0020355,-105.0996288,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.1,15,NA
+ChIJwfAQBgH1a4cRbgWDtNb84PI,The Great Bark Dog Park,40.0049892,-105.0758935,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.6,404,NA
+ChIJWQrxMtOMa4cRDgoonnkv7y8,Impact Sports Performance,39.9522462,-105.158425,Community Space,community center,gym; health; point_of_interest; establishment,OPERATIONAL,4.8,75,NA
+ChIJWV2ooKHta4cR19kJjn3EYfs,Neptune Café & Bar,39.9841395,-105.2497177,Social Business,cafe,cafe; food; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJwV6Dwjjya4cRBRMmvpSe6w0,Legion Park,40.0147452,-105.1888587,Park,park,tourist_attraction; park; point_of_interest; establishment,OPERATIONAL,4.3,41,NA
+ChIJwViOP9fza4cRCcrOSSJoKDo,Hutchinson Park,39.9746063,-105.1349793,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJx_NftWTua4cR5BPbIFsjP7U,Moe's Broadway Bagel,40.0339489,-105.259022,Social Business,cafe,meal_takeaway; bakery; cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.4,388,NA
+ChIJx_NftWTua4cRHnHIOYho0Ps,Moe's Broadway Bagel,40.025006,-105.2809819,Social Business,cafe,bakery; meal_takeaway; cafe; store; restaurant; point_of_interest; food; establishment,OPERATIONAL,4.3,300,NA
+ChIJX-Z3Mirsa4cR9WwdAf6suU0,Boxcar Coffee Roasters,40.0197977,-105.2714711,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.7,820,NA
+ChIJX-Z3Mirsa4cR9WwdAf6suU0,Boxcar Coffee Roasters,40.0197977,-105.2714711,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.7,820,NA
+ChIJx2FR63vua4cRBTbguOuL-JU,City Church Boulder,40.0517077,-105.2593012,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,38,NA
+ChIJX3JO-P3ta4cR7tjn7L-FOY0,Baby Goat,40.028039,-105.2259352,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.3,244,NA
+ChIJX3JO-P3ta4cR7tjn7L-FOY0,Baby Goat,40.028039,-105.2259352,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.3,244,NA
+ChIJX48Q2kONa4cRF-rVuErfr5Y,Riverbend Park,39.9411152,-105.1531021,Park,park,park; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJX4E59TDsa4cRrO_-dvMuz1Y,Cafe Aion,40.0087894,-105.2765033,Social Business,cafe,cafe; bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.2,231,NA
+ChIJX561azfsa4cRjz5Hcc1Sxmg,Beach Park,40.0048653,-105.2767923,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,63,NA
+ChIJx6xJY3Xta4cRzjt7DeTlDzQ,The Church of Jesus Christ of Latter-day Saints,39.98621310000001,-105.2408047,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.6,22,NA
+ChIJx6ZZxNX1a4cRjDuoKo2Fw5Q,Red Oak Park,39.9826357,-105.1130426,Park,park,park; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJx7VVKbz0a4cR4hlyrnKYSOU,Russian Center for Arts and Humanities,40.0349002,-105.0523377,Community Space,community center,point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJX7x209_0a4cRVg6GgEkLx8Y,Starbucks,39.9882578,-105.124186,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.6,36,NA
+ChIJx852rAbta4cRRT7iaBldEyM,Bear Creek Park,39.9788062,-105.2604376,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,42,NA
+ChIJx8kD9Ar2a4cRx3UGuZ04I4g,Calvary Bible Church - Erie Campus,40.0535852,-105.0541363,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.8,23,NA
+ChIJX98Gfvr0a4cRkfizRg4dzOE,Chocolaterie Stam,39.9984019,-105.0905936,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.9,322,NA
+ChIJX98Gfvr0a4cRkfizRg4dzOE,Chocolaterie Stam,39.9984019,-105.0905936,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4.9,322,NA
+ChIJx9gqovr0a4cRZjX0nk8cK2o,Confluence Small Business Collective,39.9895482,-105.0915327,Community Space,community center,real_estate_agency; point_of_interest; establishment,OPERATIONAL,4.8,46,NA
+ChIJXcCo5uqMa4cRMYBveb8e8aU,Circle Park,39.9356828,-105.1510968,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,6,NA
+ChIJXSdZ6IXta4cRJ8vtaPgbVjM,Boulder County Government,40.018794,-105.278196,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,1,1,NA
+ChIJxT5Jl_Xva4cR6c_0-iZAc3U,GABEE COFFEE,40.0299842,-105.2578772,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.8,376,NA
+ChIJxVIjrr_0a4cRWq5KXcEvdNY,Cottonwood Park,39.9822278,-105.1049536,Park,park,gym; health; point_of_interest; establishment,CLOSED_TEMPORARILY,4.8,5,TRUE
+ChIJXxf_hDPsa4cRldB0EhaVUEk,Pekoe - CU Campus,40.0077775,-105.269917,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.2,68,NA
+ChIJXxf_hDPsa4cRldB0EhaVUEk,Pekoe - CU Campus,40.0077775,-105.269917,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4.2,68,NA
+ChIJXY8yhQvua4cRPZ83SQZY9Qw,Christensen Park,40.0307867,-105.2393623,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.3,48,NA
+ChIJXzKsvtvva4cRv0aEsIr96y8,Verb Coffee Roasters,40.0647832,-105.2834627,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,5,11,NA
+ChIJy-hKh5zua4cRbnJZ8k6KUWk,WFM Coffee Bar,40.0259434,-105.2808467,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,2.3,3,NA
+ChIJY-jQmur0a4cRL5boMyyAMb4,Boulder Chinese Evangelical Free Church,39.9843711,-105.0993517,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,5,NA
+ChIJy-oPwSj1a4cRtCQMSMrqOEM,Canyon Creek South II Pirate Park/Playground,40.0309524,-105.0689457,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,10,NA
+ChIJY-vOnfD0a4cR2QzcIjXl_BI,William Oliver's Publick House,39.999324,-105.0909202,Social Business,cafe,bar; restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,916,NA
+ChIJy0hZggXta4cRW6n-ORnfWdQ,Advanced Logan,40.0149257,-105.2704001,Place of Worship,place of worship,mosque; place_of_worship; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJY109ZuLta4cRhTyu8-d3nSk,Boulder Fleet Maintenance,40.0258815,-105.2352614,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,0,0,NA
+ChIJy2q4NDyNa4cRGI4Q7Kpesgg,The Enchanted Oven,39.9267615,-105.1316435,Social Business,cafe,bakery; store; point_of_interest; food; establishment,OPERATIONAL,4.9,249,NA
+ChIJy2q4NDyNa4cRGI4Q7Kpesgg,The Enchanted Oven,39.9267615,-105.1316435,Social Business,cafe,bakery; food; point_of_interest; store; establishment,OPERATIONAL,4.9,249,NA
+ChIJY3PYqy3za4cRMc_A4a1jTRk,The Bistro – Eat. Drink. Connect.®,39.958963,-105.163511,Social Business,cafe,restaurant; food; point_of_interest; establishment,CLOSED_TEMPORARILY,4.8,5,TRUE
+ChIJy5dNr0HqQIYRTwUnf6ZKJ4s,The Church of Jesus Christ of Latter-day Saints,39.9349614,-105.0714952,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,20,NA
+ChIJY61TWeX0a4cRKE-Lurn9HCw,Community Holistic Health Center,39.9864588,-105.1050773,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,5,8,NA
+ChIJy8ktcGXta4cRF1QDaU0OHlc,OZO Coffee | East Pearl,40.0190869,-105.2753813,Social Business,cafe,cafe; food; store; point_of_interest; establishment,OPERATIONAL,4.6,101,NA
+ChIJY9bygg3ta4cRzZXr34WzMgs,Gravity Cafe South Engineering,40.0066038,-105.2634702,Social Business,cafe,cafe; food; point_of_interest; store; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJY9Nb0JKMa4cRrUsmlOjwNhg,Starbucks,39.930257,-105.148727,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,3.8,50,NA
+ChIJY9Nb0JKMa4cRrUsmlOjwNhg,Starbucks,39.930257,-105.148727,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,3.8,50,NA
+ChIJYaE9QoLya4cRZw2dSVVGL24,City of Boulder Open Space & Mountain Parks,40.0247753,-105.2249672,Community Space,city hall,local_government_office; point_of_interest; establishment,OPERATIONAL,4.3,10,NA
+ChIJyfIfnfDua4cRcL-9uCuVsuM,Crestview Park,40.052234,-105.2752305,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.7,28,NA
+ChIJYfvyRibsa4cRxOXxrxfqhb4,Beat Book Shop,40.0178284,-105.2796305,Social Business,bookstore,book_store; electronics_store; home_goods_store; point_of_interest; store; establishment,OPERATIONAL,3.3,110,NA
+ChIJyQMSxTDsa4cRUXlSx9Gm8pE,Interns 2 Startups,40.0071616,-105.2759389,Community Space,community center,point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJYQs62er0a4cRhvfzaWICiuY,Community Medical Center Emergency Department,39.9866462,-105.1025351,Community Space,community center,health; point_of_interest; establishment,OPERATIONAL,2.7,61,NA
+ChIJYSHCEYLua4cRUn9etU9X_fc,Fitzpatrick Park,40.0222446,-105.2730791,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.5,12,NA
+ChIJYSWaEg_za4cRYXL1LwWMzrE,Annette Brand Park,39.990103,-105.159405,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.8,55,NA
+ChIJyTTwtkvta4cRcXNs4D5e0ZU,CU on the Run Grab-n-Go,40.0043915,-105.264877,Social Business,cafe,cafe; food; point_of_interest; establishment,CLOSED_TEMPORARILY,0,0,TRUE
+ChIJyV58TIzua4cRsG3nRM-B_Eg,Pine View Park,40.0384288,-105.2745232,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJyV58TIzua4cRsG3nRM-B_Eg,Pine View Park,40.0384288,-105.2745232,Park,fountain,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,25,NA
+ChIJYV9VxdL1a4cRVYmle5RZh0Q,Longs Peak Park,40.0407713,-105.0792352,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,67,NA
+ChIJyVd0UDXwa4cR3nwgYwB-fTg,Gunbarrel LOBO Northbound bike access,40.0728144,-105.1967076,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.7,7,NA
+ChIJyW8N5u7ua4cRPKkDJwcvLYE,Logan's Espresso Cafe,40.0475977,-105.2808509,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.7,91,NA
+ChIJYxO5cFz1a4cRgsqLwUttkA8,Indian Peaks Playground Park,40.0090913,-105.1219874,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,2,NA
+ChIJyYvnDnbua4cRnhzhk-QxMH4,Shamane's Bakery,40.0256838,-105.2489098,Social Business,cafe,cafe; bakery; food; store; point_of_interest; establishment,OPERATIONAL,4.8,241,NA
+ChIJyYvnDnbua4cRnhzhk-QxMH4,Shamane's Bakery,40.0256838,-105.2489098,Social Business,cafe,cafe; bakery; food; point_of_interest; store; establishment,OPERATIONAL,4.8,241,NA
+ChIJyYvnDnbua4cRnhzhk-QxMH4,Shamane's Bakery,40.0256838,-105.2489098,Social Business,cafe,cafe; bakery; store; food; point_of_interest; establishment,OPERATIONAL,4.8,241,NA
+ChIJz-1CR7Pxa4cRnTVmA-w5dJo,Shepherd of the Hills,40.0723788,-105.1887533,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,7,NA
+ChIJz1rSrqDta4cRP5elrRD3JVc,Boulder Mennonite Church,39.985454,-105.2481632,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,12,NA
+ChIJZ1yy14fza4cRDt_mnP9YJ6E,Eternal Savior Lutheran Church,40.0124231,-105.1303085,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,1,NA
+ChIJZ2FIHrzoa4cRhCkF1yPu3hY,Wild Earth Gardens,40.0474597,-105.2804627,Park,garden,general_contractor; point_of_interest; establishment,OPERATIONAL,4.8,17,NA
+ChIJz3wgO96Na4cRuxMK4rz4zFk,Kataluma Chai,39.9331355,-105.1338718,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4,37,NA
+ChIJz3wgO96Na4cRuxMK4rz4zFk,Kataluma Chai,39.9331355,-105.1338718,Social Business,cafe,cafe; food; point_of_interest; store; establishment,OPERATIONAL,4,37,NA
+ChIJz3wgO96Na4cRuxMK4rz4zFk,Kataluma Chai,39.9331355,-105.1338718,Social Business,cafe,cafe; store; food; point_of_interest; establishment,OPERATIONAL,4,37,NA
+ChIJz3xdS9WLa4cRqqR-rDbxX9g,West Park,39.9221765,-105.1248885,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.8,14,NA
+ChIJZ5r_QWTua4cRl_VinBgP59Q,Tangerine,40.0373738,-105.258977,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,4.3,583,NA
+ChIJZ6NOpWXza4cRi0tvMhtGQoE,Village Square Wine & Spirits,39.9880114,-105.1356319,Park,square,liquor_store; store; point_of_interest; establishment,OPERATIONAL,3.8,37,NA
+ChIJz81FgzHsa4cRti6vJcezcu4,Norlin Commons,40.0087991,-105.2702791,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.7,3,NA
+ChIJz86Q6YXua4cR1SsYlams49c,Salberg Center and Park,40.0311994,-105.272895,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,61,NA
+ChIJz86Q6YXua4cR1SsYlams49c,Salberg Center and Park,40.0311994,-105.272895,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.4,61,NA
+ChIJZbOCN0fva4cRgS3G5cVaDiQ,PS Cafe,40.0295117,-105.2382595,Social Business,cafe,cafe; food; store; point_of_interest; establishment,CLOSED_TEMPORARILY,5,7,TRUE
+ChIJZbOCN0fva4cRgS3G5cVaDiQ,PS Cafe,40.0295117,-105.2382595,Social Business,cafe,cafe; store; food; point_of_interest; establishment,CLOSED_TEMPORARILY,5,7,TRUE
+ChIJzcrl4vr0a4cRBiLIG9PExEY,Lafayette Library Theatre,39.9981465,-105.087869,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,5,2,NA
+ChIJZdZ3GyLsa4cR2EO3Urlk0os,Canyon Cafe,40.0143753,-105.2887902,Social Business,cafe,cafe; bar; food; point_of_interest; establishment,OPERATIONAL,4.7,15,NA
+ChIJzeXtCvnxa4cRgvjKum4ulOk,Valmont Community Presbyterian,40.033779,-105.211078,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,5,3,NA
+ChIJZfEYOmnua4cRCJZIApZAjts,Calvary Bible Church - Boulder Campus,40.0408204,-105.2507178,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.7,47,NA
+ChIJzflQw6bta4cRLgMXRGyb4b8,Martin Park,39.9889442,-105.2498342,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,214,NA
+ChIJzRiRjSfsa4cRqr37rDKpFMM,Pine Street Church,40.0205868,-105.2798459,Place of Worship,place of worship,church; place_of_worship; school; point_of_interest; establishment,OPERATIONAL,4.8,4,NA
+ChIJZRqAZULza4cRY-CeA2zfUAM,Walnut St Park,39.978534,-105.141242,Park,park,park; point_of_interest; establishment,OPERATIONAL,3.8,6,NA
+ChIJzUvvj5vta4cR2tdVGrUpDEY,Shawnee Gardens,39.9923563,-105.2349876,Park,garden,point_of_interest; health; establishment,OPERATIONAL,5,1,NA
+ChIJZVUABRvi2IgRe1ix9_IrIDw,East Boulder Community Park,39.9921119,-105.220075,Community Space,community center,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,49,NA
+ChIJZVUABRvi2IgRe1ix9_IrIDw,East Boulder Community Park,39.9921119,-105.220075,Park,park,park; tourist_attraction; point_of_interest; establishment,OPERATIONAL,4.6,49,NA
+ChIJZWfCCi_za4cRM3bVxy4XXKo,Organic Sandwich Company,39.9649428,-105.1640529,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,198,NA
+ChIJZWfCCi_za4cRM3bVxy4XXKo,Organic Sandwich Company,39.9649428,-105.1640529,Social Business,cafe,restaurant; point_of_interest; food; establishment,OPERATIONAL,4.5,198,NA
+ChIJZWkIPRnsa4cRno5e-i86AdA,Boulder Creek Park,40.0129569,-105.2935381,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.7,21,NA
+ChIJzYemQPr0a4cRLD5_ETBDAkk,Valley Community Church,40.0000444,-105.0890456,Place of Worship,place of worship,church; place_of_worship; point_of_interest; establishment,OPERATIONAL,4.9,24,NA
+ChIJzYFjUYnwa4cR7E68iHLwFuE,Winot Coffee Co,40.1004327,-105.1685342,Social Business,cafe,cafe; store; point_of_interest; food; establishment,OPERATIONAL,4.6,179,NA
+ChIJZYnooX_za4cRDhxoMug9W1A,Jeannot's Patisserie & Bistro,40.013305,-105.1322911,Social Business,cafe,bakery; store; point_of_interest; food; establishment,OPERATIONAL,5,87,NA
+ChIJzyxF6Gfua4cRwXxz5vPbAbI,South Palo Park,40.0431461,-105.255448,Park,park,park; point_of_interest; establishment,OPERATIONAL,3,1,NA
