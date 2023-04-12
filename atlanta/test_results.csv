@@ -1,0 +1,12 @@
+place_id,name,lat,lng,type,term,categories,business_status,rating,user_ratings_total
+ChIJ39f_PKYc9YgRbUOPf8ISiuE,Anderson Park,33.7574875,-84.4538685,Park,park,park; point_of_interest; establishment,OPERATIONAL,4.2,222
+ChIJ44fFlgkc9YgR7XuYptGJWUk,Meemees Diner,33.762047,-84.5078757,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,6
+ChIJd6el2gsc9YgRXgEIbgwwgHI,China Cafeteria,33.76034509999999,-84.5058687,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4,313
+ChIJe0bcvQkc9YgR52_OuX0n5BY,Memezz Restaurant,33.7619854,-84.50758050000002,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.5,277
+ChIJga_bgv4b9YgR5O6ClpCFZrU,Wendy's,33.7694711,-84.5196596,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,3.7,1888
+ChIJGQiayC4d9YgR0LKZJFETC_Q,Westside waffle,33.758366,-84.5041143,Social Business,cafe,restaurant; food; point_of_interest; establishment,OPERATIONAL,4.1,40
+ChIJNSUNhAwc9YgR0Bg4UHorlg0,McDonald's,33.7577336,-84.50343289999999,Social Business,cafe,cafe; restaurant; food; point_of_interest; store; establishment,OPERATIONAL,3.1,1779
+ChIJo22zdtId9YgRg-2Ep9FO5Ww,Sip Museum,33.7615475,-84.5080471,Social Business,cafe,art_gallery; cafe; museum; food; point_of_interest; store; establishment,OPERATIONAL,5,6
+ChIJUenHeNEb9YgRDsXCxLz0a8M,Bloom'n Gardens Landscape,33.8026211,-84.51318649999999,Park,garden,home_goods_store; point_of_interest; general_contractor; store; establishment,OPERATIONAL,4,38
+ChIJxRAYUAEE9YgRLZcRt9Hdy74,Little Free Library @Inman Quarter,33.7623876,-84.358195,Community Space,library,library; point_of_interest; establishment,OPERATIONAL,4.2,5
+ChIJyS9B8HcG9YgR4nQg8nCqO4w,Atlanta Water Gardens Inc,33.8132242,-84.35348839999999,Park,fountain,point_of_interest; store; establishment,OPERATIONAL,4.7,110
