@@ -169,7 +169,7 @@ get_tracts(name = "nashville", mystate = "TN",
            mycounty = c("Davidson County"))
 get_tracts(name = "oklahoma", mystate = "OK",
            mycounty = c("Oklahoma County", "Canadian County", "Cleveland County",
-             "Pottawatomie County"))
+                        "Pottawatomie County"))
 get_tracts(name = "el_paso", mystate = "TX",
            mycounty = c("El Paso County"))
 get_tracts(name = "boston", mystate = "MA",
@@ -307,7 +307,7 @@ get_blocks(name = "nashville", mystate = "TN",
            mycounty = c("Davidson County"))
 get_blocks(name = "oklahoma", mystate = "OK",
            mycounty = c("Oklahoma County", "Canadian County", "Cleveland County",
-             "Pottawatomie County"))
+                        "Pottawatomie County"))
 get_blocks(name = "el_paso", mystate = "TX",
            mycounty = c("El Paso County"))
 get_blocks(name = "boston", mystate = "MA",
