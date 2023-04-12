@@ -30,3 +30,5 @@ save(list = f, file = "data/functions.rda")
 
 # Clear environment and cache
 rm(list = ls()); gc()
+
+

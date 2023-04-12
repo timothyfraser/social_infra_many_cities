@@ -23,9 +23,36 @@ require(devtools)
 
 ### 0. Setup
 
+#### 0.1 Packages
+
+First, you'll need to install several packages this repository relies on. Fortunately, I've written an `install_it.R` script available with `data()` that will check if you have these packages, and then automatically install them. Let's try it!
+
+```{r}
+data("install_it")
+```
+
+Then, to start, let's load a few core packages, using `data("packages")`.
+
+```{r}
+data("packages")
+```
+
+#### 0.2 API Keys
+
 To proceed, you'll need to make a `keys.R` file, located within this main repository directory. This file will contain your Google Places API key and your Census API key, which you can register for online in a matter of minutes. Use `keys_template.R` as a template, edit it, then rename it to `keys.R`. (Be sure not to share these keys, as they contain your sensitive user data.)
 
 ```{r keys_template, eval = FALSE, file = "keys_template.R"}
+```
+
+Once you've added your keys, you can run your keys file with `source()`. 
+
+```{r, eval = FALSE}
+source("keys.R")
+# You can also check which API Keys we currently have registered here,
+# using googleway's google_keys()
+google_keys()
+# If you need to use it, googleway's clear_keys() will clear those keys too.
+#clear_keys() ## clear any previously set keys
 ```
 
 ### 1. API Searches
@@ -97,6 +124,9 @@ data("aea") # Load AEA projection
 data("colors") # Load colors and types of social infrastructure
 data("functions") # Load functions from above
 ```
+
+### API Keys
+
 
 
 
