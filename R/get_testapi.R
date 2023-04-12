@@ -6,7 +6,7 @@
 #' @param parallel Use parallel processing? TRUE/FALSE
 #' @param mycell ...
 
-get_testapi = function(name, yourkey = NULL, parallel = TRUE, mycell = NULL){
+get_testapi = function(name, yourkey = Sys.getenv("PLACES_API_KEY"), parallel = TRUE, mycell = NULL){
 
   require(readr)
   require(dplyr)
@@ -36,7 +36,7 @@ get_testapi = function(name, yourkey = NULL, parallel = TRUE, mycell = NULL){
 
 
   # initial Validity Check
-  if(is.null(yourkey)){
+  if(is.null(yourkey) | yourkey == ""){
     paste("Oops! Need to insert an API Key!") %>%
       return()
 

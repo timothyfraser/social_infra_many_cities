@@ -18,5 +18,13 @@ dest = "C://Users//tmf77//OneDrive - Cornell University//Documents//rstudio//soc
 files = dir(path, pattern = ".zip", full.names = TRUE)
 
 files %>% map(~unzip(zipfile = ., junkpaths = FALSE, exdir = dest, overwrite = FALSE))
-
+# Commit those files
 source("z/commit.R")
+
+
+# Load functions
+data("functions")
+
+# Let's make a query.R doc for each folder, unless it has one already.
+names = dir("search")
+for(i in names){ get_query(name = i, open = FALSE, force = FALSE) }

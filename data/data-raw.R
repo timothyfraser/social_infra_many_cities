@@ -22,10 +22,12 @@ save(colors, file = "data/colors.rda")
 
 # List out all main functions
 f = c("get_api", "get_bounds", "get_data", "get_data", "get_diagnostics",
-  "get_grid", "get_grid_1km", "get_map", "get_results", "get_testapi")
+  "get_grid", "get_grid_1km", "get_map", "get_results", "get_testapi", "get_folder", "get_file", "get_query")
 # Load all main functions
 for(i in f){ source(paste0("R/",i,".R")) }
-# Save all main functions, to be accessible with data("functions")
+# Save all main functions individually by name
+for(i in f){ save(list = i, file = paste0("data/", i, ".rda")) }
+# Save ALL main functions together under 'functions'
 save(list = f, file = "data/functions.rda")
 
 # Clear environment and cache

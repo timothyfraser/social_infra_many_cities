@@ -5,14 +5,14 @@
 #' @param yourkey Places API key
 #' @param parallel parallel processing? TRUE/FALSE
 
-get_api = function(name, yourkey = NULL, parallel = TRUE){
+get_api = function(name, yourkey = Sys.getenv("PLACES_API_KEY"), parallel = TRUE){
 
   require(tidyverse)
   require(googleway)
   require(sf)
 
   # initial Validity Check
-  if(is.null(yourkey)){
+  if(is.null(yourkey) | yourkey == ""){
     paste("Oops! Need to insert an API Key!") %>%
       return()
 
