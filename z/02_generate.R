@@ -11,17 +11,19 @@
 
 # Create some metadata
 meta <- list(
-  cities = c("nyc", "la", "chicago", "houston", "phoenix",
+  top = c("nyc", "la", "chicago", "houston", "phoenix",
              "philadelphia", "san_antonio", "san_diego", "dallas", "san_jose",
              "austin", "jacksonville", "fort_worth", "columbus", "indianapolis",
              "charlotte", "san_francisco", "seattle", "denver", "dc",
-             "nashville", "oklahoma", "el_paso", "boston", "portland",
-             "worcester","ithaca",
+             "nashville", "oklahoma", "el_paso", "boston", "portland"),
              # Extras
+  others = c("worcester","ithaca",
              "atlanta", "berkeley", "boulder", "daytona_beach","honolulu",
              "louisville", "miami", "minneapolis_st_paul", "new_orleans",
-             "norfolk", "oakland", "pittsburgh","st_louis") %>% sort()
-)
+             "norfolk", "oakland", "pittsburgh","st_louis")
+  )
+meta$cities = c(meta$top, meta$others) %>% sort()
+
 # Save to fil
 save(meta, file = "meta.rdata")
 
