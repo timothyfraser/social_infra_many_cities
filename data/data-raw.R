@@ -21,7 +21,7 @@ save(colors, file = "data/colors.rda")
 
 
 # List out all main functions
-f = c("get_api", "get_bounds", "get_data", "get_data", "get_diagnostics",
+f = c("wkb_as_sf", "connect", "get_api", "get_bounds", "get_data", "get_data", "get_diagnostics",
   "get_grid", "get_grid_1km", "get_map", "get_results", "get_testapi", "get_folder", "get_file", "get_query")
 # Load all main functions
 for(i in f){ source(paste0("R/",i,".R")) }
@@ -29,6 +29,26 @@ for(i in f){ source(paste0("R/",i,".R")) }
 for(i in f){ save(list = i, file = paste0("data/", i, ".rda")) }
 # Save ALL main functions together under 'functions'
 save(list = f, file = "data/functions.rda")
+
+
+# Create some metadata
+meta <- list(
+  top = c("nyc", "la", "chicago", "houston", "phoenix",
+          "philadelphia", "san_antonio", "san_diego", "dallas", "san_jose",
+          "austin", "jacksonville", "fort_worth", "columbus", "indianapolis",
+          "charlotte", "san_francisco", "seattle", "denver", "dc",
+          "nashville", "oklahoma", "el_paso", "boston", "portland"),
+  # Extras
+  others = c("worcester","ithaca",
+             "atlanta", "berkeley", "boulder", "daytona_beach","honolulu",
+             "louisville", "miami", "minneapolis_st_paul", "new_orleans",
+             "norfolk", "oakland", "pittsburgh","st_louis")
+)
+meta$cities = c(meta$top, meta$others) %>% sort()
+
+# Save to file
+save(meta, file = "data/meta.rda")
+
 
 # Clear environment and cache
 rm(list = ls()); gc()

@@ -4,5 +4,5 @@
 require(gert)
 
 gert::git_add(dir(all.files = TRUE))
-gert::git_commit_all(message = "added folders")
+gert::git_commit_all(message = "added blocks")
 gert::git_push()
