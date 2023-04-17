@@ -5,10 +5,7 @@
 #'
 
 
-# 3. Overall
-
-
-# 2. Get Bounds  ################################################
+# 0. Packages  ################################################
 
 library(dplyr)
 library(readr)
@@ -16,9 +13,10 @@ library(tidyr)
 library(purrr)
 library(stringr)
 library(sf)
-
 library(RSQLite)
 library(DBI)
+
+# 1. Polygons############################################
 
 data("meta") # get city name metadata
 data("wgs") # Get EPSG:4326 (WGS 84) projection (https://spatialreference.org/ref/epsg/wgs-84/)
@@ -29,7 +27,6 @@ data("aea") # Get equal area conic projection
 tibble(geometry = "POINT(42.4534 -76.4735)") %>%
   st_as_sf(wkt = "geometry", crs = 4326) %>%
   st_write(obj = ., dsn = Sys.getenv("DATABASE"), layer = "starter", delete_dsn = TRUE, delete_layer = TRUE)
-
 
 
 # Write a combine function
@@ -53,28 +50,36 @@ combine = function(name, type, ext = ".geojson", area = FALSE){
 
 # Now connect to it using SQLite
 # Now, let's add a bunch of data
+data("meta")
 data("connect") # Get connect() function
 data("wkb_as_sf") # Get function to convert from wkb to sf format
 # Establish connection
 geo = connect()
 
+## 1.1 Bounds ####################
 # Get all bounds and save to table (overwrite the table)
 meta$cities %>%
   map(~combine(name = ., type = "bounds", ext = ".geojson", area = TRUE)) %>%
   dplyr::bind_rows() %>%
   st_write(obj = ., dsn = geo, layer = "bounds", delete_layer = TRUE, format = "WKB")
 
+gc(); # Clear cache
+
 # Test view it
 # test = geo %>% tbl("bounds") %>% head(1) %>% collect()
 # wkb_as_sf(test)$geometry %>% plot()
 # remove(test)
 
-# Get all block ground boundaries and save to file  (overwrite table)
+## 1.2 Block Group ##################
+# Get all block group boundaries and save to file  (overwrite table)
 meta$cities %>%
   map(~combine(name = ., type = "bg", ext = ".geojson", area = TRUE)) %>%
   dplyr::bind_rows() %>%
   st_write(obj = ., dsn = geo, layer = "bg", delete_layer = TRUE, format = "WKB")
 
+gc(); # Clear cache
+
+## 1.3 Grid 1km ######################
 # Get all grids and save to file (overwrite table)
 meta$cities %>%
   # Skip area calculation - they're all 1 square kilometer!
@@ -82,12 +87,18 @@ meta$cities %>%
   bind_rows() %>%
   st_write(obj = ., dsn = geo, layer = "grid1km", delete_layer = TRUE, format = "WKB")
 
+gc(); # Clear cache
+
+## 1.4 Tracts #######################
 # Get all tracts and save to file (overwrite table)
 meta$cities %>%
   map(~combine(name = ., type = "tracts", ext = ".geojson", area = TRUE)) %>%
   bind_rows() %>%
   st_write(obj = ., dsn = geo, layer = "tracts", delete_layer = TRUE, format = "WKB")
 
+gc(); # Clear cache
+
+## 1.5 Blocks #####################
 # Get all blocks and save to file (overwrite table)
 data("meta")
 # For each city...
@@ -97,14 +108,114 @@ for(i in meta$cities){
   gc()
 }
 
+
+# 2. Add Census Traits to Database ###############################
+
+
+## 2.1 Block Data ################################
+gc()
+data("connect")
+geo = connect()
+
+geo %>%
+  tbl("blocks") %>%
+  select(geoid, name, area_land) %>%
+  collect() %>%
+  # Now join in the block group data
+  left_join(
+    by = "geoid",
+    y = read_rds("census/block_data.rds")) %>%
+  # Calculate population density, while you're at it.
+  mutate(pop_density = pop / (area_land / (1000^2) ) ) %>%
+  # And write it to file.
+  dbWriteTable(
+    conn = geo, name = "block_data",
+    value = .,
+    delete_layer = TRUE, overwrite = TRUE, append = FALSE)
+
+# geo %>% tbl("blocks")
+# read_rds("census/block_data.rds") %>% filter(geoid == "131210078061008")
+
+# Great! Now our block data is queryable by name!
+
+
+## 2.2 Block Group Data ################################
+
+data("connect")
+geo = connect()
+
+geo %>%
+  tbl("bg") %>%
+  select(geoid, name, area_land) %>%
+  collect() %>%
+  # Now join in the block group data
+  left_join(
+    by = "geoid",
+    y = read_rds("census/bg_data.rds") %>%
+      select(-median_monthly_housing_costs, -gini) %>%
+      mutate(median_household_income = if_else(
+        condition = median_household_income < 0,
+        true= NA_integer_, false = median_household_income)
+      )
+  ) %>%
+  # Calculate population density, while you're at it.
+  mutate(pop_density = pop / (area_land / (1000^2) ) ) %>%
+  # And write it to file.
+  dbWriteTable(
+    conn = geo, name = "bg_data",
+    value = .,
+    delete_layer = TRUE, overwrite=  TRUE, append = FALSE)
+
+#geo %>% tbl("bg_data")
+
+## 2.3 Tract Data ##########################################
+
+data("connect")
+geo = connect()
+
+geo %>%
+  tbl("tracts") %>%
+  select(geoid, name, area_land) %>%
+  collect() %>%
+  # Now join in the block group data
+  left_join(
+    by = "geoid",
+    y = read_rds("census/tract_data.rds")) %>%
+  # Calculate population density, while you're at it.
+  mutate(pop_density = pop / (area_land / (1000^2) ) ) %>%
+  # And write it to file.
+  dbWriteTable(
+    conn = geo, name = "tract_data",
+    value = .,
+    delete_layer = TRUE,
+    overwrite = TRUE, append = FALSE)
+
+# geo %>% tbl("tract_data")
+
+dbDisconnect(geo)
+
+rm(list = ls()); gc()
+
+
+
+# 3. Sites ###################################################
+
+data("meta")
+data("connect")
+geo = connect()
+
 # Write a function to import a specific city's data and format it
-filter_sites = function(name){
+filter_sites = function(.name){
+
+  data("aea")
+
   # Get shapes for that city
-  shapes = paste0("search/", i, "/bounds.geojson") %>% read_sf() %>% st_transform(crs = aea) %>%
+  shapes = paste0("search/", .name, "/bounds.geojson") %>% read_sf() %>% st_transform(crs = aea) %>%
     mutate(area = as.numeric(st_area(geometry)) / 1000000)
 
   # Get points for that city
-  points = paste0("search/", i, "/results.csv") %>% read_csv() %>% select(place_id:term) %>%
+  points = paste0("search/", .name, "/results.csv") %>% read_csv() %>% select(place_id:term) %>%
+    mutate(place_name = name, name = .name) %>%
     # Get distinct searches, by grabbing just the first result of any multiples that appear.
     group_by(place_id) %>%
     summarize(across(.cols = everything(), .fns = ~.x[1])) %>%
@@ -112,6 +223,7 @@ filter_sites = function(name){
     # Make into an sf object
     st_as_sf(coords = c("lng", "lat"), crs = 4326) %>%
     st_transform(crs = aea)
+
   # Overwrite, by narrowing into just points in our cities
   points = points %>%
     # Filter to just sites within city
@@ -123,301 +235,362 @@ filter_sites = function(name){
 
 # Get all sites, filted to within the bounds!
 meta$cities %>%
-  map(~filter_sites(name = .)) %>%
+  map(~filter_sites(.name = .)) %>%
   bind_rows() %>%
   st_write(obj = ., dsn = geo, layer = "sites", delete_layer = TRUE, format = "WKB")
 
 
+# 3. Quantities of Interst #######################################
 
+data("wgs")
+data("aea")
+data("meta")
+data("connect")
+data("wkb_as_sf")
 geo = connect()
 
 geo %>% dbListTables()
 
+# For city i....
+.name = meta$cities[1]
 
-dbDisconnect(geo)
+# # Get bounds....
+# bounds = geo %>%
+#   tbl("bounds") %>%
+#   filter(name == !!.name) %>%
+#   collect() %>%
+#   wkb_as_sf() %>%
+#   st_as_sf(crs = 4326) %>%
+#   st_transform(crs = aea)
+
+tally_it = function(.name, .type = "grid"){
+  # test values
+  # .name = "atlanta"
+  # .type = "block"
+
+  if(.type == "grid"){
+    # Get grid cells...
+    grid = geo %>%
+      tbl("grid1km") %>%
+      filter(name == !!.name) %>%
+      collect()  %>%
+      wkb_as_sf() %>%
+      st_as_sf(crs = 4326) %>%
+      st_transform(crs = aea)
+  }
+
+  # Get blocks...
+  blocks = geo %>%
+    tbl("blocks") %>%
+    filter(name == !!.name, area_land > 0) %>%
+    select(geoid, name, geometry) %>%
+    left_join(by = c("geoid", "name"),
+              y = tbl(geo, "block_data") %>% filter(name == !!.name)) %>%
+    filter(pop_density > 0) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
+
+  if(.type == "grid"){
+    # What's the approximate population density in the grid?
+    grid_block_traits = grid %>%
+      # Join in block traits
+      st_join(
+        y = blocks %>%
+          select(pop_density, white:hisplat, units_occupied),
+        left = TRUE) %>%
+      as_tibble() %>%
+      group_by(name, cell) %>%
+      summarize_at(vars(pop_density, white:hisplat, units_occupied),
+                   list(~median(., na.rm = TRUE))) %>%
+      rename(pop_density_block = pop_density,
+             white_block = white,
+             black_block = black,
+             hisplat_block = hisplat,
+             asian_block = asian,
+             natam_block = natam,
+             units_occupied_block = units_occupied) %>%
+      ungroup()
+  }
+
+  if(.type == "block"){
+
+    block_block_traits = blocks %>%
+      as_tibble() %>%
+      select(geoid, name, pop, pop_density, white:hisplat, units_occupied) %>%
+      rename(pop_block = pop,
+             pop_density_block = pop_density,
+             white_block = white,
+             black_block = black,
+             hisplat_block = hisplat,
+             asian_block = asian,
+             natam_block = natam,
+             units_occupied_block = units_occupied)
+
+  }
+
+  # Get block group traits!
+  bg = geo %>%
+    tbl("bg") %>%
+    filter(name == !!.name, area_land > 0) %>%
+    select(geoid, name, geometry) %>%
+    left_join(by = c("geoid", "name"), y = tbl(geo, "bg_data") %>% filter(name == !!.name)) %>%
+    filter(pop_density > 0) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
+
+  if(.type == "grid"){
+    grid_bg_traits = grid %>%
+      select(cell, name) %>%
+      st_join(y = bg %>% select(women:unemployment, pop_density), left = TRUE) %>%
+      as_tibble() %>% select(-geometry) %>%
+      group_by(cell, name) %>%
+      summarize_at(vars(women:unemployment, pop_density), list(~median(., na.rm = TRUE))) %>%
+      rename(pop_density_bg = pop_density,
+             women_bg = women,
+             white_bg = white,
+             black_bg = black,
+             asian_bg = asian,
+             hisplat_bg = hisplat,
+             natam_bg = natam,
+             pacific_bg = pacific,
+             some_college_bg = some_college,
+             income_0_60K_bg = income_0_60K,
+             median_household_income_bg = median_household_income,
+             unemployment_bg = unemployment) %>%
+      ungroup()
+  }
+
+  if(.type == "block"){
+    block_bg_traits = blocks %>%
+      mutate(bg = str_sub(geoid, 1, 12)) %>%
+      as_tibble() %>%
+      select(geoid, name, bg) %>%
+      left_join(by = c("bg" = "geoid", "name"),
+                y = bg %>% as_tibble() %>% select(name, geoid, women:unemployment, pop_density)) %>%
+      rename(pop_density_bg = pop_density,
+             women_bg = women,
+             white_bg = white,
+             black_bg = black,
+             asian_bg = asian,
+             hisplat_bg = hisplat,
+             natam_bg = natam,
+             pacific_bg = pacific,
+             some_college_bg = some_college,
+             income_0_60K_bg = income_0_60K,
+             median_household_income_bg = median_household_income,
+             unemployment_bg = unemployment) %>%
+      ungroup()
+  }
+
+  # Get Sites...
+  sites = geo %>%
+    tbl("sites") %>%
+    filter(name == !!.name) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
+
+  if(.type == "grid"){
+    # How many points are in the grid?
+    grid_site_traits = grid %>%
+      st_join(y = sites %>% select(type), left = TRUE) %>%
+      as_tibble() %>%
+      group_by(name, cell) %>%
+      summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
+                place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
+                social_business = sum(type == "Social Business", na.rm = TRUE),
+                park = sum(type == "Park", na.rm = TRUE)) %>%
+      ungroup()
+  }
+if(.type == "block"){
+
+  block_site_traits = blocks %>%
+    st_join(y = sites %>% select(type), left = TRUE) %>%
+    as_tibble() %>%
+    group_by(name, geoid) %>%
+    summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
+              place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
+              social_business = sum(type == "Social Business", na.rm = TRUE),
+              park = sum(type == "Park", na.rm = TRUE)) %>%
+    ungroup()
+
+
+}
+
+  if(.type == "grid"){
+    # Join them all together!
+    output = grid %>%
+      left_join(by = c("name", "cell"),
+                y = grid_site_traits)  %>%
+      left_join(by = c("name", "cell"),
+                y = grid_block_traits)  %>%
+      left_join(by = c("name", "cell"),
+                y = grid_bg_traits) %>%
+      mutate_at(vars(community_space:park),
+                list(~./pop_density_block * 1000)) %>%
+      st_transform(crs = 4326)
+
+    output %>%
+      st_write(obj = ., dsn = geo, layer = "tally_grid",
+               delete_layer = FALSE, append = TRUE, format = "WKB")
+  }
+
+  if(.type == "block"){
+
+    output = blocks %>%
+      left_join(by = c("name", "geoid"),
+                y = block_site_traits) %>%
+      left_join(by = c("name", "geoid"),
+                y = block_block_traits) %>%
+      left_join(by = c("name", "geoid"),
+                y = block_bg_traits) %>%
+      mutate_at(vars(community_space:park),
+                list(~./pop_density_block * 1000)) %>%
+      st_transform(crs = 4326)
+
+    output %>%
+      st_write(obj = ., dsn = geo, layer = "tally_block",
+               delete_layer = FALSE, append = TRUE, format = "WKB")
+  }
+
+  print(.name)
+
+  gc()
+}
+
+## 3.1 Get Tally by Grid ###########################
+
+data("connect"); data("meta"); data("wkb_as_sf"); data("aea")
+geo = connect()
+geo %>% dbRemoveTable("tally_grid")
+for(i in meta$cities){ tally_it(.name = i, .type = "grid") }
+
+dbDisconnect(geo); rm(list = ls()); gc()
+
+## 3.2 Get Tally by Block ##########################
+data("connect"); data("meta"); data("wkb_as_sf"); data("aea")
+geo = connect()
+geo %>% dbRemoveTable("tally_block")
+for(i in meta$cities){ tally_it(.name = i, .type = "block") }
+
+
+dbDisconnect(geo); rm(list = ls()); gc()
+
+
+## 3.3 Get Social Capital #############################
+
+#First, let's download the most up to date versions of our social capital indices.
+
+library(dataverse)
+
+data("connect")
+geo = connect()
+shapes = geo %>%
+  tbl("tracts") %>%
+  select(geoid, name) %>%
+  collect()
+
+dataverse::get_dataframe_by_name(
+  filename = "index_tracts_V3_04_10_2022.tab",
+  dataset = "doi:10.7910/DVN/OSVCRC",
+  server = "dataverse.harvard.edu") %>%
+  # Download values needed
+  filter(geoid %in% unique(read_csv("census/sample_tracts.csv")$geoid)) %>%
+  # Save
+  saveRDS("census/sci.rds")
+
+# Save to file
+read_rds("census/sci.rds") %>%
+  dbWriteTable(conn = geo, name = "sci", value = ., overwrite = TRUE, append = FALSE)
+
+dbDisconnect(geo); rm(list = ls())
 
 
 
+## 3.4 Get Dataset ############################################
 
-
-### Get Census Tract Data
-library(censusapi)
-
-myvars <- list("GEO_ID" = "geoid",
-     "P1_001N" = "pop",
-     "P1_003N" = "white",
-     "P1_004N" = "black",
-     "P1_005N" = "natam",
-     "P1_006N" = "asian",
-     "P2_002N" = "hisplat",
-     "H1_001N" = "units",
-     "H1_002N" = "units_occupied") %>%
-  as_tibble() %>%
-  pivot_longer(cols = -c(), names_to = "id", values_to = "variable")
-
-
-library(future)
-library(furrr)
-
-# Set up parallel processing
-
-# Check current worksers
-nbrOfWorkers()
-# check available workers
-numworkers <- availableWorkers() %>% length()
-# Initiate parallel processing
-# Always use at least 1 fewer than the total available workers
-plan(multisession, workers = numworkers - 1)
-
-myunits <- read_csv("census2020/sample_tracts.csv") %>%
-  mutate(state = str_sub(geoid, 1,2),
-         county = str_sub(geoid, 3,5),
-         tract = str_sub(geoid, 6,-1)) %>%
-  mutate(geoid = str_sub(geoid, 1,5)) %>%
-  select(geoid, state, county) %>%
-  distinct()
-
-# For reference!
-# https://api.census.gov/data/2020/dec/pl/examples.html
-# https://api.census.gov/data/2020/dec/pl/variables.html
-
-myunits %>%
-  split(.$geoid) %>%
-  future_map_dfr(
-    ~censusapi::getCensus(
-      key = censuskey,
-      vintage = "2020",
-      name = "dec/pl",
-      region = "tract:*",
-      regionin = paste(
-        "state:", .$state, # Choose just blocks in this state
-        "&", "county:", .$county,  # in this county
-        sep = ""),
-      # Grab these variables
-      vars = myvars$id),
-    .progress = TRUE) %>%
-  # Keep just the rows with our specified names
-    select(myvars$id) %>%
-  # Rename them to simpler, more easily understandable names
-  magrittr::set_colnames(value = c(myvars$variable)) %>%
-  # Convert subcategories into percentages
-  mutate(white = white / pop,
-         black = black / pop,
-         asian = asian / pop,
-         natam = natam / pop,
-         hisplat = hisplat / pop,
-         units_occupied = units_occupied / units) %>%
-  # Reset any nans to NA
-  mutate_at(vars(white:units_occupied),
-            list(~if_else(is.nan(.) | is.infinite(.), NA_real_, as.numeric(.)))) %>%
-  # better format the geoid
-  mutate(geoid = str_remove(geoid, "1400000US")) %>%
-  # Filter to just blocks in our tracts of interest
-  filter(geoid %in% read_csv("census2020/sample_tracts.csv")$geoid) %>%
-  # Save to file
-  saveRDS("census2020/tract_data.rds")
-
-plan(sequential)
-
-
-
-
-## Get Tally
-
-```{r, eval = FALSE}
-library(tidyverse)
 library(sf)
-#https://spatialreference.org/ref/epsg/wgs-84/
-wgs <- "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-
-# Get equal area conic projection
-aea <- "+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=37.5 +lon_0=-96 +x_0=0 +y_0=0 +ellps=GRS80 +datum=NAD83 +units=m +no_defs"
-
-# Get bounds
-bounds <- read_sf("all/bounds.geojson") %>%
-  st_transform(crs = aea) %>%
-  mutate(area = as.numeric(st_area(geometry)) / 1000000)
-
-# Get Sites
-sites <- read_sf("all/sites.geojson") %>%
-  st_transform(crs = aea)
+library(dplyr)
+library(RSQLite)
+library(DBI)
 
 
-# First, let's calculate population density for each census block.
-blocks <- read_sf("all/blocks.geojson") %>%
-  filter(area_land > 0) %>%
-  # Join in block-level census data
-  left_join(
-    by = c("geoid"),
-    y = read_rds("census2020/block_data.rds")) %>%
-  # Calculate population density
-  mutate(pop_density = pop / (area_land / (1000^2) )  ) %>%
-  st_transform(crs = aea)
+data_it = function(.name){
 
-# How many points are in the grid?
-# What's the approximate population density in the grid?
+  data("aea")
+  data("wkb_as_sf")
 
-# Get tallies by grid cell
-block_traits <- read_sf("all/grid1km.geojson") %>%
-  st_transform(crs = aea) %>%
-  # Join in block traits
-  st_join(blocks %>% select(pop_density, white:hisplat, units_occupied),
-          left = TRUE) %>%
-  as_tibble() %>%
-  group_by(name, cell) %>%
-  summarize_at(vars(pop_density, white:hisplat, units_occupied),
-               list(~median(., na.rm = TRUE))) %>%
-  ungroup()
+  tracts = geo %>%
+    tbl("sci") %>%
+    filter(year == 2020) %>%
+    select(geoid, social_capital:linking) %>%
+    right_join(by = c("geoid"), y = tbl(geo, "tracts") %>% filter(name == !!.name)) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
 
-site_traits <- read_sf("all/grid1km.geojson") %>%
-  st_transform(crs = aea) %>%
-  # Join in block traits
-  st_join(sites %>% select(type), left = TRUE) %>%
-  as_tibble() %>%
-  group_by(name, cell) %>%
-  summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
-            place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
-            social_business = sum(type == "Social Business", na.rm = TRUE),
-            park = sum(type == "Park", na.rm = TRUE))
+  # Get social capital on a grid
+  grid = geo %>%
+    tbl("tally_grid") %>%
+    select(cell, name, geometry) %>%
+    filter(name == !!.name) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea) %>%
+    st_join(y = tracts %>% select(-name), left = TRUE) %>%
+    # Convert to tibble
+    as_tibble() %>%
+    # For each cell-name combo,
+    group_by(cell, name) %>%
+    # Take the average
+    summarize(across(social_capital:linking, ~mean(., na.rm = TRUE))) %>%
+    ungroup() %>%
+    # And set NAN to NA
+    mutate(across(social_capital:linking, ~if_else(is.nan(.), NA_real_, .)))
 
-read_sf("all/grid1km.geojson") %>%
-  left_join(by = c("name", "cell"),
-            y = site_traits)  %>%
-  left_join(by = c("name", "cell"),
-            y = block_traits)  %>%
-  mutate_at(vars(community_space:park),
-            list(~./pop_density * 1000)) %>%
-  st_write("all/tally1km.geojson", delete_dsn = TRUE)
+  # Get entire !!.name on a grid
+  output = geo %>%
+    tbl("tally_grid") %>%
+    filter(name == !!.name) %>%
+    mutate(total = community_space + park + social_business + place_of_worship) %>%
+    # Zoom into just populated sites
+    filter(pop_density_block > 0) %>%
+    select(cell, name, total, community_space:park, pop_density_block, pop_density_bg, geometry,
+           white_block, black_block, asian_block, hisplat_block,
+           median_household_income_bg, income_0_60K_bg, some_college_bg, over_65, unemployment_bg) %>%
+    collect() %>%
+    # Join in SCI
+    left_join(by = c("cell", "name"), y = grid)
 
+  # Write to file!
+  output %>%
+    st_write(obj = ., dsn = geo, layer = "data_grid",
+             delete_layer = FALSE, append = TRUE, format = "WKB")
+  print(.name)
+}
 
-# Get tallies by block
-site_traits_by_block <- blocks %>%
-  st_transform(crs = aea) %>%
-  # Join in block traits
-  st_join(sites %>% select(type), left = TRUE) %>%
-  as_tibble() %>%
-  group_by(name, geoid) %>%
-  summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
-            place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
-            social_business = sum(type == "Social Business", na.rm = TRUE),
-            park = sum(type == "Park", na.rm = TRUE))
+data("meta")
+data("connect")
+geo = connect()
 
-blocks %>%
-  left_join(by = c("name", "geoid"), y = site_traits_by_block) %>%
-  mutate_at(vars(community_space:park),
-            list(~./pop_density * 1000)) %>%
-  st_write("all/tallyblock.geojson", delete_dsn = TRUE)
+geo %>% dbRemoveTable("data_grid")
+for(i in meta$cities){ data_it(.name = i) }
 
-remove(block_traits, site_traits, blocks, site_traits_by_block, sites, bounds)
+# Fix a name...
+geo %>%
+  tbl("data_grid") %>%
+  rename(over_65_bg = over_65) %>%
+  collect() %>%
+  st_write(obj = ., dsn = geo, layer = "data_grid",
+           delete_layer = TRUE,format = "WKB")
 
-# Then, get the block group traits
-library(tidyverse)
-library(sf)
-#https://spatialreference.org/ref/epsg/wgs-84/
-wgs <- "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-
-# Get equal area conic projection
-aea <- "+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=37.5 +lon_0=-96 +x_0=0 +y_0=0 +ellps=GRS80 +datum=NAD83 +units=m +no_defs"
-
-# Import tallies
-tally <- read_sf("all/tally1km.geojson") %>%
-  st_transform(crs = aea)
+dbDisconnect(geo); rm(list = ls()); gc()
 
 
-# Import block groups with data
-bg <- read_sf("all/bg.geojson") %>%
-  filter(area_land > 0) %>%
-  # Join in block-level census data
-  left_join(
-    by = c("geoid"),
-    y = read_rds("census2020/bg_data.rds")) %>%
-  st_transform(crs = aea) %>%
-  # These variables aren't available for block group
-  select(-gini, -median_monthly_housing_costs)
-
-# get block group traits
-tally %>%
-  select(cell, name) %>%
-  st_join(bg %>% select(women:unemployment)) %>%
-  as_tibble() %>%
-  group_by(cell, name) %>%
-  summarize_at(vars(women:unemployment), list(~median(., na.rm = TRUE))) %>%
-  ungroup() %>%
-  # Now join these results back into the tally spatial data.frame
-  right_join(tally %>%
-               # renaming demographic variables  to avoid duplicates
-               rename(white_block = white, black_block = black,
-                      asian_block = asian, natam_block = natam,
-                      hisplat_block = hisplat, units_occupied_block = units_occupied),
-             by = c("cell", "name")) %>%
-  st_write("all/tally1kmbg.geojson", delete_dsn = TRUE)
-
-#bg_traits %>%
-#  as_tibble() %>%
-#  group_by(name) %>%
-#  summarize(sum = sum(is.na(black)) / n() )
-```
-### Get Smooth
-
-(Doesn't work well right now)
-
-```{r, message=FALSE, warning = FALSE, eval = FALSE}
-rm(list = ls())
-sf::sf_use_s2(FALSE)
-
-#https://spatialreference.org/ref/epsg/wgs-84/
-wgs <- "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-
-# Get equal area conic projection
-aea <- "+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=37.5 +lon_0=-96 +x_0=0 +y_0=0 +ellps=GRS80 +datum=NAD83 +units=m +no_defs"
-
-tally <- read_sf("all/tally1kmbg.geojson")%>%
-  st_set_crs(value = aea) %>%
-  st_transform(crs = wgs)
-
-tally %>% st_bbox()
-
-library(future)
-library(furrr)
-
-
-tally %>%
-  st_intersects(tally, sparse = TRUE)  %>%
-  write_rds("all/tallyintersect.rds")
-
-
-adj <- read_rds("all/tallyintersect.rds") %>%
-  map_dfr(~data.frame(original = .[1],
-           values = .))
-
-
-out <- tally %>%
-  as_tibble() %>%
-  select(-geometry) %>%
-  mutate(original = 1:n()) %>%
-  left_join(by = "original", y = adj) %>%
-  group_by(name, cell) %>%
-  summarize_at(vars(women:units_occupied_block,
-                    -park,-social_business,
-                    -community_space,-place_of_worship),
-               list(~median(., na.rm = TRUE))) %>%
-  ungroup()
-
-```
-
-## Get Social Capital
-
-First, let's download the most up to date versions of our social capital indices.
-
- ```{r}
- library(dataverse)
-
- dataverse::get_dataframe_by_name(
-   filename = "index_tracts_V3_04_10_2022.tab",
-   dataset = "doi:10.7910/DVN/OSVCRC",
-   server = "dataverse.harvard.edu") %>%
-   # Download values needed
-   filter(geoid %in% unique(read_csv("census2020/sample_tracts.csv")$geoid)) %>%
-   # Save
-   saveRDS("census2020/sci.rds")
- ```

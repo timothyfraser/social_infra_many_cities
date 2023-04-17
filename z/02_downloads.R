@@ -22,11 +22,11 @@ get_tracts = function(name, mystate, mycounty){
     year = 2020) %>%
     st_as_sf()  %>%
     st_transform(crs = wgs) %>%
-    st_join(read_sf(paste(name, "/bounds.geojson", sep = "")) %>%
+    st_join(read_sf(paste("search/", name, "/bounds.geojson", sep = "")) %>%
               select(geometry), left = FALSE) %>%
     mutate(name = name) %>%
     select(geoid = GEOID, area_land = ALAND) %>%
-    st_write(paste(name, "/tracts.geojson", sep = ""), delete_dsn = TRUE)
+    st_write(paste("search/", name, "/tracts.geojson", sep = ""), delete_dsn = TRUE)
 
 }
 
@@ -107,7 +107,8 @@ get_tracts(name = "new_orleans", mystate = "LA", mycounty = "Orleans Parish")
 get_tracts(name = "boulder", mystate = "CO", mycounty = "Boulder County")
 get_tracts(name = "daytona_beach", mystate = "FL", mycounty = "Volusia County")
 get_tracts(name = "miami", mystate = "FL", mycounty = "Miami-Dade County")
-get_tracts(name = "atlanta", mystate = "FL", mycounty = c("Fulton County", "DeKalb County"))
+get_tracts(name = "atlanta", mystate = "GA", mycounty = c("Fulton County", "DeKalb County"))
+
 get_tracts(name = "pittsburgh", mystate = "PA", mycounty = c("Allegheny County"))
 get_tracts(name = "minneapolis_st_paul", mystate = "MN", mycounty = c("Hennepin County", "Ramsey County"))
 get_tracts(name = "st_louis", mystate = "MO", mycounty = "510")
@@ -116,8 +117,7 @@ get_tracts(name = "louisville", mystate = "KY", mycounty = "Jefferson County")
 get_tracts(name = "berkeley", mystate = "CA", mycounty = c("Alameda County"))
 get_tracts(name = "norfolk", mystate = "VA", mycounty = "710")
 get_tracts(name = "oakland", mystate = "CA", mycounty = c("Alameda County"))
-
-#get_tracts(name = "tulsa", mystate = "OK", mycounty = c("Osage County", "Rogers County", "Tulsa County", "Wagoner County"))
+get_tracts(name = "tulsa", mystate = "OK", mycounty = c("Osage County", "Rogers County", "Tulsa County", "Wagoner County"))
 
 
 # combine = function(x){
@@ -248,6 +248,7 @@ get_blocks(name = "boulder", mystate = "CO", mycounty = "Boulder County")
 get_blocks(name = "daytona_beach", mystate = "FL", mycounty = "Volusia County")
 get_blocks(name = "miami", mystate = "FL", mycounty = "Miami-Dade County")
 get_blocks(name = "atlanta", mystate = "GA", mycounty = c("Fulton County", "DeKalb County"))
+
 get_blocks(name = "pittsburgh", mystate = "PA", mycounty = c("Allegheny County"))
 get_blocks(name = "minneapolis_st_paul", mystate = "MN", mycounty = c("Hennepin County", "Ramsey County"))
 get_blocks(name = "st_louis", mystate = "MO", mycounty = "510")
@@ -258,7 +259,6 @@ get_blocks(name = "oakland", mystate = "CA", mycounty = c("Alameda County"))
 get_blocks(name = "norfolk", mystate = "VA", mycounty = "710")
 get_blocks(name = "tulsa", mystate = "OK", mycounty = c("Osage County", "Rogers County", "Tulsa County", "Wagoner County"))
 #  DONE
-
 
 
 

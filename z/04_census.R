@@ -14,6 +14,7 @@ library(stringr)
 library(tidyr)
 library(sf)
 
+# 1. Download from Census ################################
 
 dir.create("census")
 
@@ -21,8 +22,20 @@ dir.create("census")
 data("wgs")
 data("connect")
 
-geo = connect()
+data("meta")
 
+meta$cities %>%
+  paste0("search/", ., "/tracts.geojson") %>%
+  purrr::map(~read_sf(.) %>% select(geoid)) %>%
+  bind_rows() %>%
+  write_csv("census/sample_tracts.csv")
+
+# geo %>%
+#   tbl("tracts") %>%
+#   select(geoid) %>%
+#   distinct()  %>%
+#   collect() %>%
+#   write_csv("census/sample_tracts.csv")
 
 # Get list of unique tracts
 geo %>%
@@ -35,7 +48,8 @@ geo %>%
 # Simpler version
 
 
-### Get Census Block Data
+### Get Census Block Data ##############################
+
 library(censusapi)
 
 myvars <- list("GEO_ID" = "geoid",
@@ -111,15 +125,15 @@ myunits %>%
   # Save to file
   saveRDS("census/block_data.rds")
 
-# read_rds("census/block_data.rds") %>% head()
-# read_rds("census/block_data.rds") %>%
-#   # Reset any nans to NA
-#   mutate(
-#     across(.vars = c(white, black, asian, natam, hisplat, units_occupied),
-#            .fns = ~if_else(
-#              condition = is.nan(.x) | is.infinite(.x),
-#              true = NA_real_, false = round(.x, 4)))) %>%
-#   saveRDS("census/block_data.rds")
+read_rds("census/block_data.rds") %>%
+  mutate(
+    across(.cols = c(white, black, natam, asian, hisplat, units_occupied),
+           .fns = ~if_else(
+             condition = is.nan(.x) | is.infinite(.x),
+             true = NA_real_,
+             false = round(.x, 4) ))
+  ) %>%
+  saveRDS("census/block_data.rds")
 
 
 plan(sequential) # end parallel processing
@@ -128,7 +142,7 @@ gc() # clear cache
 
 
 
-### Get Census Block Group Data
+### Get Census Block Group Data ###############################
 
 library(censusapi)
 
@@ -293,3 +307,91 @@ read_rds("census/bg_data.rds") %>%
          some_college, income_0_60K, median_household_income,
          median_monthly_housing_costs, gini, unemployment) %>%
   saveRDS("census/bg_data.rds")
+
+
+gc()
+
+### Get Census Tract Data ###############################
+library(censusapi)
+
+myvars <- list("GEO_ID" = "geoid",
+               "P1_001N" = "pop",
+               "P1_003N" = "white",
+               "P1_004N" = "black",
+               "P1_005N" = "natam",
+               "P1_006N" = "asian",
+               "P2_002N" = "hisplat",
+               "H1_001N" = "units",
+               "H1_002N" = "units_occupied") %>%
+  as_tibble() %>%
+  pivot_longer(cols = -c(), names_to = "id", values_to = "variable")
+
+
+
+library(future)
+library(furrr)
+
+# Set up parallel processing
+
+# Check current worksers
+nbrOfWorkers()
+# check available workers
+numworkers <- availableWorkers() %>% length()
+# Initiate parallel processing
+# Always use at least 1 fewer than the total available workers
+plan(multisession, workers = numworkers - 1)
+
+myunits <- read_csv("census/sample_tracts.csv") %>%
+  mutate(state = str_sub(geoid, 1,2),
+         county = str_sub(geoid, 3,5),
+         tract = str_sub(geoid, 6,-1)) %>%
+  mutate(geoid = str_sub(geoid, 1,5)) %>%
+  select(geoid, state, county) %>%
+  distinct()
+
+# For reference!
+# https://api.census.gov/data/2020/dec/pl/examples.html
+# https://api.census.gov/data/2020/dec/pl/variables.html
+
+myunits %>%
+  split(.$geoid) %>%
+  future_map_dfr(
+    ~censusapi::getCensus(
+      key = Sys.getenv("CENSUS_API_KEY"),
+      vintage = "2020",
+      name = "dec/pl",
+      region = "tract:*",
+      regionin = paste(
+        "state:", .$state, # Choose just blocks in this state
+        "&", "county:", .$county,  # in this county
+        sep = ""),
+      # Grab these variables
+      vars = myvars$id),
+    .progress = TRUE) %>%
+  # Keep just the rows with our specified names
+  select(myvars$id) %>%
+  # Rename them to simpler, more easily understandable names
+  magrittr::set_colnames(value = c(myvars$variable)) %>%
+  # Convert subcategories into percentages
+  mutate(white = white / pop,
+         black = black / pop,
+         asian = asian / pop,
+         natam = natam / pop,
+         hisplat = hisplat / pop,
+         units_occupied = units_occupied / units) %>%
+  # Reset any nans to NA
+  mutate_at(vars(white:units_occupied),
+            list(~if_else(is.nan(.) | is.infinite(.), NA_real_, as.numeric(.)))) %>%
+  # better format the geoid
+  mutate(geoid = str_remove(geoid, "1400000US")) %>%
+  # Filter to just blocks in our tracts of interest
+  filter(geoid %in% read_csv("census/sample_tracts.csv")$geoid) %>%
+  # Save to file
+  saveRDS("census/tract_data.rds")
+
+plan(sequential)
+gc()
+rm(list = ls())
+
+
+
