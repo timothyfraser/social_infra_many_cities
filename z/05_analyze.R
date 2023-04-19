@@ -6,20 +6,86 @@
 
 library(sf)
 library(dplyr)
+library(DBI)
 
+source("keys.R")
 data("meta")
 data("connect")
 geo = connect()
-
+geo %>% dbListTables()
 dat = geo %>%
   tbl("data_grid") %>%
   filter(name %in% !!meta$top) %>%
+  filter(pop_density_block > 0) %>%
   collect() %>%
   group_by(name) %>%
-  mutate_at(vars(pop_density_block, social_capital, bonding, bridging, linking,
+  mutate_at(vars(pop_density_block,
                  black_block, hisplat_block, median_household_income_bg,
                  some_college_bg, over_65_bg, unemployment_bg), list(~scale(.))) %>%
   ungroup()
+
+dat %>%
+  lm(formula = social_capital ~ total ) %>%
+  summary()
+
+
+
+dat %>%
+  na.omit() %>%
+  lm(formula = bonding ~ log(total + 1) +
+       pop_density_block + black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
+
+
+dat %>%
+  na.omit() %>%
+  lm(formula = bridging ~ log(total + 1) +
+       pop_density_block + black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
+
+dat %>%
+  na.omit() %>%
+  lm(formula = bridging ~ log(community_space + 1) +
+       log(place_of_worship + 1) +
+       log(social_business + 1) + log(park + 1) +
+       pop_density_block + black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
+
+
+dat %>%
+  na.omit() %>%
+  lm(formula = linking ~ log(community_space + 1) + log(place_of_worship + 1) +
+       log(social_business + 1) + log(park + 1) +
+       pop_density_block + black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
+
+
+dat %>%
+  na.omit() %>%
+  lm(formula = social_capital ~ log(total + 1) +
+       pop_density_block + black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
+
+dat %>%
+  na.omit() %>%
+  lm(formula = social_capital ~ log(community_space + 1) +
+       log(place_of_worship + 1) +
+       log(social_business + 1) + log(park + 1) +
+       pop_density_block +
+       black_block + hisplat_block + asian_block +
+       median_household_income_bg + income_0_60K_bg +
+       some_college_bg + over_65_bg + unemployment_bg + name) %>%
+  broom::glance()
 
 ## Logged or Not? ##########################################
 
