@@ -4,3 +4,6 @@
 .Ruserdata
 keys.R
 geo.gpkg
+viz/models_main_adj.rds
+viz/models_main.rds
+viz/models_correction.rds
