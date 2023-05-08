@@ -5,6 +5,7 @@ library(sf)
 library(dplyr)
 library(DBI)
 library(readr)
+library(purrr)
 library(stringr)
 
 data("connect")
@@ -89,57 +90,39 @@ grids = geo %>%
   filter(pop_density_block > 0) %>%
   select(cell, name, total:park, pop_density_block) %>%
   collect() %>%
-  tidyr::pivot_longer(cols = -c(name, cell, pop_density_block), names_to = "type", values_to = "rate") %>%
-  filter(type == "total")
+  tidyr::pivot_longer(cols = -c(name, cell, pop_density_block), names_to = "type", values_to = "rate")
 
-
-mu = grids$rate %>% mean(na.rm = TRUE)
-
-
+# For each city, find out if its rate is significantly different from
 grids %>%
-  group_by(name) %>%
-  summarize(t.test(y = rate, mu = mu, data = .) %>% broom::tidy())
+  mutate(strata = paste0(type, "-", name)) %>%
+  split(.$strata) %>%
+  map_dfr(
+    .f = ~{
+      # Get the type
+      .type = str_remove(.$strata[1], "[-].*")
 
-t.test()
+      # Get population mean for that type
+      mu = grids %>%
+        filter(type == .type) %>%
+        summarize(mu = mean(rate, na.rm = TRUE)) %>%
+        with(mu)
 
-stat = grids %>%
-  group_by(name) %>%
-  summarize(
-    xbar_city = mean(rate, na.rm = TRUE),
-    s_city = sd(rate, na.rm = TRUE),
-    n_city = n()) %>%
-  # Get overall stats
-  mutate(
-    xbar_grand = mean(xbar_city, na.rm = TRUE),
-    s_grand = sd(grids$rate, na.rm = TRUE),
-    n_grand = grids %>% nrow()
-  ) %>%
-  group_by(name) %>%
-  # Calculate the difference of means and standard error, assuming group variances are unequal
-  summarize(dbar = xbar_city - xbar_grand,
-            se = sqrt(sum( s_city^2 / n_city  + s_grand^2 / n_grand ))) %>%
-  mutate(lower = dbar - qnorm(0.975) * se,
-         upper = dbar + qnorm(0.975) * se,
-         statistic = dbar / se,
-         p_value = 1/2*pnorm(statistic))
-
-df = (s1^2/n1 + s2^2/n2) / (s1^4/(n1^2*(n2-1)) + s2^2/(n2^2*(n1-1)))
-
-# Technically, you need to use a t-distribution
-# df = n - 2
+      # One sample t-test
+      .x %>%
+        summarize(
+        t.test(
+          x = rate,
+          mu = mu,
+          data = .) %>%
+          broom::tidy()) } ,
+          .id = "strata") %>%
+  separate(strata, into = c("type", "name"), sep = "-", remove = TRUE) %>%
+  saveRDS("viz/popstat.rds")
 
 
-group_by(name) %>%
-  summarize(
-    cells = n(),
-    rate_total = mean(total, na.rm = TRUE),
-    rate_community_space = mean(community_space, na.rm = TRUE),
-    rate_place_of_worship = mean(place_of_worship, na.rm = TRUE),
-    rate_social_business = mean(social_business, na.rm = TRUE),
-    rate_park = mean(park, na.rm = TRUE)
-  ) %>% collect()
+read_rds("viz/popstat.rds")
 
-grids
+
 
 # TALLY FOR BAR CHART #################################
 library(readr)
