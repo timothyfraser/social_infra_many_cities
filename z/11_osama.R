@@ -8,5 +8,4 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 
-x <- 2
-y <- 3
+
