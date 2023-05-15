@@ -67,7 +67,7 @@ generate = function(data, model){
 # for making a bunch of predictor values we can feed our model
 
 # Take average block
-output_bridging = tibble(
+output_bridging = tibble(type = "Bridging",
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -80,7 +80,7 @@ output_bridging = tibble(
 output_bridging %>% glimpse()
 
 #Lets make some predictions for bonding social capital
-output_bonding = tibble(
+output_bonding = tibble(type = 'Bonding',
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -91,7 +91,7 @@ output_bonding = tibble(
 
 
 #Lets make some predictions for linking social capital
-output_linking = tibble(
+output_linking = tibble(type = "Linking",
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -102,7 +102,7 @@ output_linking = tibble(
 
 
 #Lets make some predictions for total social capital
-output_total = tibble(
+output_total = tibble(type = "Total Social Capital",
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -114,14 +114,21 @@ output_total = tibble(
 #I'm still not sure what the total (x axis) represents
 #I'm also not sure how to change the name of each type of social capital on the legend
 ggplot() +
-  geom_ribbon(data = output_bridging, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper))+
-  geom_ribbon(data = output_bonding, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper))+
-geom_ribbon(data = output_linking, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper))+
-  geom_ribbon(data = output_total, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = 'red'))+
-  labs(Title = 'Social Infra vs. Social Capital',
+  geom_ribbon(data = output_bridging, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Bridging"), alpha = 0.5) +
+  geom_ribbon(data = output_bonding, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Bonding"), alpha = 0.5) +
+  geom_ribbon(data = output_linking, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Linking"), alpha = 0.5) +
+  geom_ribbon(data = output_total, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Total"), alpha = 0.5) +
+  labs(title = 'Social Infra vs. Social Capital',
        x = 'Total',
        y = 'Social Capital Index',
-       fill = 'Type')
+       fill = 'Type') +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 18, face = "bold"),
+        axis.title = element_text(size = 14),
+        axis.text = element_text(size = 12),
+        legend.title = element_text(size = 12),
+        legend.text = element_text(size = 10),
+        legend.position = "top")
 
 #The visualization shows a very strong connection between bridging social capital and
 #social infrastructure
