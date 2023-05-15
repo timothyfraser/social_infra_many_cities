@@ -67,7 +67,7 @@ generate = function(data, model){
 # for making a bunch of predictor values we can feed our model
 
 # Take average block
-output_bridging = tibble(type = "Bridging",
+output_bridging = tibble(
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -80,7 +80,7 @@ output_bridging = tibble(type = "Bridging",
 output_bridging %>% glimpse()
 
 #Lets make some predictions for bonding social capital
-output_bonding = tibble(type = 'Bonding',
+output_bonding = tibble(
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -91,7 +91,7 @@ output_bonding = tibble(type = 'Bonding',
 
 
 #Lets make some predictions for linking social capital
-output_linking = tibble(type = "Linking",
+output_linking = tibble(
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -102,7 +102,7 @@ output_linking = tibble(type = "Linking",
 
 
 #Lets make some predictions for total social capital
-output_total = tibble(type = "Total Social Capital",
+output_total = tibble(
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
@@ -216,7 +216,7 @@ ggplot() +
   # Change theme!
   theme_classic(base_size = 14) +
   # Change labels!
-  labs(x = "x", y  = "y", fill = "fill", title = "Stuff", caption = "More stuff", subtitle = "So cool!") +
+  labs(x = "Total", y  = "Social Capital Index", fill = "Type", title = "Social Infra Type vs. SC") +
   theme(
     # Get rid of ticks
     axis.ticks = element_blank(),
