@@ -230,3 +230,48 @@ ggplot() +
     legend.position = "bottom"
   )
 
+###############################################
+# 3. Hypothesis Four Visualization
+###############################################
+
+#Creating a dataframe holding information pertaining to hypothesis 4.
+df2 <- data.frame(types = c('Community Spaces', 'Places of Worship', 'Social Bussinesses', 'Parks'),
+                  bonding_effects = m$subtypes$bonding$coefficients[2:5],
+                 bridging_effects = m$subtypes$bridging$coefficients[2:5])
+
+ggplot(df2, aes(x = types)) +
+  geom_bar(aes(y = bonding_effects), stat = 'identity', fill = 'red') +
+  geom_bar(aes(y = bridging_effects), stat = 'identity', fill = 'green') +
+  labs(title = 'Bonding and Bridging Effects',
+       x = 'Types',
+       y = 'Effects',
+       fill = 'Effect Type') +
+  theme_minimal()+
+  coord_flip()+
+  theme(legend.position = "bottom")
+
+#I want to change the placement of the axis to make it apparent that some effects
+#are negative
+
+###############################################
+# 4. Clustering/Scatterplot Example
+###############################################
+output3 = output2 %>%
+  # Give each prediction a unique ID
+  mutate(id = 1:n()) %>%
+  # For each prediction,
+  group_by(id, type, x) %>%
+  # Let's get 1000 random draws from that
+  # a normal distribution centered on the original prediction,
+  # with standard deviation matching that standard error!
+  summarize(
+    ysim = rnorm(1000, mean = yhat, sd = se)
+  )
+
+# Or mix and match!
+ggplot() +
+  geom_jitter(data = output3 %>% filter(type == "Total"),
+              mapping = aes(x = x, y = ysim, color = x)) +
+  geom_violin(data = output3 %>% filter(type == "Total"),
+              mapping = aes(x =x, y= ysim, group = x, color = x),
+              fill = "white", alpha = 0.5, linewidth = 1.5)
