@@ -67,23 +67,116 @@ generate = function(data, model){
 # Now, we can use avgblock as a building block *pun intended*
 # for making a bunch of predictor values we can feed our model
 
+
+
+# Now, we can use avgblock as a building block *pun intended*
+# for making a bunch of predictor values we can feed our model
+
 # Take average block
-output = tibble(
+output_bridging = tibble(
   # Make a column you want to vary...
   total = c(0,1,2,3),
   # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
   avg_block
 ) %>%
   # Then pipe in the model of choice
-  generate(model = m$total$bridging)
+  generate(model = m$total$bridging) %>%
+  mutate(label = round(yhat, 3))
 
 # Let's check the output, by tilting it on its head for easier viewing
-output %>% glimpse()
+output_bridging %>% glimpse()
+
+#Lets make some predictions for bonding social capital
+output_bonding = tibble(
+  # Make a column you want to vary...
+  total = c(0,1,2,3),
+  # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
+  avg_block
+) %>%
+  # Predictions for linking
+  generate(model = m$total$bonding) %>%
+  mutate(label = round(yhat, 3))
 
 
-ggplot() +
-  geom_ribbon(data = output, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper))
+#Lets make some predictions for linking social capital
+output_linking = tibble(
+  # Make a column you want to vary...
+  total = c(0,1,2,3),
+  # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
+  avg_block
+) %>%
+  # Predictions for linking
+  generate(model = m$total$linking) %>%
+  mutate(label = round(yhat, 3))
 
+
+#Lets make some predictions for total social capital
+output_total = tibble(
+  # Make a column you want to vary...
+  total = c(0,1,2,3),
+  # Then add a 1-row data.frame with with no overlapping names to fill in for as many cells as in `total`
+  avg_block
+) %>%
+  # Predictions for linking
+  generate(model = m$total$social_capital) %>%
+  mutate(label = round(yhat, 3))
+
+
+#I'm still not sure what the total (x axis) represents
+#I'm also not sure how to change the name of each type of social capital on the legend
+gg = ggplot() +
+  geom_ribbon(data = output_bridging,
+              mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Bridging", color = "Bridging"),
+              alpha = 0.75, linewidth = 1, color = "#373737") +
+  geom_ribbon(data = output_bonding,
+              mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Bonding", color = "Bonding"),
+              alpha = 0.5) +
+  geom_ribbon(data = output_linking,
+              mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Linking", color = 'Linking'), alpha = 0.5) +
+  geom_ribbon(data = output_total,
+              mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Overall", color = 'Overall'), alpha = 0.5) +
+  shadowtext::geom_shadowtext(
+    data = output_bridging,
+    mapping = aes(x = total, y = yhat, label = label),
+    color = "#373737", bg.color = "white", bg.r = 0.2) +
+  shadowtext::geom_shadowtext(
+    data = output_bonding,
+    mapping = aes(x = total, y = yhat, label = label),
+    color = "darkgrey", bg.color = "white", bg.r = 0.2) +
+  shadowtext::geom_shadowtext(
+    data = output_linking,
+    mapping = aes(x = total, y = yhat, label = label),
+    color = "darkgrey", bg.color = "white", bg.r = 0.2) +
+  shadowtext::geom_shadowtext(
+    data = output_total,
+    mapping = aes(x = total, y = yhat, label = label),
+    color = "darkgrey", bg.color = "white", bg.r = 0.2) +
+
+  scale_fill_manual(
+    values = c("#785EF0", "#DC267F", "#FE6100", "#FFB000"),
+    breaks = c("Overall", "Bonding", "Bridging", "Linking"),
+    name = "Type of Social Capital") +
+  scale_color_manual(
+    values = c("#785EF0", "#DC267F", "#FE6100", "#FFB000"),
+    breaks = c("Overall", "Bonding", "Bridging", "Linking"),
+    guide = "none") +
+
+  labs(title = 'Projected Change in Social Capital \n given Investment in Social Infrastructure',
+       x = 'Rate of Total Social Infrastructure (per 1000 residents per 1 sq.km.)',
+       y = 'Predicted Social Capital Index (0 - 1)\nwith 95% Confidence Interval',
+       fill = 'Type') +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 18, face = "bold", hjust = 0.5),
+        axis.title = element_text(size = 14),
+        axis.text = element_text(size = 12),
+        panel.grid.minor = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.border = element_rect(fill = NA, color = "#373737"),
+        legend.title = element_text(size = 12),
+        legend.text = element_text(size = 10),
+        legend.position = "bottom")
+
+ggsave(gg, filename = "viz/predictions.png", dpi = 500, width = 6.5, height= 6)
 
 ###############################################
 # 2. Complex Example
@@ -222,7 +315,116 @@ ggplot() +
 
 # Go wild!
 
+####################################################
+# 4. Beta Coefficients
+###############################################
 
+
+library(ggplot2)
+library(broom)
+library(dplyr)
+
+#Creating a dataframe holding information pertaining to hypothesis 4.
+df2 <- data.frame(types = c('Community Spaces', 'Places of Worship', 'Social Businesses', 'Parks'),
+                  bonding_effects = m$subtypes$bonding$coefficients[2:5],
+                  bridging_effects = m$subtypes$bridging$coefficients[2:5]) %>%
+  mutate(bonding_labels = round(bonding_effects, digits = 3),
+         bridging_labels = round(bridging_effects, digits = 3))
+
+gg = ggplot(df2, aes(x = types)) +
+  geom_bar(mapping = aes(y = bonding_effects, fill = "Bonding"), stat = 'identity') +
+  geom_bar(mapping = aes(y = bridging_effects, fill = "Bridging"), stat = 'identity') +
+  geom_text(mapping = aes(y = bonding_effects, label = bonding_labels), hjust = 1) +
+  geom_text(mapping = aes(y = bridging_effects, label = bridging_labels), hjust = 0) +
+
+  labs(title = 'Associations of Bonding and Bridging Social Capital with Social Infrastructure',
+       x = 'Types',
+       y = 'Association (Beta) with (Logged) Rate of Social Infrastructure',
+       fill = 'Type of Social Capital') +
+  theme_minimal() +
+  theme(
+    legend.position = "bottom",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_blank(),
+    panel.border = element_rect(fill = NA, color = "#373737")) +
+  scale_fill_manual(values = c("#DC267F", "#648FFF"), breaks = c("Bonding", "Bridging"),
+                    labels = c("Bonding\nSocial Capital", "Bridging\nSocial Capital")) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 1) +
+  scale_y_continuous(expand = expansion(add = c(0.003, 0.003))) +
+  coord_flip()
+
+
+ggsave(plot = gg, filename = "viz/beta_plot.png", dpi = 500, width = 8, height = 6)
+
+# After wrapping up this paper. would you want to...
+
+# 1. Work on an Evacuation related project this summer?
+
+# 2. Work on an Evacuation related project this fall?
+
+# 3. Work on an Emissions related project (same)
+
+# 4. Work on your own research project with some guidance
+
+# 5. Go forth and be merry and do your own thing?
+
+
+
+
+
+
+
+
+
+
+df3 = bind_rows(
+  m$subtypes$bonding %>% tidy() %>% mutate(group = "Bonding"),
+  m$subtypes$bridging %>% tidy() %>% mutate(group = "Bridging")
+) %>%
+  # Filter to just variables containing these terms
+  filter(stringr::str_detect(term, "community_space|place_of_worship|social_business|park")) %>%
+  # Recode term
+  mutate(term = term %>% dplyr::recode_factor(
+    "log(community_space + 1)" = "Community Spaces",
+    "log(place_of_worship + 1)" = "Places of Worship",
+    "log(social_business + 1)" = "Social Businesses",
+    "log(park + 1)" = "Parks")) %>%
+  # Get significance
+  mutate(significance = gtools::stars.pval(p.value)) %>%
+  mutate(label = paste0(round(estimate, 3), significance))
+
+ggplot() +
+  geom_bar(
+    data = df3 %>% filter(group == "Bonding"),
+    mapping = aes(x = term, y = estimate, fill = group),
+    stat = "identity") +
+  geom_bar(
+    data = df3 %>% filter(group == "Bridging"),
+    mapping = aes(x = term, y = estimate, fill = group),
+    stat = "identity") +
+  shadowtext::geom_shadowtext(
+    data = df3 %>% filter(group == "Bonding"),
+    mapping = aes(x = term, y = estimate, fill = group, label = label),
+    stat = "identity") +
+  shadowtext::geom_shadowtext(
+    data = df3 %>% filter(group == "Bridging"),
+    mapping = aes(x = term, y = estimate, fill = group, label = label),
+    stat = "identity") +
+  labs(title = 'Bonding and Bridging Effects',
+       x = 'Types',
+       y = 'Association with (Logged) Rate of Social Infrastructure',
+       fill = 'Effect Type') +
+  theme_minimal()+
+  coord_flip()+
+  theme(legend.position = "bottom") +
+  scale_fill_manual(values = c("#DC267F", "#648FFF"),
+                    breaks = c("Bonding", "Bridging"),
+                    labels = c("Bonding\nSocial Capital", "Bridging\nSocial Capital")) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 1)
+
+
+#I want to change the placement of the axis to make it apparent that some effects
+#are negative
 
 ##############################################
 # Z. Other Previous Examples of Bar Charts
@@ -306,4 +508,5 @@ ggplot(
   theme_bw() +
   # add labels!
   labs(x = "Stuff", y= NULL, fill = "NAH")
+
 
