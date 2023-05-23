@@ -118,7 +118,7 @@ ggplot() +
   geom_ribbon(data = output_bonding, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Bonding"), alpha = 0.5) +
   geom_ribbon(data = output_linking, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Linking"), alpha = 0.5) +
   geom_ribbon(data = output_total, mapping = aes(x = total, y = yhat, ymin = lower, ymax = upper, fill = "Total"), alpha = 0.5) +
-  labs(title = 'Social Infra vs. Social Capital',
+  labs(title = 'Social Infrastructure vs. Social Capital',
        x = 'Total',
        y = 'Social Capital Index',
        fill = 'Type') +
@@ -216,7 +216,7 @@ ggplot() +
   # Change theme!
   theme_classic(base_size = 14) +
   # Change labels!
-  labs(x = "Total", y  = "Social Capital Index", fill = "Type", title = "Social Infra Type vs. SC") +
+  labs(x = "Total", y  = "Social Capital Index", fill = "Type", title = "Social Infrastructure Type vs. Social Capital") +
   theme(
     # Get rid of ticks
     axis.ticks = element_blank(),
@@ -229,6 +229,8 @@ ggplot() +
     # Change legend position
     legend.position = "bottom"
   )
+
+
 
 ###############################################
 # 3. Hypothesis Four Visualization
@@ -274,4 +276,8 @@ ggplot() +
               mapping = aes(x = x, y = ysim, color = x)) +
   geom_violin(data = output3 %>% filter(type == "Total"),
               mapping = aes(x =x, y= ysim, group = x, color = x),
-              fill = "white", alpha = 0.5, linewidth = 1.5)
+              fill = "white", alpha = 0.5, linewidth = 1.5)+
+  labs(title = 'Bridging vs. Social Infrastructure',
+       x = 'Total',
+       y = 'Social Capital',
+       fill = 'Type')
