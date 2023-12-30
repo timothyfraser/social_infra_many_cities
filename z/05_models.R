@@ -18,6 +18,12 @@ data("connect")
 geo = connect()
 geo %>% dbListTables()
 
+# geo %>%
+#   tbl("data_grid") %>%
+#   filter(name == "atlanta")
+
+sort(meta$top)
+
 original = geo %>%
   tbl("data_grid") %>%
   filter(name %in% !!meta$top) %>%
@@ -29,6 +35,8 @@ original = geo %>%
          some_college_bg, over_65_bg, unemployment_bg) %>%
   mutate(nonwhite_block = 1 - white_block) %>%
   na.omit()
+
+
 
 .vars = c("pop_density_block", "median_household_income_bg", "some_college_bg", "nonwhite_block")
 
@@ -296,6 +304,9 @@ viz = function(path = "viz/table_main.html", path_fe ="viz/table_fe.html", stats
 
 }
 
+
+# test = read_rds("viz/models_main.rds") %>%
+#   get_stat()
 # Load in
 read_rds("viz/models_main.rds") %>%
   get_stat() %>%

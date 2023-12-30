@@ -12,15 +12,20 @@ d = read_rds("viz/tally_stat.rds") %>%
     rate == max(rate, na.rm = TRUE) ~ "Highest",
     rate == min(rate, na.rm = TRUE) ~ "Lowest",
     TRUE ~ "Other")) %>%
-  ungroup()
+  ungroup() %>%
+  left_join(by = c("typeid", "name_label"),
+            y = read_rds("viz/popdiff.rds") %>% ungroup() %>%
+  select(name_label, typeid, stars, xbbar))
 
 g1 <- d %>%
-  ggplot(mapping = aes(x = reorder(name_label, -order), y = rate + add, label = label)) +
+  ggplot(mapping = aes(x = reorder(name_label, -order), y = rate + add, label = paste0(label, stars))) +
+  geom_hline(mapping = aes(yintercept = xbbar, group = name_label)) +
   geom_col(mapping = aes(y = rate + add*20), color = NA, fill = NA) +
-  geom_col(mapping = aes(y = rate, fill = highlight)) +
-  ggtext::geom_richtext(mapping = aes(y = rate + add),
-                        hjust = 0,  color = "#373737",
-                        fill = NA, label.color = NA) +
+  geom_col(mapping = aes(y = rate, fill = highlight), alpha = 0.8) +
+  ggtext::geom_richtext(
+    mapping = aes(y = rate + add),
+    hjust = 0,  color = "grey",
+    fill = NA, label.color = NA) +
   facet_grid(cols = vars(type), scales = "free_x") +
   theme_bw(base_size =14) +
   theme(strip.background = element_blank(),
@@ -44,8 +49,13 @@ g1 <- d %>%
   labs(x = NULL, y = "Mean Sites per 10,000 residents, per 1 km<sup>2</sup>",
        subtitle = "Average Rates of Social Infrastructure by City") +
   theme(panel.spacing = unit(0, "cm"), plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
-
-
+g1
 ggsave(g1, filename = "viz/cities_avg_all.png", dpi = 500, width = 10, height = 5.5)
+
+# View file
+rstudioapi::viewer("viz/cities_avg_all.png")
+
+
+
 
 
