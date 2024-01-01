@@ -176,11 +176,27 @@ gg = ggplot() +
         legend.text = element_text(size = 10),
         legend.position = "bottom")
 
-ggsave(gg, filename = "viz/predictions.png", dpi = 500, width = 6.5, height= 6)
+ggsave(gg, filename = "viz/figure_5_predictions.png", dpi = 500, width = 6.5, height= 6)
 
-###############################################
-# 2. Complex Example
-###############################################
+
+# After wrapping up this paper. would you want to...
+
+# 1. Work on an Evacuation related project this summer?
+
+# 2. Work on an Evacuation related project this fall?
+
+# 3. Work on an Emissions related project (same)
+
+# 4. Work on your own research project with some guidance
+
+# 5. Go forth and be merry and do your own thing?
+
+
+library(dplyr)
+library(ggplot2)
+library(viridis)
+
+# 1. Make Grid ############################
 
 # Suppose we try one with the subtypes:
 
@@ -238,16 +254,18 @@ output2 = bind_rows(
     select(type, x = social_business, yhat, se, lower, upper)
 )
 
+# First Try ############################################
+
 # A real snazzy - but still incomplete - visual
 ggplot() +
   geom_ribbon(
     data = output2,
     mapping = aes(x = x, y = yhat, ymin = lower, ymax = upper, fill = type),
     # outline color
-      color = "black",
+    color = "black",
     # transparency
     alpha = 0.5
-    ) +
+  ) +
   # Change colors!
   scale_fill_manual(
     # Change order of labels
@@ -273,12 +291,10 @@ ggplot() +
     plot.title = element_text(hjust = 0.5),
     # Change legend position
     legend.position = "bottom"
-    )
+  )
 
 
-###############################################
-# 3. Bonkers Example
-###############################################
+# 3. Simulated Visual ############################
 
 output3 = output2 %>%
   # Give each prediction a unique ID
@@ -312,63 +328,6 @@ ggplot() +
   geom_violin(data = output3 %>% filter(type == "Total"),
               mapping = aes(x =x, y= ysim, group = x, color = x),
               fill = "white", alpha = 0.5, linewidth = 1.5)
-
-# Go wild!
-
-####################################################
-# 4. Beta Coefficients
-###############################################
-
-
-library(ggplot2)
-library(broom)
-library(dplyr)
-
-#Creating a dataframe holding information pertaining to hypothesis 4.
-df2 <- data.frame(types = c('Community Spaces', 'Places of Worship', 'Social Businesses', 'Parks'),
-                  bonding_effects = m$subtypes$bonding$coefficients[2:5],
-                  bridging_effects = m$subtypes$bridging$coefficients[2:5]) %>%
-  mutate(bonding_labels = round(bonding_effects, digits = 3),
-         bridging_labels = round(bridging_effects, digits = 3))
-
-gg = ggplot(df2, aes(x = types)) +
-  geom_bar(mapping = aes(y = bonding_effects, fill = "Bonding"), stat = 'identity') +
-  geom_bar(mapping = aes(y = bridging_effects, fill = "Bridging"), stat = 'identity') +
-  geom_text(mapping = aes(y = bonding_effects, label = bonding_labels), hjust = 1) +
-  geom_text(mapping = aes(y = bridging_effects, label = bridging_labels), hjust = 0) +
-
-  labs(title = 'Associations of Bonding and Bridging Social Capital with Social Infrastructure',
-       x = 'Types',
-       y = 'Association (Beta) with (Logged) Rate of Social Infrastructure',
-       fill = 'Type of Social Capital') +
-  theme_minimal() +
-  theme(
-    legend.position = "bottom",
-    panel.grid.minor = element_blank(),
-    panel.grid.major.y = element_blank(),
-    panel.border = element_rect(fill = NA, color = "#373737")) +
-  scale_fill_manual(values = c("#DC267F", "#648FFF"), breaks = c("Bonding", "Bridging"),
-                    labels = c("Bonding\nSocial Capital", "Bridging\nSocial Capital")) +
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 1) +
-  scale_y_continuous(expand = expansion(add = c(0.003, 0.003))) +
-  coord_flip()
-
-
-ggsave(plot = gg, filename = "viz/beta_plot.png", dpi = 500, width = 8, height = 6)
-
-# After wrapping up this paper. would you want to...
-
-# 1. Work on an Evacuation related project this summer?
-
-# 2. Work on an Evacuation related project this fall?
-
-# 3. Work on an Emissions related project (same)
-
-# 4. Work on your own research project with some guidance
-
-# 5. Go forth and be merry and do your own thing?
-
-
 
 
 
@@ -426,9 +385,9 @@ ggplot() +
 #I want to change the placement of the axis to make it apparent that some effects
 #are negative
 
-##############################################
-# Z. Other Previous Examples of Bar Charts
-##############################################
+
+
+# Z. Other Previous Examples of Bar Charts #########################
 # packages
 # .rds
 # tidyverse!

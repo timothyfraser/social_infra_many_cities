@@ -1,3 +1,7 @@
+#' @name 09_figure_4.R
+#' @title BARS
+#' @author Tim Fraser
+
 ## Bars
 
 library(dplyr)

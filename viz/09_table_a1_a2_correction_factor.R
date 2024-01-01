@@ -180,7 +180,7 @@ bind_rows(
   mutate(rsq = scales::number(rsq, accuracy = 0.01)) %>%
   pivot_wider(id_cols = model, names_from = trans, values_from = rsq) %>%
   arrange(model) %>%
-  write_csv("viz/table_correction_model_comparison.csv")
+  write_csv("viz/table_a1_correction_model_comparison.csv")
 
 
 
@@ -324,7 +324,7 @@ kable(table, format = "html", caption = "Table X: Ordinary Least Squares Models 
       "<b>Covariates:</b> Sourced from 2020 Decennial Census estimates, at lowest level possible per variable. Calculated as the median value among blocks/block groups overlapping each grid cell.",
       " Covariates derived from Block-level include Pop Density & % Nonwhite; from Block Group-level include % Some College & Income."),
     escape = FALSE) %>%
-  cat(file = "viz/table_correction.html", sep = "\n")
+  cat(file = "viz/table_a2_correction.html", sep = "\n")
 
 
-browseURL("viz/table_correction.html")
+browseURL("viz/table_a2_correction.html")

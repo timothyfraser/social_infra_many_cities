@@ -1,4 +1,5 @@
-#' @name `external_validity.R`
+#' @name `09_figure_2.R`
+#' @title external validity comparisons
 #' @description Tests of external validity for Boston case.
 #'
 

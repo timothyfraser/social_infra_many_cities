@@ -1,5 +1,7 @@
-#' @name `05_missing_maps.R`
-#'
+# FIGURE A1: MAP OF MISSING DATA #########################
+
+#' @name `09_figure_a1.R`
+#' @title Missing Data Maps
 #' @description Script for making maps of missing data.
 
 ## Data #########################################
@@ -119,3 +121,4 @@ ggsave(plot = ggall, filename = "viz/missing_map.png", dpi = 200, width = 8, hei
 
 
 rm(list = ls())
+

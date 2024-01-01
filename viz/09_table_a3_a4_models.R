@@ -308,10 +308,13 @@ viz = function(path = "viz/table_main.html", path_fe ="viz/table_fe.html", stats
 # test = read_rds("viz/models_main.rds") %>%
 #   get_stat()
 # Load in
+
+# Table A3 ################################
 read_rds("viz/models_main.rds") %>%
   get_stat() %>%
   viz(path = "viz/table_main.html", path_fe = "viz/table_fe.html", stats = .)
 
+# Table A4 ###############################
 read_rds("viz/models_main_adj.rds") %>%
   get_stat() %>%
   viz(path = "viz/table_main_adj.html", path_fe = "viz/table_fe_adj.html", stats = .)

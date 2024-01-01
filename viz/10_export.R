@@ -3,7 +3,6 @@
 
 # 11. Export
 
-```{r, message=FALSE, warning = FALSE}
 dir.create("export")
 #https://spatialreference.org/ref/epsg/wgs-84/
 wgs <- "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
@@ -47,7 +46,7 @@ read_sf("all/tracts.geojson") %>%
   st_transform(crs = wgs) %>%
   st_write("export/sci_tracts.shp",  layer="sci_tracts",
            driver="ESRI Shapefile", delete_dsn = TRUE)
-```
+
 
 # 10. Extensions
 
