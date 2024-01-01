@@ -63,7 +63,18 @@ grid = read_sf("search/all/tally1km.geojson") %>%
     by = c("name", "cell"),
     y = original)
 
+
 bounds = read_sf("search/all/bounds.geojson")
+
+# Fix the cropping on these shapes, to make clearer visuals.
+
+# San Francisco Crop
+cropbox = c("xmin" = -122.55, "xmax" = -122.3276, "ymin" = 37.69274, "ymax" = 37.85) %>% st_bbox()
+
+bounds = bind_rows(
+  bounds %>% filter(name != "san_francisco"),
+  bounds %>% filter(name == "san_francisco") %>% st_crop(cropbox)
+)
 
 # Load Packages
 library(sf)
@@ -117,7 +128,7 @@ ggall =  ggpubr::ggarrange(
   legend = "bottom",
   common.legend = TRUE)
 
-ggsave(plot = ggall, filename = "viz/missing_map.png", dpi = 200, width = 8, height = 9)
+ggsave(plot = ggall, filename = "viz/figure_a1_missing_map.png", dpi = 200, width = 8, height = 9)
 
 
 rm(list = ls())
