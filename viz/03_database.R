@@ -177,18 +177,34 @@ geo %>%
   tbl("tracts") %>%
   select(geoid, name, area_land) %>%
   collect() %>%
-  # Now join in the block group data
-  left_join(
-    by = "geoid",
-    y = read_rds("census/tract_data.rds")) %>%
-  # Calculate population density, while you're at it.
-  mutate(pop_density = pop / (area_land / (1000^2) ) ) %>%
+  mutate(area = area_land / (1000^2)) %>%
+  # join in census variables by geoid
+  inner_join(by = "geoid", y = read_rds("census/tract_data.rds")) %>%
+  # Calculate population density
+  mutate(pop_density = pop / area) %>%
   # And write it to file.
   dbWriteTable(
     conn = geo, name = "tract_data",
     value = .,
     delete_layer = TRUE,
     overwrite = TRUE, append = FALSE)
+
+# geo %>%
+#   tbl("tracts") %>%
+#   select(geoid, name, area_land) %>%
+#   collect() %>%
+#   # Now join in the block group data
+#   left_join(
+#     by = "geoid",
+#     y = read_rds("census/tract_data.rds")) %>%
+#   # Calculate population density, while you're at it.
+#   mutate(pop_density = pop / (area_land / (1000^2) ) ) %>%
+#   # And write it to file.
+#   dbWriteTable(
+#     conn = geo, name = "tract_data",
+#     value = .,
+#     delete_layer = TRUE,
+#     overwrite = TRUE, append = FALSE)
 
 # geo %>% tbl("tract_data")
 
@@ -240,7 +256,7 @@ meta$cities %>%
   st_write(obj = ., dsn = geo, layer = "sites", delete_layer = TRUE, format = "WKB")
 
 
-# 3. Quantities of Interst #######################################
+# 3. Quantities of Interest #######################################
 
 data("wgs")
 data("aea")
@@ -263,11 +279,18 @@ geo %>% dbListTables()
 #   st_as_sf(crs = 4326) %>%
 #   st_transform(crs = aea)
 
+#' @name tally_it
+#' @description
+#' Super function for tallying up the rate of sites with covariates at a given geographic level.
+#' Supports grid, block, and soon, tract.
 tally_it = function(.name, .type = "grid"){
   # test values
   # .name = "atlanta"
-  # .type = "block"
+  .type = "block"
+  # .type = "tract"
 
+  ## get polygons ###################################
+  # If grid, get grid cells
   if(.type == "grid"){
     # Get grid cells...
     grid = geo %>%
@@ -278,20 +301,20 @@ tally_it = function(.name, .type = "grid"){
       st_as_sf(crs = 4326) %>%
       st_transform(crs = aea)
   }
-
-  # Get blocks...
-  blocks = geo %>%
-    tbl("blocks") %>%
-    filter(name == !!.name, area_land > 0) %>%
-    select(geoid, name, geometry) %>%
-    left_join(by = c("geoid", "name"),
-              y = tbl(geo, "block_data") %>% filter(name == !!.name)) %>%
-    filter(pop_density > 0) %>%
-    collect() %>%
-    wkb_as_sf() %>%
-    st_as_sf(crs = 4326) %>%
-    st_transform(crs = aea)
-
+  if(.type == "block" | .type == "grid"){
+    # Get blocks...
+    blocks = geo %>%
+      tbl("blocks") %>%
+      filter(name == !!.name, area_land > 0) %>%
+      select(geoid, name, geometry) %>%
+      left_join(by = c("geoid", "name"),
+                y = tbl(geo, "block_data") %>% filter(name == !!.name)) %>%
+      filter(pop_density > 0) %>%
+      collect() %>%
+      wkb_as_sf() %>%
+      st_as_sf(crs = 4326) %>%
+      st_transform(crs = aea)
+  }
   if(.type == "grid"){
     # What's the approximate population density in the grid?
     grid_block_traits = grid %>%
@@ -313,7 +336,6 @@ tally_it = function(.name, .type = "grid"){
              units_occupied_block = units_occupied) %>%
       ungroup()
   }
-
   if(.type == "block"){
 
     block_block_traits = blocks %>%
@@ -329,19 +351,19 @@ tally_it = function(.name, .type = "grid"){
              units_occupied_block = units_occupied)
 
   }
-
-  # Get block group traits!
-  bg = geo %>%
-    tbl("bg") %>%
-    filter(name == !!.name, area_land > 0) %>%
-    select(geoid, name, geometry) %>%
-    left_join(by = c("geoid", "name"), y = tbl(geo, "bg_data") %>% filter(name == !!.name)) %>%
-    filter(pop_density > 0) %>%
-    collect() %>%
-    wkb_as_sf() %>%
-    st_as_sf(crs = 4326) %>%
-    st_transform(crs = aea)
-
+  if(.type == "block" | .type == "grid"){
+    # Get block group traits!
+    bg = geo %>%
+      tbl("bg") %>%
+      filter(name == !!.name, area_land > 0) %>%
+      select(geoid, name, geometry) %>%
+      left_join(by = c("geoid", "name"), y = tbl(geo, "bg_data") %>% filter(name == !!.name)) %>%
+      filter(pop_density > 0) %>%
+      collect() %>%
+      wkb_as_sf() %>%
+      st_as_sf(crs = 4326) %>%
+      st_transform(crs = aea)
+  }
   if(.type == "grid"){
     grid_bg_traits = grid %>%
       select(cell, name) %>%
@@ -386,6 +408,35 @@ tally_it = function(.name, .type = "grid"){
       ungroup()
   }
 
+  ### tracts ################################
+
+  if(.type == "tract"){
+    # Get tracts for my city
+    tracts = geo %>%
+      tbl("tracts") %>%
+      filter(name == !!.name) %>%
+      collect()  %>%
+      wkb_as_sf() %>%
+      st_as_sf(crs = 4326) %>%
+      st_transform(crs = aea)
+
+    tract_data = geo %>%
+      tbl("tract_data") %>%
+      filter(name == !!.name) %>%
+      collect()
+
+    # # tract data for my city
+    # tract_data = read_rds("census/tract_data.rds") %>%
+    #   # join in area and name
+    #   inner_join(by = "geoid", y = tracts %>% as_tibble() %>% select(geoid, name, area)) %>%
+    #   # Calculate population density
+    #   mutate(pop_density = pop / area)
+  }
+
+
+
+  ## sites ####################################
+
   # Get Sites...
   sites = geo %>%
     tbl("sites") %>%
@@ -395,6 +446,9 @@ tally_it = function(.name, .type = "grid"){
     st_as_sf(crs = 4326) %>%
     st_transform(crs = aea)
 
+
+  ## tally per polygon #######################
+  ### tally per grid #########################
   if(.type == "grid"){
     # How many points are in the grid?
     grid_site_traits = grid %>%
@@ -407,20 +461,38 @@ tally_it = function(.name, .type = "grid"){
                 park = sum(type == "Park", na.rm = TRUE)) %>%
       ungroup()
   }
-if(.type == "block"){
+  ### tally per block #########################
+  if(.type == "block"){
+    # How many points are in the blcok?
+    block_site_traits = blocks %>%
+      st_join(y = sites %>% select(type), left = TRUE) %>%
+      as_tibble() %>%
+      group_by(name, geoid) %>%
+      summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
+                place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
+                social_business = sum(type == "Social Business", na.rm = TRUE),
+                park = sum(type == "Park", na.rm = TRUE)) %>%
+      ungroup()
 
-  block_site_traits = blocks %>%
-    st_join(y = sites %>% select(type), left = TRUE) %>%
-    as_tibble() %>%
-    group_by(name, geoid) %>%
-    summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
-              place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
-              social_business = sum(type == "Social Business", na.rm = TRUE),
-              park = sum(type == "Park", na.rm = TRUE)) %>%
-    ungroup()
+
+  }
+  ### tally per tract #########################
+  if(.type == "tract"){
+    # How many points are in the tract?
+    tract_site_traits = tracts %>%
+      st_join(y = sites %>% select(type), left = TRUE) %>%
+      as_tibble() %>%
+      group_by(name, geoid) %>%
+      summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
+                place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
+                social_business = sum(type == "Social Business", na.rm = TRUE),
+                park = sum(type == "Park", na.rm = TRUE)) %>%
+      ungroup()
+
+  }
 
 
-}
+
 
   if(.type == "grid"){
     # Join them all together!
@@ -458,6 +530,7 @@ if(.type == "block"){
                delete_layer = FALSE, append = TRUE, format = "WKB")
   }
 
+
   print(.name)
 
   gc()
@@ -480,6 +553,81 @@ for(i in meta$cities){ tally_it(.name = i, .type = "block") }
 
 
 dbDisconnect(geo); rm(list = ls()); gc()
+
+
+## 3.3 Get Tally by Tract #############################
+
+tally_it_tract = function(.name = "atlanta"){
+
+  geo = connect()
+
+  # Get tracts for my city
+  tracts = geo %>%
+    tbl("tracts") %>%
+    filter(name == !!.name) %>%
+    collect()  %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
+
+  tract_data = geo %>%
+    tbl("tract_data") %>%
+    filter(name == !!.name) %>%
+    collect()
+
+  ## sites ####################################
+
+  # Get Sites...
+  sites = geo %>%
+    tbl("sites") %>%
+    filter(name == !!.name) %>%
+    collect() %>%
+    wkb_as_sf() %>%
+    st_as_sf(crs = 4326) %>%
+    st_transform(crs = aea)
+
+  ### tally per tract #########################
+  # How many points are in the tract?
+  tract_site_traits = tracts %>%
+    st_join(y = sites %>% select(type), left = TRUE) %>%
+    as_tibble() %>%
+    group_by(name, geoid) %>%
+    summarize(community_space = sum(type == "Community Space", na.rm = TRUE),
+              place_of_worship = sum(type == "Place of Worship", na.rm = TRUE),
+              social_business = sum(type == "Social Business", na.rm = TRUE),
+              park = sum(type == "Park", na.rm = TRUE)) %>%
+    ungroup()
+
+  output = tracts %>%
+    select(name, geoid, geometry) %>%
+    left_join(by = c("name", "geoid"),
+              y = tract_site_traits) %>%
+    left_join(by = c("name", "geoid"),
+              y = tract_data) %>%
+    mutate(across(.cols = community_space:park, .f = ~.x/pop_density * 1000)) %>%
+    st_transform(crs = 4326)
+
+  output %>%
+    st_write(obj = ., dsn = geo, layer = "tally_tract",
+             delete_layer = FALSE, append = TRUE, format = "WKB")
+
+  print(.name)
+  dbDisconnect(geo)
+}
+
+data("connect"); data("meta"); data("wkb_as_sf"); data("aea")
+#geo = connect()
+#geo %>% dbRemoveTable("tally_tract")
+for(i in meta$cities){ tally_it_tract(.name = i) }
+
+geo %>% tbl("tally_tract") %>% filter(name == "berkeley")
+geo %>% tbl("tally_tract") %>%
+  group_by(name) %>%
+  count()
+
+dbDisconnect(geo); rm(list = ls()); gc()
+
+
 
 
 ## 3.3 Get Social Capital #############################
@@ -514,6 +662,7 @@ dbDisconnect(geo); rm(list = ls())
 
 ## 3.4 Get Dataset ############################################
 
+### by grid ##########################################
 library(sf)
 library(dplyr)
 library(RSQLite)
@@ -592,5 +741,35 @@ geo %>%
            delete_layer = TRUE,format = "WKB")
 
 dbDisconnect(geo); rm(list = ls()); gc()
+
+### by tract ###################################
+
+
+data("meta")
+data("connect")
+geo = connect()
+
+geo %>%
+  tbl("tally_tract") %>%
+  # Join in SCI
+  left_join(by = "geoid", y = geo %>% tbl("sci") %>%
+              filter(year == max(year, na.rm = TRUE)) %>%
+              select(geoid, social_capital, bonding, bridging, linking)) %>%
+  # Calculate rate of total social infrastructure
+  # by summing the rates (they are all normalized by the same population density per tract)
+  mutate(total = community_space + park + social_business + place_of_worship) %>%
+  select(name, geoid, total, community_space:park, pop_density, pop, area, geometry,
+       white, black, asian, hisplat,
+       median_household_income, income_0_60K, some_college, over_65, unemployment,
+       social_capital:linking) %>%
+  collect() %>%
+  # And set NAN to NA
+  mutate(across(.cols = any_of(c("social_capital", "bonding", "bridging", "linking")),
+                .f = ~if_else(is.nan(.x), NA_real_, .x))) %>%
+  st_write(obj = ., dsn = geo, layer = "data_tract",
+           delete_layer = TRUE,format = "WKB")
+
+dbDisconnect(geo); rm(list = ls()); gc()
+
 
 
