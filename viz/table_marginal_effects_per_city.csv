@@ -1,0 +1,501 @@
+Type of Social Capital (SC),Type of Social Infrastructure (SI),City,Baseline SC,Baseline + Effect,Effect,95% CI,Model
+Overall,SI Overall,NYC,0.434,0.452,+0.018***,[0.015 to 0.021],1
+Overall,SI Overall,Houston,0.461,0.461,+0.001 ,[-0.004 to 0.005],1
+Overall,SI Overall,Los Angeles,0.429,0.433,+0.004 ,[-0.001 to 0.009],1
+Overall,SI Overall,Chicago,0.490,0.497,+0.007**,[0.002 to 0.012],1
+Overall,SI Overall,Phoenix,0.448,0.451,+0.004 ,[-0.003 to 0.010],1
+Overall,SI Overall,San Antonio,0.485,0.486,+0.001 ,[-0.006 to 0.009],1
+Overall,SI Overall,Dallas,0.441,0.442,+0.001 ,[-0.006 to 0.008],1
+Overall,SI Overall,San Diego,0.500,0.502,+0.002 ,[-0.005 to 0.009],1
+Overall,SI Overall,Philadelphia,0.508,0.513,+0.005 ,[-0.002 to 0.013],1
+Overall,SI Overall,San Jose,0.463,0.466,+0.003 ,[-0.006 to 0.012],1
+Overall,SI Overall,Columbus,0.560,0.562,+0.002 ,[-0.006 to 0.010],1
+Overall,SI Overall,Fort Worth,0.447,0.449,+0.002 ,[-0.007 to 0.011],1
+Overall,SI Overall,Austin,0.561,0.563,+0.002 ,[-0.007 to 0.011],1
+Overall,SI Overall,Charlotte,0.459,0.460,+0.002 ,[-0.007 to 0.011],1
+Overall,SI Overall,Indianapolis,0.533,0.535,+0.002 ,[-0.007 to 0.011],1
+Overall,SI Overall,Jacksonville,0.531,0.532,+0.001 ,[-0.009 to 0.011],1
+Overall,SI Overall,Oklahoma City,0.542,0.543,+0.001 ,[-0.007 to 0.010],1
+Overall,SI Overall,San Francisco,0.532,0.533,+0.001 ,[-0.008 to 0.011],1
+Overall,SI Overall,Seattle,0.581,0.585,+0.003 ,[-0.007 to 0.013],1
+Overall,SI Overall,Portland,0.532,0.533,+0.001 ,[-0.010 to 0.011],1
+Overall,SI Overall,Boston,0.514,0.517,+0.003 ,[-0.007 to 0.014],1
+Overall,SI Overall,El Paso,0.463,0.462,0.000 ,[-0.013 to 0.011],1
+Overall,SI Overall,Denver,0.573,0.574,+0.001 ,[-0.009 to 0.012],1
+Overall,SI Overall,Washington DC,0.625,0.625,0.000 ,[-0.009 to 0.010],1
+Overall,SI Overall,Nashville,0.556,0.558,+0.002 ,[-0.009 to 0.012],1
+Bonding,SI Overall,NYC,0.445,0.444,-0.001 ,[-0.004 to 0.002],3
+Bonding,SI Overall,Houston,0.476,0.474,-0.002 ,[-0.008 to 0.003],3
+Bonding,SI Overall,Los Angeles,0.439,0.435,-0.004 ,[-0.009 to 0.001],3
+Bonding,SI Overall,Chicago,0.506,0.504,-0.002 ,[-0.007 to 0.003],3
+Bonding,SI Overall,Phoenix,0.490,0.488,-0.002 ,[-0.010 to 0.006],3
+Bonding,SI Overall,San Antonio,0.490,0.486,-0.003 ,[-0.012 to 0.005],3
+Bonding,SI Overall,Dallas,0.470,0.467,-0.002 ,[-0.010 to 0.005],3
+Bonding,SI Overall,San Diego,0.483,0.482,-0.002 ,[-0.010 to 0.007],3
+Bonding,SI Overall,Philadelphia,0.518,0.514,-0.004 ,[-0.012 to 0.004],3
+Bonding,SI Overall,San Jose,0.443,0.441,-0.002 ,[-0.012 to 0.008],3
+Bonding,SI Overall,Columbus,0.557,0.555,-0.002 ,[-0.010 to 0.008],3
+Bonding,SI Overall,Fort Worth,0.506,0.504,-0.002 ,[-0.012 to 0.009],3
+Bonding,SI Overall,Austin,0.478,0.477,-0.001 ,[-0.011 to 0.009],3
+Bonding,SI Overall,Charlotte,0.507,0.506,0.000 ,[-0.011 to 0.010],3
+Bonding,SI Overall,Indianapolis,0.535,0.535,-0.001 ,[-0.010 to 0.009],3
+Bonding,SI Overall,Jacksonville,0.534,0.533,-0.001 ,[-0.012 to 0.010],3
+Bonding,SI Overall,Oklahoma City,0.525,0.523,-0.002 ,[-0.011 to 0.008],3
+Bonding,SI Overall,San Francisco,0.424,0.421,-0.003 ,[-0.013 to 0.008],3
+Bonding,SI Overall,Seattle,0.489,0.487,-0.002 ,[-0.013 to 0.010],3
+Bonding,SI Overall,Portland,0.508,0.506,-0.002 ,[-0.014 to 0.010],3
+Bonding,SI Overall,Boston,0.453,0.453,0.000 ,[-0.011 to 0.011],3
+Bonding,SI Overall,El Paso,0.482,0.478,-0.004 ,[-0.017 to 0.009],3
+Bonding,SI Overall,Denver,0.488,0.486,-0.002 ,[-0.014 to 0.010],3
+Bonding,SI Overall,Washington DC,0.505,0.504,-0.002 ,[-0.012 to 0.010],3
+Bonding,SI Overall,Nashville,0.519,0.519,0.000 ,[-0.013 to 0.012],3
+Bridging,SI Overall,NYC,0.286,0.329,+0.043***,[0.036 to 0.050],5
+Bridging,SI Overall,Houston,0.452,0.456,+0.003 ,[-0.009 to 0.015],5
+Bridging,SI Overall,Los Angeles,0.318,0.341,+0.023***,[0.013 to 0.034],5
+Bridging,SI Overall,Chicago,0.377,0.397,+0.020***,[0.009 to 0.031],5
+Bridging,SI Overall,Phoenix,0.397,0.409,+0.011 ,[-0.006 to 0.030],5
+Bridging,SI Overall,San Antonio,0.385,0.393,+0.008 ,[-0.011 to 0.027],5
+Bridging,SI Overall,Dallas,0.375,0.383,+0.008 ,[-0.008 to 0.025],5
+Bridging,SI Overall,San Diego,0.418,0.428,+0.010 ,[-0.007 to 0.027],5
+Bridging,SI Overall,Philadelphia,0.447,0.466,+0.019*,[0.001 to 0.037],5
+Bridging,SI Overall,San Jose,0.360,0.370,+0.010 ,[-0.012 to 0.030],5
+Bridging,SI Overall,Columbus,0.590,0.604,+0.014 ,[-0.006 to 0.034],5
+Bridging,SI Overall,Fort Worth,0.382,0.389,+0.007 ,[-0.016 to 0.029],5
+Bridging,SI Overall,Austin,0.664,0.670,+0.006 ,[-0.017 to 0.025],5
+Bridging,SI Overall,Charlotte,0.414,0.419,+0.005 ,[-0.017 to 0.027],5
+Bridging,SI Overall,Indianapolis,0.527,0.533,+0.006 ,[-0.017 to 0.029],5
+Bridging,SI Overall,Jacksonville,0.479,0.483,+0.004 ,[-0.020 to 0.030],5
+Bridging,SI Overall,Oklahoma City,0.485,0.490,+0.005 ,[-0.018 to 0.029],5
+Bridging,SI Overall,San Francisco,0.533,0.545,+0.011 ,[-0.013 to 0.036],5
+Bridging,SI Overall,Seattle,0.600,0.613,+0.012 ,[-0.013 to 0.038],5
+Bridging,SI Overall,Portland,0.540,0.548,+0.008 ,[-0.017 to 0.033],5
+Bridging,SI Overall,Boston,0.580,0.585,+0.005 ,[-0.020 to 0.028],5
+Bridging,SI Overall,El Paso,0.327,0.333,+0.006 ,[-0.019 to 0.032],5
+Bridging,SI Overall,Denver,0.546,0.557,+0.010 ,[-0.017 to 0.038],5
+Bridging,SI Overall,Washington DC,0.643,0.648,+0.004 ,[-0.019 to 0.028],5
+Bridging,SI Overall,Nashville,0.552,0.556,+0.003 ,[-0.024 to 0.032],5
+Linking,SI Overall,NYC,0.566,0.574,+0.008*,[0.001 to 0.013],7
+Linking,SI Overall,Houston,0.453,0.455,+0.002 ,[-0.008 to 0.011],7
+Linking,SI Overall,Los Angeles,0.520,0.515,-0.005 ,[-0.014 to 0.004],7
+Linking,SI Overall,Chicago,0.590,0.591,+0.001 ,[-0.009 to 0.011],7
+Linking,SI Overall,Phoenix,0.460,0.460,0.000 ,[-0.015 to 0.015],7
+Linking,SI Overall,San Antonio,0.579,0.578,0.000 ,[-0.015 to 0.014],7
+Linking,SI Overall,Dallas,0.482,0.483,0.000 ,[-0.014 to 0.013],7
+Linking,SI Overall,San Diego,0.600,0.598,-0.003 ,[-0.018 to 0.013],7
+Linking,SI Overall,Philadelphia,0.562,0.563,0.000 ,[-0.015 to 0.015],7
+Linking,SI Overall,San Jose,0.587,0.588,+0.001 ,[-0.018 to 0.019],7
+Linking,SI Overall,Columbus,0.542,0.540,-0.002 ,[-0.020 to 0.018],7
+Linking,SI Overall,Fort Worth,0.455,0.456,+0.001 ,[-0.017 to 0.021],7
+Linking,SI Overall,Austin,0.536,0.537,+0.001 ,[-0.017 to 0.019],7
+Linking,SI Overall,Charlotte,0.458,0.458,+0.001 ,[-0.018 to 0.019],7
+Linking,SI Overall,Indianapolis,0.533,0.534,+0.002 ,[-0.018 to 0.020],7
+Linking,SI Overall,Jacksonville,0.580,0.580,-0.001 ,[-0.021 to 0.021],7
+Linking,SI Overall,Oklahoma City,0.617,0.617,-0.001 ,[-0.019 to 0.018],7
+Linking,SI Overall,San Francisco,0.638,0.638,0.000 ,[-0.019 to 0.018],7
+Linking,SI Overall,Seattle,0.649,0.648,-0.001 ,[-0.020 to 0.019],7
+Linking,SI Overall,Portland,0.545,0.544,-0.001 ,[-0.024 to 0.021],7
+Linking,SI Overall,Boston,0.511,0.513,+0.002 ,[-0.019 to 0.023],7
+Linking,SI Overall,El Paso,0.576,0.574,-0.001 ,[-0.025 to 0.024],7
+Linking,SI Overall,Denver,0.681,0.679,-0.003 ,[-0.023 to 0.018],7
+Linking,SI Overall,Washington DC,0.728,0.726,-0.002 ,[-0.019 to 0.015],7
+Linking,SI Overall,Nashville,0.599,0.600,+0.001 ,[-0.020 to 0.023],7
+Overall,Community Spaces,NYC,0.443,0.457,+0.013***,[0.010 to 0.016],2
+Overall,Community Spaces,Houston,0.462,0.464,+0.002 ,[-0.003 to 0.007],2
+Overall,Community Spaces,Los Angeles,0.430,0.432,+0.002 ,[-0.002 to 0.007],2
+Overall,Community Spaces,Chicago,0.490,0.504,+0.014***,[0.009 to 0.019],2
+Overall,Community Spaces,Phoenix,0.447,0.457,+0.010**,[0.003 to 0.016],2
+Overall,Community Spaces,San Antonio,0.486,0.493,+0.007.,[-0.001 to 0.015],2
+Overall,Community Spaces,Dallas,0.441,0.441,0.000 ,[-0.007 to 0.007],2
+Overall,Community Spaces,San Diego,0.499,0.500,0.000 ,[-0.008 to 0.008],2
+Overall,Community Spaces,Philadelphia,0.509,0.518,+0.009*,[0.001 to 0.017],2
+Overall,Community Spaces,San Jose,0.463,0.465,+0.001 ,[-0.007 to 0.011],2
+Overall,Community Spaces,Columbus,0.560,0.563,+0.004 ,[-0.004 to 0.012],2
+Overall,Community Spaces,Fort Worth,0.444,0.444,0.000 ,[-0.009 to 0.009],2
+Overall,Community Spaces,Austin,0.561,0.570,+0.009.,[-0.001 to 0.018],2
+Overall,Community Spaces,Charlotte,0.459,0.462,+0.004 ,[-0.005 to 0.013],2
+Overall,Community Spaces,Indianapolis,0.532,0.539,+0.008.,[-0.002 to 0.016],2
+Overall,Community Spaces,Jacksonville,0.532,0.538,+0.006 ,[-0.003 to 0.016],2
+Overall,Community Spaces,Oklahoma City,0.542,0.545,+0.003 ,[-0.005 to 0.012],2
+Overall,Community Spaces,San Francisco,0.532,0.535,+0.003 ,[-0.006 to 0.012],2
+Overall,Community Spaces,Seattle,0.581,0.585,+0.004 ,[-0.006 to 0.014],2
+Overall,Community Spaces,Portland,0.531,0.531,0.000 ,[-0.010 to 0.011],2
+Overall,Community Spaces,Boston,0.517,0.520,+0.003 ,[-0.008 to 0.014],2
+Overall,Community Spaces,El Paso,0.460,0.460,0.000 ,[-0.012 to 0.011],2
+Overall,Community Spaces,Denver,0.572,0.577,+0.004 ,[-0.006 to 0.015],2
+Overall,Community Spaces,Washington DC,0.631,0.632,+0.001 ,[-0.008 to 0.010],2
+Overall,Community Spaces,Nashville,0.554,0.559,+0.005 ,[-0.005 to 0.016],2
+Bonding,Community Spaces,NYC,0.445,0.447,+0.002 ,[-0.001 to 0.005],4
+Bonding,Community Spaces,Houston,0.478,0.478,0.000 ,[-0.006 to 0.005],4
+Bonding,Community Spaces,Los Angeles,0.440,0.442,+0.002 ,[-0.003 to 0.006],4
+Bonding,Community Spaces,Chicago,0.512,0.520,+0.008***,[0.003 to 0.013],4
+Bonding,Community Spaces,Phoenix,0.490,0.489,-0.001 ,[-0.009 to 0.006],4
+Bonding,Community Spaces,San Antonio,0.498,0.497,-0.001 ,[-0.010 to 0.007],4
+Bonding,Community Spaces,Dallas,0.469,0.468,-0.001 ,[-0.008 to 0.007],4
+Bonding,Community Spaces,San Diego,0.487,0.487,0.000 ,[-0.009 to 0.008],4
+Bonding,Community Spaces,Philadelphia,0.519,0.521,+0.002 ,[-0.006 to 0.010],4
+Bonding,Community Spaces,San Jose,0.444,0.445,+0.001 ,[-0.009 to 0.011],4
+Bonding,Community Spaces,Columbus,0.560,0.561,+0.001 ,[-0.008 to 0.010],4
+Bonding,Community Spaces,Fort Worth,0.504,0.501,-0.003 ,[-0.013 to 0.008],4
+Bonding,Community Spaces,Austin,0.476,0.474,-0.002 ,[-0.012 to 0.008],4
+Bonding,Community Spaces,Charlotte,0.506,0.506,-0.001 ,[-0.011 to 0.009],4
+Bonding,Community Spaces,Indianapolis,0.537,0.537,0.000 ,[-0.010 to 0.010],4
+Bonding,Community Spaces,Jacksonville,0.538,0.538,0.000 ,[-0.011 to 0.011],4
+Bonding,Community Spaces,Oklahoma City,0.523,0.521,-0.001 ,[-0.012 to 0.008],4
+Bonding,Community Spaces,San Francisco,0.423,0.423,0.000 ,[-0.009 to 0.011],4
+Bonding,Community Spaces,Seattle,0.487,0.485,-0.002 ,[-0.014 to 0.009],4
+Bonding,Community Spaces,Portland,0.509,0.508,-0.001 ,[-0.013 to 0.010],4
+Bonding,Community Spaces,Boston,0.452,0.451,-0.001 ,[-0.012 to 0.009],4
+Bonding,Community Spaces,El Paso,0.486,0.482,-0.005 ,[-0.018 to 0.009],4
+Bonding,Community Spaces,Denver,0.486,0.484,-0.002 ,[-0.014 to 0.011],4
+Bonding,Community Spaces,Washington DC,0.506,0.506,0.000 ,[-0.011 to 0.011],4
+Bonding,Community Spaces,Nashville,0.519,0.520,+0.001 ,[-0.012 to 0.013],4
+Bridging,Community Spaces,NYC,0.307,0.353,+0.046***,[0.039 to 0.053],6
+Bridging,Community Spaces,Houston,0.455,0.460,+0.006 ,[-0.005 to 0.017],6
+Bridging,Community Spaces,Los Angeles,0.324,0.321,-0.003 ,[-0.012 to 0.008],6
+Bridging,Community Spaces,Chicago,0.379,0.420,+0.041***,[0.030 to 0.052],6
+Bridging,Community Spaces,Phoenix,0.396,0.430,+0.034***,[0.018 to 0.051],6
+Bridging,Community Spaces,San Antonio,0.385,0.411,+0.027**,[0.008 to 0.045],6
+Bridging,Community Spaces,Dallas,0.374,0.386,+0.012 ,[-0.005 to 0.028],6
+Bridging,Community Spaces,San Diego,0.415,0.423,+0.007 ,[-0.012 to 0.023],6
+Bridging,Community Spaces,Philadelphia,0.451,0.486,+0.036***,[0.018 to 0.055],6
+Bridging,Community Spaces,San Jose,0.361,0.375,+0.014 ,[-0.006 to 0.036],6
+Bridging,Community Spaces,Columbus,0.590,0.622,+0.032***,[0.012 to 0.053],6
+Bridging,Community Spaces,Fort Worth,0.383,0.401,+0.019.,[-0.003 to 0.039],6
+Bridging,Community Spaces,Austin,0.667,0.691,+0.024*,[0.004 to 0.045],6
+Bridging,Community Spaces,Charlotte,0.415,0.428,+0.012 ,[-0.010 to 0.034],6
+Bridging,Community Spaces,Indianapolis,0.529,0.556,+0.026*,[0.003 to 0.048],6
+Bridging,Community Spaces,Jacksonville,0.485,0.510,+0.024*,[0.001 to 0.047],6
+Bridging,Community Spaces,Oklahoma City,0.487,0.494,+0.006 ,[-0.016 to 0.027],6
+Bridging,Community Spaces,San Francisco,0.537,0.546,+0.009 ,[-0.017 to 0.034],6
+Bridging,Community Spaces,Seattle,0.600,0.625,+0.024*,[0.001 to 0.049],6
+Bridging,Community Spaces,Portland,0.538,0.550,+0.012 ,[-0.014 to 0.039],6
+Bridging,Community Spaces,Boston,0.579,0.593,+0.015 ,[-0.011 to 0.039],6
+Bridging,Community Spaces,El Paso,0.321,0.339,+0.018 ,[-0.008 to 0.044],6
+Bridging,Community Spaces,Denver,0.547,0.578,+0.031*,[0.006 to 0.059],6
+Bridging,Community Spaces,Washington DC,0.655,0.658,+0.003 ,[-0.020 to 0.025],6
+Bridging,Community Spaces,Nashville,0.554,0.570,+0.016 ,[-0.012 to 0.045],6
+Linking,Community Spaces,NYC,0.568,0.563,-0.005 ,[-0.012 to 0.002],8
+Linking,Community Spaces,Houston,0.452,0.452,0.000 ,[-0.008 to 0.010],8
+Linking,Community Spaces,Los Angeles,0.521,0.516,-0.005 ,[-0.014 to 0.005],8
+Linking,Community Spaces,Chicago,0.591,0.585,-0.005 ,[-0.015 to 0.004],8
+Linking,Community Spaces,Phoenix,0.459,0.459,0.000 ,[-0.014 to 0.015],8
+Linking,Community Spaces,San Antonio,0.576,0.569,-0.007 ,[-0.023 to 0.009],8
+Linking,Community Spaces,Dallas,0.482,0.481,-0.001 ,[-0.015 to 0.014],8
+Linking,Community Spaces,San Diego,0.600,0.594,-0.007 ,[-0.022 to 0.008],8
+Linking,Community Spaces,Philadelphia,0.564,0.560,-0.003 ,[-0.019 to 0.012],8
+Linking,Community Spaces,San Jose,0.588,0.583,-0.005 ,[-0.023 to 0.013],8
+Linking,Community Spaces,Columbus,0.541,0.538,-0.004 ,[-0.021 to 0.013],8
+Linking,Community Spaces,Fort Worth,0.454,0.454,0.000 ,[-0.018 to 0.020],8
+Linking,Community Spaces,Austin,0.534,0.531,-0.003 ,[-0.023 to 0.017],8
+Linking,Community Spaces,Charlotte,0.457,0.458,+0.002 ,[-0.017 to 0.022],8
+Linking,Community Spaces,Indianapolis,0.531,0.529,-0.002 ,[-0.020 to 0.017],8
+Linking,Community Spaces,Jacksonville,0.576,0.573,-0.003 ,[-0.025 to 0.019],8
+Linking,Community Spaces,Oklahoma City,0.614,0.609,-0.005 ,[-0.022 to 0.010],8
+Linking,Community Spaces,San Francisco,0.639,0.632,-0.007 ,[-0.025 to 0.012],8
+Linking,Community Spaces,Seattle,0.650,0.642,-0.007 ,[-0.027 to 0.013],8
+Linking,Community Spaces,Portland,0.543,0.541,-0.003 ,[-0.025 to 0.019],8
+Linking,Community Spaces,Boston,0.512,0.511,-0.001 ,[-0.021 to 0.019],8
+Linking,Community Spaces,El Paso,0.573,0.564,-0.008 ,[-0.034 to 0.014],8
+Linking,Community Spaces,Denver,0.681,0.671,-0.010 ,[-0.028 to 0.009],8
+Linking,Community Spaces,Washington DC,0.729,0.719,-0.009 ,[-0.025 to 0.008],8
+Linking,Community Spaces,Nashville,0.597,0.594,-0.003 ,[-0.026 to 0.018],8
+Overall,Places of Worship,NYC,0.444,0.442,-0.001 ,[-0.004 to 0.002],2
+Overall,Places of Worship,Houston,0.462,0.465,+0.003 ,[-0.002 to 0.007],2
+Overall,Places of Worship,Los Angeles,0.430,0.432,+0.002 ,[-0.002 to 0.007],2
+Overall,Places of Worship,Chicago,0.490,0.496,+0.006**,[0.001 to 0.011],2
+Overall,Places of Worship,Phoenix,0.447,0.453,+0.006 ,[-0.001 to 0.012],2
+Overall,Places of Worship,San Antonio,0.486,0.489,+0.003 ,[-0.005 to 0.011],2
+Overall,Places of Worship,Dallas,0.441,0.443,+0.002 ,[-0.005 to 0.009],2
+Overall,Places of Worship,San Diego,0.499,0.498,-0.001 ,[-0.008 to 0.006],2
+Overall,Places of Worship,Philadelphia,0.509,0.512,+0.003 ,[-0.004 to 0.010],2
+Overall,Places of Worship,San Jose,0.463,0.464,0.000 ,[-0.009 to 0.009],2
+Overall,Places of Worship,Columbus,0.560,0.560,0.000 ,[-0.008 to 0.008],2
+Overall,Places of Worship,Fort Worth,0.445,0.445,0.000 ,[-0.008 to 0.009],2
+Overall,Places of Worship,Austin,0.561,0.563,+0.001 ,[-0.007 to 0.010],2
+Overall,Places of Worship,Charlotte,0.459,0.462,+0.003 ,[-0.006 to 0.011],2
+Overall,Places of Worship,Indianapolis,0.532,0.534,+0.002 ,[-0.007 to 0.010],2
+Overall,Places of Worship,Jacksonville,0.532,0.534,+0.002 ,[-0.008 to 0.012],2
+Overall,Places of Worship,Oklahoma City,0.541,0.543,+0.001 ,[-0.007 to 0.010],2
+Overall,Places of Worship,San Francisco,0.532,0.533,+0.001 ,[-0.008 to 0.012],2
+Overall,Places of Worship,Seattle,0.581,0.579,-0.003 ,[-0.012 to 0.008],2
+Overall,Places of Worship,Portland,0.530,0.529,-0.001 ,[-0.011 to 0.010],2
+Overall,Places of Worship,Boston,0.517,0.516,-0.002 ,[-0.012 to 0.009],2
+Overall,Places of Worship,El Paso,0.460,0.459,-0.001 ,[-0.013 to 0.010],2
+Overall,Places of Worship,Denver,0.572,0.572,-0.001 ,[-0.011 to 0.010],2
+Overall,Places of Worship,Washington DC,0.631,0.623,-0.008 ,[-0.017 to 0.002],2
+Overall,Places of Worship,Nashville,0.554,0.555,+0.001 ,[-0.011 to 0.012],2
+Bonding,Places of Worship,NYC,0.445,0.449,+0.004*,[0.000 to 0.007],4
+Bonding,Places of Worship,Houston,0.478,0.476,-0.002 ,[-0.008 to 0.003],4
+Bonding,Places of Worship,Los Angeles,0.441,0.442,+0.001 ,[-0.004 to 0.006],4
+Bonding,Places of Worship,Chicago,0.512,0.529,+0.017***,[0.012 to 0.023],4
+Bonding,Places of Worship,Phoenix,0.490,0.488,-0.002 ,[-0.010 to 0.005],4
+Bonding,Places of Worship,San Antonio,0.498,0.498,0.000 ,[-0.009 to 0.009],4
+Bonding,Places of Worship,Dallas,0.468,0.463,-0.006 ,[-0.014 to 0.002],4
+Bonding,Places of Worship,San Diego,0.487,0.494,+0.006 ,[-0.001 to 0.014],4
+Bonding,Places of Worship,Philadelphia,0.519,0.523,+0.004 ,[-0.005 to 0.012],4
+Bonding,Places of Worship,San Jose,0.445,0.446,+0.002 ,[-0.008 to 0.012],4
+Bonding,Places of Worship,Columbus,0.560,0.562,+0.002 ,[-0.007 to 0.012],4
+Bonding,Places of Worship,Fort Worth,0.504,0.498,-0.005 ,[-0.016 to 0.005],4
+Bonding,Places of Worship,Austin,0.476,0.473,-0.003 ,[-0.013 to 0.007],4
+Bonding,Places of Worship,Charlotte,0.506,0.506,0.000 ,[-0.010 to 0.011],4
+Bonding,Places of Worship,Indianapolis,0.537,0.537,+0.001 ,[-0.009 to 0.011],4
+Bonding,Places of Worship,Jacksonville,0.538,0.539,+0.002 ,[-0.010 to 0.013],4
+Bonding,Places of Worship,Oklahoma City,0.523,0.521,-0.002 ,[-0.012 to 0.009],4
+Bonding,Places of Worship,San Francisco,0.423,0.418,-0.005 ,[-0.016 to 0.005],4
+Bonding,Places of Worship,Seattle,0.487,0.484,-0.004 ,[-0.016 to 0.009],4
+Bonding,Places of Worship,Portland,0.509,0.508,-0.001 ,[-0.013 to 0.011],4
+Bonding,Places of Worship,Boston,0.452,0.445,-0.007 ,[-0.020 to 0.004],4
+Bonding,Places of Worship,El Paso,0.486,0.483,-0.003 ,[-0.016 to 0.010],4
+Bonding,Places of Worship,Denver,0.486,0.480,-0.006 ,[-0.019 to 0.007],4
+Bonding,Places of Worship,Washington DC,0.505,0.505,0.000 ,[-0.011 to 0.011],4
+Bonding,Places of Worship,Nashville,0.519,0.520,0.000 ,[-0.012 to 0.012],4
+Bridging,Places of Worship,NYC,0.307,0.301,-0.006 ,[-0.013 to 0.001],6
+Bridging,Places of Worship,Houston,0.454,0.468,+0.014*,[0.002 to 0.025],6
+Bridging,Places of Worship,Los Angeles,0.324,0.315,-0.009.,[-0.019 to 0.001],6
+Bridging,Places of Worship,Chicago,0.379,0.397,+0.018**,[0.007 to 0.030],6
+Bridging,Places of Worship,Phoenix,0.396,0.413,+0.017*,[0.000 to 0.033],6
+Bridging,Places of Worship,San Antonio,0.385,0.399,+0.015.,[-0.002 to 0.034],6
+Bridging,Places of Worship,Dallas,0.374,0.385,+0.011 ,[-0.006 to 0.029],6
+Bridging,Places of Worship,San Diego,0.416,0.422,+0.007 ,[-0.011 to 0.024],6
+Bridging,Places of Worship,Philadelphia,0.452,0.457,+0.006 ,[-0.012 to 0.024],6
+Bridging,Places of Worship,San Jose,0.360,0.366,+0.005 ,[-0.015 to 0.026],6
+Bridging,Places of Worship,Columbus,0.589,0.590,+0.001 ,[-0.019 to 0.021],6
+Bridging,Places of Worship,Fort Worth,0.382,0.397,+0.015 ,[-0.007 to 0.036],6
+Bridging,Places of Worship,Austin,0.666,0.667,0.000 ,[-0.021 to 0.021],6
+Bridging,Places of Worship,Charlotte,0.415,0.427,+0.012 ,[-0.010 to 0.033],6
+Bridging,Places of Worship,Indianapolis,0.530,0.534,+0.004 ,[-0.019 to 0.028],6
+Bridging,Places of Worship,Jacksonville,0.485,0.495,+0.009 ,[-0.016 to 0.033],6
+Bridging,Places of Worship,Oklahoma City,0.486,0.493,+0.007 ,[-0.015 to 0.029],6
+Bridging,Places of Worship,San Francisco,0.536,0.533,-0.004 ,[-0.028 to 0.021],6
+Bridging,Places of Worship,Seattle,0.600,0.597,-0.003 ,[-0.027 to 0.024],6
+Bridging,Places of Worship,Portland,0.537,0.535,-0.003 ,[-0.029 to 0.025],6
+Bridging,Places of Worship,Boston,0.578,0.584,+0.007 ,[-0.017 to 0.032],6
+Bridging,Places of Worship,El Paso,0.322,0.324,+0.002 ,[-0.023 to 0.027],6
+Bridging,Places of Worship,Denver,0.547,0.558,+0.012 ,[-0.015 to 0.036],6
+Bridging,Places of Worship,Washington DC,0.654,0.612,-0.042***,[-0.067 to -0.017],6
+Bridging,Places of Worship,Nashville,0.553,0.553,0.000 ,[-0.029 to 0.027],6
+Linking,Places of Worship,NYC,0.568,0.569,+0.001 ,[-0.006 to 0.007],8
+Linking,Places of Worship,Houston,0.452,0.451,-0.001 ,[-0.011 to 0.009],8
+Linking,Places of Worship,Los Angeles,0.521,0.521,0.000 ,[-0.010 to 0.008],8
+Linking,Places of Worship,Chicago,0.591,0.591,0.000 ,[-0.009 to 0.010],8
+Linking,Places of Worship,Phoenix,0.459,0.458,-0.001 ,[-0.015 to 0.014],8
+Linking,Places of Worship,San Antonio,0.576,0.577,+0.001 ,[-0.015 to 0.016],8
+Linking,Places of Worship,Dallas,0.482,0.481,-0.001 ,[-0.015 to 0.013],8
+Linking,Places of Worship,San Diego,0.600,0.601,+0.001 ,[-0.013 to 0.016],8
+Linking,Places of Worship,Philadelphia,0.564,0.563,0.000 ,[-0.015 to 0.016],8
+Linking,Places of Worship,San Jose,0.588,0.588,-0.001 ,[-0.017 to 0.018],8
+Linking,Places of Worship,Columbus,0.542,0.541,-0.001 ,[-0.017 to 0.016],8
+Linking,Places of Worship,Fort Worth,0.453,0.452,-0.001 ,[-0.020 to 0.016],8
+Linking,Places of Worship,Austin,0.534,0.535,0.000 ,[-0.019 to 0.020],8
+Linking,Places of Worship,Charlotte,0.456,0.456,-0.001 ,[-0.019 to 0.018],8
+Linking,Places of Worship,Indianapolis,0.531,0.531,0.000 ,[-0.020 to 0.019],8
+Linking,Places of Worship,Jacksonville,0.577,0.576,-0.001 ,[-0.022 to 0.019],8
+Linking,Places of Worship,Oklahoma City,0.614,0.615,+0.001 ,[-0.017 to 0.018],8
+Linking,Places of Worship,San Francisco,0.639,0.640,+0.001 ,[-0.018 to 0.020],8
+Linking,Places of Worship,Seattle,0.649,0.650,+0.001 ,[-0.019 to 0.019],8
+Linking,Places of Worship,Portland,0.544,0.543,0.000 ,[-0.023 to 0.022],8
+Linking,Places of Worship,Boston,0.512,0.512,0.000 ,[-0.021 to 0.021],8
+Linking,Places of Worship,El Paso,0.573,0.575,+0.002 ,[-0.026 to 0.026],8
+Linking,Places of Worship,Denver,0.681,0.682,+0.001 ,[-0.020 to 0.022],8
+Linking,Places of Worship,Washington DC,0.728,0.730,+0.001 ,[-0.015 to 0.019],8
+Linking,Places of Worship,Nashville,0.597,0.597,0.000 ,[-0.022 to 0.023],8
+Overall,Social Businesses,NYC,0.443,0.443,0.000 ,[-0.003 to 0.003],2
+Overall,Social Businesses,Houston,0.462,0.462,0.000 ,[-0.005 to 0.004],2
+Overall,Social Businesses,Los Angeles,0.430,0.430,0.000 ,[-0.004 to 0.004],2
+Overall,Social Businesses,Chicago,0.490,0.490,0.000 ,[-0.005 to 0.005],2
+Overall,Social Businesses,Phoenix,0.447,0.447,0.000 ,[-0.007 to 0.007],2
+Overall,Social Businesses,San Antonio,0.486,0.486,0.000 ,[-0.008 to 0.008],2
+Overall,Social Businesses,Dallas,0.441,0.441,0.000 ,[-0.007 to 0.006],2
+Overall,Social Businesses,San Diego,0.500,0.500,0.000 ,[-0.007 to 0.007],2
+Overall,Social Businesses,Philadelphia,0.509,0.509,0.000 ,[-0.008 to 0.007],2
+Overall,Social Businesses,San Jose,0.463,0.463,0.000 ,[-0.009 to 0.009],2
+Overall,Social Businesses,Columbus,0.559,0.560,0.000 ,[-0.008 to 0.008],2
+Overall,Social Businesses,Fort Worth,0.445,0.444,0.000 ,[-0.009 to 0.009],2
+Overall,Social Businesses,Austin,0.561,0.561,0.000 ,[-0.008 to 0.009],2
+Overall,Social Businesses,Charlotte,0.459,0.459,0.000 ,[-0.009 to 0.009],2
+Overall,Social Businesses,Indianapolis,0.532,0.532,0.000 ,[-0.010 to 0.009],2
+Overall,Social Businesses,Jacksonville,0.532,0.532,0.000 ,[-0.009 to 0.009],2
+Overall,Social Businesses,Oklahoma City,0.542,0.542,0.000 ,[-0.008 to 0.008],2
+Overall,Social Businesses,San Francisco,0.532,0.532,0.000 ,[-0.009 to 0.009],2
+Overall,Social Businesses,Seattle,0.581,0.581,0.000 ,[-0.009 to 0.011],2
+Overall,Social Businesses,Portland,0.530,0.530,0.000 ,[-0.011 to 0.011],2
+Overall,Social Businesses,Boston,0.518,0.517,0.000 ,[-0.010 to 0.009],2
+Overall,Social Businesses,El Paso,0.460,0.460,0.000 ,[-0.012 to 0.012],2
+Overall,Social Businesses,Denver,0.573,0.572,0.000 ,[-0.011 to 0.011],2
+Overall,Social Businesses,Washington DC,0.631,0.631,0.000 ,[-0.010 to 0.010],2
+Overall,Social Businesses,Nashville,0.554,0.554,0.000 ,[-0.011 to 0.011],2
+Bonding,Social Businesses,NYC,0.445,0.445,0.000 ,[-0.004 to 0.003],4
+Bonding,Social Businesses,Houston,0.478,0.478,0.000 ,[-0.005 to 0.005],4
+Bonding,Social Businesses,Los Angeles,0.440,0.440,0.000 ,[-0.005 to 0.005],4
+Bonding,Social Businesses,Chicago,0.512,0.512,0.000 ,[-0.005 to 0.005],4
+Bonding,Social Businesses,Phoenix,0.491,0.491,0.000 ,[-0.008 to 0.008],4
+Bonding,Social Businesses,San Antonio,0.498,0.498,0.000 ,[-0.008 to 0.009],4
+Bonding,Social Businesses,Dallas,0.468,0.468,0.000 ,[-0.008 to 0.009],4
+Bonding,Social Businesses,San Diego,0.487,0.487,0.000 ,[-0.008 to 0.009],4
+Bonding,Social Businesses,Philadelphia,0.519,0.519,0.000 ,[-0.008 to 0.008],4
+Bonding,Social Businesses,San Jose,0.444,0.444,0.000 ,[-0.010 to 0.010],4
+Bonding,Social Businesses,Columbus,0.560,0.560,0.000 ,[-0.010 to 0.009],4
+Bonding,Social Businesses,Fort Worth,0.504,0.504,0.000 ,[-0.010 to 0.010],4
+Bonding,Social Businesses,Austin,0.476,0.476,0.000 ,[-0.010 to 0.010],4
+Bonding,Social Businesses,Charlotte,0.506,0.506,0.000 ,[-0.010 to 0.010],4
+Bonding,Social Businesses,Indianapolis,0.536,0.536,0.000 ,[-0.009 to 0.011],4
+Bonding,Social Businesses,Jacksonville,0.538,0.538,0.000 ,[-0.012 to 0.011],4
+Bonding,Social Businesses,Oklahoma City,0.522,0.523,0.000 ,[-0.010 to 0.010],4
+Bonding,Social Businesses,San Francisco,0.423,0.423,0.000 ,[-0.011 to 0.011],4
+Bonding,Social Businesses,Seattle,0.487,0.487,0.000 ,[-0.011 to 0.011],4
+Bonding,Social Businesses,Portland,0.509,0.509,0.000 ,[-0.012 to 0.012],4
+Bonding,Social Businesses,Boston,0.452,0.452,0.000 ,[-0.011 to 0.011],4
+Bonding,Social Businesses,El Paso,0.486,0.486,0.000 ,[-0.013 to 0.013],4
+Bonding,Social Businesses,Denver,0.485,0.486,0.000 ,[-0.013 to 0.013],4
+Bonding,Social Businesses,Washington DC,0.505,0.506,0.000 ,[-0.012 to 0.012],4
+Bonding,Social Businesses,Nashville,0.519,0.519,0.000 ,[-0.013 to 0.011],4
+Bridging,Social Businesses,NYC,0.307,0.307,0.000 ,[-0.006 to 0.007],6
+Bridging,Social Businesses,Houston,0.454,0.455,0.000 ,[-0.011 to 0.012],6
+Bridging,Social Businesses,Los Angeles,0.324,0.324,0.000 ,[-0.010 to 0.010],6
+Bridging,Social Businesses,Chicago,0.379,0.379,0.000 ,[-0.011 to 0.012],6
+Bridging,Social Businesses,Phoenix,0.396,0.396,0.000 ,[-0.017 to 0.018],6
+Bridging,Social Businesses,San Antonio,0.385,0.384,0.000 ,[-0.019 to 0.018],6
+Bridging,Social Businesses,Dallas,0.374,0.375,0.000 ,[-0.016 to 0.015],6
+Bridging,Social Businesses,San Diego,0.415,0.416,0.000 ,[-0.018 to 0.019],6
+Bridging,Social Businesses,Philadelphia,0.451,0.451,0.000 ,[-0.018 to 0.019],6
+Bridging,Social Businesses,San Jose,0.360,0.361,0.000 ,[-0.021 to 0.022],6
+Bridging,Social Businesses,Columbus,0.590,0.590,-0.001 ,[-0.021 to 0.020],6
+Bridging,Social Businesses,Fort Worth,0.382,0.382,0.000 ,[-0.020 to 0.020],6
+Bridging,Social Businesses,Austin,0.667,0.666,-0.001 ,[-0.019 to 0.021],6
+Bridging,Social Businesses,Charlotte,0.416,0.415,0.000 ,[-0.022 to 0.022],6
+Bridging,Social Businesses,Indianapolis,0.530,0.530,0.000 ,[-0.022 to 0.024],6
+Bridging,Social Businesses,Jacksonville,0.485,0.485,0.000 ,[-0.024 to 0.024],6
+Bridging,Social Businesses,Oklahoma City,0.487,0.487,0.000 ,[-0.021 to 0.021],6
+Bridging,Social Businesses,San Francisco,0.537,0.536,0.000 ,[-0.023 to 0.024],6
+Bridging,Social Businesses,Seattle,0.599,0.600,0.000 ,[-0.024 to 0.024],6
+Bridging,Social Businesses,Portland,0.538,0.538,0.000 ,[-0.029 to 0.025],6
+Bridging,Social Businesses,Boston,0.578,0.577,-0.001 ,[-0.025 to 0.026],6
+Bridging,Social Businesses,El Paso,0.321,0.321,0.000 ,[-0.027 to 0.026],6
+Bridging,Social Businesses,Denver,0.547,0.546,-0.001 ,[-0.028 to 0.026],6
+Bridging,Social Businesses,Washington DC,0.655,0.654,-0.001 ,[-0.024 to 0.021],6
+Bridging,Social Businesses,Nashville,0.553,0.554,0.000 ,[-0.030 to 0.029],6
+Linking,Social Businesses,NYC,0.568,0.568,0.000 ,[-0.006 to 0.006],8
+Linking,Social Businesses,Houston,0.452,0.452,0.000 ,[-0.010 to 0.010],8
+Linking,Social Businesses,Los Angeles,0.521,0.521,0.000 ,[-0.009 to 0.009],8
+Linking,Social Businesses,Chicago,0.591,0.591,0.000 ,[-0.010 to 0.010],8
+Linking,Social Businesses,Phoenix,0.459,0.460,0.000 ,[-0.014 to 0.014],8
+Linking,Social Businesses,San Antonio,0.576,0.576,0.000 ,[-0.016 to 0.016],8
+Linking,Social Businesses,Dallas,0.482,0.482,0.000 ,[-0.014 to 0.015],8
+Linking,Social Businesses,San Diego,0.600,0.600,0.000 ,[-0.016 to 0.014],8
+Linking,Social Businesses,Philadelphia,0.564,0.563,0.000 ,[-0.016 to 0.015],8
+Linking,Social Businesses,San Jose,0.588,0.588,0.000 ,[-0.018 to 0.018],8
+Linking,Social Businesses,Columbus,0.541,0.542,0.000 ,[-0.017 to 0.017],8
+Linking,Social Businesses,Fort Worth,0.453,0.454,+0.001 ,[-0.018 to 0.019],8
+Linking,Social Businesses,Austin,0.534,0.534,0.000 ,[-0.020 to 0.018],8
+Linking,Social Businesses,Charlotte,0.457,0.457,0.000 ,[-0.020 to 0.019],8
+Linking,Social Businesses,Indianapolis,0.532,0.531,-0.001 ,[-0.020 to 0.020],8
+Linking,Social Businesses,Jacksonville,0.576,0.577,0.000 ,[-0.021 to 0.021],8
+Linking,Social Businesses,Oklahoma City,0.614,0.615,0.000 ,[-0.018 to 0.018],8
+Linking,Social Businesses,San Francisco,0.639,0.639,0.000 ,[-0.019 to 0.019],8
+Linking,Social Businesses,Seattle,0.649,0.649,0.000 ,[-0.019 to 0.019],8
+Linking,Social Businesses,Portland,0.543,0.543,0.000 ,[-0.023 to 0.023],8
+Linking,Social Businesses,Boston,0.512,0.512,0.000 ,[-0.021 to 0.021],8
+Linking,Social Businesses,El Paso,0.574,0.573,0.000 ,[-0.025 to 0.025],8
+Linking,Social Businesses,Denver,0.680,0.681,0.000 ,[-0.020 to 0.020],8
+Linking,Social Businesses,Washington DC,0.729,0.729,0.000 ,[-0.016 to 0.019],8
+Linking,Social Businesses,Nashville,0.597,0.597,0.000 ,[-0.023 to 0.024],8
+Overall,Parks,NYC,0.443,0.450,+0.007***,[0.004 to 0.010],2
+Overall,Parks,Houston,0.462,0.461,0.000 ,[-0.005 to 0.004],2
+Overall,Parks,Los Angeles,0.429,0.431,+0.001 ,[-0.003 to 0.005],2
+Overall,Parks,Chicago,0.490,0.493,+0.003 ,[-0.001 to 0.008],2
+Overall,Parks,Phoenix,0.448,0.450,+0.002 ,[-0.005 to 0.009],2
+Overall,Parks,San Antonio,0.486,0.486,0.000 ,[-0.007 to 0.008],2
+Overall,Parks,Dallas,0.441,0.441,0.000 ,[-0.007 to 0.007],2
+Overall,Parks,San Diego,0.500,0.499,0.000 ,[-0.008 to 0.008],2
+Overall,Parks,Philadelphia,0.509,0.511,+0.002 ,[-0.005 to 0.009],2
+Overall,Parks,San Jose,0.463,0.464,+0.001 ,[-0.008 to 0.010],2
+Overall,Parks,Columbus,0.560,0.559,0.000 ,[-0.008 to 0.008],2
+Overall,Parks,Fort Worth,0.445,0.445,+0.001 ,[-0.008 to 0.009],2
+Overall,Parks,Austin,0.561,0.561,0.000 ,[-0.009 to 0.009],2
+Overall,Parks,Charlotte,0.459,0.460,+0.001 ,[-0.008 to 0.009],2
+Overall,Parks,Indianapolis,0.532,0.533,+0.001 ,[-0.008 to 0.010],2
+Overall,Parks,Jacksonville,0.532,0.532,+0.001 ,[-0.009 to 0.010],2
+Overall,Parks,Oklahoma City,0.542,0.541,-0.001 ,[-0.010 to 0.008],2
+Overall,Parks,San Francisco,0.532,0.531,-0.001 ,[-0.010 to 0.009],2
+Overall,Parks,Seattle,0.581,0.581,0.000 ,[-0.009 to 0.010],2
+Overall,Parks,Portland,0.530,0.530,0.000 ,[-0.010 to 0.011],2
+Overall,Parks,Boston,0.517,0.518,+0.001 ,[-0.009 to 0.011],2
+Overall,Parks,El Paso,0.460,0.459,-0.001 ,[-0.012 to 0.010],2
+Overall,Parks,Denver,0.572,0.571,-0.001 ,[-0.011 to 0.010],2
+Overall,Parks,Washington DC,0.631,0.630,-0.001 ,[-0.011 to 0.008],2
+Overall,Parks,Nashville,0.554,0.554,+0.001 ,[-0.010 to 0.011],2
+Bonding,Parks,NYC,0.445,0.444,-0.002 ,[-0.005 to 0.002],4
+Bonding,Parks,Houston,0.478,0.476,-0.003 ,[-0.007 to 0.003],4
+Bonding,Parks,Los Angeles,0.441,0.438,-0.002 ,[-0.007 to 0.003],4
+Bonding,Parks,Chicago,0.512,0.512,0.000 ,[-0.005 to 0.005],4
+Bonding,Parks,Phoenix,0.490,0.488,-0.002 ,[-0.010 to 0.006],4
+Bonding,Parks,San Antonio,0.498,0.494,-0.003 ,[-0.012 to 0.005],4
+Bonding,Parks,Dallas,0.469,0.466,-0.003 ,[-0.010 to 0.005],4
+Bonding,Parks,San Diego,0.487,0.485,-0.003 ,[-0.011 to 0.006],4
+Bonding,Parks,Philadelphia,0.519,0.517,-0.002 ,[-0.010 to 0.006],4
+Bonding,Parks,San Jose,0.444,0.443,-0.002 ,[-0.012 to 0.009],4
+Bonding,Parks,Columbus,0.560,0.558,-0.002 ,[-0.011 to 0.007],4
+Bonding,Parks,Fort Worth,0.504,0.501,-0.003 ,[-0.013 to 0.008],4
+Bonding,Parks,Austin,0.476,0.474,-0.002 ,[-0.012 to 0.009],4
+Bonding,Parks,Charlotte,0.506,0.504,-0.002 ,[-0.012 to 0.007],4
+Bonding,Parks,Indianapolis,0.536,0.535,-0.001 ,[-0.011 to 0.008],4
+Bonding,Parks,Jacksonville,0.538,0.536,-0.001 ,[-0.012 to 0.009],4
+Bonding,Parks,Oklahoma City,0.523,0.520,-0.002 ,[-0.012 to 0.007],4
+Bonding,Parks,San Francisco,0.423,0.421,-0.002 ,[-0.013 to 0.008],4
+Bonding,Parks,Seattle,0.487,0.485,-0.003 ,[-0.014 to 0.009],4
+Bonding,Parks,Portland,0.509,0.507,-0.002 ,[-0.015 to 0.009],4
+Bonding,Parks,Boston,0.452,0.450,-0.002 ,[-0.013 to 0.008],4
+Bonding,Parks,El Paso,0.486,0.482,-0.004 ,[-0.016 to 0.009],4
+Bonding,Parks,Denver,0.486,0.483,-0.002 ,[-0.015 to 0.010],4
+Bonding,Parks,Washington DC,0.506,0.503,-0.002 ,[-0.013 to 0.009],4
+Bonding,Parks,Nashville,0.519,0.518,-0.001 ,[-0.013 to 0.011],4
+Bridging,Parks,NYC,0.307,0.327,+0.020***,[0.013 to 0.027],6
+Bridging,Parks,Houston,0.455,0.455,0.000 ,[-0.012 to 0.012],6
+Bridging,Parks,Los Angeles,0.324,0.343,+0.019***,[0.009 to 0.028],6
+Bridging,Parks,Chicago,0.379,0.386,+0.006 ,[-0.005 to 0.018],6
+Bridging,Parks,Phoenix,0.396,0.403,+0.007 ,[-0.009 to 0.023],6
+Bridging,Parks,San Antonio,0.385,0.388,+0.004 ,[-0.016 to 0.021],6
+Bridging,Parks,Dallas,0.374,0.375,+0.002 ,[-0.014 to 0.016],6
+Bridging,Parks,San Diego,0.415,0.419,+0.004 ,[-0.014 to 0.022],6
+Bridging,Parks,Philadelphia,0.451,0.462,+0.011 ,[-0.009 to 0.029],6
+Bridging,Parks,San Jose,0.360,0.363,+0.002 ,[-0.017 to 0.024],6
+Bridging,Parks,Columbus,0.590,0.600,+0.011 ,[-0.009 to 0.031],6
+Bridging,Parks,Fort Worth,0.382,0.383,0.000 ,[-0.020 to 0.020],6
+Bridging,Parks,Austin,0.667,0.673,+0.007 ,[-0.013 to 0.028],6
+Bridging,Parks,Charlotte,0.415,0.412,-0.003 ,[-0.026 to 0.017],6
+Bridging,Parks,Indianapolis,0.530,0.534,+0.004 ,[-0.019 to 0.026],6
+Bridging,Parks,Jacksonville,0.486,0.486,-0.001 ,[-0.024 to 0.026],6
+Bridging,Parks,Oklahoma City,0.486,0.490,+0.004 ,[-0.018 to 0.026],6
+Bridging,Parks,San Francisco,0.537,0.548,+0.011 ,[-0.014 to 0.035],6
+Bridging,Parks,Seattle,0.599,0.610,+0.011 ,[-0.017 to 0.035],6
+Bridging,Parks,Portland,0.538,0.546,+0.008 ,[-0.018 to 0.035],6
+Bridging,Parks,Boston,0.578,0.581,+0.003 ,[-0.022 to 0.026],6
+Bridging,Parks,El Paso,0.321,0.325,+0.004 ,[-0.025 to 0.030],6
+Bridging,Parks,Denver,0.548,0.551,+0.004 ,[-0.024 to 0.030],6
+Bridging,Parks,Washington DC,0.655,0.679,+0.024*,[0.001 to 0.048],6
+Bridging,Parks,Nashville,0.554,0.556,+0.003 ,[-0.023 to 0.031],6
+Linking,Parks,NYC,0.568,0.567,-0.001 ,[-0.008 to 0.005],8
+Linking,Parks,Houston,0.452,0.451,-0.001 ,[-0.011 to 0.008],8
+Linking,Parks,Los Angeles,0.521,0.520,-0.001 ,[-0.011 to 0.009],8
+Linking,Parks,Chicago,0.591,0.590,-0.001 ,[-0.011 to 0.008],8
+Linking,Parks,Phoenix,0.460,0.458,-0.001 ,[-0.017 to 0.013],8
+Linking,Parks,San Antonio,0.576,0.575,-0.001 ,[-0.016 to 0.015],8
+Linking,Parks,Dallas,0.482,0.481,-0.001 ,[-0.016 to 0.014],8
+Linking,Parks,San Diego,0.600,0.599,-0.001 ,[-0.016 to 0.013],8
+Linking,Parks,Philadelphia,0.563,0.562,-0.001 ,[-0.016 to 0.014],8
+Linking,Parks,San Jose,0.588,0.587,-0.001 ,[-0.019 to 0.017],8
+Linking,Parks,Columbus,0.541,0.540,-0.001 ,[-0.019 to 0.015],8
+Linking,Parks,Fort Worth,0.453,0.452,-0.001 ,[-0.020 to 0.018],8
+Linking,Parks,Austin,0.534,0.533,-0.001 ,[-0.019 to 0.019],8
+Linking,Parks,Charlotte,0.456,0.456,0.000 ,[-0.019 to 0.020],8
+Linking,Parks,Indianapolis,0.531,0.531,-0.001 ,[-0.020 to 0.018],8
+Linking,Parks,Jacksonville,0.576,0.576,-0.001 ,[-0.023 to 0.020],8
+Linking,Parks,Oklahoma City,0.615,0.614,-0.001 ,[-0.019 to 0.018],8
+Linking,Parks,San Francisco,0.639,0.638,-0.001 ,[-0.020 to 0.018],8
+Linking,Parks,Seattle,0.649,0.648,-0.001 ,[-0.022 to 0.020],8
+Linking,Parks,Portland,0.543,0.542,-0.002 ,[-0.024 to 0.021],8
+Linking,Parks,Boston,0.513,0.510,-0.002 ,[-0.024 to 0.021],8
+Linking,Parks,El Paso,0.574,0.573,0.000 ,[-0.023 to 0.022],8
+Linking,Parks,Denver,0.680,0.680,0.000 ,[-0.021 to 0.020],8
+Linking,Parks,Washington DC,0.728,0.727,-0.001 ,[-0.019 to 0.017],8
+Linking,Parks,Nashville,0.596,0.596,0.000 ,[-0.024 to 0.021],8

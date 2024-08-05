@@ -26,6 +26,7 @@ tab = read_rds("viz/poptally.rds") %>%
   #mutate(name_label = paste0(name_label, " (", "pop. ", pop, ")")) %>%
   select(name, name_label, label)
 
+
 # Get rates per cell
 original =  geo %>%
   tbl("data_grid") %>%

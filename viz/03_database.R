@@ -604,6 +604,8 @@ tally_it_tract = function(.name = "atlanta"){
               y = tract_site_traits) %>%
     left_join(by = c("name", "geoid"),
               y = tract_data) %>%
+    # Social infrastructure sites are measured AS:
+    # sites per 1000 residents per square kilometer
     mutate(across(.cols = community_space:park, .f = ~.x/pop_density * 1000)) %>%
     st_transform(crs = 4326)
 

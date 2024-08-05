@@ -1,0 +1,22 @@
+var,mean,sd,min,median,max,nobs,order
+social_capital,0.48,0.08,0.19,0.48,0.75,10701,Social Capital Overall
+bonding,0.48,0.08,0.15,0.48,0.92,10701,Bonding Social Capital Overall
+bridging,0.41,0.17,0.02,0.40,1.00,10701,Bridging Social Capital Overall
+linking,0.55,0.13,0.02,0.57,0.91,10701,Linking Social Capital Overall
+total,4.39,22.33,0.00,0.73,877.93,10701,Total Social Infrastructure Rate
+community_space,0.48,2.80,0.00,0.00,128.87,10701,Community Space Rate
+place_of_worship,0.89,4.97,0.00,0.00,154.64,10701,Place of Worship Rate
+social_business,1.39,8.09,0.00,0.09,365.60,10701,Social Business Rate
+park,1.62,12.81,0.00,0.15,663.11,10701,Park Rate
+pop,4 000.31,1 753.96,64.00,3 786.00,19 704.00,10701,Population
+area,3.19,19.84,0.02,1.04,1 528.91,10701,Area (sq.km.)
+pop_density,7 559.64,10 164.24,0.80,3 519.76,120 134.70,10701,Population Density
+black,0.20,0.26,0.00,0.08,1.00,10701,% Black
+white,0.53,0.26,0.00,0.58,1.00,10701,% White
+hisplat,0.29,0.27,0.00,0.19,1.00,10701,% Hispanic/Latino
+asian,0.10,0.14,0.00,0.05,0.95,10701,% Asian
+over_65,0.13,0.07,0.00,0.12,0.93,10701,% Over Age 65
+some_college,0.63,0.21,0.08,0.63,1.00,10701,% Some College
+income_0_60K,0.40,0.23,0.00,0.38,1.00,10701,% Income Under 60K
+median_household_income,74 335.78,40 048.27,2 499.00,65 579.00,250 001.00,10701,Median Household Income (USD)
+unemployment,63.94,51.33,0.00,52.06,937.50,10701,Unemployment Rate

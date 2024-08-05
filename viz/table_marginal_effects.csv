@@ -1,0 +1,21 @@
+outcome,treatment,estimate,lower,upper,p_value,stars,modelid
+Overall Social Capital,Total,0.006,0.005,0.007,0.000,***,1
+Bonding Social Capital,Total,-0.002,-0.003,0.000,0.014,*,2
+Bridging Social Capital,Total,0.018,0.014,0.021,0.000,***,3
+Linking Social Capital,Total,0.001,-0.002,0.004,0.378, ,4
+Overall Social Capital,Parks,0.002,0.001,0.003,0.002,**,5
+Overall Social Capital,Community Spaces,0.006,0.005,0.008,0.000,***,5
+Overall Social Capital,Places of Worship,0.001,0.000,0.003,0.086,.,5
+Overall Social Capital,Social Businesses,0.000,-0.001,0.001,0.986, ,5
+Bonding Social Capital,Parks,-0.002,-0.004,0.000,0.012,*,6
+Bonding Social Capital,Community Spaces,0.001,-0.001,0.002,0.270, ,6
+Bonding Social Capital,Places of Worship,0.002,0.000,0.003,0.036,*,6
+Bonding Social Capital,Social Businesses,0.000,-0.002,0.002,0.980, ,6
+Bridging Social Capital,Parks,0.009,0.006,0.012,0.000,***,7
+Bridging Social Capital,Community Spaces,0.024,0.020,0.027,0.000,***,7
+Bridging Social Capital,Places of Worship,0.003,0.000,0.007,0.040,*,7
+Bridging Social Capital,Social Businesses,0.000,-0.003,0.003,0.980, ,7
+Linking Social Capital,Parks,-0.001,-0.004,0.002,0.448, ,8
+Linking Social Capital,Community Spaces,-0.004,-0.007,-0.001,0.012,*,8
+Linking Social Capital,Places of Worship,0.000,-0.003,0.003,0.948, ,8
+Linking Social Capital,Social Businesses,0.000,-0.003,0.003,0.986, ,8
