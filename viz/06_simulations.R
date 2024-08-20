@@ -601,91 +601,91 @@ rm(list = ls()); gc()
 # Let's apply this simulation strategy to see,
 # as we increase the rate of social infrastructure overall by 1, 2, 3, 4, 5,
 # what do we expect will happen?
-library(dplyr)
-library(readr)
-library(tidyr)
-library(purrr)
-
-# First, let's make our metadata table
-read_csv("simulations/metadata.csv") %>%
-  # Let's do this for...
-  filter(groupid %in% c(1,2,3,4))
-
-# Get scenario data for every simulation group you're going to run.
-# Produces a BIG FILE
-read_csv("simulations/metadata.csv") %>%
-  # Let's do this for...
-  filter(groupid %in% c(1,2,3,4)) %>%
-  tidyr::expand_grid(x = c(0,1,2,3,4)) %>%
-  mutate(scenario = 1:n()) %>%
-  split(.$scenario) %>%
-  purrr::map_dfr(~get_many_scenarios(case = .x, x = .x$x, path_models = "models/models.rds"),
-                 .id = "groupid") %>%
-  mutate(groupid = as.numeric(groupid)) %>%
-  write_rds("simulations/scenarios_ribbon.rds", compress = "gz")
-
-
-# Get equations of scenario data and effects for each model for each simulation effects group
-get_equations(data = read_rds("simulations/scenarios_ribbon.rds"),
-              path_metadata = "simulations/metadata.csv",
-              path_rescalers = "simulations/rescalers.csv",
-              path_effects = "simulations/effects.csv") %>%
-  write_rds("simulations/equations_ribbon.rds", compress = "gz")
-
-
-sigmas = read_csv("simulations/sigma.csv") %>%
-  rename(model = modelid) %>%
-  left_join(by = "model",
-            y= read_csv("simulations/metadata.csv") %>%
-              select(model, modelid) %>% distinct()) %>%
-  select(modelid, sigma)
-
-read_rds("simulations/equations_ribbon.rds") %>%
-  # For each set, get the predicted value
-  group_by(groupid, modelid, scenario, name, geoid) %>%
-  summarize(yhat = sum(xhat * beta, na.rm = TRUE)) %>%
-  ungroup() %>%
-  # Join in the sigmas
-  left_join(by = "modelid", y = sigmas) %>%
-  write_rds("simulations/yhat_ribbon.rds", compress = "gz")
-
-
-sigmas = read_csv("simulations/sigma.csv")
-
-scenarios = read_rds("simulations/yhat_ribbon.rds") %>%
-  select(groupid) %>%
-  distinct()
-
-# For each of 20 groups, I'm going to run some simulations...
-#for(i in metadata$groupid){
-for(i in scenarios$groupid){
-
-  # For each geoid, we're going to...
-  time = system.time({
-    predictions = read_rds("simulations/yhat_ribbon.rds") %>%
-      filter(groupid == i)  %>%
-      arrange(groupid, modelid, scenario, name, geoid) %>%
-      group_by(groupid, modelid, scenario) %>%
-      reframe({
-        # Take each value in yhat and get 1000 copies of it.
-        tibble(name, geoid, yhat) %>%
-          split(.$geoid) %>%
-          map_dfr(.f = ~rnorm(n = 1000, mean = .x$yhat, sd = sigma[1]) %>%
-                    tibble(ysim = ., name = .x$name), .id = "geoid")
-      }) %>%
-      # Back-transform
-      ungroup() %>%
-      mutate(ysim = exp(ysim) / (1 + exp(ysim)) ) %>%
-      # Save to its own file
-      saveRDS(paste0("simulations/sims_ribbon_", i, ".rds"))
-  })
-  # Clear cache
-  gc();
-  print(paste0("done: ", i))
-}
-
-# Cleanup
-rm(list = ls()); gc()
+# library(dplyr)
+# library(readr)
+# library(tidyr)
+# library(purrr)
+#
+# # First, let's make our metadata table
+# read_csv("simulations/metadata.csv") %>%
+#   # Let's do this for...
+#   filter(groupid %in% c(1,2,3,4))
+#
+# # Get scenario data for every simulation group you're going to run.
+# # Produces a BIG FILE
+# read_csv("simulations/metadata.csv") %>%
+#   # Let's do this for...
+#   filter(groupid %in% c(1,2,3,4)) %>%
+#   tidyr::expand_grid(x = c(0,1,2,3,4)) %>%
+#   mutate(scenario = 1:n()) %>%
+#   split(.$scenario) %>%
+#   purrr::map_dfr(~get_many_scenarios(case = .x, x = .x$x, path_models = "models/models.rds"),
+#                  .id = "groupid") %>%
+#   mutate(groupid = as.numeric(groupid)) %>%
+#   write_rds("simulations/scenarios_ribbon.rds", compress = "gz")
+#
+#
+# # Get equations of scenario data and effects for each model for each simulation effects group
+# get_equations(data = read_rds("simulations/scenarios_ribbon.rds"),
+#               path_metadata = "simulations/metadata.csv",
+#               path_rescalers = "simulations/rescalers.csv",
+#               path_effects = "simulations/effects.csv") %>%
+#   write_rds("simulations/equations_ribbon.rds", compress = "gz")
+#
+#
+# sigmas = read_csv("simulations/sigma.csv") %>%
+#   rename(model = modelid) %>%
+#   left_join(by = "model",
+#             y= read_csv("simulations/metadata.csv") %>%
+#               select(model, modelid) %>% distinct()) %>%
+#   select(modelid, sigma)
+#
+# read_rds("simulations/equations_ribbon.rds") %>%
+#   # For each set, get the predicted value
+#   group_by(groupid, modelid, scenario, name, geoid) %>%
+#   summarize(yhat = sum(xhat * beta, na.rm = TRUE)) %>%
+#   ungroup() %>%
+#   # Join in the sigmas
+#   left_join(by = "modelid", y = sigmas) %>%
+#   write_rds("simulations/yhat_ribbon.rds", compress = "gz")
+#
+#
+# sigmas = read_csv("simulations/sigma.csv")
+#
+# scenarios = read_rds("simulations/yhat_ribbon.rds") %>%
+#   select(groupid) %>%
+#   distinct()
+#
+# # For each of 20 groups, I'm going to run some simulations...
+# #for(i in metadata$groupid){
+# for(i in scenarios$groupid){
+#
+#   # For each geoid, we're going to...
+#   time = system.time({
+#     predictions = read_rds("simulations/yhat_ribbon.rds") %>%
+#       filter(groupid == i)  %>%
+#       arrange(groupid, modelid, scenario, name, geoid) %>%
+#       group_by(groupid, modelid, scenario) %>%
+#       reframe({
+#         # Take each value in yhat and get 1000 copies of it.
+#         tibble(name, geoid, yhat) %>%
+#           split(.$geoid) %>%
+#           map_dfr(.f = ~rnorm(n = 1000, mean = .x$yhat, sd = sigma[1]) %>%
+#                     tibble(ysim = ., name = .x$name), .id = "geoid")
+#       }) %>%
+#       # Back-transform
+#       ungroup() %>%
+#       mutate(ysim = exp(ysim) / (1 + exp(ysim)) ) %>%
+#       # Save to its own file
+#       saveRDS(paste0("simulations/sims_ribbon_", i, ".rds"))
+#   })
+#   # Clear cache
+#   gc();
+#   print(paste0("done: ", i))
+# }
+#
+# # Cleanup
+# rm(list = ls()); gc()
 
 ## N #################################
 

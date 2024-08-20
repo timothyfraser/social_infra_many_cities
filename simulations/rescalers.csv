@@ -1,0 +1,93 @@
+modelid,term,scaled,var,mean,sd
+total_social_capital,scale(log(total + 1)),TRUE,total,0.8683218515877517,0.950994764924782
+total_social_capital,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+total_social_capital,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+total_social_capital,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+total_social_capital,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+total_social_capital,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+total_social_capital,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+total_social_capital,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+total_social_capital,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+total_social_capital,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+total_bonding,scale(log(total + 1)),TRUE,total,0.8683218515877517,0.950994764924782
+total_bonding,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+total_bonding,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+total_bonding,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+total_bonding,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+total_bonding,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+total_bonding,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+total_bonding,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+total_bonding,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+total_bonding,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+total_bridging,scale(log(total + 1)),TRUE,total,0.8683218515877517,0.950994764924782
+total_bridging,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+total_bridging,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+total_bridging,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+total_bridging,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+total_bridging,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+total_bridging,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+total_bridging,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+total_bridging,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+total_bridging,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+total_linking,scale(log(total + 1)),TRUE,total,0.8683218515877517,0.950994764924782
+total_linking,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+total_linking,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+total_linking,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+total_linking,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+total_linking,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+total_linking,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+total_linking,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+total_linking,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+total_linking,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+subtypes_social_capital,scale(log(community_space + 1)),TRUE,community_space,0.1980474429214157,0.43349669644563943
+subtypes_social_capital,scale(log(place_of_worship + 1)),TRUE,place_of_worship,0.29555742927252876,0.564291830854264
+subtypes_social_capital,scale(log(social_business + 1)),TRUE,social_business,0.40552841114357,0.6641295620895263
+subtypes_social_capital,scale(log(park + 1)),TRUE,park,0.4326466218651426,0.6733054340104692
+subtypes_social_capital,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+subtypes_social_capital,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+subtypes_social_capital,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+subtypes_social_capital,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+subtypes_social_capital,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+subtypes_social_capital,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+subtypes_social_capital,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+subtypes_social_capital,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+subtypes_social_capital,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+subtypes_bonding,log(community_space + 1),FALSE,community_space,0.1980474429214157,0.43349669644563943
+subtypes_bonding,log(place_of_worship + 1),FALSE,place_of_worship,0.29555742927252876,0.564291830854264
+subtypes_bonding,log(social_business + 1),FALSE,social_business,0.40552841114357,0.6641295620895263
+subtypes_bonding,log(park + 1),FALSE,park,0.4326466218651426,0.6733054340104692
+subtypes_bonding,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+subtypes_bonding,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+subtypes_bonding,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+subtypes_bonding,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+subtypes_bonding,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+subtypes_bonding,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+subtypes_bonding,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+subtypes_bonding,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+subtypes_bonding,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+subtypes_bridging,scale(log(community_space + 1)),TRUE,community_space,0.1980474429214157,0.43349669644563943
+subtypes_bridging,scale(log(place_of_worship + 1)),TRUE,place_of_worship,0.29555742927252876,0.564291830854264
+subtypes_bridging,scale(log(social_business + 1)),TRUE,social_business,0.40552841114357,0.6641295620895263
+subtypes_bridging,scale(log(park + 1)),TRUE,park,0.4326466218651426,0.6733054340104692
+subtypes_bridging,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+subtypes_bridging,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+subtypes_bridging,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+subtypes_bridging,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+subtypes_bridging,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+subtypes_bridging,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+subtypes_bridging,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+subtypes_bridging,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+subtypes_bridging,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
+subtypes_linking,scale(log(community_space + 1)),TRUE,community_space,0.1980474429214157,0.43349669644563943
+subtypes_linking,scale(log(place_of_worship + 1)),TRUE,place_of_worship,0.29555742927252876,0.564291830854264
+subtypes_linking,scale(log(social_business + 1)),TRUE,social_business,0.40552841114357,0.6641295620895263
+subtypes_linking,scale(log(park + 1)),TRUE,park,0.4326466218651426,0.6733054340104692
+subtypes_linking,scale(log(pop_density)),TRUE,pop_density,8.208882723624557,1.2872797823650455
+subtypes_linking,"scale(logit(black, 0.01))",TRUE,black,-2.021368555133859,1.7998579112716777
+subtypes_linking,"scale(logit(hisplat, 0.01))",TRUE,hisplat,-1.1880299826588174,1.5797765681885143
+subtypes_linking,"scale(logit(asian, 0.01))",TRUE,asian,-2.754976883366867,1.3320170493967
+subtypes_linking,scale(log(median_household_income)),TRUE,median_household_income,11.0804956502575,0.5288218044424648
+subtypes_linking,"scale(logit(income_0_60K, 0.01))",TRUE,income_0_60K,-0.5132525701901045,1.1903846389163624
+subtypes_linking,"scale(logit(some_college, 0.01))",TRUE,some_college,0.661197627962168,1.1146981936754345
+subtypes_linking,"scale(logit(over_65, 0.01))",TRUE,over_65,-1.9560539742844019,0.6364424001182195
+subtypes_linking,scale(log(unemployment + 1)),TRUE,unemployment,3.851675727034412,0.9316167101345086
